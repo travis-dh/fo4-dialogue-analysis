@@ -1,0 +1,1505 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: It was America's pasttime. A sport that united families on warm summer days. And it wasn't violent. Mostly.,Bah! Boring game.,Moe: ... I like my version better.,,MoeGreetSceneBaseball02
+Scene,SceneDialogue,Custom,,"Player Default: The teams would also beat the spectators to death. That's how the term ""spectator sport"" got started.",Strong like that game. Strong win.,Moe: ... I like my version better.,,MoeGreetSceneBaseball02
+Scene,SceneDialogue,Custom,,"Player Default: There were balls, strikes, three bases, and home runs. You kept score by how many runners made it to home plate.",Huh? Strong confused.,Moe: ... I like my version better.,,MoeGreetSceneBaseball02
+Scene,SceneDialogue,Custom,,"Player Default: You made a mistake, but you can still do the right thing, doctor. Just think this through.",Talk? Just smash silly human.,DocCrocker: You're...you're right. There's one thing I can do. Only one thing's going to make this all better.,,004_MS07aCrockerScene02
+Scene,SceneDialogue,Custom,,"Player Default: Oh, screw this. Say ""hi"" to Earl for me.",Strong smash!,,,004_MS07aCrockerScene02
+Scene,SceneDialogue,Custom,,"Player Default: You've killed a man, doctor. You're going to pay for it. Put the gun down, and come with me.",Or else Strong smash puny human.,"DocCrocker: I... I did it, didn't I? I killed a man. Oh god. There's so much blood. So much blood all over me!",,004_MS07aCrockerScene02
+Scene,SceneDialogue,Custom,,"Player Default: So you were performing surgery, and Earl didn't make it, is that it?",Weak humans die.,DocCrocker: I might have had just a bit of Jet before operating. So I nipped a few arteries I shouldn't have? Who hasn't?,,004_MS07aCrockerScene02
+Scene,SceneDialogue,Custom,,,Dead. Good.,Companion: Crocker got exactly what was comin' to him.,,004b_MS07aCompanionInterjects
+Scene,SceneDialogue,Custom,,,Good fight. Maybe take some for later. Strong not hungry now.,,,004b_MS07aCompanionInterjects
+Scene,SceneDialogue,Custom,,Player Default: Don't worry. I won't.,Strong like green.,"Abbot: Thinking you need a little education. Maybe a bit of community service, what do you say?",,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,Abbot: Here's your payment. Now get going. I got work to do.,Strong like green better.,,,FFDiamondCity01WallNotGreenScene
+Scene,SceneDialogue,Custom,,Abbot: Here's your payment and a little bonus for getting the right shade of green. Don't do anything with it I wouldn't do.,Yes. Green is best.,,approve of the player picking green paint,FFDiamondCity01WallGreenScene
+Scene,SceneDialogue,Custom,,,Dog is good hunter. Let dog hunt alone. Human has Strong now. Go kill Kellogg human.,,,MQ106_CompanionDogmeatScene
+Scene,SceneDialogue,Custom,,Player Default: Then let's go find your home.,Small human should be with his kind. This is good.,Billy: Thanks. I live in Quincy. Or at least I used to. But I don't know how to get there.,,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Player Default: You'll have to figure out your own life.,Humans should help humans. Not good. Strong not like.,Billy: I guess I'll just sit here until some monster comes and eats me.,,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,"Player Default: I hate to tell you this, but your parents are probably dead.",Life hard. Death comes to all. Best that little human learn now.,Billy: Dead? You really think so?,,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Jack: You fool! Why didn't you do as I asked?,Strong not fool. Strong is strong!,,,MS09ParsonsBossRoomLorenzoEscapes
+Scene,SceneDialogue,Custom,,Player Default: That's really interesting.,It's boring! Human too much talking.,Jack: I'm glad to hear you say that. It's become my life's work.,,MS09CabotHouseIntroJack
+Scene,SceneDialogue,Custom,,"Player Default: You can believe whatever wacko theories you want, as long as I get paid.",Why humans like caps to much?,"Jack: Well if that's how you feel, I'll leave you to Edward. He'll be your immediate supervisor.",,MS09CabotHouseIntroJack
+Scene,SceneDialogue,Custom,,Player Default: I'm really just here about the job.,Want job for fighting.,Jack: I'm sorry if I'm rattling on. I sometimes forget not everyone finds these things as compelling as I do.,,MS09CabotHouseIntroJack
+Scene,SceneDialogue,Custom,,Player Default: You think aliens created human civilization?,Strong not care. Smash aliens.,"Jack: Yes, if by ""alien"" you mean a non-human precursor to the commonly understood founding cultures -- Sumer, Egypt, Assyria.",,MS09CabotHouseIntroJack
+Scene,SceneDialogue,Custom,,"Player Default: I have a vial of that serum with me. Here, looks like you need it.",Human share. Good. Humans help humans.,"Emogene: How did you get that? Never mind, I'd rather not know. Thank you so very much.",,MS09Mission2EmogeneAgeKnow
+Scene,SceneDialogue,Custom,,Player Default: Thanks for your help.,Now we fight. Kill humans.,ParsonsGuardCaptain: Sure thing.,,MS09ParsonsCaptainScene1
+Scene,SceneDialogue,Custom,,Player Default: So you've just been waiting for me to show up to do something about those assholes?,Now we do something. We kill them.,"ParsonsGuardCaptain: As far as I remember, I don't answer to you. And yeah, we were waiting for you.",,MS09ParsonsCaptainScene1
+Scene,SceneDialogue,Custom,,Player Default: That's all I needed to know.,Time to fight. Time to kill.,"ParsonsGuardCaptain: Well then, I guess we're done.",,MS09ParsonsCaptainScene1
+Scene,SceneDialogue,Custom,,"Player Default: Sorry, I shouldn't have said that.",Bah! Strong never says sorry.,ParsonsGuardCaptain: Was that an apology? Now I've seen everything.,,MS09ParsonsCaptainScene1A
+Scene,SceneDialogue,Custom,,Player Default: Lucky for you I'm not afraid of a few raiders.,Bah! Puny human raiders.,"ParsonsGuardCaptain: Well, then, why don't you get out of my face and go kill them?",,MS09ParsonsCaptainScene1A
+Scene,SceneDialogue,Custom,,Player Default: That's true. Edward wouldn't have hired me if he thought you could have done the job.,Human weak.,ParsonsGuardCaptain: You're throwing a lot of attitude for the new guy. I guess we'll see soon enough if you're just blowing smoke or not.,,MS09ParsonsCaptainScene1A
+Scene,SceneDialogue,Custom,,"Player Default: Whoa, whoa. Easy there.",No talk. Smash!,FirstMate: Unable to comply.,,MS11_0080_Constitution_Scene_3
+Scene,SceneDialogue,Custom,,"Player Default: Try that and you'll be nothing but scrap metal, pal.",Yes! Smash robot!,FirstMate: Threats detected. Awaiting permission to terminate target.,,MS11_0080_Constitution_Scene_3
+Scene,SceneDialogue,Custom,,Player Default: This must be a misunderstanding. You invited me aboard.,What is invite? Just smash.,FirstMate: No records found.,,MS11_0080_Constitution_Scene_3
+Scene,SceneDialogue,Custom,,"Player Default: What, you're going to kill me?",Robot not kill human. Strong smash metal man!,FirstMate: Affirmative.,,MS11_0080_Constitution_Scene_3
+Scene,SceneDialogue,Custom,,,Who cares if robots blow up.,,,MS11_Comp_Sabotage
+Scene,SceneDialogue,Custom,,Player Default: You should just abandon the ship.,Not need ship. Just take guns.,"Ironsides: It is not in my character, sir, to retreat simply because the odds are great. I will persevere.",,MS11_0100_Meet_Ironsides
+Scene,SceneDialogue,Custom,,Player Default: That's quite a predicament.,Strong bored.,Ironsides: What vexes me most is my inability to assist in the war effort. My gun decks have naught but mole rats and ne'er-do-wells as targets.,,MS11_0100_Meet_Ironsides
+Scene,SceneDialogue,Custom,,Player Default: How did it even get up here?,Yeah. How?,"Ironsides: A harrowing tale, of that there can be no doubt. Or I should say, I assume it is.",,MS11_0100_Meet_Ironsides
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, I'm in. What's the plan?",Yes! Crush tin can man.,Mandy: That's the right call.,,MS11_0350_Meet_Mandy
+Scene,SceneDialogue,Custom,,Player Default: No deal. I'm with Ironsides.,Humans should help humans. Not robots.,"Mandy: Then screw you, asshole. You're lucky we don't gun you down.",,MS11_0350_Meet_Mandy
+Scene,SceneDialogue,Custom,,Player Default: I need to think about this.,Human think too much. More smashing.,"Mandy: Don't take too long, or we'll crack the Constitution open ourselves. And then you'll get nothing.",,MS11_0350_Meet_Mandy
+Scene,SceneDialogue,Custom,,Player Default: Still not interested.,Human must learn to fight.,PaulPembroke: I don't know why I expected you to help me.,,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: You're going to have to make it worth my while.,Then we go fight.,"PaulPembroke: Uh. Well... okay. I can only pay you 80 caps right now, but I'll scrape together more after we take care of Cooke.",,MS13PaulIntroScene
+Miscellaneous,Miscellaneous,SharedInfo,,PaulPembroke: Keep talking.,Strong interjects,"HenryCooke: Look, I'll, uh, I'll stay away from Darcy from now on. It's over. You have my word on that.",,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,Player Default: Think this through. Darcy isn't worth dying for - or killing for.,Everything worth killing for.,HenryCooke: You know what? You're right.,,MS13BConfrontCookeAlone
+Scene,SceneDialogue,Custom,,Player Default: I'm counting to three. One... two...,Three! Three!,HenryCooke: Hold up. Don't get crazy on me. We can talk this out.,,MS13BConfrontCookeAlone
+Scene,SceneDialogue,Custom,,Player Default: I told you what you need to do. The next move is up to you.,Strong hopes human fights.,HenryCooke: This is how I deal with assholes like you.,,MS13BConfrontCookeAlone
+Scene,SceneDialogue,Custom,,Player Default: Last chance - are you going to stay away from Darcy or not?,Say not. Strong wants to fight.,HenryCooke: Take it easy. We can talk this through.,,MS13BConfrontCookeAlone
+Scene,SceneDialogue,Custom,,,Weak ones die. We were strong.,,,MS13BAfterConfrontationViolence
+Scene,SceneDialogue,Custom,,"Player Default: Paul, put the gun away. Nobody needs to get shot here.",Let them fight. Best fighter lives.,PaulPembroke: Screw that.,,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,"Player Default: Better just shoot him, Paul.",Fight! Fight!,PaulPembroke: Keep talking.,,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,Player Default: Put the guns away before this gets out of hand.,They need to fight. Better fighter lives.,PaulPembroke: Too late.,,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,Player Default: Why don't you see if Cooke is going to listen?,Talking. Listening. More talking. Bah!,PaulPembroke: He never listens.,,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,Player Default: No. I'm taking all of it as the rest of my payment.,Brothers share spoils. Human should share spoils.,PaulPembroke: That was never part of the deal!,,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: 70-30 seems more like it.,"Brothers share, but leader takes first.","PaulPembroke: Yeah, whatever. Screw me over one more time. I guess I should be used to it by now.",,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,"Player Default: All right! Now, it has to be quietly, with no fuss. Maybe lead him out of town...",Sneaky killing bad. This bad reason to kill other human.,"Yefim: All right, that's enough!",,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,"Player Default: I tell you, it would be easier than you think. You just talk him into following you out of town...",Human do right thing. Sneaky killing is bad.,"Yefim: All right, that's enough!",,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,"Player Default: It would be quick, and probably mostly painless. You just first lead him out of town...",Bad idea. Human should not sneaky kill other humans.,"Yefim: All right, that's enough!",,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,"Player Default: Did we not just agree this is serious problem? Calls for serious solution. First, you get him to follow you out of town...",No sneaky killing. Humans should not kill humans that way.,"Yefim: All right, that's enough!",,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,"Travis: Well, if you think it would work...",Don't think. Fight!,,,MS14TravisBarPreFightScene
+Scene,SceneDialogue,Custom,,Travis: I'm not a coward!,Not coward? Then fight.,,,MS14TravisBarPreFightScene
+Scene,SceneDialogue,Custom,,Player Default: Nothing will change unless you make it happen.,Then human fights.,,,MS14TravisBarPreFightScene
+Scene,SceneDialogue,Custom,,Player Default: Don't you want this to stop?,Bah! This human weak.,,,MS14TravisBarPreFightScene
+Scene,SceneDialogue,Custom,,"Player Default: But if I hadn't gotten into that fight with them, maybe this wouldn't have happened.",Fighting never wrong.,"Travis: Look... I don't really... I mean, I don't have a lot of friends.",,MS14TravisStage65Scene
+Scene,SceneDialogue,Custom,,"Player Default: Oh, man. I can't believe this.",Strong confused. How is human's fault?,"Travis: Look... I don't really... I mean, I don't have a lot of friends.",,MS14TravisStage65Scene
+Scene,SceneDialogue,Custom,,Player Default: You're right. We've got to get him back.,Yes! We fight now.,"Travis: Look... I don't really... I mean, I don't have a lot of friends.",,MS14TravisStage65Scene
+Scene,SceneDialogue,Custom,,Player Default: I guess... Maybe it doesn't matter. But getting him back does.,Fight? Not fight? Which one?,"Travis: Look... I don't really... I mean, I don't have a lot of friends.",,MS14TravisStage65Scene
+Scene,SceneDialogue,Custom,,"Player Default: Okay, okay. Good. I mean, I can do this. Totally.",Time to fight.,"Travis: Any, uhh... Any last-minute advice? I've never done anything like this.",,MS14TravisStage70Scene
+Scene,SceneDialogue,Custom,,"Player Default: Oh. Okay... Not, uhh, not exactly the pep-talk I was looking for...",Ha! Strong kill many before dying.,"Travis: Any, uhh... Any last-minute advice? I've never done anything like this.",,MS14TravisStage70Scene
+Scene,SceneDialogue,Custom,,"Player Default: Okay, right. Sure. Yeah.",Humans think too much. Strong smashes.,"Travis: Any, uhh... Any last-minute advice? I've never done anything like this.",,MS14TravisStage70Scene
+Scene,SceneDialogue,Custom,,"Player Default: Not really. I mean, I think it's... It's where their little gang hides out. There shouldn't be too many of them.",Strong kill them all.,"Travis: Any, uhh... Any last-minute advice? I've never done anything like this.",,MS14TravisStage70Scene
+Scene,SceneDialogue,Custom,,Player Default: Thanks.,"Human weak fighter, but brave.","Travis: After all this, I think about the things that had me worried so much, and it just seems... silly, you know?",,MS14TravisStage90Scene
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, yeah. I know.",Attitude not important. Winning fight important.,"Travis: After all this, I think about the things that had me worried so much, and it just seems... silly, you know?",,MS14TravisStage90Scene
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, I'm sure. Not me, though.",,"Travis: After all this, I think about the things that had me worried so much, and it just seems... silly, you know?",Just a grunt of acceptance,MS14TravisStage90Scene
+Scene,SceneDialogue,Custom,,"Player Default: Well, that's what I've been thinking about.",Humans think too much.,"Travis: After all this, I think about the things that had me worried so much, and it just seems... silly, you know?",,MS14TravisStage90Scene
+Scene,SceneDialogue,Custom,,Player Default: Haven't met a man I couldn't lay out.,A fight! Strong likes fights.,"Vadim: I have... contacts. People I can count on. Real tough looking, but they will take dive for money.",,MS14VadimStage10Scene
+Scene,SceneDialogue,Custom,,Player Default: I'm not some thug. I don't get involved in stuff like that.,No fight? Human coward. Human weak.,"Vadim: I have... contacts. People I can count on. Real tough looking, but they will take dive for money.",,MS14VadimStage10Scene
+Scene,SceneDialogue,Custom,,"Player Default: I can hold my own, if that's what you mean.",Hold own? Hold own what? Strong confused.,"Vadim: I have... contacts. People I can count on. Real tough looking, but they will take dive for money.",,MS14VadimStage10Scene
+Scene,SceneDialogue,Custom,,Player Default: What does that have to do with anything?,Always talking. Always boring.,"Vadim: I have... contacts. People I can count on. Real tough looking, but they will take dive for money.",,MS14VadimStage10Scene
+Scene,SceneDialogue,Custom,,,Kill the weak!,,,MS17_Comp_KilledChambers
+Scene,SceneDialogue,Custom,,Player Default: Don't kill the girl. Spare her.,Take other human. Take because we are strong.,DoctorChambers: Impossible. The odds are too great she's an Institute infiltrator.,,MS17_400_Chambers
+Scene,SceneDialogue,Custom,,Player Default: Give me the caps and I'll drop the whole thing.,Caps again? Strong hate caps.,JacobOrden: Here you go. Come back anytime.,,MS17_300_JacobWarning
+Scene,SceneDialogue,Custom,,Player Default: How can you justify killing a caravan?,Strong kill weak. That is good.,JacobOrden: It isn't as simple as all that. Hasn't our community been good to you? And others passing through?,,MS17_300_JacobWarning
+Scene,SceneDialogue,Custom,,Player Default: No deal.,Leave now before Strong beats you.,"HonestDan: We'll see who finds those caravan hands first, then.",,MS17_300_Dan_Follows
+Scene,SceneDialogue,Custom,,,Why human talk funny?,,,MS04_Comp_ActingLikeShroud
+Scene,SceneDialogue,Custom,,,Human fight good. Good kill.,,,MS04_Comp_PCisAssassin
+Scene,SceneDialogue,Custom,,,That human weak. Best to kill the weak.,,,MS04_Comp_PCKilledHostage
+Scene,SceneDialogue,Custom,,Player Default: Looks like it's my lucky day. Because I'm getting both of you.,"Fight, no surrender! Kill them all!",,,MS04_1300_SinjinConfrontation
+Scene,SceneDialogue,Custom,,Player Default: Stop talking like that.,Good. Strong ready to fight.,SinjinRightHand: It is the Shroud. It really is. Screw this.,,MS04_1300_SinjinConfrontation
+Topic,PlayerDialogue,Custom,,,Strong must look for milk of human kindness alone now.,,,
+Topic,PlayerDialogue,Custom,,,Strong go find other things to smash.,,,
+Topic,PlayerDialogue,Custom,,,"Human, don't forget deal. Come get Strong. We find milk of human kindness.",,First sentence is a warning.,
+Topic,PlayerDialogue,Custom,,,Yes! Strong stay close where Strong can smash.,,,
+Topic,PlayerDialogue,Custom,,,Puny human can hide behind Strong.,,,
+Topic,PlayerDialogue,Custom,,,Give Strong room to swing. Strong not want to hurt puny human.,,,
+Topic,PlayerDialogue,Custom,,,"Strong should be close, where Strong can smash.",,,
+Topic,PlayerDialogue,Custom,,,Okay. Strong have more room to swing back there.,,,
+Topic,PlayerDialogue,Custom,,,Strong have room to charge from back there.,,,
+Topic,PlayerDialogue,Custom,,,Strong should be close where he can fight! But Strong will obey.,,,
+Topic,PlayerDialogue,Custom,,,So far away. Strong will miss fighting.,,,
+Topic,PlayerDialogue,Custom,,,"Strong not like being so far away, but Strong will do it.",,,
+Topic,PlayerDialogue,Custom,,,Strong smash!,,gleeful blood lust,
+Topic,PlayerDialogue,Custom,,,Kill everything!,,Blood lust,
+Topic,PlayerDialogue,Custom,,,We will fight! We will destroy!,,Blood lust,
+Topic,PlayerDialogue,Custom,,,Not smash? Human make Strong look weak.,,,
+Topic,PlayerDialogue,Custom,,,Defense? Stupid human idea.,,,
+Topic,PlayerDialogue,Custom,,,"Strong not like this ""defense"" way.",,"As if ""defense"" is an alien or inferior concept",
+Topic,PlayerDialogue,Custom,,,Strong see something to fight.,,,
+Topic,PlayerDialogue,Custom,,,Enemy is weak. Strong will smash.,,,
+Topic,PlayerDialogue,Custom,,,You cannot beat me. I am Strong!,,,
+Topic,PlayerDialogue,Custom,,,No more stupid defense!,,End with a guttural war cry.,
+Topic,PlayerDialogue,Custom,,,No more waiting. Strong smash!,,,
+Topic,PlayerDialogue,Custom,,,Now Strong smash!,,,
+Scene,SceneDialogue,Custom,,,Steel brotherhood! Strong hates brotherhood.,,,BoS201_00_PrydwenArrives
+Scene,SceneDialogue,Custom,,Player Default: I loved the song. It was perfect.,Strong prefer sound of battle.,"Magnolia: Oh, thank you! A girl tries her best. *chuckle*",Irritated,MagnoliaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'm not a big fan of jazz.,Yes. Sound of battle much better.,Magnolia: Shame... but that's all I ever sing here. Goodneighbor inspires a certain kind of music.,agreeing with the player that you don't like the music,MagnoliaGreetScene
+Scene,SceneDialogue,Custom,,"PrestonGarvey: Let's do this, General.",Strong smash big crabs.,,,Min02PrestonCourtyard
+Scene,SceneDialogue,Custom,,Player Default: Let's not over-complicate this. Just get in there and hit them with everything we've got.,Yes! Stop talking. Start fighting!,PrestonGarvey: If you say so.,,Min02PrestonCastlePrebattle2
+Scene,SceneDialogue,Custom,,Player Default: I'm not ready to make a call yet.,Bah! Human bad leader.,"PrestonGarvey: Sure, take another look around. If you get into trouble we've got your back, but it's better if we go in with a plan.",,Min02PrestonCastlePrebattle2
+Scene,SceneDialogue,Custom,,Player Default: Let's hit them from both sides.,Strong hit front side.,PrestonGarvey: We'll split up and you can join which ever side you think needs the extra support.,,Min02PrestonCastlePrebattle2
+Scene,SceneDialogue,Custom,,Player Default: Set up a firing line and I'll draw them out.,Bah! Cowards.,PrestonGarvey: Sounds good. We'll hold back and wait for them to come to us. Just don't get yourself trapped in there.,,Min02PrestonCastlePrebattle2
+Scene,SceneDialogue,Custom,,Player Default: That's pretty ingenious. I bet you can work around the clock.,In genes? Clok? Strong confused.,"SupervisorWhite: Of course, darling. Our unique hierarchy allows for constant operation.",,DialogueGraygardenIntro
+Scene,SceneDialogue,Custom,,"Player Default: Robots can do simple tasks, sure, but you need a human being to make the big decisions.",Robots? Strong not like metal men. Can't eat them.,"SupervisorWhite: Ah, but that's where Graygarden is unique, darling.",,DialogueGraygardenIntro
+Scene,SceneDialogue,Custom,,"Player Default: This place seems familiar. I think I saw a bit about it on the news, back before the war.",Strong bored. Let's go fight something.,"SupervisorWhite: Yes, construction was completed mere days before the war.",,DialogueGraygardenIntro
+Scene,SceneDialogue,Custom,,Player Default: There's not even one person here?,Can't eat metal men. Just smash them.,"SupervisorWhite: That's right, darling. We are entirely self-sufficient, with no need for human guidance.",,DialogueGraygardenIntro
+Scene,SceneDialogue,Custom,,"SupervisorWhite: Perhaps you've noticed that I possess a rather singular personality, as do the other supervisors.",Robot talk almost as much as human. Just smash it.,"Player Default: Well, it's definitely unique. Sort of hard to miss.",,DialogueGraygardenIntro
+Scene,SceneDialogue,Custom,,"SupervisorWhite: Perhaps you've noticed that I possess a rather singular personality, as do the other supervisors.",Robot talk almost as much as humans. Shut up metal man!,"Player Default: Well, it's definitely unique. Sort of hard to miss.",,DialogueGraygardenIntro
+Scene,SceneDialogue,Custom,,"Player Default: It's pretty clever, making a tarberry bog out of an old swimming pool.",Bah! Plants.,Wiseman: I appreciate your saying so.,Disgust,DialogueTheSlogSceneIntro
+Scene,SceneDialogue,Custom,,"Player Default: The first word that comes to my mind is ""ugly.""",Humans say Strong ugly. Strong not look like tarberrys.,"Wiseman: Hey, do I look like a guy who puts a premium on beauty?",,DialogueTheSlogSceneIntro
+Scene,SceneDialogue,Custom,,"Player Default: Looks fine, I guess. I wouldn't really know.",Hard to fight in water.,"Wiseman: Yeah, I didn't think you had the look of a farmer about you. More the city type, I'd say, what with that smooth, clean skin.",,DialogueTheSlogSceneIntro
+Scene,SceneDialogue,Custom,,Player Default: No wonder your crops are doing so well.,Bah! Eat brahmin. Eat humans. Not tay toes or trees.,"Roger: Yeah, they really are.",,DialogueWarwickHomesteadIntro
+Scene,SceneDialogue,Custom,,"Player Default: I don't care how fertile the soil is, this place reeks.",Smell not so bad. Smells like brother super mutants in hot sun.,"Roger: Yeah, but you get used to it.",,DialogueWarwickHomesteadIntro
+Scene,SceneDialogue,Custom,,"Player Default: Take the good with the bad, I guess.",Good and bad? Strong confused.,"Roger: That's how it is everywhere, friend.",,DialogueWarwickHomesteadIntro
+Scene,SceneDialogue,Custom,,Player Default: What do you grow here?,Strong bored.,Roger: We've got mutfruit and tatos for the time being.,,DialogueWarwickHomesteadIntro
+Scene,SceneDialogue,Custom,,Player Default: I don't have time for this.,Humans should help humans. Bad leader.,Glory: Isn't there... supposed to be a light?,,RR303_0300b_GloryDeath
+Scene,SceneDialogue,Custom,,Player Default: I promise.,Humans help other humans. Good.,Glory: If anyone... *cough*,,RR303_0300b_GloryDeath
+Scene,SceneDialogue,Custom,,Player Default: How bad is it?,Let human die. Die like warrior.,Glory: No escape... this time. *cough*,,RR303_0300b_GloryDeath
+Miscellaneous,Miscellaneous,SceneChoice,,,Yes! Enough talking. More fighting.,,,
+Miscellaneous,Miscellaneous,SceneChoice,,,Bah! Coward. Too weak to fight.,,,
+Miscellaneous,Miscellaneous,SceneChoice,,,Caps. Always caps. Human's weakness.,,,
+Scene,SceneDialogue,Custom,,"Player Default: You're right, I suppose.",Strong can fight.,Enrico: I know they've been keeping an eye on him for years. Not sure how they originally found him; probably don't want to know.,,MinVsInstStage50EnricoScene
+Scene,SceneDialogue,Custom,,"Player Default: Look, I had the same intelligence reports as everyone else. No one saw this coming.",Stupid human.,Enrico: I know they've been keeping an eye on him for years. Not sure how they originally found him; probably don't want to know.,,MinVsInstStage50EnricoScene
+Scene,SceneDialogue,Custom,,"Player Default: If things were different, we might not be here. Not now, at least. But with the situation in the Commonwealth being what it is...",Just kill human. Fix problem.,Enrico: I know they've been keeping an eye on him for years. Not sure how they originally found him; probably don't want to know.,,MinVsInstStage50EnricoScene
+Scene,SceneDialogue,Custom,,"Player Default: They thought I'd be able to relate to him, with my scientific background.",Humans. Always talking.,Enrico: I know they've been keeping an eye on him for years. Not sure how they originally found him; probably don't want to know.,,MinVsInstStage50EnricoScene
+Scene,SceneDialogue,Custom,,Player Default: The Institute wants the same things you do. We can find a way to work together.,"Talk, talk, talk.","MinutemenContact: I don't know about that, but... Look, if nothin' else, you'd best get in there and make sure that man's okay.",,MinVsInstMinutemenStage30CitizenQuestion
+Scene,SceneDialogue,Custom,,"Player Default: I know for a fact they won't hurt that man, and if you get in the way, I'm going to have to take you down.",A fight! Yes!,"MinutemenContact: Woah, look... I'm not trying to get everyone here killed, okay?",,MinVsInstMinutemenStage30CitizenQuestion
+Scene,SceneDialogue,Custom,,"Player Default: You don't have all the information. I do, and I'm telling you this isn't what it looks like. That man's not in danger.",Human is ours. We take him.,"MinutemenContact: You'd better be right. If you're not, that man's life is on your head.",,MinVsInstMinutemenStage30CitizenQuestion
+Scene,SceneDialogue,Custom,,Player Default: You sure you're willing to risk being wrong about this?,Strong bored.,"MinutemenContact: Look, I... I just want people to be safe, y'know? I don't want anyone else dying, or getting' kidnapped or whatever.",,MinVsInstMinutemenStage30CitizenQuestion
+Scene,SceneDialogue,Custom,,"Player Default: I'll continue to help, but you owe me an explanation first.",Helping brotherhood is bad.,BoS100Danse: Very well.,,BoS100_02_SceneMain
+Scene,SceneDialogue,Custom,,"Player Default: At this rate, you'll be dead within two days. And I want no part of it.",Human is right.,BoS100Danse: Then there's no need for you to remain here.,,BoS100_02_SceneMain
+Scene,SceneDialogue,Custom,,Player Default: That all depends. How much are you paying?,"Caps, no caps. Don't help brotherhood.","BoS100Danse: So you're a mercenary. Typical. Fine. You help us, and I'll see you're compensated for your services.",,BoS100_02_SceneMain
+Scene,SceneDialogue,Custom,,Preston: We need someone who can bring the whole Commonwealth together in a common cause. And I think you've got it in you to be that leader.,Human good leader.,Player Default: Okay. I'll do it.,,Min01PrestonOutroFinal
+Scene,SceneDialogue,Custom,,Player Default: Okay. I'll do it.,Good.,"Preston: Good. Good! Welcome aboard. I feel like this is a whole new start for the Minutemen, and the Commonwealth, too.",,Min01PrestonOutroFinal
+Scene,SceneDialogue,Custom,,Player Default: No. I'm not your savior. I have my own problems to deal with.,Bah! Human is coward.,Preston: I get it. You can't take care of other people's problems when you're still overwhelmed by your own.,,Min01PrestonOutroFinal
+Scene,SceneDialogue,Custom,,Player Default: No one likes delays.,Strong confused.,OldManStockton: It's bad for business.,,RRM01_0300_MeetingStockton
+Scene,SceneDialogue,Custom,,"Player Default: You're talking about synths, right?",Synths? Fake men?,"OldManStockton: Yes, I am talking about synths.",,RRM01_0300_MeetingStockton
+Scene,SceneDialogue,Custom,,Player Default: Why do all packages start here?,Huh?,"OldManStockton: If you don't know the answer to that already, I'm not certain I should tell you.",,RRM01_0300_MeetingStockton
+Scene,SceneDialogue,Custom,,"Player Default: So, is there anyone you like?",Strong not like you.,"DrCarrington: Oh, I wasn't aware we were competing for Congeniality awards. I thought we were rescuing synths. My mistake.",,RRM01_0100_Start
+Scene,SceneDialogue,Custom,,Player Default: What's a dead drop?,Dead things always drop.,"DrCarrington: Oh, dear lord. A dead drop is a mailbox with a railsign on it.",,RRM01_0100_Start
+Scene,SceneDialogue,Custom,,"Player Default: There's nothing worse than losing a child. Believe me, I know.",Super mutants not have small ones.,Blake: I'm sorry to hear you say so.,,DialogueAbernathyFarmBlakeScene
+Scene,SceneDialogue,Custom,,"Player Default: If your daughter was that stupid, she got what she deserved.",Small human was weak. The weak die.,"Blake: You're a real son of a bitch, aren't you?",,DialogueAbernathyFarmBlakeScene
+Scene,SceneDialogue,Custom,,"Player Default: From what I've seen, nobody out here's got it easy.",Only strong ones live.,"Blake: Yeah, well, that don't help us sleep any easier.",,DialogueAbernathyFarmBlakeScene
+Combat,Combat,PairedAttack,,,Agggh! Get... off!,,,
+Combat,Combat,PairedAttack,,,What? Agghh! get it... off!,,,
+Combat,Combat,PairedAttack,,,No! Stupid... dog!,,,
+Combat,Combat,ThrowGrenade,,,Catch!,,,
+Combat,Combat,ThrowGrenade,,,Hot potaaaatttooo! Ha ha ha ha ha!,,,
+Combat,Combat,ThrowGrenade,,,Throwing grenade!,,,
+Combat,Combat,Taunt,,,Cannot beat Strong!,,,
+Combat,Combat,Taunt,,,I am Strong!,,,
+Combat,Combat,Taunt,,,Just... stand... still!,,,
+Combat,Combat,Taunt,,,We are the future!,,,
+Combat,Combat,Taunt,,,Kill... you! Eat... you!,,,
+Combat,Combat,Taunt,,,Kill... you!,,,
+Combat,Combat,Taunt,,,I am a Super Mutant! I am unstoppable!,,,
+Combat,Combat,Taunt,,,You'll never leave here alive!,,,
+Combat,Combat,Taunt,,,Only one of us survives this. And it won't be you!,,,
+Combat,Combat,Taunt,,,"I'm gonna feast on your flesh, human!",,,
+Combat,Combat,Taunt,,,You humans! So stupid! So weak!,,,
+Combat,Combat,Taunt,,,Human time is done! This is the age of the Super Mutant!,,,
+Combat,Combat,Taunt,,,You humans made us! Now suffer for your arrogance!,,,
+Combat,Combat,Taunt,,,"You see me, human? This is your death!",,,
+Combat,Combat,Taunt,,,Ha ha ha ha ha ha ha ha ha!,,,
+Combat,Combat,Taunt,,,Ba ha ha ha ha ha ha ha ha!,,,
+Combat,Combat,Taunt,,,Hurry up and die! I'm hungry! Ha ha ha ha ha!,,,
+Combat,Combat,Taunt,,,Gonna eat... your... dog!,,,
+Combat,Combat,Taunt,,,"Come here, doggie doggie!",,,
+Combat,Combat,Taunt,,,Gonna feast.. on... dog meat!,,,
+Combat,Combat,Taunt,,,Now you went and got me mad!,,,
+Combat,Combat,Taunt,,,Kill them! Kill them all!,,,
+Combat,Combat,Taunt,,,Gonna kill you so much!,,,
+Combat,Combat,Taunt,,,We are unstoppable!,,,
+Combat,Combat,Taunt,,,Now... I'm... angry!,,,
+Combat,Combat,Taunt,,,Bleed! Bleed and die!,,,
+Combat,Combat,Taunt,,,"Bleed, bleed, bleed! Ha ha ha ha ha!",,,
+Combat,Combat,Taunt,,,Strong want to hear you die!,,,
+Combat,Combat,Taunt,,,Strong will smash your brains out!,,,
+Combat,Combat,Taunt,,,Get them human! Smash them. Crush them. Kill them!,,,
+Combat,Combat,Taunt,,,Strong will break you in half!,,,
+Combat,Combat,Taunt,,,"Strong gonna kill you, then Strong gonna eat you!",,,
+Combat,Combat,Taunt,,,You are weak! I am Stroooonng!,,,
+Combat,Combat,Taunt,,,"You had your time, human!",,,
+Combat,Combat,Taunt,,,"Ha ha! Good fight, human! Fun!",,,
+Combat,Combat,Taunt,,,"Good fight, human! You'll die well!",,,
+Combat,Combat,Taunt,,,The Commonwealth is ours!,,,
+Combat,Combat,Taunt,,,Suffer!,,,
+Combat,Combat,Taunt,,,Suffer! Suffer and bleed!,,,
+Combat,Combat,Taunt,,,Rage! Rage!,,,
+Combat,Combat,Taunt,,,"You like my game, human? Having fun?",,,
+Combat,Combat,Taunt,,,"This is no game, human! We win. You die.",,,
+Combat,Combat,Taunt,,,"I'm going to eat your legs when you're dead, human!",,,
+Combat,Combat,Taunt,,,"You die now, human! Ha ha ha ha ha!",,,
+Combat,Combat,Taunt,,,"You die now, human!",,,
+Combat,Combat,Taunt,,,Why... you... stupid.. humans... always... fight?!,,,
+Combat,Combat,Taunt,,,Oh ho ho! Little baby scared?,,,
+Combat,Combat,Taunt,,,Scream! Scream for your worthless life!,,,
+Combat,Combat,Taunt,,,Do it! Scream! Scream for mercy!,,,
+Combat,Combat,Taunt,,,Stupid little man!,,,
+Combat,Combat,Taunt,,,"Stop moving, stupid man!",,,
+Combat,Combat,Taunt,,,Agh! You move too much!,,,
+Combat,Combat,Taunt,,,Stupid lady!,,,
+Combat,Combat,Taunt,,,Bucketheads die!,,,
+Combat,Combat,Taunt,,,"Die, blue man!",,,
+Combat,Combat,Taunt,,,"Die, stupid blue lady!",,,
+Combat,Combat,Taunt,,,"Die, metalman!",,,
+Combat,Combat,AllyKilled,,,You can't kill us all!,,,
+Combat,Combat,AllyKilled,,,He is fallen!,,,
+Combat,Combat,AllyKilled,,,Brother!,,,
+Combat,Combat,AllyKilled,,,Nooooo!,,,
+Combat,Combat,AllyKilled,,,Dead! No!,,,
+Combat,Combat,AllyKilled,,,Brother! No!,,,
+Combat,Combat,AllyKilled,,,You... killed... my... BROTHER!,,,
+Combat,Combat,Flee,,,Retreat!,,,
+Combat,Combat,Flee,,,Run! Run away!,,,
+Combat,Combat,CrippledLimb,,,Arm hurt!,,,
+Combat,Combat,CrippledLimb,,,Aggh... arm!,,,
+Combat,Combat,CrippledLimb,,,My... arm!,,,
+Combat,Combat,CrippledLimb,,,Aggh...Strong arm hurt bad.,,,
+Combat,Combat,CrippledLimb,,,Head hurt!,,,
+Combat,Combat,CrippledLimb,,,Aggh... head!,,,
+Combat,Combat,CrippledLimb,,,My... head!,,,
+Combat,Combat,CrippledLimb,,,Head hurt...Strong not see good!,,,
+Combat,Combat,CrippledLimb,,,Chest hurt!,,,
+Combat,Combat,CrippledLimb,,,Aggh... chest!,,,
+Combat,Combat,CrippledLimb,,,My... chest!,,,
+Combat,Combat,CrippledLimb,,,Strong chest hurt...hurt to breath.,,,
+Combat,Combat,CrippledLimb,,,Leg hit!,,,
+Combat,Combat,CrippledLimb,,,Aggh... leg!,,,
+Combat,Combat,CrippledLimb,,,My... leg!,,,
+Combat,Combat,CrippledLimb,,,"Aggh, hit Strong's leg...hurt to walk.",,,
+Combat,Combat,Hit,,,Ugh!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,Oof!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,Argh!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,Ahh!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,Ugh!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,No!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,Paaaaiiinn!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,You pay for that!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,Aggh! Wounded!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,Ha ha ha! You hit like a Radroach!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,Ug!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,Stop hurting Strong.,,,
+Combat,Combat,Hit,,,Strong not feel pain!,,,
+Combat,Combat,Hit,,,Aggh. Strong smash you for that!,,,
+Combat,Combat,Hit,,,Haha! You think that hurt Strong?,,,
+Combat,Combat,Hit,,,Oof!,,getting hit/wounded in combat,
+Combat,Combat,Hit,,,Yah!,,getting hit/wounded in combat,
+Combat,Combat,PowerAttack,,,Strong smash!,,,
+Combat,Combat,PowerAttack,,,Break you!,,make noises like an attack with HUGE physical exertion,
+Combat,Combat,PowerAttack,,,Rrrraaaggh!,,make noises like an attack with HUGE physical exertion,
+Combat,Combat,PowerAttack,,,Huuurrrggghhh!,,make noises like an attack with HUGE physical exertion,
+Combat,Combat,PowerAttack,,,Here it comes!,,make noises like an attack with HUGE physical exertion,
+Combat,Combat,PowerAttack,,,"Smashie, smashie!",,make noises like an attack with HUGE physical exertion,
+Combat,Combat,PowerAttack,,,Yaaaagh!,,make noises like an attack with HUGE physical exertion,
+Combat,Combat,PowerAttack,,,Strong crush you!,,,
+Combat,Combat,PowerAttack,,,Aaah! Strong kill!,,,
+Combat,Combat,Attack,,,Strong crush!,,,
+Combat,Combat,Attack,,,Strong smash! Die! Die! Die!,,,
+Combat,Combat,Attack,,,Strong make you dead!,,,
+Combat,Combat,Attack,,,Strong break you!,,,
+Combat,Combat,Attack,,,Grrrr!,,,
+Combat,Combat,Attack,,,Grrarrr!,,,
+Combat,Combat,Attack,,,Yeeaagghh!,,,
+Combat,Combat,Attack,,,Aggghhh!,,,
+Combat,Combat,Attack,,,Raaarrrr!,,,
+Combat,Combat,Attack,,,Yeeeaaahhh!,,,
+Combat,Combat,Attack,,,Yeeeaaahhh ha ha!,,,
+Combat,Combat,Attack,,,Yaaaiii!!,,,
+Combat,Combat,Attack,,,Raarr!,,,
+Combat,Combat,Attack,,,This is what death looks like up close!,,,
+Combat,Combat,Attack,,,"Let's get close, human!",,,
+Combat,Combat,Attack,,,Look! Look at your death!,,,
+Combat,Combat,Attack,,,Look me in the eye as you die!,,,
+Combat,Combat,Attack,,,Yaaghh!,,,
+Combat,Combat,Attack,,,Aaaaiiiieeee!,,angry screaming,
+Combat,Combat,Attack,,,Roooaaarr!,,angry screaming,
+Combat,Combat,Attack,,,Raaarrggh!,,angry screaming,
+Combat,Combat,Attack,,,Huunnhh!,,grunting,
+Combat,Combat,Attack,,,Die!,,,
+Combat,Combat,Attack,,,Tear! Rend! Crush!,,,
+Combat,Combat,Attack,,,Bathe in your blood!,,,
+Combat,Combat,AvoidThreat,,,Cover!,,"strech it out. Like ""cccooovveeerr!""",
+Combat,Combat,AvoidThreat,,,Gonna blow!,,,
+Combat,Combat,AvoidThreat,,,Look out!,,,
+Combat,Combat,AvoidThreat,,,Run away!,,,
+Combat,Combat,AvoidThreat,,,Get away! Get away!,,,
+Combat,Combat,AvoidThreat,,,Away from there! Now!,,,
+Combat,Combat,AvoidThreat,,,Gonna kaboom!,,,
+Combat,Combat,AvoidThreat,,,Duck human. Quick!,,,
+Combat,Combat,AvoidThreat,,,"Human, move now!",,,
+Combat,Combat,AvoidThreat,,,Watch out human!,,,
+Combat,Combat,Death,,,Huuuhhhh!,,,
+Combat,Combat,Death,,,Aaaaiiiieeee!,,dying scream,
+Combat,Combat,Death,,,Yeeeaaaaarrrll!,,dying scream,
+Combat,Combat,Death,,,Huuhhnn...,,dying gasp,
+Combat,Combat,Death,,,Huuuhhhhh!,,dying gasp,
+Combat,Combat,Death,,,Ugghhh...,,dying gasp,
+Combat,Combat,Death,,,Aggghh...,,dying gasp,
+Combat,Combat,Death,,,Uggghh...,,dying gasp,
+Combat,Combat,Death,,,Yeeaah!,,dying gasp,
+Combat,Combat,Death,,,Aggh...Human...Stronger,,,
+Detection,Detection,NormalToLost,,,Out there... somewhere!,,,
+Detection,Detection,NormalToLost,,,You can't hide forever!,,,
+Detection,Detection,AlertIdle,,,Hmm... What was that?,,,
+Detection,Detection,AlertIdle,,,I can hear you...,,,
+Detection,Detection,AlertIdle,,,Something there?,,,
+Detection,Detection,AlertIdle,,,What? I hear somethin'.,,,
+Detection,Detection,AlertIdle,,,Huh? A noise?,,,
+Detection,Detection,AlertIdle,,,Hello? Someone there?,,,
+Detection,Detection,AlertToCombat,,,Ha ha! There you are!,,,
+Detection,Detection,AlertToCombat,,,Found you!,,,
+Detection,Detection,AlertToCombat,,,Now try and hide from this!,,,
+Detection,Detection,AlertToCombat,,,Game's over!,,,
+Detection,Detection,AlertToCombat,,,No more games... time to die!,,,
+Detection,Detection,AlertToCombat,,,"I smelled your fear, human!",,,
+Detection,Detection,AlertToCombat,,,Boo! Ha ha ha ha ha!,,,
+Detection,Detection,AlertToCombat,,,Come here! Strong will eat you whole!,,,
+Detection,Detection,AlertToCombat,,,Found you! Not hide from Strong!,,,
+Detection,Detection,AlertToCombat,,,Ready human? Time to smash!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Ha ha ha ha! Let's play, little human!",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Let's play, little human!",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Human! Let's play!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Time to die!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,I'll wear your guts around my neck!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Gonna splatter your brains!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Gonna be a good fight!,,,
+Detection,Detection,AlertToNormal,,,Aggh... It was nothin'.,,,
+Detection,Detection,AlertToNormal,,,Bah... I'm hearin' stuff.,,,
+Detection,Detection,AlertToNormal,,,Stupid noises.,,,
+Detection,Detection,AlertToNormal,,,Hmph. No fight today.,,,
+Detection,Detection,AlertToNormal,,,Must have been nothin'.,,,
+Detection,Detection,AlertToNormal,,,Ears play tricks on me again.,,,
+Detection,Detection,AlertToNormal,,,Strong must be hearing things.,,,
+Detection,Detection,AlertToNormal,,,Hmm...Strong thought something there. Guess not.,,,
+Detection,Detection,CombatToLost,,,Where'd you go? Huh? Gonna find you... Gonna KILL you!,,,
+Detection,Detection,CombatToLost,,,Hey! You disappear! No fair!,,,
+Detection,Detection,CombatToLost,,,Ha ha! Go ahead and hide little bleeder!,,,
+Detection,Detection,CombatToLost,,,Aggh... face me you coward!,,,
+Detection,Detection,CombatToLost,,,Gone! Spineless human!,,,
+Detection,Detection,CombatToLost,,,What? Scared already? Ha ha!,,,
+Detection,Detection,CombatToLost,,,"Sneaky, sneaky. Can't sneak from Strong forever!",,,
+Detection,Detection,CombatToLost,,,Strong will find you and make you dead!,,,
+Detection,Detection,CombatToLost,,,No point in running. No escape from Strong!,,,
+Detection,Detection,CombatToLost,,,"Aggh, come back! Fight Strong coward!",,,
+Detection,Detection,CombatToNormal,,,Ha ha ha. Too fun...,,,
+Detection,Detection,CombatToNormal,,,"Next time, fight better.",,,
+Detection,Detection,CombatToNormal,,,I win again!,,,
+Detection,Detection,CombatToNormal,,,Too easy.,,,
+Detection,Detection,CombatToNormal,,,You lose!,,,
+Detection,Detection,CombatToNormal,,,"Okay, who's next?!",,,
+Detection,Detection,CombatToNormal,,,Snack time.,,,
+Detection,Detection,CombatToNormal,,,Good fighting human. Strong impressed.,,,
+Detection,Detection,CombatToNormal,,,Haha! No one can beat Strong!,,,
+Detection,Detection,CombatToNormal,,,Human should fight with Strong more. Good team.,,,
+Detection,Detection,CombatToNormal,,,That all? Strong just getting started.,,,
+Detection,Detection,LostIdle,,,You're here. You're here... Stop hiding!,,,
+Detection,Detection,LostIdle,,,You have to come out sooner or later.,,,
+Detection,Detection,LostIdle,,,"I can smell you out there, little sneak...",,,
+Detection,Detection,LostIdle,,,"Come out, come out wherever you are!",,,
+Detection,Detection,LostIdle,,,"Gonna find you soon, human!",,,
+Detection,Detection,LostIdle,,,"Here human, human, human. I got a treat for you!",,,
+Detection,Detection,LostToCombat,,,Aha! Gotcha!,,,
+Detection,Detection,LostToCombat,,,Nice try!,,,
+Detection,Detection,LostToCombat,,,Can't escape me!,,,
+Detection,Detection,LostToCombat,,,I knew it! I'm gonna tear you apart!,,,
+Detection,Detection,LostToCombat,,,No more hidin' for you!,,,
+Detection,Detection,LostToCombat,,,Ha ha! I found you!,,,
+Detection,Detection,LostToCombat,,,Surprise! Strong got you now!,,,
+Detection,Detection,LostToCombat,,,Haha! No one can hide from Strong!,,,
+Detection,Detection,LostToCombat,,,Over here Human! Found them!,,,
+Detection,Detection,LostToNormal,,,No use human. Them gone now.,,,
+Detection,Detection,LostToNormal,,,Gone now. Pity.,,,
+Detection,Detection,LostToNormal,,,I wanted a fight.,,,
+Detection,Detection,LostToNormal,,,No blood to spill today.,,,
+Detection,Detection,LostToNormal,,,Aggh... waste my time.,,,
+Detection,Detection,LostToNormal,,,Agh. Wanted a fight.,,,
+Detection,Detection,LostToNormal,,,Slippery humans.,,,
+Detection,Detection,LostToNormal,,,"Aggh, human, you let them get away!",,,
+Detection,Detection,LostToNormal,,,Strong not find them. Got away.,,,
+Detection,Detection,NormalToAlert,,,Heard that? Strong not think we alone.,,,
+Detection,Detection,NormalToAlert,,,What?! Who's there?,,,
+Detection,Detection,NormalToAlert,,,Huh? What's that?,,,
+Detection,Detection,NormalToAlert,,,A noise?,,,
+Detection,Detection,NormalToAlert,,,Someone there?,,,
+Detection,Detection,NormalToAlert,,,I hear something.,,,
+Detection,Detection,NormalToAlert,,,That sound! What is it?,,,
+Detection,Detection,NormalToAlert,,,"Shh human, Strong heard something.",,,
+Detection,Detection,NormalToAlert,,,Hear that human?,,,
+Detection,Detection,NormalToCombat,,,Strong smash flying bug!,,,
+Detection,Detection,NormalToCombat,,,Strong gonna crush wings. Bug not fly anymore!,,,
+Detection,Detection,NormalToCombat,,,"Strong not know how to build robot, but know how to break one!",,,
+Detection,Detection,NormalToCombat,,,Not care how robots work. Just smash!,,,
+Detection,Detection,NormalToCombat,,,"Bloodbugs? Smash, smash, smash!",,,
+Detection,Detection,NormalToCombat,,,Bugs weak. Weaker than humans even.,,,
+Detection,Detection,NormalToCombat,,,Come Deathclaw. Strong will teach you how to die!,,,
+Detection,Detection,NormalToCombat,,,Strong will kill Deathclaw. Strong can kill anything!,,,
+Detection,Detection,NormalToCombat,,,Stop moving little robot! Let Strong break you!,,,
+Detection,Detection,NormalToCombat,,,"Floating robot hard to catch, but easy to smash!",,,
+Detection,Detection,NormalToCombat,,,Filthy ghouls. Time to die!,,,
+Detection,Detection,NormalToCombat,,,Ghouls not scare Strong.,,,
+Detection,Detection,NormalToCombat,,,Stay back human. Sometimes robot shoots fire!,,,
+Detection,Detection,NormalToCombat,,,Give up robot. Strong will rip you apart piece by piece!,,,
+Detection,Detection,NormalToCombat,,,Not shoot shell. Shoot face!,,,
+Detection,Detection,NormalToCombat,,,Here fishy fishy fishy!,,,
+Detection,Detection,NormalToCombat,,,Aha! Big fishy. Strong want to eat you!,,,
+Detection,Detection,NormalToCombat,,,Fish out of water. Quick kill it for dinner!,,,
+Detection,Detection,NormalToCombat,,,Go away mole rats. Strong will crush you.,,,
+Detection,Detection,NormalToCombat,,,"Wait for mole rats to pop out of ground, then smash! Right on the head.",,,
+Detection,Detection,NormalToCombat,,,Robots so boring. Not scream when die.,,,
+Detection,Detection,NormalToCombat,,,Just keep smashing. Robots die after smashed a lot.,,,
+Detection,Detection,NormalToCombat,,,No more bugs! Smash them all!,,,
+Detection,Detection,NormalToCombat,,,Radroaches! Squash them human!,,,
+Detection,Detection,NormalToCombat,,,"Careful human. Scorpion sting, very strong.",,,
+Detection,Detection,NormalToCombat,,,Strong will distract it. You smash!,,,
+Detection,Detection,NormalToCombat,,,Let Strong smash your heads together!,,,
+Detection,Detection,NormalToCombat,,,"Not matter which head, just smash!",,,
+Detection,Detection,NormalToCombat,,,Smash you to pieces robot!,,,
+Detection,Detection,NormalToCombat,,,Smash it human. Smash it into junk!,,,
+Detection,Detection,NormalToCombat,,,Aim for wings. Smash them down!,,,
+Detection,Detection,NormalToCombat,,,Aggh! Not spit at Strong! Now you die!,,,
+Detection,Detection,NormalToCombat,,,"Haha, yes! Strong challenge you brother!",,,
+Detection,Detection,NormalToCombat,,,"Not want to fight, but Strong never lose!",,,
+Detection,Detection,NormalToCombat,,,Careful human. Brothers good at smashing too.,,,
+Detection,Detection,NormalToCombat,,,Better to die fighting brothers than fighting humans.,,,
+Detection,Detection,NormalToCombat,,,"Metal man, still die like man!",,,
+Detection,Detection,NormalToCombat,,,"Aargghh, send you back to Institute broken and dead!",,,
+Miscellaneous,Miscellaneous,Hello,,,"Go away, bleeder!",,,
+Miscellaneous,Miscellaneous,Idle,,,So boring...,,,
+Miscellaneous,Miscellaneous,Idle,,,No green stuff here...,,,
+Miscellaneous,Miscellaneous,Idle,,,Getting hungry...,,,
+Miscellaneous,Miscellaneous,Idle,,,Wish a buckethead would show up... I'd rip his legs clean off...,,,
+Miscellaneous,Miscellaneous,Idle,,,Hmmph...,,bored grunt,
+Scene,SceneDialogue,Custom,,Player Default: (playful bark),"That thing food, not fighter. After human eats it, come find Strong.",Dogmeat: (sad whimper),,DogmeatPickupScene
+Scene,SceneDialogue,Custom,,Player Default: I'd be honored to join.,Never! Strong never join brotherhood!,BoS101Danse: That's what I wanted to hear.,,BoS101SceneStage360
+Scene,SceneDialogue,Custom,,"Player Default: No, I need to move on.",Ha! Human right. Brotherhood bad.,BoS101Danse: That's a shame.,,BoS101SceneStage360
+Scene,SceneDialogue,Custom,,Player Default: I don't know.,Bah! Brotherhood bad. Leave or kill them all.,"BoS101Danse: It's a big decision, so I understand your hesitation.",,BoS101SceneStage360
+Scene,SceneDialogue,Custom,,,Not humans. Not brothers. Use them like machines.,,,RR102_Comp_PCisAntiSlave
+Scene,SceneDialogue,Custom,,,Just machines. Use like machines.,,,RR102_Comp_SynthsAreMachines
+Scene,SceneDialogue,Custom,,Player Default: Your leader was just being cautious.,Strong no like you.,"Deacon: Exactly. Kind of killed our chance at a friendy first impression, though.",,RR102_100_Deacon_Intro
+Scene,SceneDialogue,Custom,,Player Default: If you greet all newcomers like that no one's ever going to help you.,"Next time, Strong smash.",Deacon: Don't be too hard on the old girl. She's just looking after her wayward children.,,RR102_100_Deacon_Intro
+Scene,SceneDialogue,Custom,,Player Default: If you greet all newcomers like that no one's ever going to help you.,Yes! Next time Strong smash.,Deacon: Don't be too hard on the old girl. She's just looking after her wayward children.,,RR102_100_Deacon_Intro
+Scene,SceneDialogue,Custom,,Player Default: What's done is done.,Not care? Human look weak to other humans.,Deacon: A healthy attitude.,,RR102_100_Deacon_Intro
+Scene,SceneDialogue,Custom,,Player Default: Do you really have to be so cagey?,Cagey? No put Strong in cage. Not like cage.,"Deacon: The precautions are necessary. In our business, if we underestimate our enemy's capabilities it's game over.",,RR102_100_Deacon_Intro
+Scene,SceneDialogue,Custom,,,"He dies, he was weak. He lives, he is strong. Is good.",,,RR102_Comp_RickySuicide
+Scene,SceneDialogue,Custom,,Player Default: About time I got out of this place. Let's go.,Strong find milk of human kindness on own.,Dogmeat: (curious sound),Stern,COMCaitPickUpScene
+Scene,SceneDialogue,Custom,,"Preston: Take care, Codsworth.","I'll head for home, then. Good luck.",,,COMPrestonFollowStartScene
+Scene,SceneDialogue,Custom,,,Puny human instead of Strong? Bah,,Friendly,COMPrestonFollowStartScene
+Scene,SceneDialogue,Custom,,,Strong find milk without human.,"Preston: Take care, Codsworth.",,COMPrestonFollowStartScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,No more talking? Good.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Why are you silent?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Talk, damn you!",,,
+Scene,SceneDialogue,Custom,,myActor: I could use a little pick-me-up.,No drinks for Strong. Strong not thirsty.,,,AO_Companion_Bar_Generic
+Scene,SceneDialogue,Custom,,,Drinks. Humans get stupid with drinks.,"Bartender: Bobrov's Best. Is greatest moonshine ever to cross lips, lapochka. Very strong though. Two shots, you pass out on floor... guaranteed.",,AO_Companion_Bar_Vadim
+Scene,SceneDialogue,Custom,,"Bartender: Bobrov's Best. Is greatest moonshine ever to cross lips, lapochka. Very strong though. Two shots, you pass out on floor... guaranteed.",Just give Strong drink.,"Bartender: Record is mine. Fourteen shots in less than two minutes. If you beat, I give them to you free. You lose, you pay double.",,AO_Companion_Bar_Vadim
+Scene,SceneDialogue,Custom,,"Bartender: Record is mine. Fourteen shots in less than two minutes. If you beat, I give them to you free. You lose, you pay double.",Smells funny. Tingles.,,,AO_Companion_Bar_Vadim
+Scene,SceneDialogue,Custom,,myActor: Oh... this place looks interestin'.,Give Strong water. Or hound blood.,"Bartender: Bobrov's Best. Is greatest moonshine ever to cross lips, lapochka. Very strong though. Two shots, you pass out on floor... guaranteed.",,AO_Companion_Bar_Vadim
+Scene,SceneDialogue,Custom,,,Human thirsty again?,"Bartender: Excuse me, madame, but if you wish to be served I'd ask that you maintain proper decorum.",,AO_Companion_Bar_Wellingham
+Scene,SceneDialogue,Custom,,"Bartender: Excuse me, madame, but if you wish to be served I'd ask that you maintain proper decorum.","Shut up, robot. Strong not thirsty. Strong smash robots that talk too much.","Bartender: Madame, if you don't refrain from using that tone with me, I'm going to have to ask you to leave.",,AO_Companion_Bar_Wellingham
+Scene,SceneDialogue,Custom,,"Bartender: Madame, if you don't refrain from using that tone with me, I'm going to have to ask you to leave.",Shut up!,,screamed in anger,AO_Companion_Bar_Wellingham
+Scene,SceneDialogue,Custom,,"myActor: Okay, please tell me this robot bartender knows how to pour a drink.",Why robot? Strong confused.,"Bartender: Excuse me, madame, but if you wish to be served I'd ask that you maintain proper decorum.",,AO_Companion_Bar_Wellingham
+Scene,SceneDialogue,Custom,,,Bah! Humans drink. Humans get weak. Strong is not weak.,"Bartender: Nothing but the best for someone as lovely as you, my dear.",,AO_Companion_Bar_Cooke
+Scene,SceneDialogue,Custom,,"Bartender: Nothing but the best for someone as lovely as you, my dear.",Not fellah. Strong. Strong thirsty.,"Bartender: If you're unhappy hanging out with your crew, you could always work for me. Good pay and all the free drinks you can handle.",,AO_Companion_Bar_Cooke
+Scene,SceneDialogue,Custom,,"Bartender: If you're unhappy hanging out with your crew, you could always work for me. Good pay and all the free drinks you can handle.",Looks like piss. Tastes like it too.,,,AO_Companion_Bar_Cooke
+Scene,SceneDialogue,Custom,,myActor: Quaint little place they've got here... I like it.,Give Strong water now. Strong thirsty.,"Bartender: Nothing but the best for someone as lovely as you, my dear.",a command to the bartender,AO_Companion_Bar_Cooke
+Scene,SceneDialogue,Custom,,,More drinks. Humans drink and drink and drink.,"Bartender: Miss Cait. I thought you were fighting at the Combat Zone. Whatcha doing here, love?",disgust,AO_Companion_Bar_Whitechapel
+Scene,SceneDialogue,Custom,,"Bartender: Miss Cait. I thought you were fighting at the Combat Zone. Whatcha doing here, love?",Strong not thirsty. Go away metal man.,"Bartender: I wouldn't take it too hard. I know Tommy, and I'm betting he's got your best interests at heart.",,AO_Companion_Bar_Whitechapel
+Scene,SceneDialogue,Custom,,"Bartender: I wouldn't take it too hard. I know Tommy, and I'm betting he's got your best interests at heart.",Good. Strong not like robots.,,,AO_Companion_Bar_Whitechapel
+Scene,SceneDialogue,Custom,,myActor: I know this place.,Robot again? Why always robots?,"Bartender: Miss Cait. I thought you were fighting at the Combat Zone. Whatcha doing here, love?",,AO_Companion_Bar_Whitechapel
+Scene,SceneDialogue,Custom,,,Humans always drinking. Makes them weak.,"Bartender: Why, nothing but the most refreshing, delicious lemonade you've ever tasted!",,AO_Companion_Bar_Deezer
+Scene,SceneDialogue,Custom,,"Bartender: Why, nothing but the most refreshing, delicious lemonade you've ever tasted!",What is lemon aid?,Bartender: There are no alcoholic additives or artifical preservatives of any kind! Only good old-fashioned cold refreshment!,"Thinks the word ""lemonade"" is two words",AO_Companion_Bar_Deezer
+Scene,SceneDialogue,Custom,,Bartender: There are no alcoholic additives or artifical preservatives of any kind! Only good old-fashioned cold refreshment!,Looks like piss. Tastes like piss.,,,AO_Companion_Bar_Deezer
+Scene,SceneDialogue,Custom,,myActor: Is that a robot... sellin' drinks?,Metal man? Why is metal man here?,"Bartender: Why, nothing but the most refreshing, delicious lemonade you've ever tasted!",surprised and confused / Surprised,AO_Companion_Bar_Deezer
+Scene,SceneDialogue,Custom,,,Drinks. Always drinks with humans.,"Bartender: You came to the right place, darling. I've got the best vodka money can buy.",,AO_Companion_Bar_Savoldi
+Scene,SceneDialogue,Custom,,"Bartender: You came to the right place, darling. I've got the best vodka money can buy.",Tamed? Human thinks Strong is like hound?,,,AO_Companion_Bar_Savoldi
+Scene,SceneDialogue,Custom,,,Strong should smash puny human!,Bartender: Well... it appears I finally have a customer who wants to show a little class.,,AO_Companion_Bar_Savoldi
+Scene,SceneDialogue,Custom,,Bartender: Well... it appears I finally have a customer who wants to show a little class.,Bah! Human weak. Like all humans.,,,AO_Companion_Bar_Savoldi
+Scene,SceneDialogue,Custom,,"myActor: Oh, they have a bar down here?",Water. Give Strong water.,"Bartender: You came to the right place, darling. I've got the best vodka money can buy.",,AO_Companion_Bar_Savoldi
+Scene,SceneDialogue,Custom,,,Strange place. Not inside like other human places.,Bartender: Nan-ni shimasho-ka?,,AO_Companion_Bar_Takahashi
+Scene,SceneDialogue,Custom,,"myActor: Be right back, gonna grab a quick drink.",Metal man. Robot. Strong not thirsty.,Bartender: Nan-ni shimasho-ka?,,AO_Companion_Bar_Takahashi
+Scene,SceneDialogue,Custom,,Bartender: Nan-ni shimasho-ka?,Wha...? Robot is broken. Why keep broken robot?,Bartender: Nan-ni shimasho-ka?,,AO_Companion_Bar_Takahashi
+Scene,SceneDialogue,Custom,,Bartender: Nan-ni shimasho-ka?,Bah! Piece of junk.,,disgusted,AO_Companion_Bar_Takahashi
+Scene,SceneDialogue,Custom,,,Another human with drinks. Humans must like drinks a lot.,,,AO_Companion_Bar_Generic
+Scene,SceneDialogue,Custom,,,Ha! Human is weak. Strong can smell fear.,,,AO_Companion_Bar_Generic
+Scene,SceneDialogue,Custom,,,Strong agree. Not worth fighting. Human worthless.,,,AO_Companion_Bar_Generic
+Scene,SceneDialogue,Custom,,"Player Default: They've got something they use to control us, to make us do things we don't want to do.",Why do we not crush the puny human?,"Phyllis: Any second now they might send some signal, or I'll see the color orange, or whatever it is they do and BOOM.",Question,DN036_Main
+Scene,SceneDialogue,Custom,,Player Default: It won't be a problem.,Strong bored.,Isaac: I trust that it won't.,,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,"Player Default: Don't patronize me, pencilneck.",Ha!,"Isaac: I... I meant no offense. Just, uh... well, let's move on.",quick laugh because player insulted someone,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,"Roger: Now he's starting to work on my wife and kids, trying to turn them against me too.",Why help fake man? Not human.,Player Default: They just need to be convinced Bill's wrong. That won't be hard.,Disgust,InstM01RogerSceneSuspect
+Scene,SceneDialogue,Custom,,"Player Default: I know you're in a tough situation here, but lives are at stake. Please help me.","Talk, talk, talk. Too much talk.",Cedric: Bill isn't the only one who's afraid. People all over the Commonwealth are talking about this Institute.,,InstM01CedricScene
+Scene,SceneDialogue,Custom,,"Player Default: A man's life is at stake, and you're fishing for a bribe? You're pathetic.",Let Strong smash this one.,Cedric: Then I guess this conversation's over.,,InstM01CedricScene
+Scene,SceneDialogue,Custom,,"Player Default: If that what it takes, fine.",Yes. No we go. No more talk.,"Cedric: Well now, looks like I can help you after all.",,InstM01CedricScene
+Scene,SceneDialogue,Custom,,Player Default: You don't care about Roger's family? Not even his children?,More talk? Bah!,"Cedric: You really aren't from around here, are you?",,InstM01CedricScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"Good luck, General. I hope you find your son.",,Concerned,
+Scene,SceneDialogue,Custom,,"Justin: I'm convinced that someone is Alan Binet. He thinks that synths are people. He even lives with one. It's disturbing,",Huh? Strong confused.,Player Default: There's got to be some way to prove it was him.,,InstM02Scene1JustinIntro
+Scene,SceneDialogue,Custom,,Liam: I want to frame Justin Ayo.,"Talk, talk, talk. Just kill human. Easy.","Liam: Ever since Doctor Zimmer left, he's been out of control.",disgusted by too much talking,InstM02Scene4LiamConfession
+Scene,SceneDialogue,Custom,,Player Default: I promise not to tell Justin. I'll keep your secret.,Not kill? Strong confused.,Eve: I... I believe you.,,InstM02SceneEveConfront
+Scene,SceneDialogue,Custom,,Player Default: Liam has to face justice for what he's done.,Justice! Strong smash!,"Eve: If that's how you feel, we have nothing left to talk about.",excited by the idea of combat,InstM02SceneEveConfront
+Scene,SceneDialogue,Custom,,Player Default: You'd really risk your life to protect Liam?,Stupid human.,"Eve: Risk my life? I would give my life, and if necessary, take someone else's.",,InstM02SceneEveConfront
+Scene,SceneDialogue,Custom,,"Player Default: Remember, the synths are the primary objective. Harm must be avoided at all costs.",Bah! Strong kill all enemies.,X418: Here are the recall codes. Follow me.,disgust at the idea of mercy,Inst302Stage40CourserScene
+Scene,SceneDialogue,Custom,,Player Default: Easy. I just didn't know there were any other Minutemen out there.,Let's kill this one.,"RonnieShaw: Yeah, I did take a pretty long vacation after Joe died. Not surprised you never heard of me.",Angry,Min03RonnieIntroBrawl
+Scene,SceneDialogue,Custom,,Player Default: I'd like to see you try.,Time to die puny human!,RonnieShaw: This is going to be fun.,Angry,Min03RonnieIntroBrawl
+Scene,SceneDialogue,Custom,,Player Default: I don't have time for a dick-measuring contest. What do you actually want?,Measure what? Strong confused.,RonnieShaw: You kiss your mother with that mouth? At least you're finally ready to get down to business.,Puzzled,Min03RonnieIntroBrawl
+Scene,SceneDialogue,Custom,,"Player Default: If you're a Minuteman, how come Preston never told me about you?",Yeah!,"RonnieShaw: Garvey? Oh yeah, I heard of him. Took over Hollis's group after the Quincy Massacre. One of the good ones.",Defiant,Min03RonnieIntroBrawl
+Scene,SceneDialogue,Custom,,Player Default: Of course I'm not going to go through with it. So how do I deal with it?,Not fight? Why not fight?,Desdemona: We'll deal with that later. We need to prepare for a Brotherhood assault.,,Inst306Stage20Desdemona
+Scene,SceneDialogue,Custom,,Player Default: I'm afraid you all have to die.,Strong smash all humans!,Desdemona: Deacon vouched for you. I knew I shouldn't have trusted him. Or you. We're not going down without a fight.,,Inst306Stage20Desdemona
+Scene,SceneDialogue,Custom,,"Player Default: You're alive, so what do you think?",Human weak. Should kill them all.,Desdemona: I don't have time for guessing games. And the Brotherhood could be here at any moment.,,Inst306Stage20Desdemona
+Scene,SceneDialogue,Custom,,"Player Default: How do I deal with this, Desdemona?",Talking. Humans always talking.,Desdemona: Give me a straight answer first. Are you still on our side?,,Inst306Stage20Desdemona
+Scene,SceneDialogue,Custom,,,Wait. This make you human?,"Virgil_Supermutant: That is the idea, yes.",Confused / Puzzled,DN053_Virgil_Stage50_Cure00_Strong
+Scene,SceneDialogue,Custom,,"Virgil_Supermutant: That is the idea, yes.",But you super mutant. Why you want to be human?,Virgil_Supermutant: You can't be serious.,"Confused, getting angry. This is crazy talk. / Puzzled",DN053_Virgil_Stage50_Cure00_Strong
+Scene,SceneDialogue,Custom,,,Wait. You want make more? Turn more Super Mutants human?,"Virgil_Human: Ultimately, yes.","Coldly, getting angry. / Question",DN053_Virgil_Stage60_Cure05b_Strong
+Scene,SceneDialogue,Custom,,"Virgil_Human: Ultimately, yes.",No. No more. Super mutants not want to be human. You not change me! You not change anyone!,"Player Default: Calm down, Strong. No one's going to try to turn you into a human. It may not even work.",Getting really worked up. / Angry,DN053_Virgil_Stage60_Cure05b_Strong
+Scene,SceneDialogue,Custom,,Player Default: After all you've done? They'll trust you. And I'll make sure no one else finds out about me.,No! Make him be super mutant again!,,extremely upset,DN053_Virgil_Stage70_Threaten
+Scene,SceneDialogue,Custom,,BoS301Duff: I'm afraid something terrible has happened to her.,Then human was weak.,"Player Default: Don't worry, I'll find her.",,BoS301_04_DoctorDuff
+Scene,SceneDialogue,Custom,,"BoS301Scara: The whole thing's rather complicated, perhaps I'll explain it to you sometime.",Huh? Strong confused.,"BoS301Scara: So, now that I've formally introduced myself, perhaps you'd care to tell me why you're here?",,BoS301_05_ScaraStage0060
+Scene,SceneDialogue,Custom,,Player Default: Because we care what happens to the Commonwealth.,"Talk, talk, talk.","BoS301Li: You know, if anyone else wearing a Brotherhood of Steel uniform said something like that, I'd laugh in their face.",,BoS301_06_LiStage0070
+Scene,SceneDialogue,Custom,,"Player Default: If you don't work on Prime, I'll have you shot.",Obey us! We are strong.,BoS301Li: You son of a bitch!,,BoS301_06_LiStage0070
+Scene,SceneDialogue,Custom,,"Player Default: If not for the Brotherhood, do it for Doctor Virgil.",More talking. Always more talking.,BoS301Li: What they did to Doctor Virgil was cruel... it was wrong. How could I be so blind?,,BoS301_06_LiStage0070
+Scene,SceneDialogue,Custom,,Player Default: Why won't you help us with Liberty Prime?,No asking. Make human obey.,BoS301Li: We went over this already.,,BoS301_06_LiStage0070
+Scene,SceneDialogue,Custom,,BoS301ChildofAtom: That is why they must be safeguarded.,Stupid human. Makes no sense.,"Player Default: I want to spread his, uhh, glory... Look, the bombs will get used, okay? Isn't that what you want?",,BoS301_10_ChildofAtomStage0160
+Scene,SceneDialogue,Custom,,,Ha! Big fight here. Big boom. Everything die.,,,BoSM01_CompanionStage060_Commentary1
+Scene,SceneDialogue,Custom,,,Weak human. Weak things must die. We should eat it.,,,BoSM01_CompanionStage070_Commentary1
+Scene,SceneDialogue,Custom,,,Bah! Humans hide. Super mutants fight. Never hide.,,,BoSM01_CompanionStage080_Commentary1
+Scene,SceneDialogue,Custom,,Player Default: Your compassion and understanding speak well of you.,Bah! Human weak. Kill them all.,Newton: I'll take that holotape back.,disgusted,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,Player Default: They were prepared to let everyone starve to death. They have to die.,Yes! Human good leader. Kill all enemies.,Newton: I'll take that holotape back.,,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,Player Default: That's more than fair. I'll see to it that everyone's notified.,Prob... what? Just kill them. Kill all enemies.,Newton: I'll take that holotape back.,"Trying to say ""probation""",InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,"Player Default: I'll see to those supplies. At least they'll have a fighting chance, which is perhaps more than they deserve.",Bah! Never let enemies like. Kill or eat prisoners.,Newton: I'll take that holotape back.,,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,,Strong hate brotherhood. Should kill Danse human.,,angry,BOS302_13_CompanionReactsExecute
+Scene,SceneDialogue,Custom,,,Brotherhood man has to kill fake man. You too weak to do it.,Companion: That Maxson fella seemed like he knew what was best. Maybe you should've listened to him.,,BOS302_13_CompanionReactsExecute
+Scene,SceneDialogue,Custom,,,Fake men not good. Smash them all.,Companion: I wished you had the bollocks to do that yourself. At least it's over with.,,BOS302_13_CompanionReactsExecute
+Scene,SceneDialogue,Custom,,Player Default: With pleasure. I'll make him pay for lying to us.,Danse human good fighter. Hard fight for Strong. Good fight!,BoS302Maxson: I appreciate your cooperation.,,BoS302_01_MaxsonStage010
+Scene,SceneDialogue,Custom,,Player Default: I won't do it. Danse deserves a chance to explain himself.,No fight? No kill? Bah!,BoS302Maxson: You will do it. This is not up for judgment or debate!,,BoS302_01_MaxsonStage010
+Scene,SceneDialogue,Custom,,Player Default: I don't know what to say.,Say fight! Say we go now.,"BoS302Maxson: This isn't a request that requires an answer, Knight. This is a direct order.",,BoS302_01_MaxsonStage010
+Scene,SceneDialogue,Custom,,Player Default: Isn't there some other way?,Don't need other way. Need to fight and kill.,BoS302Maxson: Absolutely not. My decision is final.,,BoS302_01_MaxsonStage010
+Scene,SceneDialogue,Custom,,"BoS302Haylen: If you're not convinced by what he says, or somehow he's become truly lost to us, then you do what you have to do.",Too much talk. Time to kill.,"Player Default: All right, I'll hear him out.",,BoS302_03_HaylenStage040
+Scene,SceneDialogue,Custom,,"Codsworth: By the way, Concord is nearby, and I've seen people there. I don't know if they can help, but perhaps we should take a look?","Metal man weak. When metal man smashed, come find Strong.",Dogmeat: (sad whimper),Neutral,COMCodsworthPickUpScene
+Scene,SceneDialogue,Custom,,"Player Default: Right behind you, sir.","Fake man dangerous. Good fighter, but can't trust.",X688: He couldn't be in better hands.,Stern,COMX688_PickupScene
+Scene,SceneDialogue,Custom,,Player Default: Will do.,Bah! This human soft. Weak. Not live long.,Dogmeat: (sad whimper),,COMPiperPickupScene
+Scene,SceneDialogue,Custom,,Player Default: Roger that.,This human good fighter. Kill many brothers.,,Stern,COMDansePickUpScene
+Scene,SceneDialogue,Custom,,,Someday Strong smash.,Dogmeat: (curious sound),,COMDansePickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Well alright.,Puny metal man. He dies soon. Then find Strong. We look for milk again.,Dogmeat: (pained whimper),,COMNickPickupScene
+Topic,PlayerDialogue,Custom,,,Should hang that. Tastes better after two days.,,,
+Topic,PlayerDialogue,Custom,,,Liver and heart are best parts.,,,
+Topic,PlayerDialogue,Custom,,,That one looks stringy.,,,
+Topic,PlayerDialogue,Custom,,,Strong hungry too. Save some for Strong.,,,
+Topic,PlayerDialogue,Custom,,,Careful with fingers and toes. They get stuck in teeth.,,,
+Topic,PlayerDialogue,Custom,,,Nasty meat. Not good for eating.,,,
+Topic,PlayerDialogue,Custom,,,Ghoul meat make Strong sick.,,,
+Topic,PlayerDialogue,Custom,,,Strong wait for fresh meat. Ghoul meat tastes rotten.,,,
+Topic,PlayerDialogue,Custom,,,Give honor to brother by taking his flesh.,,,
+Topic,PlayerDialogue,Custom,,,Save some for Strong. Fallen brother died well.,,,
+Topic,PlayerDialogue,Custom,,,"Eat well, human. Take strength from dead brother. It is our way.",,,
+Topic,PlayerDialogue,Custom,,,Not here. Left.,,,
+Topic,PlayerDialogue,Custom,,,Gone. All gone.,,,
+Topic,PlayerDialogue,Custom,,,Not here now. Just left.,,,
+Topic,PlayerDialogue,Custom,,,Empty place. Not long though.,,,
+Topic,PlayerDialogue,Custom,,,Cowards. They know Strong is coming. Left in hurry.,,,
+Topic,PlayerDialogue,Custom,,,Ah! Too much light.,,annoyed,
+Topic,PlayerDialogue,Custom,,,Strong like shadows better.,,,
+Topic,PlayerDialogue,Custom,,,Too bright. Strong see spots.,,,
+Topic,PlayerDialogue,Custom,,,Lots of light. Nowhere to hide.,,,
+Topic,PlayerDialogue,Custom,,,Here is clean like humans do.,,,
+Topic,PlayerDialogue,Custom,,,No stuff. No dirt. Strong not like.,,,
+Topic,PlayerDialogue,Custom,,,Why humans work so hard? Humans hate dirt?,,,
+Topic,PlayerDialogue,Custom,,,No dirt. Must be humans somewhere.,,,
+Topic,PlayerDialogue,Custom,,,Strong feels strange. Like enemies watching.,,,
+Topic,PlayerDialogue,Custom,,,Strong not afraid of shadows. Go away things in shadows!,,,
+Topic,PlayerDialogue,Custom,,,Watch for ambush. Here feels like ambush.,,,
+Topic,PlayerDialogue,Custom,,,Strong see human not like this place.,,,
+Topic,PlayerDialogue,Custom,,,Strong like dark. Brothers see well in dark.,,,
+Topic,PlayerDialogue,Custom,,,Even Strong not see well in this dark.,,,
+Topic,PlayerDialogue,Custom,,,Dark is friend. Dark makes for good fighting.,,,
+Topic,PlayerDialogue,Custom,,,Step careful human. Very dark here.,,,
+Topic,PlayerDialogue,Custom,,,Old place. Dust and dirt.,,,
+Topic,PlayerDialogue,Custom,,,Nothing live here for long time.,,,
+Topic,PlayerDialogue,Custom,,,Dust make Strong's nose itchy.,,,
+Topic,PlayerDialogue,Custom,,,Dust everywhere.,,,
+Topic,PlayerDialogue,Custom,,,No cover. Not good place to fight.,,,
+Topic,PlayerDialogue,Custom,,,Enemies see us easy out here.,,,
+Topic,PlayerDialogue,Custom,,,Strong not like wide open. Easy targets.,,,
+Topic,PlayerDialogue,Custom,,,Should find cover. Not stay in open.,,,
+Topic,PlayerDialogue,Custom,,,Good place to fight. Single brother kill many enemies from here.,,,
+Topic,PlayerDialogue,Custom,,,This place made for fighting. Strong like.,,,
+Topic,PlayerDialogue,Custom,,,Safe here. Take many enemies to attack this place.,,,
+Topic,PlayerDialogue,Custom,,,Strong like this place. Good defenses.,,,
+Topic,PlayerDialogue,Custom,,,"Smells like food. Messy, tasty food.",,,
+Topic,PlayerDialogue,Custom,,,Blood. Lots of blood. Strong like.,,,
+Topic,PlayerDialogue,Custom,,,Many things die here. Maybe just one big thing.,,,
+Topic,PlayerDialogue,Custom,,,Should put all this in bag. Hang until ripe.,,,
+Topic,PlayerDialogue,Custom,,,Why human make faces? Strong like this place.,,,
+Topic,PlayerDialogue,Custom,,,Ha ha! Humans think this gross. Strong think this funny.,,,
+Topic,PlayerDialogue,Custom,,,Maybe Strong sleep here. Feels like good place to Strong.,,,
+Topic,PlayerDialogue,Custom,,,This place bother human? Not Strong.,,,
+Topic,PlayerDialogue,Custom,,,This place confuse Strong. Too much machines.,,,
+Topic,PlayerDialogue,Custom,,,Strong not like this place. Too... human.,,,
+Topic,PlayerDialogue,Custom,,,"Machines, blinky lights. Strong just want to smash it all.",,,
+Topic,PlayerDialogue,Custom,,,Machines make Strong nervous.,,,
+Topic,PlayerDialogue,Custom,,,What? Human say something?,,,
+Topic,PlayerDialogue,Custom,,,Strong can't hear good. Too easy for enemies to sneak up on Strong.,,,
+Topic,PlayerDialogue,Custom,,,Strong find noisemakers and smash them.,,,
+Topic,PlayerDialogue,Custom,,,"Human, make noises stop. Strong can't hear.",,,
+Topic,PlayerDialogue,Custom,,,Stuff everywhere. What humans call messy.,,,
+Topic,PlayerDialogue,Custom,,,Someone put junk here.,,,
+Topic,PlayerDialogue,Custom,,,Looks like behemoth nest. Filled with stuff.,,,
+Topic,PlayerDialogue,Custom,,,Strong not like this place.,,,
+Topic,PlayerDialogue,Custom,,,Want to just smash everything.,,,
+Topic,PlayerDialogue,Custom,,,Human like this place. Strong thinks it's bad.,,,
+Topic,PlayerDialogue,Custom,,,"No noises. Walk quiet human, or enemies hear us.",,,
+Topic,PlayerDialogue,Custom,,,Strong not like. Too quiet.,,,
+Topic,PlayerDialogue,Custom,,,Watch for ambush. Very quiet here.,,,
+Topic,PlayerDialogue,Custom,,,Empty. Quiet. Boring.,,,
+Topic,PlayerDialogue,Custom,,,No enemies get here. Good for resting.,,,
+Topic,PlayerDialogue,Custom,,,Safe. For now.,,,
+Topic,PlayerDialogue,Custom,,,Can stop watching for enemies. Safe here.,,,
+Topic,PlayerDialogue,Custom,,,Good place for sleeping. Safe from enemies.,,,
+Topic,PlayerDialogue,Custom,,,Human not like smell? Smells like camp of Strong's brothers.,,,
+Topic,PlayerDialogue,Custom,,,Ha ha! Smells like home!,,,
+Topic,PlayerDialogue,Custom,,,Humans say this is stink. Strong say this is good.,,,
+Topic,PlayerDialogue,Custom,,,Death. Decay. Smells good.,,,
+Topic,PlayerDialogue,Custom,,,Water for drinking. Not walking. Not swimming.,,,
+Topic,PlayerDialogue,Custom,,,Weak human. Cold and wet not bother Strong.,,,
+Topic,PlayerDialogue,Custom,,,Hard to walk in water. Harder to sleep in it.,,,
+Topic,PlayerDialogue,Custom,,,Guns get rusty in water. Not Strong's hammer.,,,
+Topic,PlayerDialogue,Custom,,,Human too weak to carry everything.,,,
+Topic,PlayerDialogue,Custom,,,"Human, not need to take everything you find.",,,
+Topic,PlayerDialogue,Custom,,,Guns and ammo all you need. Forget human junk.,,,
+Topic,PlayerDialogue,Custom,,,Greedy human. Get rid of useless junk.,,,
+Topic,PlayerDialogue,Custom,,,Stupid human. Wear armor.,,,
+Topic,PlayerDialogue,Custom,,,Human weak with no armor.,,,
+Topic,PlayerDialogue,Custom,,,"Skinny, ugly human. Put armor on.",,,
+Topic,PlayerDialogue,Custom,,,Green skin look better.,,,
+Topic,PlayerDialogue,Custom,,,No armor? Stupid human.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Tinker, tinker, tinker. Strong bored.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Why fix? Just get new one.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Humans like machines too much. Make humans weak.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Human waste time. Smash someone and take things. Much faster.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Change junk into that? Bah!,,,
+Topic,PlayerDialogue,Custom,,,Hah! Stupid human.,,,
+Topic,PlayerDialogue,Custom,,,Mines hurt legs.,,,
+Topic,PlayerDialogue,Custom,,,"Watch steps, human.",,,
+Topic,PlayerDialogue,Custom,,,Watch for flashy light and beeps.,,,
+Topic,PlayerDialogue,Custom,,,No pain. No weakness.,,,
+Topic,PlayerDialogue,Custom,,,"Swim is for fish, not humans and super mutants.",,,
+Topic,PlayerDialogue,Custom,,,Human should not stay in water long. Can make human sick and weak.,,,
+Topic,PlayerDialogue,Custom,,,"Strong not mind getting wet, but walking faster.",,,
+Topic,PlayerDialogue,Custom,,,"Why sneaking, human? Just smash and take.",,,
+Topic,PlayerDialogue,Custom,,,Smash and take. Is much quicker.,,,
+Topic,PlayerDialogue,Custom,,,"Not how Strong would have done, but work for human.",,,
+Topic,PlayerDialogue,Custom,,,"Good human, just take what need. Not waste time.",,,
+Topic,PlayerDialogue,Custom,,,That good. Need more.,,,
+Topic,PlayerDialogue,Custom,,,Human should take more. Might need it.,,,
+Topic,PlayerDialogue,Custom,,,Now human learning. Much easier to take than make.,,,
+Topic,PlayerDialogue,Custom,,,Humans like caps too much.,,,
+Topic,PlayerDialogue,Custom,,,Stupid caps. Waste of time.,,,
+Topic,PlayerDialogue,Custom,,,Why care about caps? Can't eat or shoot caps.,,,
+Topic,PlayerDialogue,Custom,,,Caps worthless human thing.,,,
+Topic,PlayerDialogue,Custom,,,Strong not care about stupid caps.,,,
+Topic,PlayerDialogue,Custom,,,Human can keep. Not useful to Strong.,,,
+Topic,PlayerDialogue,Custom,,,What is reward? Not understand.,,,
+Topic,PlayerDialogue,Custom,,,Strong only want milk of human kindness.,,,
+Topic,PlayerDialogue,Custom,,,"Give, take, what is difference?",,,
+Topic,PlayerDialogue,Custom,,,"Human, why look at words? What they tell you?",,,
+Topic,PlayerDialogue,Custom,,,Human like reading boring words.,,,
+Topic,PlayerDialogue,Custom,,,Stupid book. Strong not understand.,,,
+Topic,PlayerDialogue,Custom,,,Strong not need words. Strong use smashing to get what he wants. Not words.,,,
+Topic,PlayerDialogue,Custom,,,What book say? Where to find milk of human kindness.,,,
+Topic,PlayerDialogue,Custom,,,"Human, you not look so good.",,,
+Topic,PlayerDialogue,Custom,,,Human look very sick. Look very weak.,,,
+Topic,PlayerDialogue,Custom,,,Human needs to find human doctor. Make you better.,,,
+Topic,PlayerDialogue,Custom,,,Any more rads and human might turn into Ghoul. Or just be dead.,,,
+Topic,PlayerDialogue,Custom,,,"If human too weak to go on, Strong not carry you. Leave weak human to die.",,,
+Topic,PlayerDialogue,Custom,,,Glow hurt human.,,,
+Topic,PlayerDialogue,Custom,,,Rads try to make Strong weak. Hah!,,,
+Topic,PlayerDialogue,Custom,,,Stay away from glow.,,,
+Topic,PlayerDialogue,Custom,,,Glow hurt? Not hurt Strong much.,,,
+Topic,PlayerDialogue,Custom,,,Rads hurt humans. Not hurt Super mutants much.,,,
+Topic,PlayerDialogue,Custom,,,Human's leg wounded. Make enemies come to you.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Wounded? Ignore pain. No weakness.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Pain makes human strong. Makes Strong stronger.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Cripple not matter. Fight anyway.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,No weakness. No pain. Even if wounded.,,,
+Topic,PlayerDialogue,Custom,,,Human not need head to shoot and smash.,,,
+Topic,PlayerDialogue,Custom,,,Human's arm broken. Kick and bite instead.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Stop fiddling. Smash!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Yes!,,triumphant,
+Miscellaneous,Miscellaneous,SharedInfo,,,Strong hates locks.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Why so many locks?,,irritated,
+Miscellaneous,Miscellaneous,SharedInfo,,,Should just break. Faster.,,,
+Topic,PlayerDialogue,Custom,,,Good kill.,,,
+Topic,PlayerDialogue,Custom,,,That one was weak. Best to kill.,,,
+Topic,PlayerDialogue,Custom,,,Hah! A good death. Strong like.,,,
+Topic,PlayerDialogue,Custom,,,Good. One less human.,,,
+Topic,PlayerDialogue,Custom,,,Human right to kill. Only strongest live.,,,
+Topic,PlayerDialogue,Custom,,,"Old human junk, worst kind of human junk.",,,
+Topic,PlayerDialogue,Custom,,,"If this useful stuff, would not be left by other humans.",,,
+Topic,PlayerDialogue,Custom,,,Leave old human junk. Only slow you down.,,,
+Topic,PlayerDialogue,Custom,,,"Fine human, take old junk, but Strong not see point.",,,
+Topic,PlayerDialogue,Custom,,,Leave human junk. Is useless.,,,
+Topic,PlayerDialogue,Custom,,,Why always take human junk? Not need.,,,
+Topic,PlayerDialogue,Custom,,,Strong not understand why human always take garbage. Must be human thing.,,,
+Topic,PlayerDialogue,Custom,,,"Human should not take junk, less space for guns.",,,
+Topic,PlayerDialogue,Custom,,,We find. We take.,,,
+Topic,PlayerDialogue,Custom,,,That make human better fighter.,,,
+Topic,PlayerDialogue,Custom,,,Plunder! It is good.,,,
+Topic,PlayerDialogue,Custom,,,Hah! Now our enemies flee in fear!,,,
+Topic,PlayerDialogue,Custom,,,Yes!,,,
+Topic,PlayerDialogue,Custom,,,Dead not need things. We take.,,,
+Topic,PlayerDialogue,Custom,,,Victor's spoils.,,,
+Topic,PlayerDialogue,Custom,,,Living take what dead leave.,,,
+Topic,PlayerDialogue,Custom,,,Should Strong check guts too?,,,
+Topic,PlayerDialogue,Custom,,,Dead not care. Things ours now.,,,
+Topic,PlayerDialogue,Custom,,,Careful human. Might get hurt falling like that.,,,
+Topic,PlayerDialogue,Custom,,,"Strong is super mutant, not bird!",,,
+Topic,PlayerDialogue,Custom,,,Strong think that was bad idea. Not want to get smashed by ground.,,,
+Topic,PlayerDialogue,Custom,,,Not safe human. Too puny.,,,
+Topic,PlayerDialogue,Custom,,,Why heal dog? Dog taste good.,,,
+Topic,PlayerDialogue,Custom,,,Should leave weak and injured to die.,,,
+Topic,PlayerDialogue,Custom,,,Why heal dog? Dog not human. Let dogs help dogs.,,,
+Topic,PlayerDialogue,Custom,,,Too bad. Strong know how to cook dog.,,,
+Topic,PlayerDialogue,Custom,,,"Should kill dog, not heal dog. Strong hungry.",,,
+Topic,PlayerDialogue,Custom,,,Why human help Strong? Strong not human.,,,
+Topic,PlayerDialogue,Custom,,,Humans help humans. Super mutant help super mutants. Human should not help Strong.,,"confused about this ""unnatural"" act",
+Topic,PlayerDialogue,Custom,,,Strong feel better. But human should not help Strong.,,,
+Topic,PlayerDialogue,Custom,,,Should let weak and injured die.,,,
+Topic,PlayerDialogue,Custom,,,Strong confused. Why human help? Super mutants only help super mutants.,,,
+Topic,PlayerDialogue,Custom,,,Stupid computers. Just smash.,,,
+Topic,PlayerDialogue,Custom,,,Stupid machines.,,,
+Topic,PlayerDialogue,Custom,,,Computers worthless. Waste of time.,,,
+Topic,PlayerDialogue,Custom,,,Strong bored. Need smash something.,,,
+Topic,PlayerDialogue,Custom,,,"Computer not work for Strong. Just sit there, with stupid words.",,,
+Topic,PlayerDialogue,Custom,,,Strong not like. Vertibird can fall.,,,
+Topic,PlayerDialogue,Custom,,,Vertibird? Human machine. Not for Strong.,,,
+Topic,PlayerDialogue,Custom,,,Vertibird worthy enemy. Many missiles to kill.,,,
+Topic,PlayerDialogue,Custom,,,Humans have too many machines. Machines make humans weak.,,,
+Topic,PlayerDialogue,Custom,,,"If Strong supposed to fly, Strong should have own wings.",,,
+Topic,PlayerDialogue,Custom,,,Human look like robot.,,,
+Topic,PlayerDialogue,Custom,,,Strong not need power armor.,,,
+Topic,PlayerDialogue,Custom,,,Power armor make human good fighter.,,,
+Topic,PlayerDialogue,Custom,,,Humans weak. Strong not want power armor.,,,
+Topic,PlayerDialogue,Custom,,,Bah! Power armor.,,Disdain,
+Topic,PlayerDialogue,Custom,,,Why humans like caps so much?,,,
+Topic,PlayerDialogue,Custom,,,Caps worthless. Can't eat them. Can't shoot them.,,,
+Topic,PlayerDialogue,Custom,,,Stupid humans. Caps useless.,,,
+Topic,PlayerDialogue,Custom,,,Leave caps. Worthless junk.,,,
+Topic,PlayerDialogue,Custom,,,Stupid caps. Make humans do stupid things.,,,
+Topic,PlayerDialogue,Custom,,,Human shouldn't drink. Make human lazy and bad fighter.,,,
+Topic,PlayerDialogue,Custom,,,Strong not want any.,,,
+Topic,PlayerDialogue,Custom,,,Stupid human. Drink make you weaker.,,,
+Topic,PlayerDialogue,Custom,,,You not good leader. Drink make human weak.,,,
+Topic,PlayerDialogue,Custom,,,Like should help like. Human should help human. It is good.,,,
+Topic,PlayerDialogue,Custom,,,Brothers give to brothers that need. It is right thing.,,,
+Topic,PlayerDialogue,Custom,,,Helping human in need is good thing. For humans.,,,
+Topic,PlayerDialogue,Custom,,,Give what is needed. That Super mutant way. Human to human. Super mutant to super mutant.,,,
+Topic,PlayerDialogue,Custom,,,That is good thing. Share with humans.,,,
+Topic,PlayerDialogue,Custom,,,Dog hurt. Can we eat it now?,,,
+Topic,PlayerDialogue,Custom,,,Dog weak. Weak must die.,,,
+Topic,PlayerDialogue,Custom,,,Dog hurt. Shall Strong finish dog off?,,,
+Topic,PlayerDialogue,Custom,,,Leave dog behind. It hurt bad.,,,
+Topic,PlayerDialogue,Custom,,,Dog dying. Should eat dog while fresh.,,,
+Topic,PlayerDialogue,Custom,,,Human trying to start trouble? Strong ready for a fight.,,,
+Topic,PlayerDialogue,Custom,,,Strong was getting bored. Let's smash!,,,
+Topic,PlayerDialogue,Custom,,,Haha yes human! Strong has your back.,,,
+Topic,PlayerDialogue,Custom,,,Shooting here. Better get ready for a fight.,,,
+Topic,PlayerDialogue,Custom,,,Yes human! Smash first. Talk later.,,,
+Topic,PlayerDialogue,Custom,,,Strong cannot run. Leg wounded.,,,
+Topic,PlayerDialogue,Custom,,,Strong leg hurt bad.,,,
+Topic,PlayerDialogue,Custom,,,Strong not need leg to smash.,,,
+Topic,PlayerDialogue,Custom,,,"Strong still strong, even if no legs.",,,
+Topic,PlayerDialogue,Custom,,,Strong's leg wounded.,,,
+Topic,PlayerDialogue,Custom,,,Strong not need head to smash.,,,
+Topic,PlayerDialogue,Custom,,,Strong head hurt. Head wounded.,,,
+Topic,PlayerDialogue,Custom,,,Strong not use head anyway. Strong use hammer.,,,
+Topic,PlayerDialogue,Custom,,,Strong not care if head hurt.,,,
+Topic,PlayerDialogue,Custom,,,Hah! Strong not fight with head. Strong fight with hammer!,,,
+Topic,PlayerDialogue,Custom,,,Strong's arm wounded.,,,
+Topic,PlayerDialogue,Custom,,,Strong cannot smash. Arm wounded.,,,
+Topic,PlayerDialogue,Custom,,,"If Strong cannot hold hammer, Strong smash with fist!",,defiant,
+Topic,PlayerDialogue,Custom,,,Strong still fight with broken arm.,,defiant,
+Topic,PlayerDialogue,Custom,,,Strong not care if arm hurt.,,defiant,
+Topic,PlayerDialogue,Custom,,,Chems bad.,,,
+Topic,PlayerDialogue,Custom,,,Super mutants don't use chems.,,,
+Topic,PlayerDialogue,Custom,,,Foolish human should not use chems.,,,
+Topic,PlayerDialogue,Custom,,,"Chems make human weak, not strong.",,,
+Topic,PlayerDialogue,Custom,,,Strong not like chems.,,,
+Topic,PlayerDialogue,Custom,,,Strong say many times. Chems bad.,,,
+Topic,PlayerDialogue,Custom,,,Bah! Chems are for weaklings.,,,
+Topic,PlayerDialogue,Custom,,,Chems make all humans weak.,,,
+Topic,PlayerDialogue,Custom,,,Human weak now. Chems make human weak.,,,
+Topic,PlayerDialogue,Custom,,,This why super mutants not use chems.,,,
+Topic,PlayerDialogue,Custom,,,Yes! Kill! Smash!,,,
+Topic,PlayerDialogue,Custom,,,Blood! Guts! Gore! Strong like.,,,
+Topic,PlayerDialogue,Custom,,,Human right to give pain. Pain makes other humans stronger.,,,
+Topic,PlayerDialogue,Custom,,,Strong see why human good fighter. Human like pain and death. Strong like pain and death.,,,
+Topic,PlayerDialogue,Custom,,,This good. Hurting weak ones drives them away. Make all humans strong.,,,
+Topic,PlayerDialogue,Custom,,,Human selfish. Bad human.,,,
+Topic,PlayerDialogue,Custom,,,Super mutant brothers share. Stupid humans greedy.,,,
+Topic,PlayerDialogue,Custom,,,See how super mutants better than humans. Super mutants not selfish.,,,
+Topic,PlayerDialogue,Custom,,,Why keep and not share? Strong share with brothers. Make all super mutants stronger.,,,
+Topic,PlayerDialogue,Custom,,,Stupid human. Keeping make all humans weak. Super mutants share with brothers.,,,
+Topic,PlayerDialogue,Custom,,,Hah! This why talking not good. Just smash.,,,
+Topic,PlayerDialogue,Custom,,,Hah! Waste of time. Time to smash.,,,
+Topic,PlayerDialogue,Custom,,,Foolish human. Why ask? Just take.,,,
+Topic,PlayerDialogue,Custom,,,Peace is human weakness. Super mutants fight.,,,
+Topic,PlayerDialogue,Custom,,,No time for human friendly. Let Strong smash.,,,
+Topic,PlayerDialogue,Custom,,,Not kill? Human weak. Should kill.,,,
+Topic,PlayerDialogue,Custom,,,Bah. Not enough killing.,,,
+Topic,PlayerDialogue,Custom,,,Human should kill the weak. Weak deserve to die.,,,
+Topic,PlayerDialogue,Custom,,,Why human not smash? Strong would have smashed.,,,
+Topic,PlayerDialogue,Custom,,,"Stupid human. Should fight, not talk.",,,
+Topic,PlayerDialogue,Custom,,,Bah! Human too nice to other humans.,,,
+Topic,PlayerDialogue,Custom,,,Was that kindness? Like milk of human kindness?,,,
+Topic,PlayerDialogue,Custom,,,Should be hard with humans. Teach them to be strong.,,,
+Topic,PlayerDialogue,Custom,,,Should not be weak with other humans.,,,
+Topic,PlayerDialogue,Custom,,,Only weak human would do that.,,,
+Topic,PlayerDialogue,Custom,,,Human is tough on other human. Is good leader.,,,
+Topic,PlayerDialogue,Custom,,,Life is hard. Humans should learn to be tough.,,,
+Topic,PlayerDialogue,Custom,,,Only strong humans survive. That human weak.,,,
+Topic,PlayerDialogue,Custom,,,Ha ha ha! Weak human.,,taunting,
+Topic,PlayerDialogue,Custom,,,That one is weak.,,,
+Topic,PlayerDialogue,Custom,,,Human help brother. Super mutants help brothers.,,,
+Topic,PlayerDialogue,Custom,,,Is this kindness? Like milk of human kindness. Show Strong more.,,,
+Topic,PlayerDialogue,Custom,,,Human give milk of kindness? Strong confused. Show Strong more.,,,
+Topic,PlayerDialogue,Custom,,,Humans help humans. Strong like. Super mutants help super mutants.,,,
+Topic,PlayerDialogue,Custom,,,Strong see what human did. Human did good thing.,,,
+Scene,SceneDialogue,Custom,,Player Default: I can tell. Why don't you tell me about it.,More talk. Bah!,"Strong: Human was best leader. As good as super mutant. Still good leader, but Strong worried.",,COMStrong_07_RepeatInfatuationToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: I don't care. Just do your job.,Ah! Now Strong angrier.,"Strong: Human was best leader. As good as super mutant. Still good leader, but Strong worried.",,COMStrong_07_RepeatInfatuationToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: I'm angry too.,Good. Maybe Human get better.,"Strong: Human was best leader. As good as super mutant. Still good leader, but Strong worried.",,COMStrong_07_RepeatInfatuationToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: What did I do wrong Strong?,Make Strong doubt Human.,"Strong: Human was best leader. As good as super mutant. Still good leader, but Strong worried.",,COMStrong_07_RepeatInfatuationToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: More talk. Bah!,"Human was best leader. As good as super mutant. Still good leader, but Strong worried.",,,COMStrong_07_RepeatInfatuationToAdmiration
+Scene,SceneDialogue,Custom,,,Too much nice talk. Too much taking. No sharing. No smashing.,,,COMStrong_07_RepeatInfatuationToAdmiration
+Scene,SceneDialogue,Custom,,,Strong still follow Human. For now.,,,COMStrong_07_RepeatInfatuationToAdmiration
+Scene,SceneDialogue,Custom,,,Strong done. We go now.,,,COMStrong_07_RepeatInfatuationToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: I'm sorry about that. Tell me what's wrong.,Human doing wrong things.,Strong: Human good fighter. Bad leader.,,COMStrong_08_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,Player Default: Nobody cares. We'll find something to smash eventually.,Ah! Human make Strong more mad.,,,COMStrong_08_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,,Human bad leader. Maybe Strong leave some day.,Strong: Human good fighter. Bad leader.,,COMStrong_08_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,Player Default: This is a bad time. Can't it wait?,Cannot wait. Hear Strong now.,Strong: Human good fighter. Bad leader.,,COMStrong_08_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,Player Default: What's the problem?,Human is problem.,Strong: Human good fighter. Bad leader.,,COMStrong_08_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,Player Default: Human doing wrong things.,Human good fighter. Bad leader.,,,COMStrong_08_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,,Too much nice talking. Need more smashing. Too much taking. Need more sharing.,,,COMStrong_08_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,,"Human not change, Strong leave someday.",,,COMStrong_08_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,,Strong done. Go now.,,,COMStrong_08_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,Player Default: Respect is a good word.,Strong respect human.,Strong: Human fight good. Human help Strong.,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: You're too stupid to understand respect.,Strong not stupid! Strong great warrior!,Strong: Human fight good. Human help Strong.,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,"Player Default: Respect is good, but fear is better.",Fear good too. Strong not fear human. Strong respect human.,Strong: Human fight good. Human help Strong.,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: Are you saying you respect me?,Yes. Strong respect human.,Strong: Human fight good. Human help Strong.,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: Strong respect human.,Human fight good. Human help Strong.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,Super Mutants are brothers. Brothers share all. Not own things like humans. Human share like brother.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,Super Mutants fight. Kill not talk. Human kill not talk.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,Human would be good Super Mutant.,Player Default: Thank you Strong. I respect you too.,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: Thank you Strong. I respect you too.,Of course. Strong is strong.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: You're an idiot. All Super Mutants are idiots. I would never want to be one.,Not idiots! Super Mutants good fighters. Strong great warrior.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, yeah, I like you too. No hugs though. I like my spine the way it is.",What is hug?,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,No matter. Strong and human have respect now.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,"Player Default: Wait, you like killing and sharing?",All Super Mutants one. Together.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,Share all make better fighters. All Super Mutants against all others.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,All humans one. Together. All humans against all others.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,Fight together. Kill all others.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,Human and Strong fight together. Share together. Human and Strong one.,,,COMStrong_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: Yes. I'll honor my promise.,Good. Strong travel with human.,,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,,Human help Strong find milk of human kindness.,,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,,Strong learn secret of humans.,"Companion: Well, he's a brutish one.",,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Yes. I'll honor my promise.,Strong travel with human.,"Companion: Well, he's a brutish one.",,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,"Player Default: Not yet, but soon.",Hurry. Strong no like waiting.,"Companion: Well, he's a brutish one.",,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: We need to swap some gear.,"Strong use hammer, hunting rifle, and lasers. Not use other guns or armor. Those for puny humans.","Companion: Well, he's a brutish one.",,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: We need to swap some gear.,Strong can carry more than puny humans.,"Companion: Well, he's a brutish one.",,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: We need to swap some gear.,Okay.,"Companion: Well, he's a brutish one.",,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Why do you want to find this milk of human kindness?,Milk is secret to humans. Mack Beth say milk make humans strong. Stronger than super mutants.,,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,,Strong find milk. Drink milk. Make super mutants stronger than humans.,Player Default: Yes. I'll honor my promise.,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,Robot stop squawking. Strong smash.,,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,"Don't worry, Strong smash enemy.",,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,"Goodbye, Mack Ree Dee.",,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,Metal man make Strong mad!,,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,Go away dog!,,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,Roboman not tell Strong what to do.,,Stern,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,Strong always know what Strong doing. Human not worry about me.,,Stern,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,Keep robot away from Strong. Strong no like.,,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,Keep little woman away from Strong. Strong no like.,,,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,Strong say same about little lady.,,Stern,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,No fun. Milk of human kindness is business.,,Stern,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: Strong learn secret of humans.,Strong protect by crushing enemies.,,A brute / Stern,COMStrongPickUpScene
+Scene,SceneDialogue,Custom,,,Not need Strong?,Player Default: Yes. Stay with me.,,COMStrongDismissScene
+Scene,SceneDialogue,Custom,,Player Default: Yes. Stay with me.,Human confusing.,,,COMStrongDismissScene
+Scene,SceneDialogue,Custom,,"Player Default: No, I don't need you any more.",Strong go home. Practice smashing.,,,COMStrongDismissScene
+Scene,SceneDialogue,Custom,,Player Default: I'll come back for you. Sometime.,Sometime? Don't make Strong wait long time.,,,COMStrongDismissScene
+Scene,SceneDialogue,Custom,,Player Default: Where will you go?,Go home. Place you choose.,Player Default: Yes. Stay with me.,,COMStrongDismissScene
+Scene,SceneDialogue,Custom,,Player Default: Okay. Tell me what you decided.,Hard decision for Strong. Think until head hurt.,Strong: You good fighter. Good as super mutant. Fight beside Strong many times.,,COMStrong_03_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,Player Default: I really don't care.,Strong make mistake. Change decision.,,,COMStrong_03_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,Human not worthy.,Strong: You good fighter. Good as super mutant. Fight beside Strong many times.,,COMStrong_03_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,Player Default: A decision? You're making me nervous.,Only weak worry. You not weak.,Strong: You good fighter. Good as super mutant. Fight beside Strong many times.,,COMStrong_03_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,Player Default: What did you decide?,Decide us. You and Strong.,Strong: You good fighter. Good as super mutant. Fight beside Strong many times.,,COMStrong_03_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,Player Default: Hard decision for Strong. Think until head hurt.,You good fighter. Good as super mutant. Fight beside Strong many times.,,,COMStrong_03_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,You good leader. Better than Fist. Strong follow you always.,,,COMStrong_03_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,You now Strong's leader.,,,COMStrong_03_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: Okay, I'm listening.",Good. Do as Strong say.,Strong: Super mutants share with super mutants. Humans should share with humans. This human bad at sharing.,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: More of your mangled speech? Hell no.,Bah! Human bad leader.,Strong: Super mutants share with super mutants. Humans should share with humans. This human bad at sharing.,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: Make it quick. We have things to do.,Things wait.,Strong: Super mutants share with super mutants. Humans should share with humans. This human bad at sharing.,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: What's the problem, Strong?",Human is problem.,Strong: Super mutants share with super mutants. Humans should share with humans. This human bad at sharing.,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: Good. Do as Strong say.,Super mutants share with super mutants. Humans should share with humans. This human bad at sharing.,,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,,Human not fight. Let other humans see human is weak. Too much talk. Need more smashing.,,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,,Human bad leader. Strong think maybe go away.,Player Default: I'll try to be better. More sharing and smashing.,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: I'll try to be better. More sharing and smashing.,Good. Strong still want to find milk of human kindness.,,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,,Need human to find milk.,,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: I'll do what I want. Remember your place.,Strong right. Human bad leader.,,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Not think. Do.,,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: Sharing and smashing? Those don't go together.,All things for all super mutants. Super mutants not own things like humans. All share.,,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,,"Good fighters strong. Good talkers weak. Other human not obey, smash, not talk.",,,COMStrong_05_NeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: Whoa! Calm down big guy.,Not calm down.,Strong: Human horrible leader. Human do all things wrong.,,COMStrong_06_DisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: So what. Tell me something new.,Ah!,Strong: Human horrible leader. Human do all things wrong.,,COMStrong_06_DisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: Let's talk about this later.,No later. Now.,Strong: Human horrible leader. Human do all things wrong.,,COMStrong_06_DisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: What's got you angry?,Human make Strong angry.,Strong: Human horrible leader. Human do all things wrong.,,COMStrong_06_DisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: Not calm down.,Human horrible leader. Human do all things wrong.,,,COMStrong_06_DisdainToHatred
+Scene,SceneDialogue,Custom,,,Human take from other humans. Not give. Not share.,,,COMStrong_06_DisdainToHatred
+Scene,SceneDialogue,Custom,,,Human always talk when should fight. Human always look weak to other humans.,,,COMStrong_06_DisdainToHatred
+Scene,SceneDialogue,Custom,,"Player Default: I'm still strong. But I am strong like a human, not a super mutant.",Gah! Strong doesn't understand humans. How can human weak not be same as super mutant weak?,Strong: Strong still follow human. For now.,Angry and confused,COMStrong_09_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: Don't question me. I am your leader. You obey.,Hah! Now human not act weak. Strong like.,Strong: Strong still follow human. For now.,approving,COMStrong_09_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: If you want the milk of human kindness, you'll follow me.",Strong still wants milk.,Strong: Strong still follow human. For now.,grudging,COMStrong_09_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: Do you have other plans? You're the one that wants the milk of human kindness.,No plans. Super mutants not make plans.,,disdain,COMStrong_09_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,,"Help Strong find milk, then Strong done with human.",Strong: Strong still follow human. For now.,sullen,COMStrong_09_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: Gah! Strong doesn't understand humans. How can human weak not be same as super mutant weak?,Strong still follow human. For now.,,sullen,COMStrong_09_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: I'm sorry you feel that way.,Feeling. Always feeling with human.,,,COMStrong_10_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,,"Strong want fighting and killing. Human just talk, talk, talk.",,,COMStrong_10_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,,Strong leave human now.,,,COMStrong_10_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: Go ahead and leave. I couldn't care less.,Strong leave now. Human not make Strong stay. Human bad leader.,,,COMStrong_10_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: That's your choice. I'm not going to force you to stay.,No human can force Strong. Strong find new brothers to fight with.,,,COMStrong_10_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: What did I do to make you so angry?,Human bad fighter. Bad leader. Human trick Strong. Human never help Strong find milk of human kindness.,,,COMStrong_10_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,,Strong leave now.,,,COMStrong_10_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: Thanks big guy. That means a lot.,Strong follow you anywhere. You are Strong's brother.,,,COMStrong_11_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,Player Default: Again? Didn't we already go through this before? Make up your damn mind.,Strong's mind made up. You are Strong's brother. Strong's leader.,,,COMStrong_11_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: If it makes you happy, sure. Why not.",Good.,,,COMStrong_11_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,Player Default: Why is that?,You show Strong you know how to fight. How to fight and how to lead.,,,COMStrong_11_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,Strong follow you always.,,,COMStrong_11_RepeatAdmirationToInfatuation
+Combat,Combat,BleedOut,,,Hold them off human. Strong hurt.,,,
+Combat,Combat,BleedOut,,,Aggh...Strong hit bad.,,,
+Combat,Combat,BleedOut,,,"Hold them off, human. Strong hurt bad.",,,
+Combat,Combat,BleedOut,,,Strong... need... rest...,,,
+Combat,Combat,BleedOut,,,Strong hurt bad.,,,
+Combat,Combat,ThrowGrenade,,,Strong make you explode!,,,
+Combat,Combat,Attack,,,Strong smash!,,,
+Combat,Combat,PowerAttack,,,Strong kill!,,,
+Combat,Combat,Taunt,,,Nothing can beat Strong!,,,
+Favors,Favor,PathingRefusal,,,Strong can't.,,,
+Favors,Favor,PathingRefusal,,,Strong can't do that.,,,
+Favors,Favor,PathingRefusal,,,Strong not know how.,,,
+Favors,Favor,PathingRefusal,,,Strong can't get there.,,,
+Favors,Favor,Agree,,,"Lead, human.",,,
+Favors,Favor,Agree,,,Strong will follow.,,,
+Favors,Favor,Agree,,,Strong understand.,,,
+Favors,Favor,Agree,,,Stay here? Strong confused.,,,
+Favors,Favor,Agree,,,Strong wait here.,,,
+Favors,Favor,Agree,,,Don't forget Strong. Come back.,,,
+Favors,Favor,Agree,,,Okay.,,,
+Favors,Favor,Agree,,,Strong can do that.,,,
+Favors,Favor,Agree,,,Will do.,,,
+Favors,Favor,Agree,,,Leave it to Strong.,,,
+Favors,Favor,Agree,,,Good idea human.,,,
+Favors,Favor,Agree,,,Strong will get it done.,,,
+Favors,Favor,ExitFavorState,,,Let Strong know if need him.,,,
+Favors,Favor,ExitFavorState,,,Okay human.,,,
+Favors,Favor,ExitFavorState,,,Good.,,,
+Favors,Favor,ExitFavorState,,,Strong will be here.,,,
+Favors,Favor,ExitFavorState,,,Okay.,,,
+Favors,Favor,ExitFavorState,,,Strong have smashing to do anyway.,,,
+Favors,Favor,MoralRefusal,,,Can't do that human.,,,
+Favors,Favor,MoralRefusal,,,Strong not want to do that.,,,
+Favors,Favor,MoralRefusal,,,No! Not ask Strong to do that again.,,,
+Favors,Favor,MoralRefusal,,,Strong never do that.,,,
+Favors,Favor,MoralRefusal,,,Do it yourself human.,,,
+Favors,Favor,MoralRefusal,,,No.,,,
+Favors,Favor,Refuse,,,"Sorry human, can't.",,,
+Favors,Favor,Refuse,,,Can't help human with that.,,,
+Favors,Favor,Refuse,,,Strong not able to do that.,,,
+Favors,Favor,Refuse,,,Can't do that.,,,
+Favors,Favor,Refuse,,,Not do that. Sorry.,,,
+Favors,Favor,Show,,,What?,,,
+Favors,Favor,Show,,,Yes human?,,,
+Favors,Favor,Show,,,What you need?,,,
+Favors,Favor,Show,,,Strong listening.,,,
+Favors,Favor,Show,,,Need Strong to smash something?,,,
+Favors,Favor,Show,,,Tell Strong what to do.,,,
+Favors,Favor,Show,,,,,Just a grunt,
+Favors,Favor,Show,,,What needs smashing?,,,
+Favors,Favor,Show,,,What?,,Irritated / Irritated,
+Favors,Favor,Trade,,,Give to me human.,,,
+Favors,Favor,Trade,,,Strong can carry for you.,,,
+Favors,Favor,Trade,,,You share with Strong?,,,
+Favors,Favor,Trade,,,Here.,,,
+Favors,Favor,Trade,,,This what Strong carrying for human.,,,
+Favors,Favor,Trade,,,Strong can carry a lot.,,,
+Detection,Detection,NormalToLost,,,Ha! Run away like cowards. Afraid of Strong.,,,
+Detection,Detection,AlertToCombat,,,Strong find you!,,,
+Detection,Detection,AlertToNormal,,,Nothing. But Strong still watch.,,,
+Detection,Detection,NormalToAlert,,,Show yourself coward! Fight Strong!,,,
+Detection,Detection,NormalToAlert,,,Strong will find you and smash you dead!,,,
+Detection,Detection,NormalToAlert,,,Find them human!,,,
+Detection,Detection,CombatToLost,,,Strong not see. Must be gone.,,,
+Detection,Detection,CombatToNormal,,,All dead. Strong is winner!,,,
+Detection,Detection,LostToCombat,,,Strong find! Strong smash!,,,
+Detection,Detection,LostToNormal,,,Strong bored.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Speak, human.",,impatient,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Well?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Human confused?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,,,A loud belch,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Is brain stuck?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Human smells funny.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Say something.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Why human not talking?,,,
+Miscellaneous,Miscellaneous,Hello,,,Go away! Strong just want to smash human.,,,
+Miscellaneous,Miscellaneous,Hello,,,Leave filthy human!,,,
+Miscellaneous,Miscellaneous,Hello,,,Go away!,,,
+Miscellaneous,Miscellaneous,Hello,,,Strong will gnaw on human's bones if human stays.,,,
+Miscellaneous,Miscellaneous,Hello,,,Strong smash if puny human keeps talking.,,,
+Miscellaneous,Miscellaneous,Hello,,,You great fighter. Strong follow you always.,,,
+Miscellaneous,Miscellaneous,Hello,,,Strong protect you. Humans say 'got your back.',,,
+Miscellaneous,Miscellaneous,Hello,,,You like brother to Strong.,,,
+Miscellaneous,Miscellaneous,Hello,,,Strong wish he understand you better.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Strong wish you were super mutant, not human.",,,
+Miscellaneous,Miscellaneous,Hello,,,Human good fighter. Be Strong's leader for now.,,,
+Miscellaneous,Miscellaneous,Hello,,,Strong fight with human.,,,
+Miscellaneous,Miscellaneous,Hello,,,Strong see many new things with human.,,,
+Miscellaneous,Miscellaneous,Hello,,,Strong protect human.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Human should have green skin, like Strong.",,,
+Miscellaneous,Miscellaneous,Hello,,,Sometimes Strong not understand human.,,,
+Miscellaneous,Miscellaneous,Hello,,,Puny human needs Strong.,,,
+Miscellaneous,Miscellaneous,Hello,,,Walk and talk boring. Human should fight more.,,,
+Miscellaneous,Miscellaneous,Hello,,,Human carry so much. Strong only need hammer.,,,
+Miscellaneous,Miscellaneous,Hello,,,Strong bored. Strong want to kill something.,,,
+Miscellaneous,Miscellaneous,Hello,,,Human slow and weak.,,,
+Miscellaneous,Miscellaneous,Hello,,,Strong wonder why humans so ugly.,,,
+Miscellaneous,Miscellaneous,Hello,,,Human bad leader. Maybe Strong should be leader and human follow.,,,
+Miscellaneous,Miscellaneous,Hello,,,Human not worthy foe.,,,
+Miscellaneous,Miscellaneous,Hello,,,Strong getting tired of following stupid human.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Strong make decision.,Player Default: Okay. Tell me what you decided.,,COMStrong_03_AdmirationToInfatuation
+Miscellaneous,Miscellaneous,Greeting,,,Strong learn new word. Strong learn 'respect.',Player Default: Respect is a good word.,,COMStrong_01_NeutralToAdmiration
+Miscellaneous,Miscellaneous,Greeting,,,Human. Listen to Strong.,"Player Default: Okay, I'm listening.",,COMStrong_05_NeutralToDisdain
+Miscellaneous,Miscellaneous,Greeting,,,Strong mad. Strong angry.,Player Default: Whoa! Calm down big guy.,,COMStrong_06_DisdainToHatred
+Miscellaneous,Miscellaneous,Greeting,,,Go find milk of human kindness with Strong.,Player Default: Yes. I'll honor my promise.,,COMStrongPickUpScene
+Miscellaneous,Miscellaneous,Greeting,,,Strong go with human.,Player Default: Yes. I'll honor my promise.,,COMStrongPickUpScene
+Miscellaneous,Miscellaneous,Greeting,,,Strong angry.,Player Default: I can tell. Why don't you tell me about it.,,COMStrong_07_RepeatInfatuationToAdmiration
+Miscellaneous,Miscellaneous,Greeting,,,Strong mad.,Player Default: I'm sorry about that. Tell me what's wrong.,,COMStrong_08_RepeatAdmirationToNeutral
+Miscellaneous,Miscellaneous,Greeting,,,Human is weak. Why should Strong follow weak human?,"Player Default: I'm still strong. But I am strong like a human, not a super mutant.",Sneering,COMStrong_09_RepeatNeutralToDisdain
+Miscellaneous,Miscellaneous,Greeting,,,Enough! Strong Done! No more!,Player Default: I'm sorry you feel that way.,Furious,COMStrong_10_RepeatDisdainToHatred
+Miscellaneous,Miscellaneous,Greeting,,,Strong change mind. Strong think you good leader. Best leader.,Player Default: Thanks big guy. That means a lot.,Furious,COMStrong_11_RepeatAdmirationToInfatuation
+Miscellaneous,Miscellaneous,SharedInfo,,,Strong like.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Yes!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Huh.,,Non-committal grunt,
+Miscellaneous,Miscellaneous,SharedInfo,,,That stupid.,,"""that"" not ""That's""   He has a bad understanding of grammar.",
+Miscellaneous,Miscellaneous,SharedInfo,,,Strong confused.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Strong not like.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,That good. Strong like.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Bah! Stupid human.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Foolish human.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Yes.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Strong obey.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Strong will do.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Strong agree.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,No.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Will not.,,refusing,
+Miscellaneous,Miscellaneous,SharedInfo,,,Strong say no.,,emphatic,
+Miscellaneous,Miscellaneous,SharedInfo,,,Take.,,Telling the player to take this,
+Miscellaneous,Miscellaneous,SharedInfo,,,Strong give.,,Telling the player to take this,
+Miscellaneous,Miscellaneous,SharedInfo,,,Strong take.,,accepting an item.,
+Miscellaneous,Miscellaneous,SharedInfo,,,Huh.,,Grunt of acceptance,
+Miscellaneous,Miscellaneous,Idle,,,"Human, you know these other humans?",,,
+Miscellaneous,Miscellaneous,Idle,,,Human hungry? Strong have meat to share.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong have extra meat. Take some human.,,,
+Miscellaneous,Miscellaneous,Idle,,,You are best leader Strong know.,,,
+Miscellaneous,Miscellaneous,Idle,,,You are great warrior.,,,
+Miscellaneous,Miscellaneous,Idle,,,Together we find milk of human kindness.,,,
+Miscellaneous,Miscellaneous,Idle,,,Your last kill made Strong proud.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong stay with you always.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong conquer all super mutants for you.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong hope you never send him away.,,,
+Miscellaneous,Miscellaneous,Idle,,,Together we smash everything.,,,
+Miscellaneous,Miscellaneous,Idle,,,You fight like behemoth.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong is yours to command.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human is good leader.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human is good warrior.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong protect human friend.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human smash almost as good as Strong.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong glad human is with him.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong smash human's enemies.,,,
+Miscellaneous,Miscellaneous,Idle,,,Hope we find milk of human kindness soon.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human's last kill was good.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong learn new fighting tricks from human.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Human small, but tough.",,,
+Miscellaneous,Miscellaneous,Idle,,,Strong hope we find milk of human kindness soon.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong want to smash something.,,,
+Miscellaneous,Miscellaneous,Idle,,,Humans talk too much.,,,
+Miscellaneous,Miscellaneous,Idle,,,World is bigger than Strong knew.,,,
+Miscellaneous,Miscellaneous,Idle,,,Someday super mutants kill everything.,,,
+Miscellaneous,Miscellaneous,Idle,,,So much walking. Want to do more fighting.,,,
+Miscellaneous,Miscellaneous,Idle,,,So many humans. Not many super mutants.,,,
+Miscellaneous,Miscellaneous,Idle,,,Humans all look funny.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong getting hungry. Want someone to eat.,,,
+Miscellaneous,Miscellaneous,Idle,,,Fist was weak leader. Strong glad to be rid of him.,,,
+Miscellaneous,Miscellaneous,Idle,,,Find milk of human kindness soon or Strong smash you.,,,
+Miscellaneous,Miscellaneous,Idle,,,"You puny, just like all humans.",,,
+Miscellaneous,Miscellaneous,Idle,,,Maybe Strong make mistake following human.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human's last kill was weak.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong think human might be liar.,,,
+Miscellaneous,Miscellaneous,Idle,,,Maybe Strong should leave human. Find milk of human kindness alone.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human fight like scared radroach.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong need to kill something soon. Maybe kill human.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Walk, walk, walk. When we fight something?",,,
+Miscellaneous,Miscellaneous,Idle,,,Someday super mutants kill all humans.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong hate human!,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong want to smash human!,,,
+Miscellaneous,Miscellaneous,Idle,,,Human is worthless!,,,
+Miscellaneous,Miscellaneous,Idle,,,Go away!,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong should make gore bag out of human.,,,
+Miscellaneous,Miscellaneous,Idle,,,Leave before Strong smash!,,,
+Miscellaneous,Miscellaneous,Idle,,,"Steel men are hard outside, but soft inside.",,,
+Miscellaneous,Miscellaneous,Idle,,,These humans hide in steel armor.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong smash steel humans.,,,
+Miscellaneous,Miscellaneous,Idle,,,Steel men are worthy warriors.,,,
+Miscellaneous,Miscellaneous,Idle,,,Humans need steel armor to fight as good as Strong.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong like to squish bugs.,,,
+Miscellaneous,Miscellaneous,Idle,,,Bug stings burn.,,,
+Miscellaneous,Miscellaneous,Idle,,,Flying bugs hard to hit.,,,
+Miscellaneous,Miscellaneous,Idle,,,Don't eat bugs. Taste awful.,,Giving advice.,
+Miscellaneous,Miscellaneous,Idle,,,,,A loud belch,
+Miscellaneous,Miscellaneous,Idle,,,Smash all bugs.,,,
+Miscellaneous,Miscellaneous,Idle,,,Some humans like glow.,,,
+Miscellaneous,Miscellaneous,Idle,,,All humans sound same when they die.,,,
+Miscellaneous,Miscellaneous,Idle,,,These humans not have milk of human kindness.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong kill these humans.,,,
+Miscellaneous,Miscellaneous,Idle,,,Deathclaws. Worthy foes.,,,
+Miscellaneous,Miscellaneous,Idle,,,Need many brothers to hunt Deathclaws.,,,
+Miscellaneous,Miscellaneous,Idle,,,Deathclaws fast. Deathclaws strong. Deathclaws hard.,,,
+Miscellaneous,Miscellaneous,Idle,,,Only great warriors can kill Deathclaws.,,,
+Miscellaneous,Miscellaneous,Idle,,,Must keep moving to kill Deathclaw. Circle and circle and circle.,,,
+Miscellaneous,Miscellaneous,Idle,,,Ghouls not worthy foes. Bad warriors.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Human, shoot ghouls. Don't let ghouls get close.",,,
+Miscellaneous,Miscellaneous,Idle,,,Watch for glow. Ghouls with glow are bad.,,,
+Miscellaneous,Miscellaneous,Idle,,,Ghoul flesh taste bad.,,,
+Miscellaneous,Miscellaneous,Idle,,,Worthless glowy ghouls.,,,
+Miscellaneous,Miscellaneous,Idle,,,These humans use tough armor.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong smash puny human gunners.,,,
+Miscellaneous,Miscellaneous,Idle,,,Gunners good fighters.,,,
+Miscellaneous,Miscellaneous,Idle,,,These humans worthy foes.,,,
+Miscellaneous,Miscellaneous,Idle,,,Maybe these humans have milk of kindness.,,,
+Miscellaneous,Miscellaneous,Idle,,,Mirelurks.,,,
+Miscellaneous,Miscellaneous,Idle,,,Mirelurks smell fishy. Strong hate fishy.,,,
+Miscellaneous,Miscellaneous,Idle,,,Smash Mirelurk face. It softest part.,,,
+Miscellaneous,Miscellaneous,Idle,,,Mirelurks smell bad but taste good.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong smash Mirelurks.,,,
+Miscellaneous,Miscellaneous,Idle,,,Puny little mole rats.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong smash mole rats.,,,
+Miscellaneous,Miscellaneous,Idle,,,Mole rats worthless fighters.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong hear humans say Mole rats annoying. Strong agree.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong not like mole rat tunnels.,,,
+Miscellaneous,Miscellaneous,Idle,,,These humans weak.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong smash puny human raiders.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Strong can kill three raiders, one blow.",,,
+Miscellaneous,Miscellaneous,Idle,,,Raiders like war paint. Hide ugly faces.,,,
+Miscellaneous,Miscellaneous,Idle,,,Maybe these humans have milk of human kindness.,,,
+Miscellaneous,Miscellaneous,Idle,,,Robots hard to fight.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong smash robots.,,,
+Miscellaneous,Miscellaneous,Idle,,,Why fight robots? Can't eat steel.,,,
+Miscellaneous,Miscellaneous,Idle,,,Humans make robots. Stupid humans.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong hate robots.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong hate fighting brothers.,,,
+Miscellaneous,Miscellaneous,Idle,,,We should go. Super mutants need milk of human kindness.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong's brothers fight well. Good warriors.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong angry at human. Human make Strong kill brothers.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong smash.,,,
+Miscellaneous,Miscellaneous,Idle,,,False men should fear Strong.,,,
+Miscellaneous,Miscellaneous,Idle,,,Robot try to be humans. Stupid robots.,,,
+Miscellaneous,Miscellaneous,Idle,,,Why fight false men. Can't eat them.,,,
+Miscellaneous,Miscellaneous,Idle,,,Institute fighters. Strong will destroy you.,,,
+Miscellaneous,Miscellaneous,Idle,,,Super mutants smash all false men.,,,
+Miscellaneous,Miscellaneous,Idle,,,Super mutants eat animals. Animals taste good.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong smash.,,,
+Miscellaneous,Miscellaneous,Idle,,,Animals easy kills.,,,
+Miscellaneous,Miscellaneous,Idle,,,Yao Guai hard. Other animals easy.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong smell blood and fur.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human flying machines. Strong not like.,,,
+Miscellaneous,Miscellaneous,Idle,,,Big place. Big buildings. Big stone flat places.,,,
+Miscellaneous,Miscellaneous,Idle,,,Best to stay on ground. Falling very dangerous.,,,
+Miscellaneous,Miscellaneous,Idle,,,How machine fly? Is too heavy.,,,
+Miscellaneous,Miscellaneous,Idle,,,Humans odd. Try to be bird. Strong only want to be Strong.,,,
+Miscellaneous,Miscellaneous,Idle,,,Smells like beer.,,,
+Miscellaneous,Miscellaneous,Idle,,,Stupid human drinking. Makes bad warriors.,,,
+Miscellaneous,Miscellaneous,Idle,,,Beer not hurt Strong. Weak human drink.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong like this place. Humans like beer. This good trap for humans.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Human, this not milk of human kindness. Only human beer.",,,
+Miscellaneous,Miscellaneous,Idle,,,Cave safe place. Building better.,,,
+Miscellaneous,Miscellaneous,Idle,,,No sun. Cave get cold.,,,
+Miscellaneous,Miscellaneous,Idle,,,Hear that human? Something here. Maybe Ghouls or crazy humans.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Not worry human, monsters not scariest thing in cave. Strong is scariest thing in cave.",,,
+Miscellaneous,Miscellaneous,Idle,,,Quiet here. Strong like this cave.,,,
+Miscellaneous,Miscellaneous,Idle,,,No defenses. Strong not like.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong not need tent. Strong sleep on ground.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Bah! Human stuff, too puny for Strong.",,,
+Miscellaneous,Miscellaneous,Idle,,,"Take, human, take. It okay, you both human.",,,
+Miscellaneous,Miscellaneous,Idle,,,Old human machines here. Good loot.,,,
+Miscellaneous,Miscellaneous,Idle,,,Just like Institute...Better hope Strong never find you.,,,
+Miscellaneous,Miscellaneous,Idle,,,What these do? Make milk of human kindness?,,,
+Miscellaneous,Miscellaneous,Idle,,,"These machines not work. Strong not break, broken when Strong got here.",,,
+Miscellaneous,Miscellaneous,Idle,,,"Careful human, this good place for a trap.",,,
+Miscellaneous,Miscellaneous,Idle,,,Strong like this place. Make good base for brothers.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong not understand this place.,,,
+Miscellaneous,Miscellaneous,Idle,,,No place for guns. No place for machines. Just beds and tables.,,,
+Miscellaneous,Miscellaneous,Idle,,,Damn Institute. Not hurt Strong anymore.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Maybe find chems here. Make human stronger, but still no match for Strong.",,,
+Miscellaneous,Miscellaneous,Idle,,,"If anyone hiding here, come out. Strong not hurt you...just smash you a little.",,,
+Miscellaneous,Miscellaneous,Idle,,,This big place. Why need so much space for puny humans?,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong not like this place. This place bad.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Strong not scared of this place, just not want to stay here anymore.",,,
+Miscellaneous,Miscellaneous,Idle,,,Ugh science stuff. Strong hate science stuff. What even science do?,,,
+Miscellaneous,Miscellaneous,Idle,,,Humans think they so smart. Not smart enough to escape smashing.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human ever seen Institute? Strong not remember much. Not like what remember though.,,,
+Miscellaneous,Miscellaneous,Idle,,,Stick close human. Strong know this place.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Confusing here, lots where to go. Easy to get lost.",,,
+Miscellaneous,Miscellaneous,Idle,,,Hmm. Strong not think we alone.,,,
+Miscellaneous,Miscellaneous,Idle,,,This go to many places. Good shortcut for super mutants. Dangerous for puny humans.,,,
+Miscellaneous,Miscellaneous,Idle,,,This not safe place to stop. Never know what living here.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Good human, lots of weapons here. Finally find somewhere useful.",,,
+Miscellaneous,Miscellaneous,Idle,,,Find something big and loud for Strong to use.,,,
+Miscellaneous,Miscellaneous,Idle,,,Why humans need big strong weapons? Humans so easy to kill.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong not understand why humans fight other humans? For milk of human kindness maybe.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Human, don't leave ammo. Can never have enough ammo.",,,
+Miscellaneous,Miscellaneous,Idle,,,Keep going human. Strong bored. Might start smashing everything so bored.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Strong not care about stupid human stuff, just want milk of human kindness.",,,
+Miscellaneous,Miscellaneous,Idle,,,Bah! Human trophies boring. Severed heads and spleens better.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong not understand humans. Humans not understand super mutants. That just how it is.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Come on human, nothing to see here.",,,
+Miscellaneous,Miscellaneous,Idle,,,"Ugh, so bored. Strong want to smash something, anything!",,,
+Miscellaneous,Miscellaneous,Idle,,,Why humans like nature? Just dirt and plants.,,,
+Miscellaneous,Miscellaneous,Idle,,,Not safe to stand outside. Should find somewhere safer.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Human, not matter how hungry, not eat dirt. Trust Strong. Taste like dirt.",,,
+Miscellaneous,Miscellaneous,Idle,,,What humans do here? Collect human junk?,,,
+Miscellaneous,Miscellaneous,Idle,,,"Look like lots of humans here. Knowing humans, probably all dead now.",,,
+Miscellaneous,Miscellaneous,Idle,,,"Words on machines, words on papers, Strong not understand why humans like words so much.",,,
+Miscellaneous,Miscellaneous,Idle,,,"Look human, useless human things, you like useless human things.",,,
+Miscellaneous,Miscellaneous,Idle,,,"This good place to hide, if Strong was coward human.",,,
+Miscellaneous,Miscellaneous,Idle,,,"This good place for little humans, but not good for Strong.",,,
+Miscellaneous,Miscellaneous,Idle,,,Hmm. What this? Maybe used for smashing little humans?,,,
+Miscellaneous,Miscellaneous,Idle,,,"Strong will keep lookout, maybe Ghouls or Raiders nearby.",,,
+Miscellaneous,Miscellaneous,Idle,,,Why come here? To find milk of human kindness?,,,
+Miscellaneous,Miscellaneous,Idle,,,"Strong not see anything useful here, unless you are little human.",,,
+Miscellaneous,Miscellaneous,Idle,,,Strong not understand this place. Just look like big hole to Strong.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Don't fall human, not useful to Strong with broken neck.",,,
+Miscellaneous,Miscellaneous,Idle,,,Need something big to make hole like this.,,,
+Miscellaneous,Miscellaneous,Idle,,,Go first human. Strong follow you. Keep watch for danger.,,,
+Miscellaneous,Miscellaneous,Idle,,,Humans make hole for reason. Maybe something good there.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human camp not look safe.,,,
+Miscellaneous,Miscellaneous,Idle,,,Come out puny humans. Strong not bite. Just crush skull.,,,
+Miscellaneous,Miscellaneous,Idle,,,This place smashed good. Was not Strong. Maybe brothers though.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human camp destroyed. No traps or walls to protect them.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Maybe find something useful here. You look, Strong will smash.",,,
+Miscellaneous,Miscellaneous,Idle,,,All smashed up around here.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Humans, Super mutants, Freaks, very busy around here.",,,
+Miscellaneous,Miscellaneous,Idle,,,"Not time to be careful, best to just keep moving.",,,
+Miscellaneous,Miscellaneous,Idle,,,"Too many streets and buildings, sometimes Strong get confused.",,,
+Miscellaneous,Miscellaneous,Idle,,,Human buildings break easy. Very weak. Just like humans.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong not find any milk of human kindness here.,,,
+Miscellaneous,Miscellaneous,Idle,,,Good stuff to use around here.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Human, look for something Strong can use for armor.",,,
+Miscellaneous,Miscellaneous,Idle,,,This where humans put dead robots. Probably good stuff here.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Nothing here but books with words. Words so stupid, not make any sense.",,,
+Miscellaneous,Miscellaneous,Idle,,,"What this place? Look boring to Strong, no weapons or things to smash.",,,
+Miscellaneous,Miscellaneous,Idle,,,"This stuff tiny, too small for humans. Maybe this camp for little humans.",,,
+Miscellaneous,Miscellaneous,Idle,,,Strong know how to use book. Smash human in head with them.,,,
+Miscellaneous,Miscellaneous,Idle,,,"More books, more words. Humans never change.",,,
+Miscellaneous,Miscellaneous,Idle,,,Lots of rads in water. Strong not mind. Human should be careful.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong see something in water. Maybe Mirelurk!,,,
+Miscellaneous,Miscellaneous,Idle,,,Water machine not work. Too smashed.,,,
+Miscellaneous,Miscellaneous,Idle,,,Come human. Not need water machine. Swim instead.,,,
+Miscellaneous,Miscellaneous,Idle,,,Everything look puny from the top.,,,
+Miscellaneous,Miscellaneous,Idle,,,Sometimes Strong throw humans off top. Strong like how they scream.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong will be careful smashing in here. Not want to smash whole building down.,,,
+Miscellaneous,Miscellaneous,Idle,,,Good protection in this building. Make good hideout.,,,
+Miscellaneous,Miscellaneous,Idle,,,"If anyone here, come out. Strong will kill you quick. Not even feel it.",,,
+Miscellaneous,Miscellaneous,Idle,,,Take what you find. Not much left.,,,
+Miscellaneous,Miscellaneous,Idle,,,Look like human raiders here first.,,,
+Miscellaneous,Miscellaneous,Idle,,,Humans get milk of human kindness here?,,,
+Miscellaneous,Miscellaneous,Idle,,,"Food and guns, enough for Strong. Not for humans. Greedy humans.",,,
+Miscellaneous,Miscellaneous,Idle,,,Don't sneak up on Strong puny human. Might smash you on accident.,,,
+Miscellaneous,Miscellaneous,Idle,,,Very quiet. Too quiet.,,,
+Miscellaneous,Miscellaneous,Idle,,,Dark in here. Good place for something to hide.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Hmm. Just because don't see anything, not mean nothing here.",,,
+Miscellaneous,Miscellaneous,Idle,,,Strong come here with brothers once. Ate a group of humans. Long time ago. No one human knows.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Aargh, smell like nasty shit here.",,,
+Miscellaneous,Miscellaneous,Idle,,,"If milk of human kindness here, Strong not want it anymore.",,,
+Miscellaneous,Miscellaneous,Idle,,,Human wasting Strong's time.,,,
+Miscellaneous,Miscellaneous,Idle,,,What humans do here? Die?,,,
+Miscellaneous,Miscellaneous,Idle,,,"Hurry up human, Strong want to leave here.",,,
+Miscellaneous,Miscellaneous,Idle,,,Humans make this to hide. Not work very good for humans.,,,
+Miscellaneous,Miscellaneous,Idle,,,Puny humans hide here with radroaches.,,,
+Miscellaneous,Miscellaneous,Idle,,,Ha! Humans make metal tunnel with no exit. Stupid humans.,,,
+Miscellaneous,Miscellaneous,Idle,,,This place not too smashed. Maybe good human junk here.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong not want to live in metal tunnel. Too small.,,,
+Miscellaneous,Miscellaneous,Idle,,,This place big. Keep lots of weapons here.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Not worry human, Strong will smash anything hiding here. Smash it good.",,,
+Miscellaneous,Miscellaneous,Idle,,,Strong will bring brothers here one day. Make good home.,,,
+Miscellaneous,Miscellaneous,Idle,,,Humans leave lots of stuff here. Maybe useful.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong swim good. Have to when catching Mirelurks.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Human, not drink water. Trust Strong. Not hurt Strong, but make weak little human sick.",,,
+Miscellaneous,Miscellaneous,Idle,,,Big water. Go on forever.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong like big water. Lots of Mirelurk inside.,,,
+Miscellaneous,Miscellaneous,Idle,,,"Human, this not milk of human kindness. This just big water.",,,
+Miscellaneous,Miscellaneous,Idle,,,Glow hurt humans. Super mutants stronger.,,,
+Miscellaneous,Miscellaneous,Idle,,,Dangerous place. Good fights here.,,,
+Miscellaneous,Miscellaneous,Idle,,,Brother super mutants not come here. Not enough to eat.,,,
+Miscellaneous,Miscellaneous,Idle,,,Strong not like Glowing Sea. Too much glow.,,,
+Miscellaneous,Miscellaneous,Idle,,,Ghouls and bugs like Glowing Sea. Not super mutants or humans.,,,
+Scene,SceneDialogue,Custom,,Player Default: Then let us get under way.,"When metal man is all smashed, come find Strong.","Curie: So gracious of you, Monsieur Codsworth. Until we meet again.",,COMCurie_PickUpScene
+Scene,SceneDialogue,Custom,,Player Default: I'm all ready to go.,This puny human instead of Strong? Bah!,"Deacon: Always am, Codsworth. That's one thing you can count on.",,COMDeacon_PickUpScene
+Scene,SceneDialogue,Custom,,Player Default: About time. I was getting bored.,This human good fighter. Almost as good as Strong.,Dogmeat: (sad whimper),Puzzled,COMMacCreadyPickUpScene
+Scene,SceneDialogue,Custom,,Player Default: I'm a friend of the family. Maybe I can talk some sense into her.,Yes. Friends.,"CultLeader: Look... truth is, we had a little, uh, disagreement about her joining the movement. She got kind of violent.",,DN019JoinCultEmogene
+Scene,SceneDialogue,Custom,,Player Default: I killed the last guy who was running this scam. In case that matters to you.,Strong smash this one now?,"CultLeader: Uh, good to know. Let me just unlock the door for you, okay?",,DN019JoinCultEmogene
+Scene,SceneDialogue,Custom,,,Why pay? Just smash.,"CultLeader: Well, that's different.",,DN019JoinCultEmogeneBribe
+Scene,SceneDialogue,Custom,,,Human confuses Strong. Want to kill human.,"Player Default: ""I deserve a better life. A better life is coming. A better life is almost here.""",,DN019JoinCultOfficeGaveItems
+Scene,SceneDialogue,Custom,,"CultLeader: Just go ahead and give me everything you own, and I'll initiate you as a first level Pillar of the Community.",Strong not pillar. Strong keep hammer.,"Player Default: Here, this is everything I have.",,DN019JoinCultOfficeScene
+Scene,SceneDialogue,Custom,,PrestonGarvey: Good lord above. Almost makes you feel sorry for those poor bastards.,Brotherhood shop gone. All dead. Good.,RonnieShaw: They had it coming. Should've never tried to lord it over the Commonwealth. That never ends well.,,MinDestBoSFiring
+Scene,SceneDialogue,Custom,,"X6: I've already neutralized the perimeter guard. Just give the word, and we can start the assault on the main flotilla.",Courser good fighter. Strong likes.,"Player Default: Alright, let's go.",,Inst301SceneX6Intro
+Scene,SceneDialogue,Custom,,"Player Default: Good, I'd like to avoid any unnecessary violence.","Fighting always good. If human doesn't fight, human is weak.","X6: Well, he might not be alone up there. Violence might be inevitable.",,Inst301SceneX6GivesResetCode
+Scene,SceneDialogue,Custom,,Player Default: I'm not going to destroy this man's identity and free will. Killing him would be more humane.,All things die. Fake man's time to die is now.,"X6: He's not a man, sir, he's a synth. A synth that's confused and dangerous.",,Inst301SceneX6GivesResetCode
+Scene,SceneDialogue,Custom,,"Player Default: Jesus, what a mouthful.",Strong agree. Too much talk.,"X6: Then talk fast, sir. Just make sure you get it right.",,Inst301SceneX6GivesResetCode
+Scene,SceneDialogue,Custom,,"Player Default: What do you mean by ""reset his cognitive processes?""",Iden tee? Is this human thing? Strong not need Iden tee.,"X6: Put more simply, the recall code will render him unconscious, even while he's still standing.",,Inst301SceneX6GivesResetCode
+Scene,SceneDialogue,Custom,,"Player Default: You have my word. Give me you what you've got, and we'll leave.",Leave? Not fight? Bah!,"SynthBoss: The password to get into the stash is ""Mad Orca"".",,Inst301BranchBossExtort
+Scene,SceneDialogue,Custom,,Player Default: Hell no. I'll think just take what I want.,Yes! Kill! Smash! Take!,"SynthBoss: If that's the way you want it, then let's finish this.",,Inst301BranchBossExtort
+Scene,SceneDialogue,Custom,,"Player Default: On second thought, nah.",Yes! Time to smash!,"SynthBoss: If that's the way you want it, then let's finish this.",,Inst301BranchBossExtort
+Scene,SceneDialogue,Custom,,Player Default: And if I refuse?,Human talk too much. Let's fight.,"SynthBoss: If that's the way you want it, then let's finish this.",,Inst301BranchBossExtort
+Scene,SceneDialogue,Custom,,,Strong open things. Look around.,,"mostly talking to self, though purposefully loud enough for player to hear so he knows you're going to investigate",AO_Companion_LoiterSearch_Scene
+Scene,SceneDialogue,Custom,,,Strong find things to take.,,"mostly talking to self, though purposefully loud enough for player to hear so he knows you're going to investigate",AO_Companion_LoiterSearch_Scene
+Scene,SceneDialogue,Custom,,,Maybe something here.,,"mostly talking to self, though purposefully loud enough for player to hear so he knows you're going to investigate",AO_Companion_LoiterSearch_Scene
+Scene,SceneDialogue,Custom,,,Locks. Strong hates locks.,,"as in ""I can't do that, because the thing you asked me to open is locked"" / Irritated",AO_Companion_LoiterSearch_Scene
+Scene,SceneDialogue,Custom,,,Stupid locks.,,"as in ""I can't do that, because the thing you asked me to open is locked"" / Irritated",AO_Companion_LoiterSearch_Scene
+Scene,SceneDialogue,Custom,,,"Open, damn you.",,"as in ""I can't do that, because the thing you asked me to open is locked"" / Irritated",AO_Companion_LoiterSearch_Scene
+Scene,SceneDialogue,Custom,,"BoS303Ingram: That's where we're headed. Hope you don't mind a little company, because I'm coming with you.",You talk to much.,Player Default: It would be helpful if you tagged along.,,BoS303_01_Stage10
+Scene,SceneDialogue,Custom,,BoS303Ingram: That's if you don't mind a little company of course.,More fighters. Win more fights.,Player Default: It would be helpful if you tagged along.,,BoS303_01_Stage10PrePrime
+Scene,SceneDialogue,Custom,,BoS303Ingram: That's if you don't mind a little company of course.,More fighters. Good for us.,Player Default: It would be helpful if you tagged along.,,BoS303_01_Stage10PostPrime
+Scene,SceneDialogue,Custom,,"BoS303Ingram: All right, let's head into the lab. Can't wait to get a look at the place.",Machines confuse Strong.,,,BoS303_03_Roof
+Scene,SceneDialogue,Custom,,BoS303Ingram: It must have been moved. Let's check out that terminal over there.,Who cares?,,,BoS303_04_MissingAgitator
+Scene,SceneDialogue,Custom,,BoS303Ingram: Damn it! They've knocked out the power to the elevators.,Don't need elevators. Run. Jump. Find enemies.,,,BoS303_07_PowerLoss
+Scene,SceneDialogue,Custom,,BoS303Ingram: There it is... Mass Fusion's reactor. Don't make them like that anymore.,Strong hates machines. Strong hates glowy things.,,,BoS303_09_ViewReactor
+Scene,SceneDialogue,Custom,,BoS303Ingram: I'll communicate with you though their intercom system while I monitor everything from out here.,"Glow hurt Strong, but not kill.",,,BoS303_10_BeforeEnteringChamber
+Scene,SceneDialogue,Custom,,BoS303Ingram: The Institute must have sent reinforcements.,More to fight!,"BoS303Ingram: I'll help hold them off, just make sure you get the Agitator out of here!",,BoS303_14_ElevatorToLobby
+Scene,SceneDialogue,Custom,,Player Default: Done.,Ghoul good fighter. Strong approve.,Dogmeat: (sad whimper),Concerned,COMHancockPickUpScene
+Scene,SceneDialogue,Custom,,,Dog good hunter.,"Companion: This Kellogg bloke certainly isn't makin' this easy, is he.",,DogmeatLostTrail
+Scene,SceneDialogue,Custom,,,Dog almost as good as our hounds.,Companion: I'm gonna kill this Kellogg fella meself for makin' us walk all to hell and back lookin' for him...,,DogmeatLostTrail
+Scene,SceneDialogue,Custom,,,Dog has scent. Good dog.,Companion: I'm gonna hear that damn dog barkin' in me sleep.,,DogmeatLostTrail
+Scene,SceneDialogue,Custom,,,Kellogg human good warrior. Strong better warrior.,Companion: This better be the place. Getting' tired of playin' cat and mouse with Kellogg.,,DogmeatLostTrail
+Scene,SceneDialogue,Custom,,,So much walking. Now time to fight.,,,DogmeatLostTrail
+Scene,SceneDialogue,Custom,,Jabberbot: Assailant route tracked. Pursuit possible to Northwest.,Robot broken. Kellogg did this?,Dogmeat: (alert bark),,Site04_RobotConversation
+Scene,SceneDialogue,Custom,,,Strong help human. Human give Strong milk. Strong become leader.,RexGoodman: The milk is from a line in Macbeth. I'll tell you about it later.,,MS10StrongToLift
+Scene,SceneDialogue,Custom,,RexGoodman: Follow Strong. He knows the best way down off of this cursed tower.,"Go to Lift. Go fast, humans.",,,MS10RexOutOfCage
+Scene,SceneDialogue,Custom,,Player Default: By the way. He's with me. Please don't shoot him.,Strong will not hurt human if human rescues Strong and Rex.,RexGoodman: See?,,MS10RexInCage
+Scene,SceneDialogue,Custom,,RexGoodman: Quickly! Get us out of here.,More of my brothers will be here soon.,,,MS10RexInCage
+Scene,SceneDialogue,Custom,,,They know a human is attacking the tower.,Player Default: I'll unlock the cage.,,MS10RexInCage
+Scene,SceneDialogue,Custom,,RexGoodman: I guess they found it funny. All of them except Strong here.,Strong learn secret to human power from Mack Beth.,,,MS10RexInCage
+Scene,SceneDialogue,Custom,,,Milk of human kindness. Strong will find milk. Strong will drink milk. Strong will have secret power of humans.,"RexGoodman: Yes, yes. Of course you will.",,MS10RexInCage
+Scene,SceneDialogue,Custom,,RexGoodman: Little did they know there was a radio in here.,They know. You bait to catch more humans.,RexGoodman: What? Why didn't you tell me?,,MS10RexInCage
+Scene,SceneDialogue,Custom,,RexGoodman: What? Why didn't you tell me?,Strong thought you know.,RexGoodman: See what I have to work with?,,MS10RexInCage
+Scene,SceneDialogue,Custom,,RexGoodman: Are we there? Are we finally down?,Rex human talk too much.,,Disgust,MS10RexExitsSecondLift
+Combat,Combat,Attack,,,Go back to roof. These humans are mine.,,defiant,
+Combat,Combat,Attack,,,You cannot win. I am Strong.,,defiant,
+Combat,Combat,Attack,,,You fight well human.,,impressed.,
+Combat,Combat,Taunt,,,They fight good.,,proud,
+Combat,Combat,Taunt,,,I fight my own kind. You give me milk.,,demanding this deal,
+Combat,Combat,Taunt,,,Human fights good. For a human.,,grudging compliment,
+Miscellaneous,Miscellaneous,Idle,,,Good fight. Strong like human.,,Happy,
+Scene,SceneDialogue,Custom,,,Should eat. Or burn. Not let grow to be deathclaw.,,Irritated,MS05B_ReturnEggToNest
+Scene,SceneDialogue,Custom,,"AllieFilmore: Well, you were right. The Brotherhood sure is here. Guess we'll have to go through them.",Brotherhood! Strong fight! Strong kill all brotherhood!,"AllieFilmore: Oh... my. Well, I wasn't expecting this. I... guess it's nice to see some of our... older models... have been useful to you.",battle frenzy,InstMassFusion_10_Roof
+Scene,SceneDialogue,Custom,,AllieFilmore: No sign of the Agitator... We'll have to search the rest of the building.,Not here. Must be coward.,,disgusted,InstMassFusion_11_AgitatorMissing
+Scene,SceneDialogue,Custom,,"AllieFilmore: They cut the power to the elevators... It's clever, I'll give them that.",Walking safer. Strong never liked Trinity Tower elevator.,,,InstMassFusion_13_PowerLoss
+Scene,SceneDialogue,Custom,,"AllieFilmore: There's the reactor. Not a bad piece of work, for its time.",Huh. Big machine.,,dismissive,InstMassFusion_15_ViewReactor
+Scene,SceneDialogue,Custom,,"AllieFilmore: These guys just don't know when they're beaten, do they?",More enemies for Strong to smash!,AllieFilmore: I'll help the synths buy some time. Make sure you get back to the Institute with the Agitator!,battle frenzy,InstMassFusion_20_ElevatorToLobby
+Topic,PlayerDialogue,Custom,,,Stinks like humans here.,,,
+Topic,PlayerDialogue,Custom,,,These humans like fighting.,,,
+Topic,PlayerDialogue,Custom,,,Bah! Fighting is for killing. Not watching.,,,
+Topic,PlayerDialogue,Custom,,,Strong hates Steel Brotherhood.,,,
+Topic,PlayerDialogue,Custom,,,This place looks different.,,,
+Topic,PlayerDialogue,Custom,,,Smells like death.,,,
+Topic,PlayerDialogue,Custom,,,Good place for looting. Or dying.,,,
+Topic,PlayerDialogue,Custom,,,Strange human hole. All metal.,,,
+Topic,PlayerDialogue,Custom,,,Why live here? Good buildings on land.,,,
+Topic,PlayerDialogue,Custom,,,Boats. Strong not like boats.,,,
+Topic,PlayerDialogue,Custom,,,Home.,,,
+Topic,PlayerDialogue,Custom,,,My brothers live here.,,,
+Topic,PlayerDialogue,Custom,,,Good place to fight.,,,
+Topic,PlayerDialogue,Custom,,,Good defenses. Hard to attack.,,,
+Topic,PlayerDialogue,Custom,,,Good wall. Hard to break.,,,
+Topic,PlayerDialogue,Custom,,,Good place for fighting.,,,
+Scene,SceneDialogue,Custom,,,Fake man dead. Good.,"Companion: Next time you're thinkin' of lettin' someone off the hook, ask them to pay up first. You missed a golden opportunity.",,FFDiamondCity10_021_Companion
+Scene,SceneDialogue,Custom,,,Bah! Next time let Strong kill fake man.,"Companion: Well, scratch one wolf in sheep's clothin'. I guess we're done here.",disgusted,FFDiamondCity10_021_Companion
+Scene,SceneDialogue,Custom,,,Fake man dead. Human and Strong live.,,,FFDiamondCity10_021_Companion
+Scene,SceneDialogue,Custom,,,How can metal fly? Strong confused.,,,UFOCrashQuestFlybyReaction
+Scene,SceneDialogue,Custom,,,It attacks! Let's go kill it.,,,UFOCrashQuestImpactReaction
+Scene,SceneDialogue,Custom,,Player Default: How do you feel about us?,,,,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,,,,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,Strong go back to tower. Practice smashing things.,,disgruntled,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,Human not want Strong? Bah. Strong not need human either. Go back to tower.,,,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,Human break promise. Not help Strong find milk of human kindness.,,,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,,Strong go back to tower. Wait for human to change mind.,,,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,Hmm. Good idea. Strong need break from human.,,,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,,Strong go back to tower. Take nap.,,,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,Strong wait at tower for human. Send weak humans to Strong for eating.,,,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,"Bah. Human so confusing. Follow, not follow. Make up mind!",,,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,Player Default: How's it going?,,,,COMStrongTalkScene
+Scene,SceneDialogue,Custom,,,You are like brother to Strong. Together we find milk of human kindness.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,You great leader. Strong follow you anywhere.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,You great fighter. Strong fight with you always.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Strong stay with you. Strong fight with you. Best leader Strong ever follow.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Strong follow you anywhere. Fight with you against anything.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Human good fighter. Strong stay with human.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Human good leader. Strong follow human for long time.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Strong think human good fighter. But not as good as Strong.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Human is almost as good as super mutant. Almost as good as Strong.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Strong like human. Fight for human. We find milk of human kindness.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Human is like other humans. Smart but weak. Strong stay with human for now.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Human is okay fighter. For someone so small.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,"Strong think human is okay leader. Not best, not worst.",,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Humans are strange. Always want talking. Strong think human not bad fighter. Not great fighter either.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Strong waiting for human to find milk of human kindness. Human not bad fighter though.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Bah! Human weak. Fight like radroach.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Puny human always talking. More fighting. More killing.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Human bad leader. Find milk of human kindness. Then Strong leave.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Strong knows why brothers kill and eat humans. Brothers hunt the weak. Someday Strong hunt this human.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Weakling human asks stupid question. Maybe Strong should be leader. Human bad leader.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Strong hates human. Find milk of human kindness so Strong can leave.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Bah! Human is bad fighter and bad leader. Human worthless.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Puny weakling. Shut up. Strong tired of human always talking.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Strong hates all humans. Strong hates this human.,,,COMStrongRelationshipScene
+Scene,SceneDialogue,Custom,,,Human bad leader. Bad fighter. Only good for cook pot.,,,COMStrongRelationshipScene
+Miscellaneous,Miscellaneous,Greeting,,,Take meat. Make human strong.,Player Default: How do you feel about us?,,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Here. Eat meat before it spoils.,Player Default: How do you feel about us?,,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Good meat. Not too fresh. Have some human.,Player Default: How do you feel about us?,,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"Yes, human?",Player Default: How do you feel about us?,,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Yes?,Player Default: How do you feel about us?,,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,What?,Player Default: How do you feel about us?,,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Speak.,Player Default: How do you feel about us?,Neutral,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,More talk?,Player Default: How do you feel about us?,,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,What!?,Player Default: How do you feel about us?,Really angry at being interrupted. Needs to sound different than the irritated version of the same line.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,More talk!?,Player Default: How do you feel about us?,"Angry, incredulous",COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"What now, puny human?",Player Default: How do you feel about us?,"Angry, contempt",COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Bah. Why should Strong listen?,Player Default: How do you feel about us?,"Angry, contempt",COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Strong just want to smash puny human.,Player Default: How do you feel about us?,Angry,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,What?,Player Default: How do you feel about us?,Irritated. Needs to sound different that the Angry version of the same line.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Strong busy. What human need?,Player Default: How do you feel about us?,Irritated.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"What now, human?",Player Default: How do you feel about us?,Irritated.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Talking. Human always talking.,Player Default: How do you feel about us?,"irritated, grumpy",COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Strong wish human would just shut up.,Player Default: How do you feel about us?,"irritated, grumpy",COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,What does human need?,Player Default: How do you feel about us?,friendly,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Strong ready.,Player Default: How do you feel about us?,respectful without fawning.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Strong listening.,Player Default: How do you feel about us?,respectful without fawning.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Human has new orders?,Player Default: How do you feel about us?,respectful without fawning.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Make new plans?,Player Default: How do you feel about us?,friendly,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Strong obey you.,Player Default: How do you feel about us?,Deferential. This is a leader he respects.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,New orders for Strong?,Player Default: How do you feel about us?,Deferential. This is a leader he respects.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Strong ready.,Player Default: How do you feel about us?,Deferential. This is a leader he respects.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"Yes, leader?",Player Default: How do you feel about us?,Deferential. This is a leader he respects.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"You lead, Strong follows.",Player Default: How do you feel about us?,Deferential. This is a leader he respects.,COMStrongTalkScene
+Miscellaneous,Miscellaneous,Idle,,,Strong not see trail. Just buildings.,,Irritated,
+Miscellaneous,Miscellaneous,Idle,,,Fake human help find small human? Strong confused.,,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,Strong find Kellogg human. Make him help or Strong smash.,,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,Kellogg human dead. Good.,,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,How does building fly? Building should fall. Strong not like strange building.,,Just saw a massive airship fly overhead. / Surprised,
+Miscellaneous,Miscellaneous,Idle,,,Brains are for eating. Not probing.,,Disgust,
+Miscellaneous,Miscellaneous,Idle,,,Hah! Amari human lied. Human not go inside Kellogg. Human never left room.,,Disgust,
+Miscellaneous,Miscellaneous,Idle,,,Strong not trust Virgil. Not real super mutant. Make Strong angry.,,Irritated,
+Miscellaneous,Miscellaneous,Idle,,,Courser good fighter. Strong better fighter.,,proud / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,Humans like big machines. Too many machines for Strong.,,Impressed,
+Miscellaneous,Miscellaneous,Idle,,,Human gone long time. Then just appear. Strong thought machine kill human.,,Nervous,
+Miscellaneous,Miscellaneous,Idle,,,Ha! Strong knew building couldn't fly forever. Had to fall.,,,
+Miscellaneous,Miscellaneous,Idle,,,Floating building finally fall. Strong knew it not fly forever.,,,
+Miscellaneous,Miscellaneous,Idle,,,Human smart to leave. No railroad tracks in there. Desdemona human lies.,,Amused,
+Miscellaneous,Miscellaneous,Idle,,,Crazy humans. Helping fake humans is stupid.,,Confident,
+Miscellaneous,Miscellaneous,Idle,,,Smashed. Nothing here.,,Impressed,
+Miscellaneous,Miscellaneous,Idle,,,Brotherhood dead. Strong smashed. Good fight.,,Concerned,
+Miscellaneous,Miscellaneous,Idle,,,Strong not want to fly. Metal bird fall and kill Strong.,,Concerned,
+Miscellaneous,Miscellaneous,Idle,,,Good fight. Strong not like fake humans. Act like robots.,,SinisterSmile,
+Miscellaneous,Miscellaneous,Idle,,,Good fight! Fake humans all smashed.,,Confident,
+Miscellaneous,Miscellaneous,Idle,,,Strong hate brotherhood. Smash them all.,,Angry,
+Miscellaneous,Miscellaneous,Idle,,,Too much talk. Human should order other human. Obey or die.,,Irritated,
+Miscellaneous,Miscellaneous,Idle,,,Other humans hear this far away. Like radio Strong trick Rex human to use.,,Nervous,
+Miscellaneous,Miscellaneous,Idle,,,Good fight. All dead.,,Irritated,
+Miscellaneous,Miscellaneous,Idle,,,Institute rules all now. Good. Only one enemy for super mutants to destroy.,,Confident,
+Miscellaneous,Miscellaneous,Idle,,,Good fight. Deathclaw tough enemy.,,Impressed,
+Miscellaneous,Miscellaneous,Idle,,,Strong ready to fight! Ready to smash!,,Confident,
+Miscellaneous,Miscellaneous,Idle,,,Strong want more! More things to smash!,,SinisterSmile,
+Miscellaneous,Miscellaneous,Idle,,,This great battle. Strong tell this story many times.,,Sarcastic,
+Miscellaneous,Miscellaneous,Idle,,,More weapons good. Need guns. Need hammers.,,Confident,
+Miscellaneous,Miscellaneous,Idle,,,Big gun. Kill many fish things.,,Impressed,
+Miscellaneous,Miscellaneous,Idle,,,Institute smashed! Strong tell brothers great story.,,Surprised,

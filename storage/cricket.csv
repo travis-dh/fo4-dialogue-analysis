@@ -1,0 +1,32 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,Hello,,,"What this place just has farmers? Shit, all they want are pipe pistols and stupid ammo. Where's the maniacs slobbering for a mininuke, am I right",,,
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,"Oh, goody. Let's make mischief.",,Giddy,CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,A part of every big purchase goes to planting little bitty trees that I'll blow up in your honor.,,Sell it for a laugh,CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,"Guns, guns, and more guns. Just for you.",,Giddy,CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Just think how damned good it'll feel holding one of... these.,,Seductive,CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,"And there they are. Did your heart skip a beat, too?",,Breath taken away,CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Aww. Don't leave. We were just having fun.,,Faux disappointed,CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"You leading me on, scavver? Figures.",,"Annoyed, rough",CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Then I guess I'll just have to sell them to someone else.,,"A little menace, ""I will sell this gun to someone who wants to kill you.""",CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Eh, there'll be other customers. Always are.",,"She's annoyed, trying not to act it",CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Less time thinking, more time blowing shit up.",,Strung out,CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Sure, I have all the time in the world. Asshole.",,"Deep sarcasm, anger",CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Make up your mind, already.",,"Antsy, strung out",CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Buy my damned guns, already. Please.",,"Strung out, then tries to salvage the sale",CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,Player Default: What kind of stuff do you have?,"If it can chamber, cock, and spit out lead -- then I sell it. I sell slashers and clobberers, too, for those  maniacs that like it up close.",,"Bantery - worked out her sales pitch, savoring it",CaravanBase_CricketServices
+Scene,SceneDialogue,Custom,,,"But hot death flying faster than the speed of sound... Oh, my knees are getting weak just from thinking about it.",Player Default: Let's see what you've got.,She really does get weak in the knees. Unnatural love for guns.,CaravanBase_CricketServices
+Miscellaneous,Miscellaneous,Greeting,,,"Keep helping Bunker Hill, and I get better supplies. Then you can blow even bigger holes in people. Psst. Want a new gun?",Player Default: Let's see what you've got.,Maliciously happy,CaravanBase_CricketServices
+Miscellaneous,Miscellaneous,Greeting,,,"If you're such a big shot, helping all the merchants, why aren't you buying my guns? Now?",Player Default: Let's see what you've got.,Trying not to be super-impressed by the player,CaravanBase_CricketServices
+Miscellaneous,Miscellaneous,Greeting,,,"C'mon, c'mon. Get your guns here. Small booms. Big booms. I got 'em all.",Player Default: Let's see what you've got.,,CaravanBase_CricketServices
+Miscellaneous,Miscellaneous,Greeting,,,Got a hankering for melting face? Then I'm your girl.,Player Default: Let's see what you've got.,"Gleeful, amped up on drugs",CaravanBase_CricketServices
+Miscellaneous,Miscellaneous,Greeting,,,"Better buy my big guns now, because you bet your ass your enemies will.",Player Default: Let's see what you've got.,Drug-happy extortion,CaravanBase_CricketServices
+Miscellaneous,Miscellaneous,Greeting,,,"Soooo many guns, and so little time. You just gotta buy them.",Player Default: Let's see what you've got.,"Antsy, drugged up nervous energy",CaravanBase_CricketServices
+Miscellaneous,Miscellaneous,Hello,,,Everyone wants a piece of what I got.,,Seductive,
+Miscellaneous,Miscellaneous,Hello,,,I got so many flavors of mayhem for sale.,,"Giddy, strung out",
+Miscellaneous,Miscellaneous,Hello,,,"Ammo, weapons, and messy death - I got it all.",,"Bantery, giddy",
+Scene,SceneDialogue,Custom,,Companion: It's been a while since you've had anything to report.,"Well, you know how it is. Sometimes things are just quiet.",,"Nervous, intimidated",CIS_ChatWithNPC_X6_Scene
+Scene,SceneDialogue,Custom,,Companion: It's been a while since you've had anything to report.,"I guess the road's kept me busy, but if I see any runaway synths, you'll be the first to know.",,"Nervous, intimidated",CIS_ChatWithNPC_X6_Scene
+Scene,SceneDialogue,Custom,,Companion: It's been a while since you've had anything to report.,"Maybe you Coursers are doing such a good job, there aren't any synths left to capture.",,"Nervous, intimidated",CIS_ChatWithNPC_X6_Scene
+Scene,SceneDialogue,Custom,,Companion: It's been a while since you've had anything to report.,"To be honest, I just haven't see anything that was worth telling you about.",,"Nervous, intimidated",CIS_ChatWithNPC_X6_Scene
+Scene,SceneDialogue,Custom,,Companion: It's been a while since you've had anything to report.,"That's just how it's been. You guys have put the fear in those runaway synths, and now they won't show their faces.",,"Nervous, intimidated",CIS_ChatWithNPC_X6_Scene
+Scene,SceneDialogue,Custom,,Companion: It's been a while since you've had anything to report.,"You haven't missed anything, I promise. It's been quiet as a whisper out here.",,"Nervous, intimidated",

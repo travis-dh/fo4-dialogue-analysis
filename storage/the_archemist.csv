@@ -1,0 +1,83 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,Greeting,,,That noise... is that Him?,,There's a ton of commotion going on in the sub bay. / Puzzled,
+Miscellaneous,Miscellaneous,Greeting,,,A thousand new worlds...,,You're about to get nuked. You're quietly excited. / Neutral,
+Miscellaneous,Miscellaneous,Greeting,,,"Not... now, child.",,Stage whisper. Someone is talking during an important sermon. / Neutral,
+Scene,SceneDialogue,Custom,,Player Default: Not feeling great at the moment.,Tell me what troubles you.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not feeling great at the moment.,What ails you?,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not feeling great at the moment.,I will do... what I can. What's wrong?,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Very well.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Fine.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Go with Atom.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Atom watch over you.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",Certainly. Here.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",All that I have.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",Curatives and chemicals.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",I may have what you're looking for.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,Player Default: You don't sound so great. Are you all right?,Old wounds. Reminders of a wicked life.,Player Default: Not feeling great at the moment.,Neutral,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,Player Default: You don't sound so great. Are you all right?,I was a doctor. In Far Harbor. I fell for a... pious man. A man... who has since abandoned us. We were chased from town by those upset with our union.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,,"I must've angered Atom, as well, as He afflicted me with... this.",Player Default: Not feeling great at the moment.,"""This"" referring to your illness. / Amused",DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,Player Default: You don't sound so great. Are you all right?,"On a stretcher, I'm told. I grew ill during our exile. When I woke, I was in this place.",,"A little smirk on ""On a stretcher."" / InPain",DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,,They said a woman wreathed in black led us here. But that it was already occupied. By an old robot lost in its own dreams.,,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,,"Slept away its days in the upper chambers. Had little interest in Atom, but interested in us.",,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,,But it left many years ago. Decided it would be best if we had a place... of our own.,Player Default: Not feeling great at the moment.,InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,,Good. Good. Was there... something more?,,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,Good. Was there more you needed attended to?,,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,"May it stay that way. Now, what else?",,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,Allow me to... hmm. Not too bad. You won't be joining Atom just yet.,,Examining someone's wounds. / InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,Mhmm. A simple remedy. This may burn a bit.,,Examining someone's wounds. / InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,"Nothing too bad. Still, risky... to leave untreated.",,Examining someone's wounds. / InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,"Oh, child. This... may hurt. A lot.",,Seriously concerned about the level of injury the player has suffered. / InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,Atom above. This will require... extra antiseptic.,,You're surprised by the extent of the player's wounds. / Surprised,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,"Atom's will, you're lucky to be breathing. This requires immediate attention.",,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"I'm sorry, child. My supplies... they have costs. Is there something else I can do?",,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"We all must contribute to the church. You... cannot. Now, something else?",,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"This procedure, there are costs. You understand, don't you, child? You require... something else?",,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Caps are a... necessary evil, in this case. Our stocks cost much to refill. But was there something else?",,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,"Take care of yourself, my child.",,"played asked for help, then changed his mind / InPain",DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,"Fare well, child.",,"played asked for help, then changed his mind / InPain",DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,"Very well, then.",,"played asked for help, then changed his mind / InPain",DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,Atom watch over you.,,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,Tread carefully.,,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,Atom guide you.,,InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,All the better to embrace the Glow anew. Now... something else?,,"examining a patient, they just told you their radiation levels are normal / InPain",DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,"I understand. Let us begin your scouring, then.",,seeing signs of radiation sickness / InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,Hmm. I see. Very well. This... will not be pleasant.,,You're a bit reticent to perform this proceed. / Neutral,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,So it would seem. Atom touches us all in different ways. Let's begin.,,Reluctantly performing a medical procedure. / InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.","Such things often distance us... from Atom. Now, was there more?",,"examining a patient, who says they are not addicted to any chems / InPain",DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.",Moment of weakness... let us return your strength.,,Curing someone's addiction. / InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.","We befoul what Atom gives. I can treat you. Now, deep breath.",,curing patient's chem addiction / InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.","Of course, child. But, moderation in the future. For now...",,curing patient's chem addiction / InPain,DialogueNucleusArchemist_GreetScene02_Exam
+Scene,SceneDialogue,Custom,,,"What else, child?",,InPain,DialogueNucleusArchemist_GreetScene03_AllDone
+Scene,SceneDialogue,Custom,,,Was there something more?,,InPain,DialogueNucleusArchemist_GreetScene03_AllDone
+Scene,SceneDialogue,Custom,,,Something else you needed?,,InPain,DialogueNucleusArchemist_GreetScene03_AllDone
+Scene,SceneDialogue,Custom,,,What more can I do?,,InPain,DialogueNucleusArchemist_GreetScene03_AllDone
+Scene,SceneDialogue,Custom,,,Something else?,,InPain,DialogueNucleusArchemist_GreetScene03_AllDone
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Is muteness... a symptom?,,InPain,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Speak up... my child.,,InPain,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Please. Take your time. I am... in no rush.,,InPain,
+Miscellaneous,Miscellaneous,Greeting,,,"Ah. The latest addition to... our little family. Welcome, child. If you are in need of aid... you've come to the right place.",Player Default: Not feeling great at the moment.,You were wounded a long time ago and never fully recovered. Speak is painful and you're a bit blind. / InPain,DialogueNucleusArchemist_GreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Far Harbor. Claimed by Fog. Atom's will be done. Now, you required assistance?",Player Default: Not feeling great at the moment.,You were wounded a long time ago and never fully recovered. Speak is painful and you're a bit blind. / InPain,DialogueNucleusArchemist_GreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Peace in Atom's kingdom. Such a... strange event.  Did you need aid?,Player Default: Not feeling great at the moment.,You were wounded a long time ago and never fully recovered. Speak is painful and you're a bit blind. / InPain,DialogueNucleusArchemist_GreetScene
+Miscellaneous,Miscellaneous,Greeting,,,My child. This must be serious... if it cannot wait until morning.,Player Default: Not feeling great at the moment.,Neutral,DialogueNucleusArchemist_GreetScene
+Miscellaneous,Miscellaneous,Greeting,,,What time is... never mind. Tell me your ailments.,Player Default: Not feeling great at the moment.,Neutral,DialogueNucleusArchemist_GreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Who am I to turn away the ill? Even at this hour. What ails you?,Player Default: Not feeling great at the moment.,Neutral,DialogueNucleusArchemist_GreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You require... care, child?",Player Default: Not feeling great at the moment.,You were wounded a long time ago and never fully recovered. Speak is painful and you're a bit blind. / InPain,DialogueNucleusArchemist_GreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Are you... unwell, child?",Player Default: Not feeling great at the moment.,You were wounded a long time ago and never fully recovered. Speak is painful and you're a bit blind. / InPain,DialogueNucleusArchemist_GreetScene
+Miscellaneous,Miscellaneous,Greeting,,,What care... do you require?,Player Default: Not feeling great at the moment.,You were wounded a long time ago and never fully recovered. Speak is painful and you're a bit blind. / InPain,DialogueNucleusArchemist_GreetScene
+Scene,SceneDialogue,Custom,,Child01: Archemist?,Yes... my child?,Child01: It's... I've been having these nightmares. I can't sleep. Is there anything I can take?,InPain,DLC03CoA_ConvArchemistGeneric_Scene
+Scene,SceneDialogue,Custom,,Child01: Archemist?,"What do you need, child?",Child01: It's... I've been having these nightmares. I can't sleep. Is there anything I can take?,InPain,DLC03CoA_ConvArchemistGeneric_Scene
+Scene,SceneDialogue,Custom,,Child01: Archemist?,Hmm? Do you... require something?,Child01: It's... I've been having these nightmares. I can't sleep. Is there anything I can take?,InPain,DLC03CoA_ConvArchemistGeneric_Scene
+Scene,SceneDialogue,Custom,,Child01: It's... I've been having these nightmares. I can't sleep. Is there anything I can take?,"Do not... fear, child. This... should help.","Child01: Oh, thank you.",InPain,DLC03CoA_ConvArchemistGeneric_Scene
+Scene,SceneDialogue,Custom,,Child01: It's... I've been having these nightmares. I can't sleep. Is there anything I can take?,Here. Take this... before your evening prayers.,"Child01: Oh, thank you.",InPain,DLC03CoA_ConvArchemistGeneric_Scene
+Scene,SceneDialogue,Custom,,Child01: It's... I've been having these nightmares. I can't sleep. Is there anything I can take?,I have... a remedy for such things. But not too much. Potent stuff.,"Child01: Oh, thank you.",InPain,DLC03CoA_ConvArchemistGeneric_Scene
+Combat,Combat,Death,,,Ah-agh...,,You've just been killed. / InPain,
+Combat,Combat,Taunt,,,Atom's victory is... inevitable.,,Threatening someone in the heart of combat. / Neutral,
+Combat,Combat,Taunt,,,Do not fear... this death.,,Threatening someone in the heart of combat. / Neutral,
+Combat,Combat,Taunt,,,Yield before His glory.,,Threatening someone in the heart of combat. / Neutral,
+Detection,Detection,NormalToCombat,,,Atom... shield your children!,,Entering combat. / Angry,
+Detection,Detection,NormalToCombat,,,This... is not our end!,,Entering combat. / Angry,
+Detection,Detection,NormalToCombat,,,Atom... guide me!,,Entering combat. / Angry,
+Scene,SceneDialogue,Custom,,GenericEntranceFemale: Glory to Atom!,Glory to Atom!,,Calling out during a thrilling sermon. / Awed,DLC03CoA_DialogueNucleusVictorySermonScene
+Miscellaneous,Miscellaneous,Greeting,,,Far Harbor. Gone.,,"A bit wistful. This was your old home, but they've killed a number of your friends. You're torn. / Neutral",
+Scene,SceneDialogue,Custom,,GenericCoA04: Glory to Atom!,Glory to Atom!,,Shouting a prayer. / Neutral,DLC03MQ06a_HCSynthQuest_SermonScene
+Miscellaneous,Miscellaneous,Greeting,,,Can... it be true?,,"Stage whisper. You're talking during a sermon, but you're surprised to hear the crusade against your great enemies is being called off. / Surprised",

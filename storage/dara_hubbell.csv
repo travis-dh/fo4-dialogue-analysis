@@ -1,0 +1,153 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,DaraHubbell: Something's wrong. Shut it down! Shut it down!,It worked. It actually worked!,,Awed,MS02RideIsSpinning
+Scene,SceneDialogue,Custom,,,We couldn't have done it without you.,DaraHubbell: Here is the ammo I promised you as thanks for helping us to advance The Hub's grand plan.,Grateful,MS02RideIsSpinning
+Scene,SceneDialogue,Custom,,DLC04NPCFDaraHubbell: The lights! It's amazing. You've done it.,Into the spaceship everyone!,DaraHubbell: We need to run a test of the system. Come inside with us and turn it on.,shouted / Happy,MS02DaraSpaceshipPowered
+Scene,SceneDialogue,Custom,,DaraHubbell: Into the spaceship everyone!,We need to run a test of the system. Come inside with us and turn it on.,,Happy,MS02DaraSpaceshipPowered
+Scene,SceneDialogue,Custom,,,You'll see that the Hub's prophecy is true.,,Confident,MS02DaraSpaceshipPowered
+Scene,SceneDialogue,Custom,,DaraHubbell: We couldn't have done it without you.,Here is the ammo I promised you as thanks for helping us to advance The Hub's grand plan.,,Grateful,MS02RideIsSpinning
+Scene,SceneDialogue,Custom,,,"We have a few months of work to do to prepare for our journey, maybe more.","DaraHubbell: When the time comes, we'll get a message to you to join us.",Happy,MS02RideIsSpinning
+Scene,SceneDialogue,Custom,,Rolanda: I think I'm going to puke.,Something's wrong. Shut it down! Shut it down!,DaraHubbell: It worked. It actually worked!,Afraid,MS02RideIsSpinning
+Scene,SceneDialogue,Custom,,"DaraHubbell: We have a few months of work to do to prepare for our journey, maybe more.","When the time comes, we'll get a message to you to join us.",,Confident,MS02RideIsSpinning
+Scene,SceneDialogue,Custom,,DaraHubbell: We have a mercenary to lead us into combat!,"They may be a bit snug at first, but they'll protect you.",,Apologetic,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,Player Default: Together we can capture that spaceship.,I knew I could count on you. Let's go tell the others.,DaraHubbell: Everyone gather! Form the wheel.,Relieved,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,Player Default: Together we can capture that spaceship.,Amazing! You truly were sent by the Hub. Let's go tell the others.,DaraHubbell: Everyone gather! Form the wheel.,Awed,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,"Player Default: Hey, I didn't sign on for that. Go do it yourself.",You mercenary types are all the same.,,Disgust,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,Go on. Leave. We'll find someone else to help us.,,Disgust,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,"Player Default: You do know it's not a real spaceship, right?",Your mind is limited by neurodynes.,,Awed,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,"If you had my expanded mental powers, you would see the truth about the spaceship.",Player Default: Together we can capture that spaceship.,Awed,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,Player Default: Why do you want to capture the spaceship?,The Star Father left instructions with The Hub for us to find the ship and repair it.,,Awed,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,"The Star Father will guide us to our new home on the planet Quetzal, where we will live with him.",,Awed,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,Praise be to the Star Father.,Player Default: Together we can capture that spaceship.,Awed,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,Player Default: Why do you want to capture the spaceship?,It is central to Hubology. We are destined to make it fly.,,Awed,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,More than that I cannot tell you. It is secret knowledge reserved for AHS-7 members.,Player Default: Together we can capture that spaceship.,Apologetic,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,Form the wheel! I am the hub.,Cleansed: I am the rim. The spoke and hub support me.,Defiant,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,Cleansed: I am the rim. The spoke and hub support me.,We fought a great battle today.,DaraHubbell: A battle we could not have won without our newest member.,Grateful,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,DaraHubbell: We fought a great battle today.,A battle we could not have won without our newest member.,DaraHubbell: It came with a steep price though.,Grateful,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,DaraHubbell: We fought a great battle today.,A battle we could not have won without our friend.,DaraHubbell: It came with a steep price though.,Grateful,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,DaraHubbell: We will mourn Tula's passing. May she join us with the Sky Father.,But our work is not done yet. Taking the spaceship is not enough.,,Defiant,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,,It must be made to fly again. It must be made ready to take us to our destiny.,DaraHubbell: Soon you will earn the greatest reward Hubology has too offer.,Awed,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,DaraHubbell: It must be made to fly again. It must be made ready to take us to our destiny.,Soon you will earn the greatest reward Hubology has too offer.,,Awed,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,,"For now, rest and celebrate. You have earned it.",,Happy,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,DaraHubbell: A battle we could not have won without our newest member.,It came with a steep price though.,,Sad,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,,We will mourn Tula's passing. May she join us with the Sky Father.,DaraHubbell: But our work is not done yet. Taking the spaceship is not enough.,Sad,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,,"By the Hub, it's working!",Cleansed: Visions! I'm seeing visions!,Happy,MS02RideIsSpinning
+Scene,SceneDialogue,Custom,,"DaraHubbell: Too bad about Tula. She died so young, before she could fully realize her true potential through Hubology.",I promised you a payment. This gun was passed down from the Hub himself. Take great care with it.,DaraHubbell: I see the spaceship is already running too.,Awed,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,DLC04NPCFDaraHubbell: Have you changed your mind about helping us capture the spaceship?,Just sitting in that damned junkyard. So close. So tantalizing.,,Irritated,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,But I digress. Do you have the spacesuits?,Player Default: All five. Here they are.,Question,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,"Player Default: When you hear me start shooting, you join the fight.",We'll wait for that signal. Good luck.,,Relieved,MS02DaraAtJunkyard
+Scene,SceneDialogue,Custom,,Player Default: What are you waiting for? Let's just charge in there now. Follow me!,"Really? Sounds dangerous, but we'll follow your plan.",,Nervous,MS02DaraAtJunkyard
+Scene,SceneDialogue,Custom,,,For the Hub! Charge!,,Confident,MS02DaraAtJunkyard
+Scene,SceneDialogue,Custom,,Player Default: You just wait here. I'll do it all.,You must be very confident in your skills.,,Relieved,MS02DaraAtJunkyard
+Scene,SceneDialogue,Custom,,,It's your decision. We'll wait until you've killed most of them.,,Relieved,MS02DaraAtJunkyard
+Scene,SceneDialogue,Custom,,Player Default: I'll just take Cleansed with me. The rest of you stay here.,"He is our best fighter, so I suppose that makes sense. Good luck.",,Concerned,MS02DaraAtJunkyard
+Scene,SceneDialogue,Custom,,Cleansed: The wheel turns.,Have you changed your mind about helping us?,Player Default: I'm always for hire if the price is right.,Question,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Cleansed: The wheel turns.,Normally new initiates go to Phil for alignment.,,Apologetic,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,But I asked Cleansed to bring any mercenary types to me first.,,Apologetic,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,I'd like to hire you to help us.,Player Default: I'm always for hire if the price is right.,Conspiratorial,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Cleansed: The wheel turns.,"If you've come seeking answers to life's great questions, Hubology has them.",,Awed,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,"While I sincerely hope you'll join us, even if you don't I'm in need of a person of action.",Player Default: I'm always for hire if the price is right.,Friendly,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: I'm always for hire if the price is right.,"Good. We need spacesuits, like the one I'm wearing. I'll pay you 200 caps for five of them.",,Relieved,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,I've learned that there are some in the Galactic Zone of Nuka-World.,,Friendly,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,I lost two followers trying to get them ourselves. I'm hoping you'll have more luck.,Player Default: I've already got them.,Concerned,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: I'm not interested.,You haven't even heard my offer.,,Irritated,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,I'll pay you 200 caps to bring back five spacesuits from the Vault-Tec display in the Galactic Zone.,Player Default: I've already got them.,Pleading,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: You're a bunch of religious kooks.,How sad that you aren't open to learning the obvious truths of Hubology.,,Apologetic,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,But I don't need you to be a believer. I need you to get me five spacesuits from the Vault-Tec display in the Galactic Zone.,,Apologetic,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,I'll pay you 200 caps if you do.,Player Default: I've already got them.,Confident,MS02DaraGreet
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Can you tell me more about this Hubology Cleansed mentioned?,"Before the great war, a brilliant writer named Dick Hubbell invented a process for expanding the human mind.",,Awed,MS02DaraGreet
+Miscellaneous,Miscellaneous,SharedInfo,,,Through the process of alignment he was able to give his followers great mental powers.,,Awed,MS02DaraGreet
+Miscellaneous,Miscellaneous,SharedInfo,,,"I am his direct descendant and keeper of all his secrets, collectively know as Hubology.",,Confident,MS02DaraGreet
+Miscellaneous,Miscellaneous,SharedInfo,,,"If you really are interested in joining us, go speak to Phil about having an alignment.",,Friendly,MS02DaraGreet
+Miscellaneous,Miscellaneous,SharedInfo,,,We can help you find inner peace and happiness. We can help you master the amazing powers of the mind.,Player Default: I'm always for hire if the price is right.,Awed,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: I've already got them.,Hub's blessing! It was truly fated that we meet.,,Awed,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,Here is your payment.,,Grateful,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,There is something else though. We need to take control of the spaceship in the junkyard. Will you help us?,Player Default: Together we can capture that spaceship.,Concerned,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: I've already got them.,"Good. If it goes well, I might have more work for you.",,Relieved,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,"For now though, just bring me those spacesuits from the Vault-Tec display in Nuka-World.",,Confident,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: Get someone else. I'm not interested.,"Too bad. If you change your mind, we'll be here.",,Concerned,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: I'll need more than that for this job.,Okay. I'll give you 250 caps.,Player Default: I've already got them.,Irritated,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: I'll need more than that for this job.,Driving a hard bargain I see. Okay. 300 caps.,Player Default: I've already got them.,Irritated,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: I'll need more than that for this job.,"Alright, but 350 is my final offer. Now get me those suits.",,Disgust,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: I'll need more than that for this job.,You aren't the only merc in the Commonwealth. 200 caps. Take it or leave it.,,Disgust,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: What do you need spacesuits for?,I suppose there is no harm in telling you.,,Suspicious,MS02DaraGreet
+Scene,SceneDialogue,Custom,,,They will protect us in the battle to come.,Player Default: I've already got them.,Confident,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: What do you need spacesuits for?,That's not your concern. You just need to get them for me.,Player Default: I've already got them.,Irritated,MS02DaraGreet
+Scene,SceneDialogue,Custom,,Player Default: All five. Here they are.,Perfect! Here is your payment.,,Grateful,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,We can proceed with the next step in the plan. I'm counting on you to help us with it.,,Conspiratorial,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,We need to take control of the spaceship in the Junkyard.,,Awed,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,"I know it's a lot to ask, so I'm willing to give you one of Hubology's great treasures if we succeed.",Player Default: Together we can capture that spaceship.,Pleading,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,Player Default: Not yet.,Then why are you wasting my time?,Player Default: Together we can capture that spaceship.,Irritated,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,Player Default: I'd like to become a Hubologist.,I guess that means you don't have the suits yet.,,Irritated,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,But I'm glad you want to join us.,,Friendly,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,Go see Phil. He'll give you your first alignment.,Player Default: Together we can capture that spaceship.,Friendly,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,Player Default: I'd like to become a Hubologist.,So no suits then? How disappointing.,,Concerned,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,It sounds like you can feel the repression of your neurodynes building up.,,Worried,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,Go see Phil for an alignment.,Player Default: Together we can capture that spaceship.,Friendly,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,Player Default: What's that about a spaceship and a junkyard?,It's the reason I need those suits.,,Concerned,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,Without them we don't have a chance to capture the ship.,,Worried,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,But enough of that for now. Do you have the spacesuits or not?,Player Default: All five. Here they are.,Question,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,Everyone gather! Form the wheel.,Cleansed: I am the rim. The spoke and hub support me.,Confident,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,Maurice: I am the rim. The spoke and hub support me.,"The time has come. The Hub's grand plan can enter its next, important phase.",,Awed,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,,All of your hard work has born fruit.,DaraHubbell: We can liberate the junkyard and take control of what we need.,Happy,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,DaraHubbell: All of your hard work has born fruit.,We can liberate the junkyard and take control of what we need.,,Awed,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,,"Thanks to our mercenary, we have the spacesuits to protect us from the robot guards.",DaraHubbell: So put on these spacesuits and take up your arms.,Grateful,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,DaraHubbell: All of your hard work has born fruit.,Our new friend has liberated the junkyard.,DaraHubbell: So put on these spacesuits and take up your arms.,Happy,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,"DaraHubbell: Thanks to our mercenary, we have the spacesuits to protect us from the robot guards.",So put on these spacesuits and take up your arms.,,Confident,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,,We have a mercenary to lead us into combat!,"DaraHubbell: They may be a bit snug at first, but they'll protect you.",Confident,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,"DaraHubbell: Thanks to our mercenary, we have the spacesuits to protect us from the robot guards.",It is time for us to take control of it.,,Confident,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,,"But first, here are the spacesuits I promised you.","DaraHubbell: They may be a bit snug at first, but they'll protect you.",Happy,MS02DaraSpeech
+Scene,SceneDialogue,Custom,,DLC04NPCFDaraHubbell: What a glorious battle. You were magnificent.,"Too bad about Tula. She died so young, before she could fully realize her true potential through Hubology.",DaraHubbell: I promised you a payment. This gun was passed down from the Hub himself. Take great care with it.,Sad,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,DaraHubbell: I promised you a payment. This gun was passed down from the Hub himself. Take great care with it.,I see the spaceship is already running too.,DaraHubbell: Into the spaceship everyone!,Grateful,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,DaraHubbell: I promised you a payment. This gun was passed down from the Hub himself. Take great care with it.,I need your help for one last thing.,,Conspiratorial,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,,"I need to get that spaceship powered up again, but we don't have any fusion cores.",,Pleading,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,,I have some extra ammo for The Hub's gun that I can give you if you succeed.,Player Default: I'll be glad to help.,Grateful,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,Player Default: I'll be glad to help.,"Good. Once you get it powered up, we can work on making it space worthy.",,Relieved,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,Player Default: I've done enough. I'm not interested in helping you further.,That's disappointing.,,Concerned,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,,But the wheel will turn. You'll change your mind and come back to us.,,Confident,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,Player Default: That's not a real spaceship you know. It's just a carnival ride.,The Star Father has promised me that it will work.,,Awed,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,,"It may look like a thing of make believe, but we will make it work with the Star Father's blessing.",,Awed,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,,So will you at least get the power running?,Player Default: I'll be glad to help.,Question,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,Player Default: Why do you want to fix that spaceship?,It will carry us to our new home.,,Awed,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,,More than that I cannot tell you. You have not progressed far enough in your treatments.,Player Default: I'll be glad to help.,Apologetic,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,Player Default: Why do you want to fix that spaceship?,We will take it to our new home on Quetzal where we will live with the Star Father.,,Awed,MS02DaraJunkyardCaptured
+Scene,SceneDialogue,Custom,,,It will be the fulfillment of The Hub's grand plan.,Player Default: I'll be glad to help.,Awed,MS02DaraJunkyardCaptured
+Miscellaneous,Miscellaneous,Hello,,,We'll talk in a minute. First I must address the faithful.,,Confident,
+Miscellaneous,Miscellaneous,Idle,,,The Hub would be proud of what we are about to do.,,Happy,
+Miscellaneous,Miscellaneous,Idle,,,"Okay, start it up.",,Confident,
+Miscellaneous,Miscellaneous,Greeting,,,Have you changed your mind about helping us capture the spaceship?,DaraHubbell: Just sitting in that damned junkyard. So close. So tantalizing.,Question,MS02DaraGotSuits
+Miscellaneous,Miscellaneous,Greeting,,,I see you brought me a new recruit. Thank you Cleansed.,Cleansed: The wheel turns.,Grateful,MS02DaraGreet
+Miscellaneous,Miscellaneous,Greeting,,,"Welcome stranger. We are hubologists. You may have heard of us. No? Ah, well.",Cleansed: The wheel turns.,Friendly,MS02DaraGreet
+Miscellaneous,Miscellaneous,Greeting,,,Don't take too long with those spacesuits.,,Concerned,
+Miscellaneous,Miscellaneous,Greeting,,,The wheel turns and you return to us.,Cleansed: The wheel turns.,Confident,MS02DaraGreet
+Miscellaneous,Miscellaneous,Greeting,,,"I can see the spaceship from here, just like he promised.",DaraHubbell: Just sitting in that damned junkyard. So close. So tantalizing.,Awed,MS02DaraGotSuits
+Miscellaneous,Miscellaneous,Greeting,,,What a glorious battle. You were magnificent.,"DaraHubbell: Too bad about Tula. She died so young, before she could fully realize her true potential through Hubology.",Happy,MS02DaraJunkyardCaptured
+Miscellaneous,Miscellaneous,Greeting,,,The lights! It's amazing. You've done it.,DaraHubbell: Into the spaceship everyone!,Awed,MS02DaraSpaceshipPowered
+Miscellaneous,Miscellaneous,Greeting,,,You're more experienced at fighting than we are. How should we do this?,"Player Default: When you hear me start shooting, you join the fight.",Question,MS02DaraAtJunkyard
+Miscellaneous,Miscellaneous,Greeting,,,Do you have my spacesuits?,Player Default: All five. Here they are.,Question,MS02DaraGotSuits
+Scene,SceneDialogue,Custom,,,I'll warm up the zeta ray projector.,Dara: Next step is to find the neurodynes and lock onto them.,Confident,DaraDoAlignment
+Scene,SceneDialogue,Custom,,Dara: I'll warm up the zeta ray projector.,Next step is to find the neurodynes and lock onto them.,Dara: It appears to be working. The neurodynes are fleeing or dying.,Confident,DaraDoAlignment
+Scene,SceneDialogue,Custom,,Dara: Next step is to find the neurodynes and lock onto them.,It appears to be working. The neurodynes are fleeing or dying.,Dara: And it's done. You are now officially an AHS-8. The first one our group has ever had.,Happy,DaraDoAlignment
+Scene,SceneDialogue,Custom,,Dara: It appears to be working. The neurodynes are fleeing or dying.,And it's done. You are now officially an AHS-8. The first one our group has ever had.,,Happy,DaraDoAlignment
+Scene,SceneDialogue,Custom,,,We cannot take you any further in Hubology.,,Apologetic,DaraDoAlignment
+Scene,SceneDialogue,Custom,,,Go forth and spread the word of Hubology throughout the Commonwealth.,,Confident,DaraDoAlignment
+Scene,SceneDialogue,Custom,,DLC04NPCFDaraHubbell: I assume you are here for your next alignment.,"You have advanced more quickly than any follower, even Cleansed.",,Impressed,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,This is the last mystery for you to learn. The last alignment.,,Awed,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,"There can be only one AHS-9, the highest you can be promoted is AHS-8.",,Apologetic,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,"The donation is 10,000 caps. The radiation dose will be severe.",Player Default: I am ready.,Concerned,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,Player Default: I am ready.,Sit in the aligner.,,Confident,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,Player Default: I am ready.,Your donation is... lacking. Come back when you have the full amount.,,Irritated,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,"Player Default: No, not yet. I'll come back later.",It's understandable that you would be nervous.,,Apologetic,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,Come back to me with a clear mind and healthy body.,,Concerned,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,Player Default: To hell with all of you. Hubology is a fraud and you're all insane.,What?! We've revealed our deepest mysteries and this is how you repay us?,,Angry,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,I had such hopes for you. Now I have to kill you.,,Angry,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,Player Default: What is this final mystery?,The Star Father can free our minds of all restraints.,,Awed,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,"We will be like gods, able to do unimaginable things.",,Awed,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,Then we will return to Earth to rule over mankind.,,Awed,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,It is a glorious task the Star Father has given us.,Player Default: I am ready.,Awed,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,Player Default: What is this final mystery?,Yes. We will end the scourge of neurodynes once and for all.,,Awed,DaraAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,The human race will reach it's full potential under our benevolent guidance.,Player Default: I am ready.,Awed,DaraAlignmentAHS-7
+Combat,Combat,Attack,,,For the Hub!,,Angry,
+Combat,Combat,Attack,,,The rim will grind you down!,,Angry,
+Combat,Combat,Attack,,,The wheel will roll over you!,,Angry,
+Miscellaneous,Miscellaneous,Hello,,,"We are forever in your debt. Without you, we would not be on the path to redemption. The path of our destiny.",,Grateful,
+Miscellaneous,Miscellaneous,Greeting,,,I assume you are here for your next alignment.,"Dara: You have advanced more quickly than any follower, even Cleansed.",Question,DaraAlignmentAHS-7

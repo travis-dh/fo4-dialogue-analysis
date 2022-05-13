@@ -1,0 +1,195 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Mel: Yeah, I wouldn't touch that pie.",I don't trust anything that looks that perfectly preserved after 200 years.,,Talking about a 200 year old pie that does not look rotted at all.,MS16AmbientCommentaryPie
+Scene,SceneDialogue,Custom,,,Looks like a subway tunnel.,Bobbi: Then we're on the right track.,,MS16AmbientReachedSubway
+Scene,SceneDialogue,Custom,,Bobbi: Then we're on the right track.,I see what you did there.,Bobbi: What? No.,Commenting on the pun,MS16AmbientReachedSubway
+Scene,SceneDialogue,Custom,,,"How come it's been so long since we worked together, Bobbi?","Bobbi: I've been trying to keep a low profile on this one, Mel.",,MS16AmbientBobbiMel01
+Scene,SceneDialogue,Custom,,Bobbi: And I didn't want to get you wrapped up in it unless I had to.,We've been through worse jobs than this...,"Bobbi: We're not done yet, are we?",Gets cut off,MS16AmbientBobbiMel01
+Scene,SceneDialogue,Custom,,"Bobbi: We're not done yet, are we?",Encouraging.,,Sarcastic,MS16AmbientBobbiMel01
+Scene,SceneDialogue,Custom,,,"Hey, looks like this place was run by Mr. Handy units.",,Enthusiastic,MS16AmbientCommentaryRobotRoom
+Scene,SceneDialogue,Custom,,,Maybe I can fix one up and...,"Bobbi: I think the one robot is enough, Mel.",Your enthusiasm is interrupted.,MS16AmbientCommentaryRobotRoom
+Scene,SceneDialogue,Custom,,"Bobbi: I think the one robot is enough, Mel.",Alright. It wouldn't have taken long.,,Disappointed,MS16AmbientCommentaryRobotRoom
+Scene,SceneDialogue,Custom,,"Bobbi: No flesh off my face, but you two might want to watch out for the radiation around here.",The thing on this one's wrist has a Geiger counter equipped. I'll just keep my ears open for clicks.,"Mel: I didn't want to nerd out over it, but a Robco Pip-Boy is a rare find my friend.",Referring to the player.,MS16AmbientCommentaryRadiation
+Scene,SceneDialogue,Custom,,"Bobbi: There is a brewery near our strongroom, this has to be the basement to that brewery.","Brewery, you say?","Bobbi: Mel, No.",You want to find beer.,MS16AmbientReachedIndustrial
+Scene,SceneDialogue,Custom,,"Bobbi: Mel, No.",Just kidding. Geez.,,,MS16AmbientReachedIndustrial
+Scene,SceneDialogue,Custom,,Mel: The thing on this one's wrist has a Geiger counter equipped. I'll just keep my ears open for clicks.,"I didn't want to nerd out over it, but a Robco Pip-Boy is a rare find my friend.",,,MS16AmbientCommentaryRadiation
+Scene,SceneDialogue,Custom,,,You're going to have to let me play with it later.,,,MS16AmbientCommentaryRadiation
+Scene,SceneDialogue,Custom,,,"Oh, no. No. No. Sonya!","Bobbi: Pull yourself together, Mel.","Sad, you broke something you spent a long time working on. / Afraid",MS16MelSonyaDead
+Scene,SceneDialogue,Custom,,Bobbi: We don't need that thing anymore anyway.,But...,Bobbi: You can make another robot with the haul we get from the strongroom.,Depressed,MS16MelSonyaDead
+Scene,SceneDialogue,Custom,,,"I don't know about you, but this seems like a dead end to me.",Mel: Let's see if we can backtrack and blast another path.,,MS16AmbientCommentaryDeadEnd
+Scene,SceneDialogue,Custom,,,"Yeah, I wouldn't touch that pie.",Mel: I don't trust anything that looks that perfectly preserved after 200 years.,Talking about a 200 year old pie that does not look rotted at all.,MS16AmbientCommentaryPie
+Scene,SceneDialogue,Custom,,"Mel: I don't know about you, but this seems like a dead end to me.",Let's see if we can backtrack and blast another path.,,,MS16AmbientCommentaryDeadEnd
+Scene,SceneDialogue,Custom,,"Mel: So, uh, brace yourselves.","Sonya, do your thing.",,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,"Mel: Sonya, prepare yourself for a blast at maximum power.",Here we go.,Mel: That didn't sound good. I hope Sonya's ok.,About to trigger an explosion,MS16SonyaFinalBlast
+Miscellaneous,Miscellaneous,SharedInfo,,Bobbi: The loot must be in that closed train car. Let's open it up.,Fahrenheit probably had the key. See if you can find it.,,,MS16BobbiAsksPlayerToOpenTrain
+Scene,SceneDialogue,Custom,,Player Default: I'm ready.,You got it. Let's do this.,Mel: Ready Sonya?,,MS16MelLastBarrier
+Scene,SceneDialogue,Custom,,"Player Default: Wait, I need to do something first.",No worries. Let me know when you're ready.,Mel: Ready Sonya?,,MS16MelLastBarrier
+Scene,SceneDialogue,Custom,,Player Default: Up to you.,I say we keep moving.,Mel: Ready Sonya?,,MS16MelLastBarrier
+Scene,SceneDialogue,Custom,,Player Default: Doubts?,"It just doesn't seem like we're under Diamond City, does it?",,,MS16MelLastBarrier
+Scene,SceneDialogue,Custom,,,I don't think Bobbi is telling us everything about this job.,Player Default: I'm ready.,,MS16MelLastBarrier
+Scene,SceneDialogue,Custom,,"NPCMMel: If Bobbi's directions are correct, and I have my doubts, the strongroom should be right through there.",If you had anything else you wanted to check out in this tunnel I suggest you do that first.,Player Default: I'm ready.,,MS16MelLastBarrier
+Scene,SceneDialogue,Custom,,Player Default: You got it. Let's do this.,Ready Sonya?,,,MS16MelLastBarrier
+Scene,SceneDialogue,Custom,,"Player Default: Mel, get Sonya over here.","Got it. Sonya, blast time.",,,MS16SonyaBlastScene
+Scene,SceneDialogue,Custom,,"Player Default: Mel, get Sonya over here.",Gotcha. Sonya!,,Ordering a robot to help,MS16SonyaBlastScene
+Scene,SceneDialogue,Custom,,"Player Default: Mel, get Sonya over here.",No problem. C'mon Sonya.,,,MS16SonyaBlastScene
+Scene,SceneDialogue,Custom,,"Player Default: Mel, get Sonya over here.","Sonya, you know what to do.",,,MS16SonyaBlastScene
+Scene,SceneDialogue,Custom,,"Player Default: Good work on the robot, very helpful.","Thanks. You know, eyebots like Sonya aren't easy to come by.",,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,"She just floated right across my path one day, blasting those horrifying old emergency broadcast announcements.",,Proud,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,Like it was fate or something.,Player Default: That's a nice story.,"Reminiscing, with a sigh",MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,Player Default: Your robot is doing all the work. You have no reason to be here.,"Well, aside from my extensive experience with security systems, Bobbi likes having me around.",,Insulted / Defiant,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,"So I'm part of the job, like it or not.",Player Default: That's a nice story.,Defiant,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,Player Default: This place is a maze. I'm not sure if we are going the right way.,"I asked Bobbi for a map, or a diagram, or something.",,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,"She was all, ""Mel, it's pretty much a straight shot, we don't need a map.""",,"Imitating a ghoul woman (gravely, deep voiced) for the quote.",MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,Straight shot? This is a straight shot like me with a bent rifle in a thunderstorm after four drinks.,Player Default: That's a nice story.,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,Player Default: This place is a maze. I'm not sure if we are going the right way.,"Sir, yes sir.",Player Default: That's a nice story.,"Sarcastic, player is being too formal",MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,Player Default: What's the story with you and Bobbi?,"Well, she swears she used to work with my grandfather when he was about my age.",,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,She cornered me at the bar in Goodneighbor and kept telling me how I looked just like her dead friend.,Player Default: That's a nice story.,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,Player Default: That's a nice story.,"I thought so, too. Anyway, my life is a thousand times more interesting since I met her.",,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,We have been working together off and on ever since.,,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,Player Default: That's a load of bull.,You know how convincing Bobbi can be.,,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,"All I know was I wanted the exciting life she said she had with my grandfather, and she gave it to me.",,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, and she was also my Great Aunt's neighbor's pharmacist.","Yeah, laugh all you want. I didn't care if it was true, I was just glad to get to do something with my life.",,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,"I have been working with Bobbi ever since, and only regretted it occasionally.",,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,Player Default: Do you believe her?,"I don't know, but she told all these stories of crazy heists they would pull.",,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,"I wanted it to be true, alright?",,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,,"Now all she has to do is ask, and I'm there.",,,MS16MelDigDialogue
+Scene,SceneDialogue,Custom,,Player Default: I'm sorry it had to be this way.,"Me too, me too.","Mel: Well, I'm out of here.",Depressed / Depressed,MS16BobbisDeathAftermath
+Scene,SceneDialogue,Custom,,Player Default: Bobbi got what was coming to her.,I don't know. Did ya have to kill her?,"Mel: Well, I'm out of here.",Depressed / Somber,MS16BobbisDeathAftermath
+Scene,SceneDialogue,Custom,,Player Default: At least you and I made it through this.,"Nothing against you, but one of the few friends I've had is dead.",,Depressed / Depressed,MS16BobbisDeathAftermath
+Scene,SceneDialogue,Custom,,,I wouldn't call that a success.,"Mel: Well, I'm out of here.",Depressed,MS16BobbisDeathAftermath
+Scene,SceneDialogue,Custom,,Player Default: What are you going to do now?,"Oh, I'll probably go somewhere that no one has heard of Hancock or anyone that has ever worked for him.","Mel: Well, I'm out of here.",Sarcastic and sad / Somber,MS16BobbisDeathAftermath
+Scene,SceneDialogue,Custom,,"Player Default: Me too, me too.","Well, I'm out of here.",,Depressed / Somber,MS16BobbisDeathAftermath
+Scene,SceneDialogue,Custom,,,"Sorry for almost stealing from your boss, Miss Fahrenheit, Ma'am.",,"Half hearted, to someone across the room / Somber",MS16BobbisDeathAftermath
+Scene,SceneDialogue,Custom,,Player Default: I am getting you out of here.,"If so, maybe you shouldn't be announcing it so every guard in Diamond City can hear.","Mel: Totally unrelated, but I hear there's an old glitched out protectron unit back there.","You are in jail, player not being subtle about getting you out.",MS16MelInJailScene
+Scene,SceneDialogue,Custom,,Player Default: No. I'm here to help you.,You need me for somethin' don't ya?,,,MS16MelInJailScene
+Scene,SceneDialogue,Custom,,,Nobody helps me unless they need somethin'.,"Mel: Totally unrelated, but I hear there's an old glitched out protectron unit back there.",,MS16MelInJailScene
+Scene,SceneDialogue,Custom,,Player Default: Do you come here often?,"You know, they always say you'll meet that special someone in the last place you'd expect.",,"Sarcastic, you are in jail. But also flirting a bit. / Flirting",MS16MelInJailScene
+Scene,SceneDialogue,Custom,,,"So why are you here? You want something from me, right?",Player Default: I am getting you out of here.,,MS16MelInJailScene
+Scene,SceneDialogue,Custom,,Player Default: Do you come here often?,"Yeah, just come here to unwind. Nothing more relaxing than a sparsely furnished jail cell.",,"Sarcastic, you are in jail.",MS16MelInJailScene
+Scene,SceneDialogue,Custom,,,So I'm guessing you're here because you need something from me?,"Mel: Totally unrelated, but I hear there's an old glitched out protectron unit back there.",,MS16MelInJailScene
+Scene,SceneDialogue,Custom,,Player Default: I hear you are some kind of tech expert?,"You heard right. Well, maybe ""tech"" is too general. I have a thing for robots.",,Surprised someone has heard of you,MS16MelInJailScene
+Scene,SceneDialogue,Custom,,,"No, not that kind of thing. But I know my way around most machines, yeah.",,Anticipating player making a dirty joke,MS16MelInJailScene
+Scene,SceneDialogue,Custom,,,Why? Need my help?,Player Default: I am getting you out of here.,,MS16MelInJailScene
+Scene,SceneDialogue,Custom,,"Player Default: If so, maybe you shouldn't be announcing it so every guard in Diamond City can hear.","Totally unrelated, but I hear there's an old glitched out protectron unit back there.",,Whispered so the guards can't hear. Strongly hinting to the player that they can use the robot to break him out.,MS16MelInJailScene
+Scene,SceneDialogue,Custom,,,"Guards asked me to take a look, but it was a real head scratcher. Couldn't do a thing.",,"You could have helped, but chose to leave it broken for this exact situation.",MS16MelInJailScene
+Scene,SceneDialogue,Custom,,"Bobbi: Got yourself into trouble again, Mel?",What can I say? I learned from the best.,Bobbi: I'm flattered.,,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,Bobbi: I'm flattered.,"So, what's the deal with the new guy?","Bobbi: Oh, I got lucky with this one. Came right up to my door and took the job.",,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,Bobbi: I'm flattered.,"So, what's the deal with the new girl?","Bobbi: Oh, I got lucky with this one. Came right up to my door and took the job.",,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,"Mel: And he's not so bad to look at, either.","Maybe we don't burn bridges this time, yeah?",,,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,Bobbi: He takes orders and he's useful in a fight. What more could I want?,"And he's not so bad to look at, either.","Mel: Maybe we don't burn bridges this time, yeah?",Flirting,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,Bobbi: He takes orders and he's useful in a fight. What more could I want?,She seems to have a good head on her shoulders.,"Mel: Maybe we don't burn bridges this time, yeah?",,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,,Thank God.,"Mel: I don't know why I trusted you again, Bobbi, but that was the last time.",Relieved,MS16TheGangSplitsTown
+Scene,SceneDialogue,Custom,,Mel: Thank God.,"I don't know why I trusted you again, Bobbi, but that was the last time.",Bobbi: You'll get over it.,,MS16TheGangSplitsTown
+Scene,SceneDialogue,Custom,,Bobbi: Now let's split before the girl changes her mind.,What a waste of time.,,With a heavy sigh,MS16TheGangSplitsTown
+Scene,SceneDialogue,Custom,,NPCFBobbiNoNose: Gotta be tons of dirt on Hancock in here...,"Yeah, well I'm just glad we made it through all that alive.",Player Default: Thanks. Turned out to be fun.,,MS16JobDone
+Scene,SceneDialogue,Custom,,Fahrenheit: You know. Hancock? The mayor of Goodneighbor?,"Dammit, Bobbi.","Bobbi: Listen guys, I know this isn't what you expected.",Disbelief,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,Bobbi: Help me take her out and all of it is ours.,This is Hancock we're ripping off here. The guy tends to hold grudges.,Fahrenheit: Counter offer.,,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,Player Default: You won't regret this.,Might as well finish what we started.,Fahrenheit: Wrong move.,Worried,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,"NPCFBobbiNoNose: Well guys, we're right under the Diamond City strongroom.",You sure this is the right place?,,,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,,I've been mapping it out and I think Diamond City should be a little further North of here.,Bobbi: I don't have a doubt in my mind.,,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,"Bobbi: Mel, you think your robot will work here?",Look at this place. The foundation is already crumbling.,,,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,,One blast from Sonya and I bet the floor above would come right down.,"Bobbi: Well, then make it so.",,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,,We won't want to be in the room for this. Collapsing foundation and all.,Bobbi: Good thinking.,,MS16SonyaFinalBlast
+Scene,SceneDialogue,Custom,,Bobbi: Good thinking.,"Alright then, everybody clear out.",,"Shrugs on ""Alright then""",MS16SonyaFinalBlast
+Scene,SceneDialogue,Custom,,,"Sonya, prepare yourself for a blast at maximum power.",Mel: Here we go.,,MS16SonyaFinalBlast
+Scene,SceneDialogue,Custom,,Mel: Here we go.,That didn't sound good. I hope Sonya's ok.,"Bobbi: Now let's get up into that strongroom, shall we?","Worried, while running to check on her",MS16SonyaFinalBlast
+Scene,SceneDialogue,Custom,,"Bobbi: Lead the way, tough guy.",Give me a shout if you come to a dead end. I'll have Sonya give it a blast.,"Bobbi: Our target is to the Southwest, but we may have to do some winding to get there.",,MS16BobbiGiveDirectionsForDig
+Scene,SceneDialogue,Custom,,,Let's just get of here.,,,MS16MelRunsOutofJail
+Scene,SceneDialogue,Custom,,"NPCMMel: Thanks for getting me out, I guess.","So, you're Bobbi's new toy?",Mel: What's the job?,,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,"Player Default: I bet this was just out of the kindness of her huge heart, right?","God, that woman doesn't have a patient bone in her body. I wasn't serving a life sentence, here.",,"To yourself with a sigh, then to the player",MS16MelRecruitment
+Scene,SceneDialogue,Custom,,,"What, she couldn't wait like a day?",Mel: What's the job?,,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,"Bobbi: Mel, you wanna introduce your little friend?",Yup. Meet Sonya.,,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,,This little bot is going to help us move through the earth like a mole rat on jet.,Player Default: I'm excited to see what she can do.,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,Player Default: I'm excited to see what she can do.,"Heh, and I can't wait to show you.",Mel: She's one of a kind.,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,Player Default: Doesn't look like much.,Sonya is not your average Eyebot.,Mel: She's one of a kind.,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,Player Default: Because a robot with no limbs is exactly what you want for your digging operation.,What did you expect?  A Mr. Handy with a shovel?,Mel: She's one of a kind.,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,Player Default: How is a robot going to help us?,She has unique capabilities.,Mel: She's one of a kind.,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,"Player Default: Heh, and I can't wait to show you.",She's one of a kind.,,Excited.,MS16MelDigStart
+Scene,SceneDialogue,Custom,,,I modified her radio systems to emit sonic pulses at frequencies that can loosen any sediment around.,Bobbi: Mel says we'll be able to get to the strongroom ten times faster than just digging.,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,Bobbi: And it's a helluva lot safer than loading the place up with dynamite.,"Alright guys, get ready. I'm not completely sure how the place will respond.",,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,,"So, uh, brace yourselves.","Mel: Sonya, do your thing.",,MS16MelDigStart
+Scene,SceneDialogue,Custom,,,Oh. No. I want no part of this.,Fahrenheit: This works for me.,Your boss and coworker just started shooting at each other. Panicked. / Worried,MS16MelBobbiFightStartScene
+Scene,SceneDialogue,Custom,,Player Default: Bobbi asked me to get you out.,"I bet this was just out of the kindness of her huge heart, right?",Mel: What's the job?,,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,Player Default: I'm not anyone's toy.,Right... Bobbi sure knows how to pick out the gullible ones.,Mel: What's the job?,"Skeptical ""right..."", rest to yourself.",MS16MelRecruitment
+Scene,SceneDialogue,Custom,,Player Default: Yeah. This year's hottest gift. Get one before they're gone.,And what a gift you'd be.,Mel: What's the job?,Mildly flirtatious / Flirting,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,Player Default: Yeah. This year's hottest gift. Get one before they're gone.,I don't really do the whole gift thing.,,,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,,That would require having friends. Or family.,Mel: What's the job?,Sarcastic with a tinge of desperation,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,Player Default: How did you know that?,No one else would put in this much effort for me.,Mel: What's the job?,,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,"Mel: What, she couldn't wait like a day?",What's the job?,Player Default: How'd you like to help break into the Diamond City strongroom?,,MS16MelRecruitment
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: How'd you like to help break into the Diamond City strongroom?,Well damn. That's a big score.,,,MS16MelRecruitment
+Miscellaneous,Miscellaneous,SharedInfo,,,Could be enough caps there to keep me goin for a long time.,"Mel: Bobbi may be shady, but she always pays up in the end.",,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,"Player Default: I don't think you need to know the details yet. If you want the caps, you'll take the work.",So loyal.,,"Sarcastic, amused by the player",MS16MelRecruitment
+Scene,SceneDialogue,Custom,,,"Alright, I'll talk to Bobbi and see what's what.","Mel: Bobbi may be shady, but she always pays up in the end.",,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,Player Default: Bobbi can fill you in on the details.,"Yeah, 'cause I'll get so much out of her.","Mel: Bobbi may be shady, but she always pays up in the end.",,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,Player Default: You've worked jobs with Bobbi before?,Enough to know she's not the most trustworthy person around.,,,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,,"The team may change, but every job comes with the same set of cryptic instructions as the next.",,,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,,You'd have better luck milking a rabid Yao Guai than getting a straight answer from Bobbi.,Player Default: How'd you like to help break into the Diamond City strongroom?,,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,Player Default: Could be enough caps there to keep me goin for a long time.,"Bobbi may be shady, but she always pays up in the end.",,,MS16MelRecruitment
+Scene,SceneDialogue,Custom,,,Guess I'll get my stuff together and head over to her place.,,,MS16MelRecruitment
+Combat,Combat,Hit,,,Dammit.,,"In pain, just got hit",
+Combat,Combat,Hit,,,Agh!,,"In combat, got hit",
+Combat,Combat,Hit,,,Agh! Mother of...,,"In combat, got shot",
+Combat,Combat,Hit,,,Ouch!,,"Indignant, got hit in combat",
+Combat,Combat,CoverMe,,,Not doing too well over here.,,"Yelling for help, sarcastically under-playing the urgency",
+Combat,Combat,Taunt,,,Getting real tired of you.,,,
+Combat,Combat,Taunt,,,You don't quit.,,"Angry, in combat",
+Combat,Combat,Taunt,,,"Ha, take that.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Crabs!,,Beginning combat with a Mirelurk,
+Miscellaneous,Miscellaneous,SharedInfo,,,Again with the claws.,,"Beginning combat with a Mirelurk, exasperated.",
+Miscellaneous,Miscellaneous,SharedInfo,,,"Ghouls! Um, the bad ones. Feral Ghouls!",,Beginning combat with a Feral Ghoul. You are near a non feral ghoul and don't want to offend them by lumping the two together.,
+Miscellaneous,Miscellaneous,SharedInfo,,,"We get it, you're zombies.",,"Beginning combat with a Feral Ghoul, exasperated",
+Detection,Detection,NormalToCombat,,,"Goody, more fighting.",,Sarcastic,
+Detection,Detection,NormalToCombat,,,Here we go again.,,"Starting combat, exhausted",
+Miscellaneous,Miscellaneous,SharedInfo,,,I knew I heard something!,,"Scared, alerting player to enemies",
+Miscellaneous,Miscellaneous,SharedInfo,,,"Um, over here!",,"Scared, alerting player to enemies",
+Miscellaneous,Miscellaneous,SharedInfo,MS16SharedInfoMelToCombat03,,There you are!,,"Found an enemy, alerting friends",
+Detection,Detection,CombatToNormal,,,"You owe me a drink for this, Bobbi.",,After killing stuff,
+Detection,Detection,CombatToNormal,,,Glad that's over.,,After a fight,
+Detection,Detection,CombatToNormal,,,Phew.,,After a fight,
+Detection,Detection,CombatToNormal,,,Anybody else wanna take a break?,,After a fight,
+Detection,Detection,CombatToNormal,,,That wasn't so bad.,,,
+Miscellaneous,Miscellaneous,Greeting,,,"Thanks for getting me out, I guess.","Mel: So, you're Bobbi's new toy?",,MS16MelRecruitment
+Miscellaneous,Miscellaneous,Greeting,,,"If Bobbi's directions are correct, and I have my doubts, the strongroom should be right through there.",Mel: If you had anything else you wanted to check out in this tunnel I suggest you do that first.,,MS16MelLastBarrier
+Miscellaneous,Miscellaneous,Greeting,,,Ready to get into the strongroom?,Mel: If you had anything else you wanted to check out in this tunnel I suggest you do that first.,,MS16MelLastBarrier
+Miscellaneous,Miscellaneous,Greeting,,,Mel here. Can I help you?,Player Default: I am getting you out of here.,Sarcastic. You are locked in a jail cell.,MS16MelInJailScene
+Miscellaneous,Miscellaneous,Greeting,,,"Have to say, I'm not really cool with how this went down.",Player Default: I'm sorry it had to be this way.,You've just been lied to by your boss and watched her die by the player's hand.  / Somber,MS16BobbisDeathAftermath
+Miscellaneous,Miscellaneous,Greeting,,,"If you find anywhere you want Sonya to blast, give me a shout.","Player Default: Good work on the robot, very helpful.",,MS16MelDigDialogue
+Miscellaneous,Miscellaneous,Greeting,,,"I knew we'd be digging, but I didn't think there would be this much fighting.","Player Default: Good work on the robot, very helpful.",,MS16MelDigDialogue
+Miscellaneous,Miscellaneous,Greeting,,,I'm beginning to wonder what we are going to find in that strongroom.,,,MS16MelDigDialogue
+Miscellaneous,Miscellaneous,Greeting,,,What if there are dead bodies in there or something?,"Player Default: Good work on the robot, very helpful.",A little scared at the thought.,MS16MelDigDialogue
+Miscellaneous,Miscellaneous,Hello,,,"I don't know what you could want from me, but can it wait til I'm not in a jail cell?",,,
+Miscellaneous,Miscellaneous,Hello,,,I'm kind of enjoying the alone time here.,,,
+Miscellaneous,Miscellaneous,Hello,,,I just hope this isn't like when we tried to break into that Vault and it ended up being heavily irradiated.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Chronic vomitting. Not my favorite thing, I learned.",,,
+Miscellaneous,Miscellaneous,Hello,,,Poor Sonya.,,,
+Miscellaneous,Miscellaneous,Hello,,,"I am gonna use some of that strongroom money to build a Sonya II, in memoriam.",,,
+Miscellaneous,Miscellaneous,Hello,,,"I'm gonna need some time off after this job, but we should work together again sometime.",,,
+Miscellaneous,Miscellaneous,Hello,,,What a waste of time.,,,
+Miscellaneous,Miscellaneous,Hello,,,"I'm curious what this is about, but let's talk once we make some distance, ok?",,Someone just broke you out of jail,
+Miscellaneous,Miscellaneous,Hello,,,Guess this is it...,,,
+Miscellaneous,Miscellaneous,Hello,,,I hope this was worth it...,,,
+Miscellaneous,Miscellaneous,Hello,,,Another job done.,,"Mildly happy, a little bored. This is routine.",
+Miscellaneous,Miscellaneous,Hello,,,What a waste...,,"Upset, your friend is dead.",
+Miscellaneous,Miscellaneous,SharedInfo,,,I'll see you over there.,,,
+Scene,SceneDialogue,Custom,,"Player Default: Listen, about Bobbi...","I'd rather not talk about her, ok?",Mel: I'm basically living my life on the run.,Somber,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,Player Default: I didn't intend on it.,Ouch.,,Surprised,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,,"Yeah, well after that mess in Hancock's strongroom, I understand.",Mel: I'm basically living my life on the run.,Apologetic,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,Player Default: You look well.,"Well? No. No, I don't look well.",Mel: I'm basically living my life on the run.,Puzzled,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,Player Default: You look well.,I am sleeping a lot better since I heard Hancock kicked the bucket. Let me tell you.,Mel: I'm basically living my life on the run.,SinisterSmile,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,Player Default: How've you been?,"Not good, old friend. Not good.",,Somber,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,,I'm just trying to get everything in order before I disappear.,Mel: I'm basically living my life on the run.,Somber,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,Player Default: How've you been?,"Well, I can tell you I am doing a whole lot better since I heard Hancock kicked the bucket.",Mel: I'm basically living my life on the run.,SinisterSmile,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,"Player Default: I'd rather not talk about her, ok?",I'm basically living my life on the run.,,Concerned,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,,"If I stay around here, Hancock is gonna kill me. That is all there is to it.",Player Default: I'm sorry about all this.,Worried,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,"Player Default: I'd rather not talk about her, ok?","By the way, this is the new Sonya Mk. II. Given recent circumstances, she is more offensively capable than the Sonya you knew.",Player Default: I'm sorry about all this.,Confident,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,Player Default: I'm sorry about all this.,It's my fault for joining up.,Mel: Well... I really have to get going now.,Depressed,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,Player Default: So you are going to run away.,"No, you are not going to make me feel bad about this.",,Irritated,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,,"You got me into this situation, you have no right to judge me.",Mel: Well... I really have to get going now.,Disgust,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,Player Default: Hancock isn't going to kill you.,"You don't know Hancock, friend.",Mel: Well... I really have to get going now.,Worried,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,Player Default: Where are you headed?,"Not that I don't trust you, but I'm not gonna tell you that.",Mel: Well... I really have to get going now.,Suspicious,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,Player Default: It's my fault for joining up.,Well... I really have to get going now.,,Awkward parting / Nervous,RETravelKMK_MS16MelSceneHancockAlive
+Scene,SceneDialogue,Custom,,,It was good to see you again.,,"Half hearted, like you would say to an ex you didn't want to see.  / Nervous",RETravelKMK_MS16MelSceneHancockAlive
+Miscellaneous,Miscellaneous,Hello,,,Looks like you and Hancock are playing nice now.,,Surprised by this,
+Miscellaneous,Miscellaneous,Hello,,,"No offense, but I'd prefer to stay as far away from the two of you as possible.",,,
+Miscellaneous,Miscellaneous,Hello,,,"Oh, it's you.",,Surprised to see the player,
+Miscellaneous,Miscellaneous,Hello,,,I've stalled long enough. I really have to get moving.,,Rushed,
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, I didn't expect to see you again.","Player Default: Listen, about Bobbi...",Surprised,RETravelKMK_MS16MelSceneHancockAlive

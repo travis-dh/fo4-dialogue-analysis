@@ -1,0 +1,54 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,,Don't try anything funny. You've been warned.,GuardManny: Blythe. Hey Blythe!,"Firm, menacing",MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,GuardManny: Don't try anything funny. You've been warned.,Blythe. Hey Blythe!,HonestDan: Torture? They're sick. Just give me the signal.,Yelling over a noise - louder on the second attempt,MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,"Blythe: Yes. What is it, Manny?",I thought you guys were done with Subject 12.,"Blythe: Oh, yes, the interview's over. I'm just reviewing the data on Question 4. Fascinating, really-",Annoyed (at the noise),MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,"Blythe: Oh, yes, the interview's over. I'm just reviewing the data on Question 4. Fascinating, really-","Yeah, I'm sure.",Blythe: Certainly.,Cutting the over-eager scientist off,MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,Blythe: Certainly.,Hey.,BridgeGuard: What is it?,"Yelled, Getting Bridge Guard's attention",MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,GuardManny: Hey.,What is it?,GuardManny: Extend the platform.,Annoyed,MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,BridgeGuard: What is it?,Extend the platform.,BridgeGuard: We're not expecting anyone.,"Raised volume, talking with someone 15' away - Barking an order",MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,GuardManny: Extend the platform.,We're not expecting anyone.,GuardManny: Showed up on our doorstep. What was I supposed to do?,Firm,MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,BridgeGuard: We're not expecting anyone.,Showed up on our doorstep. What was I supposed to do?,"BridgeGuard: You know what you were supposed to do. This goes wrong, it's all on you.",Irritated at being second guessed,MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,BridgeGuard: We're not expecting anyone.,Orden sent him.,"BridgeGuard: You know what you were supposed to do. This goes wrong, it's all on you.",Irritated at being second guessed,MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,BridgeGuard: We're not expecting anyone.,Orden sent her.,"BridgeGuard: You know what you were supposed to do. This goes wrong, it's all on you.",,MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,GuardManny: Showed up on our doorstep. What was I supposed to do?,"You know what you were supposed to do. This goes wrong, it's all on you.",,"Some disdain for Orden. Emphasize ""your"".",MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,GuardManny: Showed up on our doorstep. What was I supposed to do?,"Orden? If this goes wrong, it's on your head.",,"Some disdain for Orden. Emphasize ""your"".",MS17_315_MannyEscort
+Scene,SceneDialogue,Custom,,,"Compound to BF, Compound to BF. Remaining Stockton loose ends tied up. Requesting update on version 11.3.",,Pure military,MS17_212_Radio
+Scene,SceneDialogue,Custom,,NPCMManny: Hold it right there.,Just because Jacob vouched for you doesn't mean you can enter the Compound. Why should I let you in?,Player Default: I just want to talk with whoever's in charge here. I'm sure we can come to an arrangement.,Poker face,MS17_310b_CompoundExpected
+Scene,SceneDialogue,Custom,,Player Default: I just want to talk with whoever's in charge here. I'm sure we can come to an arrangement.,We'll see.,GuardManny: I'll take you to Doctor Chambers. She can decide what to do with you.,"Grunt at the beginning, undecided",MS17_310b_CompoundExpected
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I just want to talk with whoever's in charge here. I'm sure we can come to an arrangement.,Our mission is just too important. I'm afraid you've seen too much. Men.,GuardManny: I'll take you to Doctor Chambers. She can decide what to do with you.,Grim - at the end he's ordering the PC's execution (he doesn't want to do this),MS17_310b_CompoundExpected
+Scene,SceneDialogue,Custom,,Player Default: I'm coming in one way or the other. At least with the easy way you still get to breathe.,All right. Have it your way.,GuardManny: I'll take you to Doctor Chambers. She can decide what to do with you.,"A little unsteady, he backed down from the PC / Nervous",MS17_310b_CompoundExpected
+Scene,SceneDialogue,Custom,,Player Default: I'm coming in one way or the other. At least with the easy way you still get to breathe.,We'll see about that. Men.,GuardManny: I'll take you to Doctor Chambers. She can decide what to do with you.,"Doesn't back down from the threat, the ""Men"" is his queue to start a fight",MS17_310b_CompoundExpected
+Scene,SceneDialogue,Custom,,Player Default: All I want is to find Stockton's people. This doesn't have to get messy.,I see.,GuardManny: I'll take you to Doctor Chambers. She can decide what to do with you.,Considering,MS17_310b_CompoundExpected
+Scene,SceneDialogue,Custom,,Player Default: What exactly is this place?,"I'm asking the questions here. So, why should I let you in?",Player Default: I just want to talk with whoever's in charge here. I'm sure we can come to an arrangement.,Firm,MS17_310b_CompoundExpected
+Scene,SceneDialogue,Custom,,Player Default: We'll see.,I'll take you to Doctor Chambers. She can decide what to do with you.,,Suspicious of the PC,MS17_310b_CompoundExpected
+Scene,SceneDialogue,Custom,,,Stay where I can see you. If you try to wander off you will be dealt with.,,"Firm, absolute threat - if the PC wanders off he will be shot",MS17_310c_CompoundEscort
+Scene,SceneDialogue,Custom,,,Outsiders aren't allowed. Why are you here?,Player Default: I'm here to rescue the survivors from Stockton's caravan.,Accusing,MS17_310a_Compound_Intro
+Scene,SceneDialogue,Custom,,Player Default: I'm here to rescue the survivors from Stockton's caravan.,I can't let you do that.,GuardManny: This ain't personal.,Grim,MS17_310a_Compound_Intro
+Scene,SceneDialogue,Custom,,Player Default: I'm here to rescue the survivors from Stockton's caravan.,You've already seen too much.,GuardManny: This ain't personal.,Grim,MS17_310a_Compound_Intro
+Scene,SceneDialogue,Custom,,Player Default: I just came from Covenant. They said I should come here.,"If Jacob gave anyone permission, I would know about it.",GuardManny: This ain't personal.,"A little angry, knows he's being lied to / Irritated",MS17_310a_Compound_Intro
+Scene,SceneDialogue,Custom,,Player Default: I just came from Covenant. They said I should come here.,I suppose so.,GuardManny: This ain't personal.,Annoyed / Irritated,MS17_310a_Compound_Intro
+Scene,SceneDialogue,Custom,,Player Default: I just want answers. About Stockton's caravan. Nothing more.,*sigh* I'll take you to see Doctor Chambers. She'll know what to do about you.,GuardManny: This ain't personal.,"Not happy, convinced despite his better judgment",MS17_310a_Compound_Intro
+Scene,SceneDialogue,Custom,,Player Default: I just want answers. About Stockton's caravan. Nothing more.,"Stranger, turn around and leave. And don't come back. Otherwise they'll be consequences.",GuardManny: This ain't personal.,Not happy,MS17_310a_Compound_Intro
+Scene,SceneDialogue,Custom,,Player Default: I just want answers. About Stockton's caravan. Nothing more.,That's unfortunate.,GuardManny: This ain't personal.,Not happy,MS17_310a_Compound_Intro
+Scene,SceneDialogue,Custom,,Player Default: Who are you?,I'm asking the questions. Why are you here?,Player Default: I'm here to rescue the survivors from Stockton's caravan.,,MS17_310a_Compound_Intro
+Scene,SceneDialogue,Custom,,Player Default: I can't let you do that.,This ain't personal.,,"Grim order, doesn't want to do this / Sad",MS17_310a_Compound_Intro
+Combat,Combat,Taunt,,,The mission must be protected.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,You shouldn't have come here.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Hands off your weapons.,GuardManny: Outsiders aren't allowed. Why are you here?,An order - he will shoot if he's not listened to,MS17_310a_Compound_Intro
+Miscellaneous,Miscellaneous,Greeting,,,Hold it right there.,GuardManny: Just because Jacob vouched for you doesn't mean you can enter the Compound. Why should I let you in?,"Tense, guns pointed at the PC",MS17_310b_CompoundExpected
+Combat,Combat,Taunt,,,The missions must be protected.,,,
+Combat,Combat,Taunt,,,You should've left us alone.,,,
+Combat,Combat,Taunt,,,You shouldn't be here.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,The missions must be protected.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,You should've left us alone.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,You shouldn't be here.,,,
+Miscellaneous,Miscellaneous,Hello,,,You have free run of the Compound.,,,
+Miscellaneous,Miscellaneous,Hello,,,"For awhile there, I thought I was going to have to kill you.",,,
+Miscellaneous,Miscellaneous,Hello,,,It's good you're on our side.,,,
+Miscellaneous,Miscellaneous,Hello,,,Don't try anything.,,,
+Miscellaneous,Miscellaneous,Hello,,,Watch yourself.,,,
+Miscellaneous,Miscellaneous,Hello,,,Doctor Chambers is a visionary.,,,
+Miscellaneous,Miscellaneous,Hello,,,Sacrifices must be made to stop the Institute.,,,
+Miscellaneous,Miscellaneous,Hello,,,The Institute's taken so much from from everyone.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Never, ever, trust a synth.",,,
+Miscellaneous,Miscellaneous,Hello,,,Manny was right to trust you.,,,

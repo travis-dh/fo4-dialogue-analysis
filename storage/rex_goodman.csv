@@ -1,0 +1,79 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Speak, speak! Let me hear your dulcet tones.",,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Silence may be golden, but I've always hated it.",,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Well?,,,
+Miscellaneous,Miscellaneous,Hello,,,It's a pleasure to see you again.,,,
+Miscellaneous,Miscellaneous,Hello,,,I can't thank you enough for saving my life.,,,
+Scene,SceneDialogue,Custom,,,"So, that whole milk of human kindness thing. That's from Macbeth. I thought I could civilize these savages by teaching it to them.",RexGoodman: Strong here believes it is the secret to human power. So he wants us to help him find it.,Apologetic,MS10RexInFirstLift
+Scene,SceneDialogue,Custom,,"RexGoodman: So, that whole milk of human kindness thing. That's from Macbeth. I thought I could civilize these savages by teaching it to them.",Strong here believes it is the secret to human power. So he wants us to help him find it.,RexGoodman: I shall uplift our spirits by quoting from the Bard.,Conspiratorial,MS10RexInFirstLift
+Scene,SceneDialogue,Custom,,RexGoodman: Strong here believes it is the secret to human power. So he wants us to help him find it.,I shall uplift our spirits by quoting from the Bard.,"RexGoodman: Good night, good night! Parting is such sweet sorrow.",melodramatic / Sad,MS10RexInFirstLift
+Scene,SceneDialogue,Custom,,RexGoodman: I shall uplift our spirits by quoting from the Bard.,"Good night, good night! Parting is such sweet sorrow.",RexGoodman: Our doubts are traitors and make us lose the good we oft might win by fearing to attempt.,melodramatic / Sad,MS10RexInFirstLift
+Scene,SceneDialogue,Custom,,"RexGoodman: Good night, good night! Parting is such sweet sorrow.",Our doubts are traitors and make us lose the good we oft might win by fearing to attempt.,"RexGoodman: So wise so young, they say do never live long.",melodramatic / Worried,MS10RexInFirstLift
+Scene,SceneDialogue,Custom,,RexGoodman: Our doubts are traitors and make us lose the good we oft might win by fearing to attempt.,"So wise so young, they say do never live long.",RexGoodman: Hell is empty and all the devils are here.,melodramatic / Sad,MS10RexInFirstLift
+Scene,SceneDialogue,Custom,,"RexGoodman: So wise so young, they say do never live long.",Hell is empty and all the devils are here.,"RexGoodman: Let me embrace thee, sour adversity, for wise men say it is the wisest course.",melodramatic / Worried,MS10RexInFirstLift
+Scene,SceneDialogue,Custom,,RexGoodman: Hell is empty and all the devils are here.,"Let me embrace thee, sour adversity, for wise men say it is the wisest course.",,melodramatic / Sad,MS10RexInFirstLift
+Miscellaneous,Miscellaneous,SharedInfo,,,"Help. Or Mayday, or whatever it is one says on a radio.",,,MS10RadioSceneWRVR
+Miscellaneous,Miscellaneous,SharedInfo,,,My name is Rex Goodman. I'm being held prisoner on the top of Trinity Tower.,,,MS10RadioSceneWRVR
+Miscellaneous,Miscellaneous,SharedInfo,,,I think the super mutants plan on eating me soon.,,,MS10RadioSceneWRVR
+Miscellaneous,Miscellaneous,SharedInfo,,,I'm setting this to repeat. Oh shit! Got to sign off. One of the super mutants is coming.,,,MS10RadioSceneWRVR
+Scene,SceneDialogue,Custom,,RexGoodman: I think the super mutants killed and ate the others.,Quickly! Get us out of here.,Player Default: I'll unlock the cage.,Worried,MS10RexInCage
+Scene,SceneDialogue,Custom,,,Follow Strong. He knows the best way down off of this cursed tower.,"Strong: Go to Lift. Go fast, humans.",Worried,MS10RexOutOfCage
+Scene,SceneDialogue,Custom,,Player Default: You're welcome.,As gracious as you are brave.,"RexGoodman: In any event, I'm quite grateful.",Grateful,MS10RexFinale
+Scene,SceneDialogue,Custom,,Player Default: I just love rescuing idiots.,I suppose that barb was justified. I did act foolishly.,"RexGoodman: In any event, I'm quite grateful.",Apologetic,MS10RexFinale
+Scene,SceneDialogue,Custom,,Player Default: I think I've earned a reward.,"Ah, yes, the mercenary. A classic character. Under appreciated in most productions.","RexGoodman: In any event, I'm quite grateful.",Nervous,MS10RexFinale
+Scene,SceneDialogue,Custom,,Player Default: What were you doing up there?,I was attempting to teach those super mutants human culture. Trying to civilize them.,,Conspiratorial,MS10RexFinale
+Scene,SceneDialogue,Custom,,,"I thought if they could just experience the majesty of Shakespeare, it would change them forever.",,Pleading,MS10RexFinale
+Scene,SceneDialogue,Custom,,,"And who better to open their eyes to the wonders of the Bard than Rex Goodman, the foremost actor in the world today?","RexGoodman: In any event, I'm quite grateful.",proud / Amused,MS10RexFinale
+Scene,SceneDialogue,Custom,,Player Default: As gracious as you are brave.,"In any event, I'm quite grateful.",,Grateful,MS10RexFinale
+Scene,SceneDialogue,Custom,,,I'd like you to have this.,,Grateful,MS10RexFinale
+Scene,SceneDialogue,Custom,,,"Now if you'll excuse me, I think it's time I left this awful place.",,Disgust,MS10RexFinale
+Scene,SceneDialogue,Custom,,,I'm returning to WRVR and resuming my career in radio.,,somewhat egotistical / Confident,MS10RexFinale
+Scene,SceneDialogue,Custom,,Player Default: I'll unlock the cage.,Hurry. Strong says more super mutants are on their way.,,Worried,MS10RexInCage
+Scene,SceneDialogue,Custom,,,By the way. He's with me. Please don't shoot him.,Strong: Strong will not hurt human if human rescues Strong and Rex.,Conspiratorial,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: No way! There is a super mutant in there with you.,He's on our side. He's a prisoner too.,,Conspiratorial,MS10RexInCage
+Scene,SceneDialogue,Custom,,,Let us out. I promise he won't try to kill you.,Strong: Strong will not hurt human if human rescues Strong and Rex.,Pleading,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: A super mutant? This must be a trick.,It's not a trick. He's a prisoner too.,,Pleading,MS10RexInCage
+Scene,SceneDialogue,Custom,,,"Look, he's gentle as a lamb.",,Pleading,MS10RexInCage
+Scene,SceneDialogue,Custom,,,"Okay, maybe a psychotic, overly muscled lamb. But I swear you are in no danger.",Strong: Strong will not hurt human if human rescues Strong and Rex.,Apologetic,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: The super mutant too?,"Yes, him too. He's harmless.",,Pleading,MS10RexInCage
+Scene,SceneDialogue,Custom,,,"Well, actually, he's far from harmless, but he won't hurt us. Trust me.",Strong: Strong will not hurt human if human rescues Strong and Rex.,Conspiratorial,MS10RexInCage
+Scene,SceneDialogue,Custom,,"Player Default: Okay, I'll let the two of you out.",Hurry.,"RexGoodman: I came here to teach these poor, ignorant creatures culture.",Nervous,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: I'm not taking the word of a super mutant.,Then it's the stew pot for me. Farewell cruel world.,"RexGoodman: I came here to teach these poor, ignorant creatures culture.",Depressed,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: Sure. Trust him. What could go possibly wrong?,Strong here has a new purpose in life.,"RexGoodman: I came here to teach these poor, ignorant creatures culture.",Conspiratorial,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: Why is the super mutant caged?,He defied his leader by standing up for me.,,Grateful,MS10RexInCage
+Scene,SceneDialogue,Custom,,,"See, I've given him a new purpose in life.","RexGoodman: I came here to teach these poor, ignorant creatures culture.",Amused,MS10RexInCage
+Scene,SceneDialogue,Custom,,Strong: Strong will not hurt human if human rescues Strong and Rex.,See?,"Player Default: Okay, I'll let the two of you out.",Pleading,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: Hurry.,"I came here to teach these poor, ignorant creatures culture.",,Sad,MS10RexInCage
+Scene,SceneDialogue,Custom,,,I started with Macbeth.,,Awed,MS10RexInCage
+Scene,SceneDialogue,Custom,,,I guess they found it funny. All of them except Strong here.,Strong: Strong learn secret to human power from Mack Beth.,Irritated,MS10RexInCage
+Scene,SceneDialogue,Custom,,Strong: Milk of human kindness. Strong will find milk. Strong will drink milk. Strong will have secret power of humans.,"Yes, yes. Of course you will.",,Irritated,MS10RexInCage
+Scene,SceneDialogue,Custom,,,"When they grew tired of taunting me, they threw me in here.",,Worried,MS10RexInCage
+Scene,SceneDialogue,Custom,,,Little did they know there was a radio in here.,Strong: They know. You bait to catch more humans.,Conspiratorial,MS10RexInCage
+Scene,SceneDialogue,Custom,,Strong: They know. You bait to catch more humans.,What? Why didn't you tell me?,Strong: Strong thought you know.,Surprised,MS10RexInCage
+Scene,SceneDialogue,Custom,,Strong: Strong thought you know.,See what I have to work with?,,Pleading,MS10RexInCage
+Scene,SceneDialogue,Custom,,,I've promised Strong to help him find the milk of human kindness if we get out of here.,Player Default: I'll let you out.,Conspiratorial,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: I'll let you out.,Hurry.,,Pleading,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: You fool. This is all a trick.,It might be. But's it's my only hope.,,Depressed,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: Unbelievable. Let me think about it.,Just let us out.,,Pleading,MS10RexInCage
+Scene,SceneDialogue,Custom,,Player Default: What are the super mutants going to do with Strong.,Throw him off the building. They're taking bets on how many times he'll bounce.,Player Default: I'll let you out.,Nervous,MS10RexInCage
+Scene,SceneDialogue,Custom,,,Wait. Come back. Don't leave me here!,,Pleading,MS10RexInCage
+Scene,SceneDialogue,Custom,,Strong: Strong help human. Human give Strong milk. Strong become leader.,The milk is from a line in Macbeth. I'll tell you about it later.,,"trying to hurry the player along, slightly dismissive / Apologetic",MS10StrongToLift
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: What the hell are you doing in there?,"Oh, beneficent bard! A rescuer.",,Relieved,MS10RexInCage
+Scene,SceneDialogue,Custom,,,You are the first to actually make it to the cage.,,Grateful,MS10RexInCage
+Scene,SceneDialogue,Custom,,,I think the super mutants killed and ate the others.,Player Default: I'll unlock the cage.,Worried,MS10RexInCage
+Scene,SceneDialogue,Custom,,,It's stopping. Why is it stopping?,,Afraid,MS10RexExitsFirstLift
+Scene,SceneDialogue,Custom,,,"We're all going to die, aren't we?",,Afraid,MS10RexExitsFirstLift
+Scene,SceneDialogue,Custom,,,Are we there? Are we finally down?,Strong: Rex human talk too much.,Afraid,MS10RexExitsSecondLift
+Combat,Combat,Taunt,,,Cowards die many times before their deaths; the valiant never taste of death but once.,,melodramatic / Sad,
+Combat,Combat,Taunt,,,"I go, and it is done; the bell invites me.",,melodramatic / Sad,
+Combat,Combat,Taunt,,,"Life's but a walking shadow, a poor player, that struts and frets his hour upon the stage, and then is here no more.",,melodramatic / Sad,
+Combat,Combat,Taunt,,,Our doom is upon us. Parting is such sweet sorrow.,,melodramatic / Sad,
+Miscellaneous,Miscellaneous,Greeting,,,Many thanks for that timely rescue.,Player Default: You're welcome.,Grateful,MS10RexFinale
+Miscellaneous,Miscellaneous,Hello,,,Get the key! They put it in that big trunk.,,,
+Miscellaneous,Miscellaneous,Hello,,,What are you waiting for?,,,
+Miscellaneous,Miscellaneous,Idle,,,Make haste! I can hear them.,,Afraid,
+Miscellaneous,Miscellaneous,Idle,,,Tis but a simple lock. What takes so long?,,Afraid,
+Miscellaneous,Miscellaneous,Idle,,,Get on the lift you fool.,,Afraid,
+Miscellaneous,Miscellaneous,Idle,,,What are you waiting for? You are going to be the death of us all.,,Afraid,
+Miscellaneous,Miscellaneous,Idle,,,We made it. Thank god.,,Grateful,
+Miscellaneous,Miscellaneous,Idle,,,Sweet terra firma. I shall never take thee for granted again.,,Happy,

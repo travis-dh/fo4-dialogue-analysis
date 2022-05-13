@@ -1,0 +1,61 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,DLC04CrowdColaCars_TA: *Hesitant Cheering*,Amen.,"DLC04Gage: All right, all right. Now, get the hell out of here. I'll show the boss around.",Projected. Loudly agreeing with his sister. / Irritated,DLC04MQ01_800_GagePostFightAddress
+Scene,SceneDialogue,Custom,,OperatorsLeader: And that we're going to get back to robbing folks of their fucking money.,Great. Another nut--,OperatorsLeader: William.,"You're cut off by your sister, trying to ensure you don't say something stupid to your new boss. / Neutral",DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,DLC04NPCFMagsBlack: Well. I suppose we all owe you for putting down Colter.,Man was an idiot. Made us all look bad.,"Player Default: Regret, I guess. I didn't want to kill him.",Stern,DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,"Player Default: Regret, I guess. I didn't want to kill him.",You'd be the only one...,OperatorsLeader: Agreed. Not going to make much of a splash around Nuka-World with an attitude like that...,Neutral,DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,"Player Default: Taking down an opponent like that, it's thrilling.",Sure looked it.,OperatorsLeader: Hmm. Perhaps you're better suited to this than I expected.,Neutral,DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,"Player Default: Bored. Kind of like this conversation, now that you mention it...",Hey. You don't get to talk to Mags that way.,"OperatorsLeader: It's all right, William.",Stern,DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,"Player Default: Well... you, Overboss. You're... an unknown quantity. And we're interested in knowing who we're dealing with.","So, we'd like if you answered the question.",OperatorsLeader: Yes. What went through you as you crushed the life out of that oaf?,"Curious about the person standing in front of you. Not too aggressive, as this is your boss. / Neutral",DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,"OperatorsLeader: This is my brother, William.",Pleasure.,"OperatorsLeader: Along with our co-conspirator Lizzie, we run this crew. Call ourselves the Operators.",Very flat. You're not actually pleased to meet your new boss. / Neutral,DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,Player Default: Happiness?,Nope.,OperatorsLeader: Caps. This place was built for the sole purpose of taking caps out of the pockets of fools.,Someone just gave an answer you find stupid to a question your sister posed. / Amused,DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,Player Default: Soda?,Heh. Not quite.,OperatorsLeader: Caps. This place was built for the sole purpose of taking caps out of the pockets of fools.,Stern,DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,OperatorsLeader: ... though by somewhat more cutthroat methods than I expect its founders intended.,Instead Colter had us sitting on our asses for the better part of a year while he lived large in his damn mountaintop.,"OperatorsLeader: And that means if you're going to be in charge around here, we'd like some assurances that you intend to bring this place back to its true purpose.",Irritated,DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,Player Default: My goal's to use this place to make all the money I can.,"Well, it's about damn time.",OperatorsLeader: Hmm. I look forward to seeing your claims put into action.,Neutral,DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,Player Default: I'm sorry. That sounds like a demand. I'm the Overboss around here. And I'll do whatever the hell I want.,"Hmm. Of course, boss.",OperatorsLeader: Whatever you say.,This is an angry grumble. Your new boss just told your sister to shut her mouth. You're picturing cutting his throat in your head. / Neutral,DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,"Player Default: We are the only rational players around here and would make valuable allies, so long as we know you intend to get this place back to bringing in caps.","So, we want to know what your plan is.",Player Default: My goal's to use this place to make all the money I can.,"Add a little bit of sternness to this. You're talking to your boss, but you're not used to sugar coating your words. / Question",DLC04MQ02OperatorsScene01
+Scene,SceneDialogue,Custom,,DLC04MQ05Mags: Looks like Nisha's dug in pretty well up there.,"I knew that nutjob would turn on us sooner or later. So, are we storming the place or what?",DLC04MQ05Mason: Think we're about to find out... the boss is here.,Angry,DLC04MQ05Stage020BossScene01
+Scene,SceneDialogue,Custom,,DLC04MQ05Mags: Looks like Mason's dug in pretty well up there.,"I knew that nutjob would turn on us sooner or later. So, are we storming the place or what?",DLC04MQ05Nisha: Both of you shut up. We're about to find out... the boss is here.,Angry,DLC04MQ05Stage020BossScene03
+Scene,SceneDialogue,Custom,,"DLC04MQ05Mags: Which we certainly appreciated. But, surprise, surprise... Nisha wasn't exactly thrilled to hear the news.",Yeah... she and her gang forced their way into the Power Plant. Now they've got the entire place locked down.,,Irritated,DLC04MQ05Stage025BossScene01
+Scene,SceneDialogue,Custom,,,"She can't get away with this, boss. And we all want in on the action!","DLC04MQ05Mason: Hey, now. I already lost men trying to stop her.",Angry,DLC04MQ05Stage025BossScene01
+Scene,SceneDialogue,Custom,,Player Default: Amen.,Let's do this!,DLC04MQ05Mason: &lt;Howls&gt;,Angry,DLC04MQ05Stage025BossScene01
+Scene,SceneDialogue,Custom,,"DLC04MQ05Mags: We can't let him get away with this, boss. And we all want a crack at those loonies.",Damn right we do.,"DLC04MQ05Nisha: Look... it's your play. We'll follow you anywhere, but you have to swear to us that Mason pays for this with his life.",Angry,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,DLC04MQ05Mags: Time to clean house.,"We got your back, boss!",,Confident,DLC04MQ05Stage025BossScene03
+Miscellaneous,Miscellaneous,Greeting,,,Didn't think the peace between the gangs would end like this. Now Nisha gets to learn what happens to traitors.,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,Bullet to the brain's too good for Nisha. She deserves a slow death.,,Angry,
+Miscellaneous,Miscellaneous,Greeting,,,Next Disciple I see I'm filling with lead.,,Angry,
+Miscellaneous,Miscellaneous,Greeting,,,Didn't think the peace between the gangs would end like this. Now Mason gets to learn what happens to traitors.,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,Bullet to the brain's too good for Mason. He deserves a slow death.,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,Next Pack member I see I'm filling with lead.,,Angry,
+Miscellaneous,Miscellaneous,SharedInfo,,,"The World's yours now, boss.",,Bit of a smirk. / Impressed,
+Miscellaneous,Miscellaneous,SharedInfo,,,Never thought I'd see this place lit up again.,,Impressed,
+Miscellaneous,Miscellaneous,SharedInfo,,,Nuka-World back on its feet. I imagine Colter's spinning in his grave right now.,,Impressed,
+Combat,Combat,Death,,,God dammit...,,You've been killed. / Neutral,
+Combat,Combat,Hit,,,Hmph. W-what else ya got?,,You just took damage in combat. Through gritted teeth. / InPain,
+Combat,Combat,Hit,,,Rrgh.,,You just took damage in combat. Through gritted teeth. / InPain,
+Combat,Combat,Hit,,,Have to.. have to try harder than that.,,You just took damage in combat. Through gritted teeth. / InPain,
+Combat,Combat,Taunt,,,Sleep tight.,,Threatening someone in the heat of combat. / Stern,
+Combat,Combat,Taunt,,,Made your own grave.,,Threatening someone in the heat of combat. / Stern,
+Combat,Combat,Taunt,,,Last day you'll ever see.,,Threatening someone in the heat of combat. / Stern,
+Detection,Detection,NormalToCombat,,,You want to get started?,,Entering combat. / Stern,
+Detection,Detection,NormalToCombat,,,You're gonna wish you'd run.,,Entering combat. / Stern,
+Detection,Detection,NormalToCombat,,,"Really wanna try me, huh?",,Entering combat. / Stern,
+Miscellaneous,Miscellaneous,Hello,,,Should be a couple odd jobs available if you want to get your hands dirty. Talk to Mags.,,"By ""odd jobs"" you mean murdering people. Add some smirk to that. / Neutral",
+Miscellaneous,Miscellaneous,Hello,,,Mags always saw the potential in this place. And she doesn't steer us wrong.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Pack act like rabid animals... ought to be dealt with the same way.,,Talking about a gang you can't stand. / Stern,
+Miscellaneous,Miscellaneous,Hello,,,"Any Operator gets caught breaking the peace, I'll punish them myself, boss. Can't let them think it's all right to get caught.",,Second line should have some smirk on it. Your problem isn't that your people are breaking that peace. Only that they got caught doing it. / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,"Operators got no tolerance for dead weight. Those who can't cut it, they're gone.",,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Hmm. Our new boss. You're going to want to talk to Mags.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Pack and the Disciples have some screws loose. We're the ones you should be putting stock in.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Bringing this place back from the dead - Operators are the only crew for the job.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,You want us on your side? Prove it.,,Not a threat. A statement of fact. / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Colter jerked us all around. Don't make the same mistake he did.,,Add a bit of threat to the end of this. / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,"Gotta say, I'm more and more pleased you didn't die in the Gauntlet, boss.",,"Talking to your boss, whom you're growing to respect. / Neutral",
+Miscellaneous,Miscellaneous,Hello,,,"Quite the upgrade over Colter, aren't you?",,"Talking to your boss, whom you're growing to respect. / Neutral",
+Miscellaneous,Miscellaneous,Hello,,,Make yourself at home.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,What? You come to finally start making nice?,,Stern,
+Miscellaneous,Miscellaneous,Hello,,,You look lost. Shouldn't you be out there claiming us a new haunt?,,Stern,
+Miscellaneous,Miscellaneous,Hello,,,Operators are sick of living off scraps. Time you rethought who you're giving territory to.,,A bit threatening. / Stern,
+Scene,SceneDialogue,Custom,,,Mags said no witnesses. So I left no witnesses.,OperatorRest: Damn.,Very nonchalant. Like killing a band of high-end mercenaries is what everyone does. / Neutral,DLC04ConvOperatorWilliamGenericScene
+Scene,SceneDialogue,Custom,,,"Don't lend around here. You earn a piece, or you make what you have work.",OperatorRest: Damn.,Someone asked if they could borrow one of your weapons. You're saying no. / Stern,DLC04ConvOperatorWilliamGenericScene
+Scene,SceneDialogue,Custom,,,Heard you've been spotted skimming rations. That ends today... or you're going to.,OperatorRest: Damn.,Very threatening. / Stern,DLC04ConvOperatorWilliamGenericScene
+Scene,SceneDialogue,Custom,,MagsBlack: So our new Overboss is a vault dweller.,Or iced a vault dweller.,MagsBlack: Hmm. You can go.,Chiming in to help your sister think through some interesting information. / Neutral,DLC04MQ02_OperatorIntroScene_Scene

@@ -1,0 +1,89 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Whuh. Where am I...?,"Now, now, now. How are the subject's vitals?",Player Default: A little unsteady but within-,"""Shh"" in her tone to the first. Barking an order to a subordinate",MS17aProcessingRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: &lt;zot&gt; Son of a bitch. Do that- &lt;zot&gt;,"I will only say this once: speak only when spoken to. Please, continue.",Player Default: The subject is ready for base line testing.,"Said with malice to the subject, then talking casually with her assistant",MS17aProcessingRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: The subject is ready for base line testing.,Subject. Answer the questions quickly and with what first comes to mind.,,Barking an order,MS17aProcessingRoomHolotape
+Scene,SceneDialogue,Custom,,,"You are approached by a frenzied scientist, who yells, ""I'm going to put my quantum harmonizer in your photonic resonation chamber!"" What's your response?",Player Default: Is that? That SAFE test? &lt;zot&gt;,Said clinically and carefully - emphasize a couple words carefully,MS17aProcessingRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: Is that? That SAFE test? &lt;zot&gt;,Answer the question.,Player Default: I-I don't know. I don't know science stuff. I... ignore him.,"Firm, irritated",MS17aProcessingRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: I-I don't know. I don't know science stuff. I... ignore him.,"Ignore him, you say? Fascinating.",,"Considering, darkly pleased",MS17aProcessingRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: Please... I've got a kid. I've...,Do you want another treatment?,Player Default: No.,Dark promise - referring to shocking him,MS17bTortureRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: No.,So. Again. Congratulations! You made it onto a baseball team! Which position do you prefer?,Player Default: I've already told you. Catcher.,"Barking an order at the beginning, then the question is asked very precisely",MS17bTortureRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: I've already told you. Catcher.,Again. Which position?,"Player Default: Catcher, I'd be the Catcher.",Firm,MS17bTortureRoomHolotape
+Scene,SceneDialogue,Custom,,"Player Default: Catcher, I'd be the Catcher.",Why?,Player Default: I... I don't know. They got the funny... the funny helmets. I saw a picture when I was a kid.,Pondering,MS17bTortureRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: I... I don't know. They got the funny... the funny helmets. I saw a picture when I was a kid.,Do synths even know the rules of baseball?,"Player Default: No. Please, I'm not a... Just let me... &lt;zot&gt;",Hmmm at the beginning. Thinking aloud.,MS17bTortureRoomHolotape
+Scene,SceneDialogue,Custom,,"Player Default: No. Please, I'm not a... Just let me... &lt;zot&gt;",Just answer the questions and only the questions. Congratulations! You made it onto a baseball team! Which position do you prefer?,Player Default: Catcher.,"Very stern, then carefully asking questions",MS17bTortureRoomHolotape
+Scene,SceneDialogue,Custom,,,Confidence on Subject 12 is high. We'll know for certain post mortem.,Player Default: And any progress on Question 3?,Giving an update,MS17cDebriefRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: And any progress on Question 3?,None. The EKG shows nothing unexpected. The answers are too damned predicatable.,Player Default: You've made your opinions quite clear on the value of Question 3. Removing it could invalidate all the data we've accumulated to date.,"Delivering a report, and then brining up on an old argument",MS17cDebriefRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: Moving on. Question 4. The data on this is fascinating. Why does baseball have the highest degree of correlation? Even more than question 8.,Our metholodology was exhaustive. Subject 12's answers in regards to baseball and his childhood were particularly fascinating. See here. And here.,Player Default: I wonder. Do they play baseball in the Institute? Or is there some sort of defect in their programming?,"Proud of her research, showing different charts to her boss",MS17cDebriefRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: I wonder. Do they play baseball in the Institute? Or is there some sort of defect in their programming?,We need another failure to explore this further. We can do nothing more with Subject 12 except final processing.,Player Default: I'll let the reclamation team know.,Insistent,MS17cDebriefRoomHolotape
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Very well.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Fine.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,All right. Excuse me.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Let me know if that changes.,,,DoctorGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,Glad to hear it. Anything else?,,patient just told you they aren't in pain,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,Good. Hope it stays that way. Anything else?,,patient just told you they aren't in pain,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,Good. Anything else?,,patient just told you they aren't in pain,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Huh, you look fine, but... oh wait... yep, that's gonna need to be set back in place. Let's get started.",,medical examination / Puzzled,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Eh, I've seen worse. Better stitch you up before infection sets in, though.",,medical examination,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Scrapes and bruises, but it's probably a good idea to get them fixed up.",,medical examination,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Severe lacerations, puncture wounds, muscle spasms in the eyes from high levels of stress... Yeah, let's patch you up.",,examining a patient / Thinking,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Hmm... gonna need to brace those fractures, apply some cream for the burns, a few sets of stitches. Better get to it...",,medical examination / Thinking,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Oh wow, that's a lot of blood. We'll need to operate right away.",,medical examination / Surprised,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"Well, I'd patch you up, but I have costs to cover, and you're short on caps. What else is bothering you?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"You're hurt, all right, but you're also dead broke. Sorry. Anything else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"I'd like to help you, but I got costs to cover, and you're low on caps. Was there anything else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,All right. Don't ruin my hard work by dying out there.,,,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"Take better care of yourself in the future, okay?",,,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Off you go, then.",,,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"On your way, then.",,"played asked for help, then changed his mind",DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,Fine. Come back later.,,"played asked for help, then changed his mind",DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"Very well, then.",,"played asked for help, then changed his mind",DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"Good. Keep an eye on it, though. What else?",,"examining a patient, they just told you their radiation levels are normal",DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,Blood pooling in the gums. Signs of anemia. Yeah. We better clean you up.,,seeing signs of radiation sickness,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,All right. Let's flush your system.,,seeing signs of radiation sickness,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"We'll clean you up, don't worry.",,seeing signs of radiation sickness,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,You don't have enough caps for the fee. Sorry. Anything else?,,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"We can clean you up, but you don't have enough money to cover the costs. Anything else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"You're definitely sick, but you don't have enough money to cover my fee. Sorry. Was there something else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.",Glad to hear it. Anything else?,,"examining a patient, who says they are not addicted to any chems",DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.",You're strung out all right. I got something that can clean you up.,,curing patient's chem addiction,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.","Yeah, you got it bad. Let's flush your system. It's gonna burn like crazy, afterwards, all right?",,curing patient's chem addiction,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.",Let's clean you up. Not gonna be pleasant...,,curing patient's chem addiction,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.","I'm sorry. Cleaning up addiction costs money, and you're short on caps. Was there anything else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.","I can help, but not for free. You'll need to come back when you have the caps. You need anything else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.",We can help you when you have enough money. Addiction isn't cheap to cure. Anything else?,,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Patch me up, doc.","Now, go over your symptoms for me. One at a time.",,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Patch me up, doc.",Tell me your symptoms.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Patch me up, doc.",What's feeling off today? What can you tell me?,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Patch me up, doc.",Go over your symptoms with me.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",I suppose I could spare some Stimpaks.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.","All right, but go easy on the Chems.",,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",Let's see what I can spare...,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,"If you want rumors, then Penny's the girl for you. I like to stick to fixing people. That's what I'm good at.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,"Got nothing, sorry. Just trying to practice medicine.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,"Nothing that would interest you. Now, let's talk about you and your health.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,"Been out of the loop. Lot of sick and injured taking up my time. Now, if you need treatment, let me know.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,"Done. Now, was there anything else bothering you?",,,DoctorMedicineScene03_AllDone
+Scene,SceneDialogue,Custom,,,And that's that. Anything else bothering you?,,,DoctorMedicineScene03_AllDone
+Scene,SceneDialogue,Custom,,,All done. Any other complaints?,,,DoctorMedicineScene03_AllDone
+Miscellaneous,Miscellaneous,Greeting,,,If you're hurting just tell the doctor.,"Player Default: Patch me up, doc.",,DoctorGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hello, stranger. You got anything that ails you? I'll fix you up for a fee.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,You need any doctoring? Just let me know.,"Player Default: Patch me up, doc.",,DoctorGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,Not many doctors around these days. Should let me take a look at you.,"Player Default: Patch me up, doc.",,DoctorGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"If you need fixing up, let's get a look at you.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"I can patch you up if you need it. For a small fee, of course.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Combat,Combat,Trespass,,,Get the fuck out.,,"Angry, will lead to violence",
+Combat,Combat,Steal,,,That's stealing!,,Angry,
+Miscellaneous,Miscellaneous,Greeting,,,"If you need medical assistance, see me in the morning.",,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"If you need medical services, come see me during my office hours.",,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"If you've got some ailing you, speak up.",,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,I hope you enjoy your stay.,,Trying to sound sincere,
+Miscellaneous,Miscellaneous,Hello,,,It's nice to be off the clock.,,"Genuine, a touch grumpy",
+Scene,SceneDialogue,Custom,,"Companion: Oh, another physician. Tell me, where did you go to university?","University? You're not serious, right?",,,CIS_ChatWithNPC_Curie_Scene
+Scene,SceneDialogue,Custom,,"Companion: Oh, another physician. Tell me, where did you go to university?","Sure there are. Just a couple hundred years old, though.",,,CIS_ChatWithNPC_Curie_Scene
+Scene,SceneDialogue,Custom,,"Companion: Oh, another physician. Tell me, where did you go to university?",My theory is you're a little off your rocker.,,,CIS_ChatWithNPC_Curie_Scene
+Scene,SceneDialogue,Custom,,"Companion: Oh, another physician. Tell me, where did you go to university?",Most people look at medicine as a business these days. Makes no sense to share stuff with your competition.,,,CIS_ChatWithNPC_Curie_Scene
+Scene,SceneDialogue,Custom,,"Companion: Oh, another physician. Tell me, where did you go to university?","We're lucky to even get close to what they knew back then. Well, unless you're the Institute.",,,CIS_ChatWithNPC_Curie_Scene
+Scene,SceneDialogue,Custom,,"Companion: Oh, another physician. Tell me, where did you go to university?","Uh, if it's free, sure. Thanks.",,,CIS_ChatWithNPC_Curie_Scene
+Scene,SceneDialogue,Custom,,"Companion: Oh, another physician. Tell me, where did you go to university?",Hmm. I do have a few notes here. You're welcome to them.,,,CIS_ChatWithNPC_Curie_Scene
+Scene,SceneDialogue,Custom,,"Companion: Oh, another physician. Tell me, where did you go to university?","If you get that hospital up and running, yeah, sign me up.",,,CIS_ChatWithNPC_Curie_Scene
+Scene,SceneDialogue,Custom,,Patient: The leg's still on the mend. Do you have anything for the pain?,As soon as you don't need the meds you got to lay off. Understood? Any other complications with the injury?,Patient: It's healing up pretty good.,Suspicious but giving her patient the benefit of the doubt - transitions to clinical concern,PatriciaCheckUpScene

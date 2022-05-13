@@ -1,0 +1,42 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Stolen by human scavengers.,Reclaim chip at scavenger's forward recon station. Captain has approved a bounty for its return.,"MrNavigator: ""Lethal force is prohibited unless absolutely necessary.""",,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,Player Default: Soldier's happiness is irrelevant.,Acquire Poseidon Radar Transmitter at specified map coordinates.,MrNavigator: Further bounty will be dispensed upon completion. Sir.,,MS11_0400_NavigatorSecondQuest
+Scene,SceneDialogue,Custom,,"RobotNavigator: Ahoy, soldier.",Scavenger threat eliminated. Damage assessment will commence after this unit has completed scheduled duties.,MrNavigator: Guidance system offline. Multiple errors diagnosed. First error: Guidance Chip stolen. This unit requires its return.,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,Player Default: You robots do a good job of defending your ship.,Proclamation 1.,MrNavigator: Guidance system offline. Multiple errors diagnosed. First error: Guidance Chip stolen. This unit requires its return.,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,Player Default: I didn't know helping you guys would turn me into a target.,"Warning redundant. Entire Commonwealth region is classified as ""Extremely Dangerous.""",MrNavigator: Guidance system offline. Multiple errors diagnosed. First error: Guidance Chip stolen. This unit requires its return.,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,Player Default: Why did the scavengers attack?,Scavengers have attacked ship 17 times. Destroyed 13% of ship's systems. Stole 5% of ship's store.,,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,,Logic error. Captain's orders authorize scavenger termination only if necessary to preserve the ship.,MrNavigator: Guidance system offline. Multiple errors diagnosed. First error: Guidance Chip stolen. This unit requires its return.,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,Player Default: Why did the scavengers attack?,This unit suggests Captain's core processes in need of extensive maintenance.,MrNavigator: Guidance system offline. Multiple errors diagnosed. First error: Guidance Chip stolen. This unit requires its return.,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,"RobotNavigator: Ahoy, soldier.",Chip recovered. Dispensing bounty. Diagnostics report one error remaining. Guidance Radar's transmitter is non-functional. Requires replacement.,Player Default: Happy to help you out again.,,MS11_0400_NavigatorSecondQuest
+Scene,SceneDialogue,Custom,,Player Default: Happy to help you out again.,Soldier's happiness is irrelevant.,MrNavigator: Acquire Poseidon Radar Transmitter at specified map coordinates.,,MS11_0400_NavigatorSecondQuest
+Scene,SceneDialogue,Custom,,Player Default: And this is the part where I bail you out again.,Soldier's statement is factually valid.,MrNavigator: Acquire Poseidon Radar Transmitter at specified map coordinates.,,MS11_0400_NavigatorSecondQuest
+Scene,SceneDialogue,Custom,,Player Default: What's wrong with the transmitter?,Diagnostic inconclusive. No functioning Mr. Handy's available for detailed analysis.,MrNavigator: Acquire Poseidon Radar Transmitter at specified map coordinates.,,MS11_0400_NavigatorSecondQuest
+Scene,SceneDialogue,Custom,,MrNavigator: Acquire Poseidon Radar Transmitter at specified map coordinates.,Further bounty will be dispensed upon completion. Sir.,,,MS11_0400_NavigatorSecondQuest
+Scene,SceneDialogue,Custom,,MrNavigator: Acquire Poseidon Radar Transmitter at specified map coordinates.,Further bounty will be dispensed upon completion. Madame.,,,MS11_0400_NavigatorSecondQuest
+Scene,SceneDialogue,Custom,,"RobotNavigator: Ahoy, soldier.",Guidance system fully functioning. Bounty dispensed.,MrNavigator: It is required you commence dialog with the Captain. Sir.,,MS11_0440_NavigatorEndQuest
+Scene,SceneDialogue,Custom,,MrNavigator: Guidance system fully functioning. Bounty dispensed.,It is required you commence dialog with the Captain. Sir.,,,MS11_0440_NavigatorEndQuest
+Scene,SceneDialogue,Custom,,MrNavigator: Guidance system fully functioning. Bounty dispensed.,It is required you commence dialog with the Captain. Madame.,,,MS11_0440_NavigatorEndQuest
+Scene,SceneDialogue,Custom,,MrNavigator: Guidance system fully functioning. Bounty dispensed.,Bosun requires further assistance. Sir.,,,MS11_0440_NavigatorEndQuest
+Scene,SceneDialogue,Custom,,MrNavigator: Guidance system fully functioning. Bounty dispensed.,Bosun requires further assistance. Madame.,,,MS11_0440_NavigatorEndQuest
+Scene,SceneDialogue,Custom,,"MrNavigator: ""Defend the Constitution by any means necessary.""",Guidance system offline. Multiple errors diagnosed. First error: Guidance Chip stolen. This unit requires its return.,Player Default: I can help. Where is it?,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,Player Default: I can help. Where is it?,Stolen by human scavengers.,MrNavigator: Reclaim chip at scavenger's forward recon station. Captain has approved a bounty for its return.,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,"Player Default: If I help you, I want something in return.",Your request can be accommodated. Chip is possessed by human scavengers.,MrNavigator: Reclaim chip at scavenger's forward recon station. Captain has approved a bounty for its return.,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,Player Default: I just need to know where the chip is.,Chip is with the thieves: human scavengers.,MrNavigator: Reclaim chip at scavenger's forward recon station. Captain has approved a bounty for its return.,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,Player Default: Who stole your guidance chip?,Guidance Chip is one entry on the list of stolen items.,MrNavigator: Reclaim chip at scavenger's forward recon station. Captain has approved a bounty for its return.,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,Player Default: Who stole your guidance chip?,Human scavengers assaulted this vessel. Destroyed naval property. Stole chip.,MrNavigator: Reclaim chip at scavenger's forward recon station. Captain has approved a bounty for its return.,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,"MrNavigator: ""Lethal force is prohibited unless absolutely necessary.""",Aft dinghy unlocked and available for your use. Sir.,,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,"MrNavigator: ""Lethal force is prohibited unless absolutely necessary.""",Aft dinghy unlocked and available for your use. Madame.,,,MS11_0300_NavigatorFirstQuest
+Scene,SceneDialogue,Custom,,"RobotIronsides: I'll have none of your lip, Mr. Navigator. Have the crow's nest scan two points off the port bow. Jump to it.","Aye, Captain.",Ironsides: Our soldier has arrived. I trust the First Mate didn't give you too hard a time? Been too long since we've seen the Congressional Army.,,MS11_0100_Meet_Ironsides
+Miscellaneous,Miscellaneous,Greeting,,,"Ahoy, soldier.",MrNavigator: Guidance system fully functioning. Bounty dispensed.,,MS11_0440_NavigatorEndQuest
+Miscellaneous,Miscellaneous,Greeting,,,"Ahoy, soldier.",MrNavigator: Chip recovered. Dispensing bounty. Diagnostics report one error remaining. Guidance Radar's transmitter is non-functional. Requires replacement.,,MS11_0400_NavigatorSecondQuest
+Miscellaneous,Miscellaneous,Greeting,,,"Ahoy, soldier.",MrNavigator: Scavenger threat eliminated. Damage assessment will commence after this unit has completed scheduled duties.,,MS11_0300_NavigatorFirstQuest
+Miscellaneous,Miscellaneous,Hello,,,Scavenger threat detected. Conversation terminated.,,,
+Miscellaneous,Miscellaneous,Hello,,,"At current speed, we will arrive at destination in UNDEFINED hours.",,,
+Miscellaneous,Miscellaneous,Hello,,,Current speed zero knots.,,,
+Miscellaneous,Miscellaneous,Hello,,,Maintaining present course.,,,
+Scene,SceneDialogue,Custom,,"Ironsides: Hip, hip...",Hooray.,"Ironsides: Hip, hip...",,IronsidesCheerScene
+Scene,SceneDialogue,Custom,,"Ironsides: Hip, hip...",Hooray.,"Ironsides: Hip, hip...",,IronsidesCheerScene
+Scene,SceneDialogue,Custom,,"Ironsides: Hip, hip...",Hooray.,,,IronsidesCheerScene
+Miscellaneous,Miscellaneous,Hello,,,Plotting new course.,,,
+Miscellaneous,Miscellaneous,Hello,,,Still accessing extent of damages.,,,
+Miscellaneous,Miscellaneous,Hello,,,Many meters off course along the Z-axis.,,,

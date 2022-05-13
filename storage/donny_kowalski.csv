@@ -1,0 +1,52 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Player Default: Slow down, son. Start from the beginning.",There's a sea monster in the harbor!,,excited to share / Pleading,MS02KidScene1
+Scene,SceneDialogue,Custom,,,I saw it's eye peek up out of the water and look around.,"Donny: Hey, do you think it's dangerous? It hasn't attacked anyone yet, but maybe it's just waiting.",excited / Awed,MS02KidScene1
+Scene,SceneDialogue,Custom,,Player Default: You're a liar. This is probably some scam to ambush me.,I'm not lying!,,defensive / Defiant,MS02KidScene1
+Scene,SceneDialogue,Custom,,,Don't you think I'd come up a better story if it was just a trick to ambush you?,"Donny: Hey, do you think it's dangerous? It hasn't attacked anyone yet, but maybe it's just waiting.",defensive / Pleading,MS02KidScene1
+Scene,SceneDialogue,Custom,,Player Default: Really? Sea monsters aren't real.,"Well, I saw it. It was an eye, and it looked right at me.","Donny: Hey, do you think it's dangerous? It hasn't attacked anyone yet, but maybe it's just waiting.",excited / Impressed,MS02KidScene1
+Scene,SceneDialogue,Custom,,Player Default: Where did you see it?,Over there. Behind all those shipwrecks.,,excited / Awed,MS02KidScene1
+Scene,SceneDialogue,Custom,,,It keeps peeking up over out of the water.,"Donny: Hey, do you think it's dangerous? It hasn't attacked anyone yet, but maybe it's just waiting.",excited / Awed,MS02KidScene1
+Scene,SceneDialogue,Custom,,Player Default: I saw it's eye peek up out of the water and look around.,"Hey, do you think it's dangerous? It hasn't attacked anyone yet, but maybe it's just waiting.",Player Default: Anything that big has got to be dangerous.,hoping it will do something exciting / Happy,MS02KidScene1
+Scene,SceneDialogue,Custom,,Player Default: Anything that big has got to be dangerous.,Shit! Really? Think it wants to eat us?,,"excited, oblivious to the danger / Awed",MS02KidScene1
+Scene,SceneDialogue,Custom,,,That would be so cool. Then you'd have to kill it and leave it's guts all over the docks. That would be awesome.,"Player Default: That's quite an imagination, kid.",excited / Happy,MS02KidScene1
+Scene,SceneDialogue,Custom,,"Player Default: It's not a sea monster, it's just a submarine. Sorry.","Are you sure? Maybe it's really hungry, but I'm too small.",,building a grand story in his own head / Conspiratorial,MS02KidScene1
+Scene,SceneDialogue,Custom,,,"But now that you're here, it'll try to eat us and you'll have to kill, like with your guns and stuff. That would be awesome.","Player Default: That's quite an imagination, kid.",excited / Awed,MS02KidScene1
+Scene,SceneDialogue,Custom,,"Player Default: Who knows. Just in case, don't go swimming out to it though.","I bet it's hungry, but it's been waiting. Waiting for a bigger meal.",,he thinks that's cool / Impressed,MS02KidScene1
+Scene,SceneDialogue,Custom,,,"Now that you're here, it's gonna charge up here and try to eat us.",,thinks that's cool / Impressed,MS02KidScene1
+Scene,SceneDialogue,Custom,,,Except you're going to pull out a gun and shoot it dead. And we'll be covered in blood and guts and stuff. That would be awesome.,"Player Default: That's quite an imagination, kid.",thinks that's cool / Defiant,MS02KidScene1
+Scene,SceneDialogue,Custom,,Player Default: Have you seen more than just its eye?,"Nah, just the eye stalk, you know, like some bugs have.",,just explaining / Friendly,MS02KidScene1
+Scene,SceneDialogue,Custom,,,"Every once in awhile, it comes out of the water and looks around, like it's hunting for something.",,just explaining / Happy,MS02KidScene1
+Scene,SceneDialogue,Custom,,,I bet it wants fresh meat. Like us. Only then you'd have to kill it and leave it's dead body here all bloody and stuff. That would be so awesome.,"Player Default: That's quite an imagination, kid.",excited / Awed,MS02KidScene1
+Scene,SceneDialogue,Custom,,"Player Default: That's quite an imagination, kid.",I didn't imagine it. Honest.,,knows he's being talked down to / Defiant,MS02KidScene1
+Scene,SceneDialogue,Custom,,,Go see for yourself.,,Defiant,MS02KidScene1
+Scene,SceneDialogue,Custom,,Player Default: You think death and killing is awesome? It ain't. Now get out of here.,Asshole!,,"anger, pride hurt / Angry",MS02KidScene1
+Scene,SceneDialogue,Custom,,Player Default: I hope nothing attacks us.,I just want to see you kill it.,,hopeful / Pleading,MS02KidScene1
+Scene,SceneDialogue,Custom,,,That would be so awesome.,,awestruck / Awed,MS02KidScene1
+Scene,SceneDialogue,Custom,,Player Default: You want it to attack us? That's nuts kid.,"Yeah, 'cause then I'd get to see a cool fight.",,excited / Happy,MS02KidScene1
+Scene,SceneDialogue,Custom,,Player Default: You want it to attack us? That's nuts kid.,Right here on the docks. In that building back there.,,"explaining, slightly embarrassed / Concerned",MS02KidScene1
+Scene,SceneDialogue,Custom,,,My dad died a while back. Now I just fish and hide from the Mirelurks.,,"""life sucks"" / Sad",MS02KidScene1
+Scene,SceneDialogue,Custom,,,There it is! I see it!,Donny: Whoa! That was awesome!,excited / Happy,MS02SceneSeaMonster
+Scene,SceneDialogue,Custom,,Donny: There it is! I see it!,Whoa! That was awesome!,,Awed,MS02SceneSeaMonster
+Miscellaneous,Miscellaneous,Greeting,,,Did you see it? The big eye in the water?,"Player Default: Slow down, son. Start from the beginning.",Excited / Awed,MS02KidScene1
+Miscellaneous,Miscellaneous,Greeting,,,Are you gonna go find the sea monster now? Want me to tell you where it is?,,Eager to see a fight / Awed,
+Miscellaneous,Miscellaneous,Idle,,,I know I saw it...,,unsure of himself / Nervous,
+Miscellaneous,Miscellaneous,Idle,,,"Come on, sea monster, I know you're out there.",,anxious / Pleading,
+Miscellaneous,Miscellaneous,Idle,,,Where did it go?,,Worried,
+Miscellaneous,Miscellaneous,Idle,,,It's got to still be there.,,starting to think it was a figment of his imagination / Worried,
+Miscellaneous,Miscellaneous,Idle,,,It'll show itself again. It's got to!,,afraid the player will think he's a liar. / Worried,
+Miscellaneous,Miscellaneous,Idle,,,Must be hiding behind the boats.,,making an excuse / Disgust,
+Miscellaneous,Miscellaneous,Hello,,,I wonder if there's other sea monsters out there?,,hoping there are / Awed,
+Miscellaneous,Miscellaneous,Hello,,,A real sea monster! I wonder what it looks like?,,excited / Awed,
+Miscellaneous,Miscellaneous,Hello,,,Just sitting in the harbor all day... I wonder what it's waiting for?,,wondering / Puzzled,
+Scene,SceneDialogue,Custom,,Player Default: It swallowed me. I used a knife to cut it's heart out.,Whoa! That's so cool.,,Awed,MS02DonnyTold
+Scene,SceneDialogue,Custom,,,I wish I could have watched. You can't see it very well from here.,,Awed,MS02DonnyTold
+Scene,SceneDialogue,Custom,,,"Well, thanks for killing it I guess.",,Grateful,MS02DonnyTold
+Scene,SceneDialogue,Custom,,"Player Default: It's a submarine, not a sea monster. Sorry kid.","Really? Aw, nuts.",,Depressed,MS02DonnyTold
+Scene,SceneDialogue,Custom,,,Nothing exciting ever happens here.,,Depressed,MS02DonnyTold
+Scene,SceneDialogue,Custom,,Player Default: What happened out there is none of your business.,Hey! I'm the one that showed it to you.,,Angry,MS02DonnyTold
+Scene,SceneDialogue,Custom,,Player Default: Where do you live?,"Right here on the dock, in that room.",,Apologetic,MS02DonnyTold
+Scene,SceneDialogue,Custom,,,My dad died a while back. Now I just fish for food and try to stay away from the Mirelurks.,Player Default: It swallowed me. I used a knife to cut it's heart out.,Sad,MS02DonnyTold
+Miscellaneous,Miscellaneous,Greeting,,,Did you fight it? I didn't hear anything.,Player Default: It swallowed me. I used a knife to cut it's heart out.,Worried,MS02DonnyTold
+Miscellaneous,Miscellaneous,SharedInfo,,,You're still alive. I guess it wasn't dangerous.,,Relieved,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Hello? Are you deaf?,,You're annoyed because the player has stopped talking,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Are you gonna answer me?,,You're annoyed because the player has stopped talking,

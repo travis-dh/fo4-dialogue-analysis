@@ -1,0 +1,52 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: I don't have any requests.,"Better for the both of us. Unless you like waiting, of course.",,"Friendly, relieved / Friendly",Vault81OldRusty
+Scene,SceneDialogue,Custom,,,"Mister DeLuca has good intentions, but let's just say his ability to prioritize is a bit lacking.",,"Friendly, gossipy / Neutral",Vault81OldRusty
+Scene,SceneDialogue,Custom,,,I believe it has something to do with his sobriety.,Player Default: Sounds like a typical boss to me.,Curious / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,Player Default: This Vault is a mess.,"I couldn't agree more, but believe me, it's not from lack of trying.",,"Gossipy tone, feeling is mutual. / Conspiratorial",Vault81OldRusty
+Scene,SceneDialogue,Custom,,,If only Mister DeLuca would allow me to assist with general maintenance and cleanliness more often.,,Making friendly conversation. / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,,"But I believe he prefers to keep me reserved for his own needs, and those of his sister, of course.",Player Default: Sounds like a typical boss to me.,Friendly / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,Player Default: So you're programmed for Vault maintenance.,An astute observation.,,Matter of fact / Neutral,Vault81OldRusty
+Scene,SceneDialogue,Custom,,,"I assist Mister DeLuca with reactor maintenance, tending to the heart of the Vault.",,Friendly explanation of his job. / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,,He prefers to supervise while giving me the privilege of fulfilling the tasks.,Player Default: Sounds like a typical boss to me.,Friendly / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,Player Default: Staying pretty busy these days?,Quite so. Mister DeLuca has made it his life's work to occupy my time.,,Answering a question / Neutral,Vault81OldRusty
+Scene,SceneDialogue,Custom,,,"Not only do I specialize in reactor maintenance, but now I am trained in doing his laundry, fetching libations, and generally picking up after him.",Player Default: Sounds like a typical boss to me.,Friendly / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,Player Default: Sounds like a typical boss to me.,"It's a relief to hear you say so. Compared to his predecessor, Mister DeLuca has very little mechanical knowledge.",,Relieved / Relieved,Vault81OldRusty
+Scene,SceneDialogue,Custom,,,"I almost thought him unqualified, but when it comes to delegation, he's top notch.",,Gossiping / Conspiratorial,Vault81OldRusty
+Scene,SceneDialogue,Custom,,Player Default: Mister DeLuca sounds like he prefers slacking off to actual work.,"Ah yes, I've heard those very words repeated by several citizens of the Vault. However, they should be grateful.",,Friendly gossiping / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,,"Mister DeLuca's knowledge of reactors is limited at best. It's really better he remains ""hands off"".",,Friendly gossiping / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,Player Default: I don't know. He sounds pretty selfish to me.,Codswallop. Mister DeLuca ensures I tend to his sister's every need as well. He is quite generous when it comes to her.,,Friendly disagreeing. / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,Player Default: I don't know. He sounds pretty selfish to me.,Codswallop. Mister DeLuca used to make sure I tended to his late sister's every need as well. He was quite generous when it came to her.,,Friendly disagreeing. / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,Player Default: Does he help out with any of the work?,"If memory serves, the last bit of work he performed was when Mister Whitaker forced him to clean up the supply room.",,Friendly conversation / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,,He was also quite vocal about his distaste for the job.,,Recalling an amusing moment / Friendly,Vault81OldRusty
+Scene,SceneDialogue,Custom,,"Tina: Oh, you've been working? Sure. I bet bossing around Old Rusty really takes it out of you.","You've no idea, Miss DeLuca.","Bobby: Hey, will you both just get lost? You're killing my buzz here.","Sarcastic - Listening to two people fight, side commenting. / Sarcastic",Vault81BobbyAndTinaIntroScene
+Scene,SceneDialogue,Custom,,"Bobby: Hey, will you both just get lost? You're killing my buzz here.","With pleasure, sir.",Tina: Fine. Get caught. Then you won't have the choice to leave because the Overseer will make it for you.,More than happy to leave. / Sarcastic,Vault81BobbyAndTinaIntroScene
+Miscellaneous,Miscellaneous,Greeting,,,Please direct any maintenance requests to Mister DeLuca. They will be handled in the order they were received.,Player Default: I don't have any requests.,Business-like. / Neutral,Vault81OldRusty
+Miscellaneous,Miscellaneous,Hello,,,"Mister DeLuca, I'm lacking specific orders at the moment. You might want to take care of that. Mister DeLuca? Are you listening? Oh dear.",,Worried,
+Miscellaneous,Miscellaneous,Hello,,,"I've cleaned up around here as you requested. Although as usual, I'm a bit confused by the ""and shit"" part of your request.",,Puzzled,
+Miscellaneous,Miscellaneous,Hello,,,"Sorry to be a bother, ma'am, but I'm lacking specific orders at the moment. You might want to see to that.",,a bit huffy / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,"Your room is picked up as best I can, Miss DeLuca. I really do wish you'd let me do more in there. Maybe even organize a drawer or two.",,Worried,
+Miscellaneous,Miscellaneous,Hello,,,Those repairs are all finished. Everything is right as rain. Not that it rains in the Vault mind you.,,self satisfied with his efforts. / Grateful,
+Miscellaneous,Miscellaneous,Hello,,,"It appears that I am out of things to do. I guess I'll wander the halls, looking for things to fix. All by myself. Just me. Wandering the halls.",,fishing for attention / Concerned,
+Miscellaneous,Miscellaneous,Hello,,,"Is it a little crowded in here, or is it just me?",,worried / Worried,
+Miscellaneous,Miscellaneous,Hello,,,Excuse my extremities.,,apologizing / Apologetic,
+Miscellaneous,Miscellaneous,Hello,,,Pardon me.,,apology / Apologetic,
+Miscellaneous,Miscellaneous,Hello,,,"Why, if it isn't the devious outsider. Haven't you done enough?",,Speaking with disdain. / Disgust,
+Miscellaneous,Miscellaneous,Hello,,,"Mister DeLuca may have been a prize winning laggard, but he bloody well didn't deserve to die.",,Irritated with the player / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"Oh, it's you. I suppose I've you to thank for Miss DeLuca's stellar attitude of late.",,Irritated with the player / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,Haven't you another soul to corrupt somewhere?,,Irritated with the player / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"A word of advice, stay away from kiddies. You're not exactly the role model material they need at their age.",,Irritated with the player / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"I must say, since Mr. DeLuca cleaned up his act, my life has become ten times more bearable.",,Thankful / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"Now that Mr. DeLuca has cleaned up his act, perhaps he'd learn to clean up after himself as well.",,Happy / Happy,
+Miscellaneous,Miscellaneous,Hello,,,I suppose I've you to thank for Mr. DeLuca's renewed interest in my work.,,Thankful / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"It's quite the change you've brought over Mr. DeLuca. And for the better, if I may add.",,Happy / Happy,
+Miscellaneous,Miscellaneous,Hello,,,I haven't seen Mr. DeLuca this well since he was a toddler.,,Happy / Happy,
+Miscellaneous,Miscellaneous,Hello,,,"I'm sorry, but I've no time for idle chatter.",,"Slight disdain, not a fan of the player / Disgust",
+Miscellaneous,Miscellaneous,Hello,,,"Ah, the meddler. Don't you have some lives to ruin?",,"Slight disdain, not a fan of the player / Disgust",
+Miscellaneous,Miscellaneous,Hello,,,"Oh, it's you.",,"Slight disdain, not a fan of the player / Disgust",
+Miscellaneous,Miscellaneous,Hello,,,Shouldn't you be elsewhere?,,"Slight disdain, not a fan of the player / Disgust",
+Miscellaneous,Miscellaneous,Hello,,,"Still here, I see.",,"Slight disdain, not a fan of the player / Disgust",
+Miscellaneous,Miscellaneous,Hello,,,It's a shame how quickly drugs can turn one to violence.,,Reflecting on the deceased. / Somber,
+Miscellaneous,Miscellaneous,Hello,,,"Robert DeLuca was a kind soul. Had he been of sound mind, he never would have hurt you.",,Reassuring the player and defending his past master / Somber,
+Miscellaneous,Miscellaneous,Hello,,,Poor Mister DeLuca. He was hardly himself when he died.,,Reflecting on the deceased / Somber,
+Miscellaneous,Miscellaneous,Hello,,,I fear Miss DeLuca is quite distraught over the loss of her twin.,,Concerned about Tina. / Somber,
+Miscellaneous,Miscellaneous,Hello,,,Please accept my humblest apologies that you had to see such a dark side of Mister DeLuca.,,Apologetic / Apologetic,

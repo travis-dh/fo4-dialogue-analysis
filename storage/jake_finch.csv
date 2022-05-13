@@ -1,0 +1,373 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,,Oh god!,"Slag: Well, at least someone here had the balls.",Afraid,DN121_ForgeScenePrisonerKillPlayer
+Scene,SceneDialogue,Custom,,,I'm sorry. Let me get you out of here.,,Apologetic,DN121_JakeFreePrisoner
+Scene,SceneDialogue,Custom,,"Slag: You don't need them, they make you weak.",Did he really send you here to find me?,"Player Default: Yes. He's stubborn, but I think he wanted me to bring you back.",Surprised,DN121_ForgeSceneFamily
+Scene,SceneDialogue,Custom,,Prisoner1: They're gonna kill me.,But- but I brought everything you asked for.,Slag: Stealing things from your family farm doesn't prove your strength boy.,Afraid,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,Slag: Kill that prisoner and prove that you aren't completely useless.,You said we'd be raiding outside of the Commonwealth. These people aren't even a threat to us!,Slag: Prove to me that you can kill. It's him or you.,Disbelief,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,"Player Default: Walk away Jake, you don't have to do this.",But if I don't they'll kill me.,"Player Default: Walk away Jake, you don't have to do this.",Afraid,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,"Player Default: Walk away Jake, you don't have to do this.","They'll come after my family if I don't. I'm sorry, but I've got no choice.","Jake: There, I did what you asked. God I think I'm going to be sick",Apologetic,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,"Player Default: Walk away Jake, you don't have to do this.","You're right, I don't want to do this.","Jake: I don't want to join the Forged, I just want to go home.",Defiant,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,"Player Default: Kill him, Jake. You've got no choice.",I didn't want it to be this way.,"Jake: There, I did what you asked. God I think I'm going to be sick",Apologetic,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,"Player Default: Kill him, Jake. You've got no choice.",He's not even armed!,"Slag: If you aren't strong enough to kill, then you aren't worth our time. Now do it!",Pleading,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,"Player Default: Kill him, Jake. You've got no choice.",No! I'm sorry but I'm not going to do this.,"Jake: I don't want to join the Forged, I just want to go home.",Defiant,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,Player Default: Can we move this along? I've got places to be.,I just wanted to provide for my family.,,Pleading,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,,I don't know if I can do this.,"Slag: Last chance, Jake. If you don't kill the prisoner before I count to three it's over.",Pleading,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,Player Default: What about your family? Is this what Abraham would want you to do?,I thought he hated me. Did- did he send you here to find me?,"Player Default: Yes. He's stubborn, but I think he wanted me to bring you back.",Puzzled,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,Player Default: What about your family? Is this what Abraham would want you to do?,Shooting someone in a gunfight one thing but this...,"Slag: What's it gonna be, Jake?",Disgust,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,Player Default: What about your family? Is this what Abraham would want you to do?,I thought if I joined up I could protect my family from raids.,"Jake: I don't want to join the Forged, I just want to go home.",Worried,DN121_ForgeScene
+Scene,SceneDialogue,Custom,,Slag: Prove to me that you can kill. It's him or you.,"Oh god, what do I do, what do I do?","Player Default: Walk away Jake, you don't have to do this.","Stage whisper. To himself with a hint of panic, he doesn't want to kill this person. / Nervous",DN121_ForgeScene
+Scene,SceneDialogue,Custom,,,"There, I did what you asked. God I think I'm going to be sick",Slag: Good. Now - kill the stranger.,Depressed,DN121_ForgeScenePrisonerKill
+Scene,SceneDialogue,Custom,,"Player Default: Yes. He's stubborn, but I think he wanted me to bring you back.",You're right.,"Jake: I don't want to join the Forged, I just want to go home.",Thinking,DN121_ForgeSceneFamily
+Scene,SceneDialogue,Custom,,"Player Default: Yes. He's stubborn, but I think he wanted me to bring you back.","No, he told me to never come home. You're lying.","Jake: There, I did what you asked. God I think I'm going to be sick",Disbelief,DN121_ForgeSceneFamily
+Scene,SceneDialogue,Custom,,"Player Default: No, he just wants the sword back.","Well, I guess that's it then. No going back now.","Jake: There, I did what you asked. God I think I'm going to be sick",Sad,DN121_ForgeSceneFamily
+Scene,SceneDialogue,Custom,,Player Default: Not exactly. But there is still time to turn things around.,"You're right. It won't be easy, but I can still make things right.","Jake: I don't want to join the Forged, I just want to go home.",Relieved,DN121_ForgeSceneFamily
+Scene,SceneDialogue,Custom,,Player Default: Not exactly. But there is still time to turn things around.,"No, it's too late. He'll never forgive me. Not now.","Jake: There, I did what you asked. God I think I'm going to be sick",Depressed,DN121_ForgeSceneFamily
+Scene,SceneDialogue,Custom,,Player Default: What happened between you two?,Just- I don't know. I just can't ever manage to live up to his expectations.,"Slag: You don't need them, they make you weak.",Irritated,DN121_ForgeSceneFamily
+Scene,SceneDialogue,Custom,,Player Default: What happened between you two?,Dad was right.,"Jake: I don't want to join the Forged, I just want to go home.",Worried,DN121_ForgeSceneFamily
+Scene,SceneDialogue,Custom,,"MaleEvenToned: Wait wait! I'm sorry, I messed up! I panicked!","Please, I didn't want to hurt anyone. I just want to go home.",Player Default: It's not your fault. It was him or you.,Pleading,DN121_JakeSurrender
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: It's not your fault. It was him or you.,"I- I know, but I just wish there had been another way.","Jake: Look, I should probably try to go home and make amends. I know I've got no right to ask...",Somber,DN121_JakeSurrender
+Scene,SceneDialogue,Custom,,Player Default: I can't let you live after you murdered that man.,"I made a mistake, but I'm not just going to let you kill me!",,Afraid,DN121_JakeSurrender
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I can't let you live after you murdered that man.,"I- Yeah, you're right. I just need to learn to carry that.","Jake: Look, I should probably try to go home and make amends. I know I've got no right to ask...",Depressed,DN121_JakeSurrender
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: I don't have time for this, where are the dampening coils?",Dampening Coils? They're in the generator by the big furnace. I'll show you where they are.,"Jake: Come on, follow me. The generator is just over this way.",Puzzled,DN121_JakeSurrender
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: I don't have time for this, where are the dampening coils?",Yeah... well... I just...,,Apologetic,DN121_JakeSurrender
+Miscellaneous,Miscellaneous,SharedInfo,,,I thought we'd be raiding outside of the Commonwealth and that if I joined them I could provide for my family...,,Apologetic,DN121_JakeSurrender
+Miscellaneous,Miscellaneous,SharedInfo,,,"I don't know. God, my dad's right. I'm such an idiot.","Jake: Look, I should probably try to go home and make amends. I know I've got no right to ask...",Depressed,DN121_JakeSurrender
+Scene,SceneDialogue,Custom,,,"Look, I should probably try to go home and make amends. I know I've got no right to ask...",,Jake may or may not have killed someone before this so it should feel pretty remorseful / Nervous,DN121_JakeToFarm
+Scene,SceneDialogue,Custom,,,"But I think if you're there to help explain, things with my Dad would go easier.","Jake: I bet if you bring my Great Granddad's sword, he'll make it worth your while. He always tries to deal fair with people.",Worried,DN121_JakeToFarm
+Scene,SceneDialogue,Custom,,"Jake: I bet if you bring my Great Granddad's sword, he'll make it worth your while. He always tries to deal fair with people.",I'll wait for you by the overpass near the farm.,,Grateful,DN121_JakeToFarm
+Scene,SceneDialogue,Custom,,"Jake: But I think if you're there to help explain, things with my Dad would go easier.","I bet if you bring my Great Granddad's sword, he'll make it worth your while. He always tries to deal fair with people.",Jake: I'll wait for you by the overpass near the farm.,Thinking,DN121_JakeToFarm
+Scene,SceneDialogue,Custom,,Player Default: It's not your fault. It was him or you.,I don't know what I was thinking trying to join them...,"Jake: Look, I should probably try to go home and make amends. I know I've got no right to ask...",,DN121_JakeReturnLoop
+Scene,SceneDialogue,Custom,,Player Default: Whatever.,"Still mad at me, huh? I can't really blame you.","Jake: Look, I should probably try to go home and make amends. I know I've got no right to ask...",,DN121_JakeReturnLoop
+Scene,SceneDialogue,Custom,,Player Default: You're lucky I have a soft spot for dumb animals.,I- Yeah. I messed up pretty bad. Sorry.,"Jake: Look, I should probably try to go home and make amends. I know I've got no right to ask...",,DN121_JakeReturnLoop
+Scene,SceneDialogue,Custom,,,"Come on, follow me. The generator is just over this way.",Jake: Slag needed those dampening coils to get the blast furnace running. You should be able to just pull it out.,Grateful,DN121_JakeToDampeningRods
+Scene,SceneDialogue,Custom,,"Jake: Come on, follow me. The generator is just over this way.",Slag needed those dampening coils to get the blast furnace running. You should be able to just pull it out.,"Jake: Look, I should probably try to go home and make amends. I know I've got no right to ask...",,DN121_JakeToDampeningRods
+Scene,SceneDialogue,Custom,,MaleEvenToned: I'm so nervous I feel like I'm gonna throw up.,Here goes nothing.,Abraham: What the...,Nervous,DN121_AbrahamJakeReconcile
+Scene,SceneDialogue,Custom,,Abraham: Boy I told you that if you ever showed your face here again I'd-,"Papa, please. I- I know I screwed up pretty big.",,Apologetic,DN121_AbrahamJakeReconcile
+Scene,SceneDialogue,Custom,,,I thought if I joined up I could keep them from raiding our farm.,,Apologetic,DN121_AbrahamJakeReconcile
+Scene,SceneDialogue,Custom,,,I didn't- I don't want to hurt anybody.,Abraham: I don't care what you thought. I told you-,Pleading,DN121_AbrahamJakeReconcile
+Scene,SceneDialogue,Custom,,"Abigail: There. It's over. And if I hear another word about it from either of you, so help me...",Mama it-,,Apologetic,DN121_AbrahamJakeReconcile
+Scene,SceneDialogue,Custom,,,"I don't want to join the Forged, I just want to go home.","Slag: Last chance, Jake. If you don't kill the prisoner before I count to three it's over.",Afraid,DN121_JakeChangesMind
+Miscellaneous,Miscellaneous,Greeting,,,Thanks again for getting me out of there.,,Grateful,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Wait wait! I'm sorry, I messed up! I panicked!",Player Default: It's not your fault. It was him or you.,Pleading,DN121_JakeReturnLoop
+Miscellaneous,Miscellaneous,Greeting,,,Thanks for helping me fend them off.,Player Default: It's not your fault. It was him or you.,Nervous,DN121_JakeReturnLoop
+Miscellaneous,Miscellaneous,Greeting,,,I'm so nervous I feel like I'm gonna throw up.,Jake: Here goes nothing.,Worried,DN121_AbrahamJakeReconcile
+Miscellaneous,Miscellaneous,SharedInfo,,,"Hey, can you meet me over by the freeway supports next to the farm? I'm a little scared to confront my dad by myself...",,Worried,
+Miscellaneous,Miscellaneous,Hello,,,I'll meet you at the over pass by the farm after you get the sword.,,Nervous,
+Miscellaneous,Miscellaneous,Hello,,,I better not show up without that sword.,,Conspiratorial,
+Miscellaneous,Miscellaneous,Hello,,,I think things will go better if you were the one to bring the sword back.,,Thinking,
+Miscellaneous,Miscellaneous,Hello,,,The sword is probably still near the blast furnace with Slag.,,Thinking,
+Miscellaneous,Miscellaneous,Hello,,,"Follow me, it's just over here.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Thanks again.,,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,Good to see you again.,,,
+Topic,PlayerDialogue,Custom,,,Thanks a lot!,,Grateful,
+Scene,SceneDialogue,Custom,,Player Default: Oh. Okay.,Thanks! See you there in a day or two.,,Happy,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: Oh. Okay.,Oh. Okay.,,Puzzled,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: I sure do.,Oh. Okay.,WorkshopAssignableNPC: Thanks! See you there in a day or two.,,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: I sure do.,Thanks! See you there in a day or two.,WorkshopAssignableNPC: Thanks! See you there in a day or two.,Grateful,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: I sure do.,Oh. Okay.,WorkshopAssignableNPC: Thanks! See you there in a day or two.,,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,"Player Default: No, sorry.","Yeah, same story everywhere. Well, thanks for your help.",WorkshopAssignableNPC: Thanks! See you there in a day or two.,Somber,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,"Player Default: Nah, can't think of anything.",I was just asking. Thanks again for your help. See you around.,WorkshopAssignableNPC: Thanks! See you there in a day or two.,,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: What are you looking for?,I just want to find someplace safe to live without these assholes trying to kill me all the time.,,Tired,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,,"Why, do you know of a good place?",Player Default: I sure do.,Question,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: Glad to help.,You're one of the good guys.,"WorkshopAssignableNPC: You wouldn't happen to know of any good places to settle around here, would you? I'm tired of always being on the run.",Friendly,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: Glad to help.,You're one of the good ones.,"WorkshopAssignableNPC: You wouldn't happen to know of any good places to settle around here, would you? I'm tired of always being on the run.",Friendly,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: You're lucky I was here to save your ass.,I know it.,"WorkshopAssignableNPC: You wouldn't happen to know of any good places to settle around here, would you? I'm tired of always being on the run.",Grateful,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: I was just passing through.,"It was my lucky day, then.","WorkshopAssignableNPC: You wouldn't happen to know of any good places to settle around here, would you? I'm tired of always being on the run.",Grateful,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: You looking for a new place to settle?,"Could be. Why, do you know of somewhere good?",Player Default: I sure do.,Question,REParentAssignToWorkshopScene
+Scene,SceneDialogue,Custom,,Player Default: You're one of the good guys.,"You wouldn't happen to know of any good places to settle around here, would you? I'm tired of always being on the run.",Player Default: I sure do.,Question,REParentAssignToWorkshopScene
+Combat,Combat,Trespass,,,Back off. This is mine.,,,
+Combat,Combat,Trespass,,,I found it first.,,,
+Combat,Combat,Trespass,,,Get lost.,,,
+Combat,Combat,Trespass,,,You ain't listening. Back off!,,,
+Combat,Combat,Trespass,,,Have it your way.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,You showed up just in the nick of time.,Player Default: Glad to help.,Relieved,REParentAssignToWorkshopScene
+Miscellaneous,Miscellaneous,SharedInfo,,,Didn't expect help from a stranger. Thanks.,Player Default: Glad to help.,Grateful,REParentAssignToWorkshopScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"Hey, thanks for your help.",Player Default: Glad to help.,Grateful,REParentAssignToWorkshopScene
+Combat,Combat,AcceptYield,,,Better not try that again.,,"player accidentally hit you with a weapon, then apologized before you struck him back",
+Combat,Combat,CrippledLimb,,,My arm!,,hit just broke your arm,
+Combat,Combat,CrippledLimb,,,Shit! Something's broken...,,hit just broke your arm,
+Combat,Combat,CrippledLimb,,,Got my arm!,,hit just broke your arm,
+Combat,Combat,CrippledLimb,,,Can't see!,,just got hit in the head,
+Combat,Combat,CrippledLimb,,,Ugh.. What? What just happened?,,just got hit in the head,
+Combat,Combat,CrippledLimb,,,I... I can't see!,,just got hit in the head,
+Combat,Combat,CrippledLimb,,,*cough* *hack*,,just got hit hard in the chest,
+Combat,Combat,CrippledLimb,,,Oof! Gonna throw up...,,just got hit hard in the chest,
+Combat,Combat,CrippledLimb,,,Can't... breathe...,,just got hit hard in the chest,
+Combat,Combat,CrippledLimb,,,My leg!,,hit just broke your leg,
+Combat,Combat,CrippledLimb,,,Dammit! It's broken...,,hit just broke your leg,
+Combat,Combat,CrippledLimb,,,"Agh, my leg!",,hit just broke your leg,
+Combat,Combat,Steal,,,Thief!,,just noticed someone steal something,
+Combat,Combat,Steal,,,Stop! Thief!,,just noticed someone steal something,
+Combat,Combat,Steal,,,You can't just take that!,,just noticed someone steal something,
+Combat,Combat,Steal,,,That doesn't belong to you!,,just noticed someone steal something,
+Combat,Combat,PickpocketCombat,,,Damn pickpockets!,,,
+Combat,Combat,PickpocketCombat,,,I saw that!,,,
+Combat,Combat,Trespass,,,Last warning.,,warning off intruders / Angry,
+Combat,Combat,Trespass,,,I'm warning you. Back off!,,warning off intruders,
+Combat,Combat,Trespass,,,Leave. Now. Or else.,,warning off intruders / Angry,
+Combat,Combat,Trespass,,,Keep moving.,,warning off intruders / Suspicious,
+Combat,Combat,Trespass,,,You don't belong here. Get lost.,,warning off intruders / Suspicious,
+Combat,Combat,Trespass,,,Just move along.,,warning off intruders / Suspicious,
+Combat,Combat,AvoidThreat,,,Get down!,,,
+Combat,Combat,AvoidThreat,,,Incoming!,,,
+Combat,Combat,AvoidThreat,,,Shit!,,,
+Combat,Combat,CoverMe,,,"Need help, here!",,,
+Combat,Combat,CoverMe,,,They're all over me!,,,
+Combat,Combat,CoverMe,,,Keep 'em off me!,,,
+Combat,Combat,Flee,,,Someone help!,,,
+Combat,Combat,Flee,,,Help me! Someone!,,,
+Combat,Combat,Flee,,,Whoa! You win!,,,
+Combat,Combat,OrderFallback,,,Run! I got you!,,,
+Combat,Combat,OrderFallback,,,Get out of there!,,,
+Combat,Combat,OrderFallback,,,Get back!,,,
+Combat,Combat,OrderMoveUp,,,Keep moving!,,,
+Combat,Combat,OrderMoveUp,,,Just keep going!,,,
+Combat,Combat,OrderMoveUp,,,Go for it! I got you.,,,
+Combat,Combat,OrderFlank,,,Hit 'em from the sides!,,,
+Combat,Combat,OrderFlank,,,Go around! I got you.,,,
+Combat,Combat,OrderFlank,,,Swing around! I'll keep 'em busy!,,,
+Combat,Combat,OrderTakeCover,,,Get behind something!,,,
+Combat,Combat,OrderTakeCover,,,You're out in the open!,,,
+Combat,Combat,OrderTakeCover,,,Take cover!,,,
+Combat,Combat,Retreat,,,Get back!,,,
+Combat,Combat,Retreat,,,Run! Get back!,,,
+Combat,Combat,Retreat,,,Just get of there!,,,
+Combat,Combat,Retreat,,,They're on top of me!,,,
+Combat,Combat,Retreat,,,Getting swamped!,,,
+Combat,Combat,Retreat,,,We're being surrounded!,,,
+Combat,Combat,Hit,,,I'm hit!,,just got hit by a weapon or bullet,
+Combat,Combat,Hit,,,Damn!,,just got hit by a weapon or bullet,
+Combat,Combat,Hit,,,Shit... lot of blood...,,just got hit by a weapon or bullet,
+Combat,Combat,Taunt,,,Just one day I'd like to not get shot at.,,,
+Combat,Combat,Taunt,,,How many bullets I got left? Shit...,,,
+Combat,Combat,Taunt,,,I ain't letting you get me!,,,
+Combat,Combat,Taunt,,,Think a Commonwealth boy's gonna give up that easy?,,,
+Combat,Combat,Taunt,,,Think I'm scared? Huh?,,,
+Combat,Combat,Taunt,,,"Figure you won't just... run, right?",,,
+Combat,Combat,Taunt,,,Why don't you people just leave us alone?,,,
+Combat,Combat,Taunt,,,No one panic!,,,
+Combat,Combat,Taunt,,,"We'll kill you if we have to, just leave!",,,
+Combat,Combat,Taunt,,,We'll get through this. Stay calm!,,,
+Combat,Combat,Taunt,,,Keep your heads down!,,,
+Combat,Combat,AllyKilled,,,Oh god... oh god...,,,
+Combat,Combat,AllyKilled,,,You...you killed him!,,,
+Combat,Combat,AllyKilled,,,They got him!,,,
+Combat,Combat,AllyKilled,,,She's... she's dead!,,,
+Combat,Combat,AllyKilled,,,Oh god... don't look!,,,
+Combat,Combat,AllyKilled,,,No!,,,
+Combat,Combat,AllyKilled,,,No no no!,,,
+Combat,Combat,AllyKilled,,,"Hey, get up! Get up!",,"build up to the second sentence: Hey, get up! GET UP!",
+Combat,Combat,Attack,,,I ain't dying without a fight!,,,
+Combat,Combat,Attack,,,Leave me alone!,,,
+Combat,Combat,Attack,,,I got your damn loot right here!,,,
+Combat,Combat,Attack,,,Given me no choice!,,,
+Combat,Combat,Attack,,,Brought this on yourself!,,,
+Combat,Combat,Attack,,,Just leave us alone!,,,
+Combat,Combat,StealFromNC,,,Sure. Take it.,,player is taking something that has no value,
+Combat,Combat,StealFromNC,,,"Eh, go ahead...",,player is taking something that has no value,
+Combat,Combat,StealFromNC,,,Picking up my trash? All right.,,player is taking something that has no value,
+Combat,Combat,StealFromNC,,,"Yeah, fine. It's yours.",,player is taking something that has no value,
+Combat,Combat,StealFromNC,,,"Why would you want that? Eh, whatever.",,player is taking something that has no value,
+Detection,Detection,NormalToLost,,,What just happened?,,,
+Detection,Detection,NormalToLost,,,What the...!?,,,
+Detection,Detection,NormalToLost,,,Find 'em!,,,
+Detection,Detection,NormalToLost,,,Something's out there!,,,
+Detection,Detection,NormalToAlert,,,Huh?,,to yourself - sound of hearing something suspicious and maybe threatening / Suspicious,
+Detection,Detection,NormalToAlert,,,Hmm?,,to yourself - sound of hearing something suspicious and maybe threatening / Suspicious,
+Detection,Detection,NormalToAlert,,,What's that noise?,,to yourself - hearing something suspicious and maybe threatening / Puzzled,
+Detection,Detection,NormalToAlert,,,Thought I saw something.,,to yourself - think you saw something suspicious and maybe threatening / Suspicious,
+Detection,Detection,AlertToNormal,,,Huh. Gone now.,,,
+Detection,Detection,AlertToNormal,,,Guess it was nothing.,,,
+Detection,Detection,AlertToNormal,,,Hmm. Guess it's gone.,,,
+Detection,Detection,AlertToNormal,,,Huh. Weird.,,,
+Detection,Detection,AlertToNormal,,,Nothing. Gotta be.,,,
+Detection,Detection,AlertToNormal,,,Thought I... Nah.,,,
+Detection,Detection,AlertToNormal,,,Nothing after all.,,,
+Detection,Detection,AlertToNormal,,,Jumpy tonight.,,,
+Detection,Detection,AlertToNormal,,,Huh. Whatever.,,,
+Detection,Detection,AlertToNormal,,,Eh. Trick of the light.,,,
+Detection,Detection,AlertToNormal,,,Heh. False alarm.,,,
+Detection,Detection,AlertToNormal,,,*sigh of relief* Just noises.,,,
+Detection,Detection,AlertToNormal,,,Need to relax.,,,
+Detection,Detection,AlertToNormal,,,Nothing.,,,
+Detection,Detection,CombatToNormal,,,It's over. For now.,,,
+Detection,Detection,CombatToNormal,,,Made it. This time.,,,
+Detection,Detection,CombatToNormal,,,All right. Still in one piece.,,,
+Detection,Detection,CombatToNormal,,,That's Commonwealth justice for ya.,,,
+Detection,Detection,CombatToNormal,,,Guess my good karma's paying off.,,,
+Detection,Detection,CombatToNormal,,,That was some luck.,,,
+Detection,Detection,CombatToNormal,,,God. Look at all the blood.,,,
+Detection,Detection,CombatToNormal,,,Ugh. I'm gonna be sick.,,,
+Detection,Detection,CombatToNormal,,,Sorry. Should've just run.,,,
+Detection,Detection,CombatToNormal,,,I had no choice.,,,
+Detection,Detection,CombatToNormal,,,You or me.,,,
+Detection,Detection,CombatToNormal,,,That was nuts.,,,
+Detection,Detection,CombatToNormal,,,Glad that's over.,,,
+Detection,Detection,CombatToLost,,,I lost 'em!,,,
+Detection,Detection,CombatToLost,,,He vanished!,,,
+Detection,Detection,CombatToLost,,,She vanished!,,,
+Detection,Detection,CombatToLost,,,"Come back here, damn it!",,,
+Detection,Detection,CombatToLost,,,Dammit! Where'd you go?,,,
+Detection,Detection,LostToNormal,,,Yeah. Stay gone.,,,
+Detection,Detection,LostToNormal,,,It's over... *sigh of relief*,,,
+Detection,Detection,LostToNormal,,,Coward.,,,
+Detection,Detection,LostToNormal,,,"Damn, that was scary.",,,
+Detection,Detection,LostToNormal,,,I don't see anything. Think we're okay.,,,
+Detection,Detection,LostToCombat,,,Over here!,,,
+Detection,Detection,LostToCombat,,,Found you!,,,
+Detection,Detection,LostToCombat,,,Should've run!,,,
+Detection,Detection,LostToCombat,,,Not hiding this time!,,,
+Detection,Detection,LostToCombat,,,Here we go.,,,
+Detection,Detection,LostToCombat,,,"Damn it, why can't this just be over?",,,
+Detection,Detection,LostToCombat,,,Shit! You're still here?,,,
+Detection,Detection,DetectFriendDie,,,Someone's shooting at us!,,,
+Detection,Detection,DetectFriendDie,,,We're being shot at!,,,
+Detection,Detection,DetectFriendDie,,,Oh no... Get down!,,,
+Detection,Detection,DetectFriendDie,,,Find somewhere to hide!,,,
+Detection,Detection,DetectFriendDie,,,No!,,,
+Detection,Detection,DetectFriendDie,,,No! No no no!,,,
+Detection,Detection,DetectFriendDie,,,What the...? Oh God!,,,
+Detection,Detection,DetectFriendDie,,,Oh God!,,,
+Detection,Detection,AlertIdle,,,I know it's you!,,,
+Detection,Detection,AlertIdle,,,"Ah...! No, no it's nothing...",,thought you saw something in the shadows,
+Detection,Detection,AlertIdle,,,There you ar... Hmmm... guess not.,,thought you saw something in the shadows,
+Detection,Detection,AlertIdle,,,"Hiding? What are you, scared?",,,
+Detection,Detection,AlertIdle,,,I'll find you!,,,
+Detection,Detection,AlertIdle,,,Come on. Who's there?,,,
+Detection,Detection,AlertIdle,,,Getting' a bad feeling here...,,muttering to yourself,
+Detection,Detection,AlertIdle,,,Please be nothing... please be nothing...,,muttering to yourself,
+Detection,Detection,AlertIdle,,,Okay. Keep calm. It's probably nothing.,,muttering to yourself,
+Detection,Detection,AlertIdle,,,Who's out there?,,,
+Detection,Detection,AlertToCombat,,,Let's do this!,,,
+Detection,Detection,AlertToCombat,,,We got trouble!,,,
+Detection,Detection,AlertToCombat,,,Got company!,,,
+Detection,Detection,AlertToCombat,,,Whoa!,,,
+Detection,Detection,AlertToCombat,,,Ahhh!,,surprised,
+Detection,Detection,AlertToCombat,,,What the...!?,,,
+Detection,Detection,AlertToCombat,,,What?,,,
+Detection,Detection,AlertToCombat,,,They're here!,,,
+Detection,Detection,LostIdle,,,Maybe it's over...,,,
+Detection,Detection,LostIdle,,,"Here one second, gone the next. Who moves that fast?",,,
+Detection,Detection,LostIdle,,,Why's it gotta be so quiet?,,,
+Detection,Detection,LostIdle,,,Gone... gotta be...,,,
+Detection,Detection,LostIdle,,,Don't come back.... please don't come back...,,under your breathe,
+Detection,Detection,LostIdle,,,Think they've run off?,,,
+Detection,Detection,LostIdle,,,Maybe they're still here. Watching us. Laughing.,,,
+Detection,Detection,NormalToCombat,,,"So that's it, huh?",,,
+Detection,Detection,NormalToCombat,,,Have it your way!,,,
+Detection,Detection,NormalToCombat,,,Don't think I won't hurt you!,,,
+Detection,Detection,NormalToCombat,,,Oh no...,,,
+Detection,Detection,NormalToCombat,,,You crazy?,,,
+Detection,Detection,NormalToCombat,,,If that's what you want!,,,
+Detection,Detection,NormalToCombat,,,You're dead!,,,
+Detection,Detection,NormalToCombat,,,"Oh damn, here we go.",,Worried,
+Detection,Detection,NormalToCombat,,,"You mess with one of us, you mess with all of us!",,,
+Miscellaneous,Miscellaneous,Hello,,,Yeah?,,A simple acknowledgement. Someone taps you on the shoulder.,
+Miscellaneous,Miscellaneous,Hello,,,Huh?,,A simple acknowledgement. Someone taps you on the shoulder.,
+Miscellaneous,Miscellaneous,Hello,,,Yes?,,A simple acknowledgement. Someone taps you on the shoulder.,
+Miscellaneous,Miscellaneous,ObserveCombat,,,Ain't my fight!,,,
+Miscellaneous,Miscellaneous,ObserveCombat,,,Someone do something!,,,
+Miscellaneous,Miscellaneous,ObserveCombat,,,Help!,,,
+Miscellaneous,Miscellaneous,ObserveCombat,,,Shit!,,,
+Miscellaneous,Miscellaneous,ObserveCombat,,,Look out!,,,
+Miscellaneous,Miscellaneous,ObserveCombat,,,Whoa!,,,
+Miscellaneous,Miscellaneous,Hello,,,Help! Raiders jumped us! You gotta help!,,,
+Scene,SceneDialogue,Custom,,PrestonFriend: Well... I've been hearing good things about the Minutemen lately...,"What the hell. I'm in if you'll have me. Where do you need me, General?","PrestonFriend: I guess it was my lucky day and I didn't even know it. I'll see you around, Garvey.",Happy,REAssaultKMK_COMPrestonPlayerScene
+Scene,SceneDialogue,Custom,,"PrestonFriend: What the hell. I'm in if you'll have me. Where do you need me, General?","I guess it was my lucky day and I didn't even know it. I'll see you around, Garvey.",PrestonFriend: General.,Happy,REAssaultKMK_COMPrestonPlayerScene
+Scene,SceneDialogue,Custom,,"PrestonFriend: What the hell. I'm in if you'll have me. Where do you need me, General?","Well, then. Good to see you again, Garvey. Take care of yourself.",PrestonFriend: General.,Puzzled,REAssaultKMK_COMPrestonPlayerScene
+Scene,SceneDialogue,Custom,,"PrestonFriend: I guess it was my lucky day and I didn't even know it. I'll see you around, Garvey.",General.,,sketching a salute as you head out / Happy,REAssaultKMK_COMPrestonPlayerScene
+Scene,SceneDialogue,Custom,,Player Default: That's right. We're rebuilding the Minutemen.,That's what I heard. I wasn't sure what to make of it.,,,REAssaultKMK_COMPrestonFriendScene
+Scene,SceneDialogue,Custom,,Player Default: What's it to you?,Nothing. Just curious who would be crazy enough to try to bring the Minutemen back from the dead.,,,REAssaultKMK_COMPrestonFriendScene
+Scene,SceneDialogue,Custom,,Player Default: Maybe. Depends on what you've heard.,"I heard you're trying to put the Minutemen back together. I can't see that working out, personally, but it's really none of my business.",,,REAssaultKMK_COMPrestonFriendScene
+Scene,SceneDialogue,Custom,,Player Default: Who are you?,"I knew your friend Garvey, back in the old days in the Minutemen. He's a real good guy. But I guess you already know that.",,,REAssaultKMK_COMPrestonFriendScene
+Scene,SceneDialogue,Custom,,Preston: Ben! What are you doing out here?,"Well, I'll be goddamned. Garvey. You stuck with the Minutemen, huh?","Preston: Yeah, I sure did. You?",Surprised,REAssaultKMK_COMPrestonScene
+Scene,SceneDialogue,Custom,,"Preston: Yeah, I sure did. You?","Well, you know... after Quincy, I just couldn't see it was worth anything anymore. So I've been kinda... on my own since then.","PrestonFriend: About that... you know that wasn't my call, right? Nobody wanted to leave you and Hollis hung out to dry, but, uh...",Depressed,REAssaultKMK_COMPrestonScene
+Scene,SceneDialogue,Custom,,"PrestonFriend: Well, you know... after Quincy, I just couldn't see it was worth anything anymore. So I've been kinda... on my own since then.","About that... you know that wasn't my call, right? Nobody wanted to leave you and Hollis hung out to dry, but, uh...","Preston: Don't worry about it, Ben. I don't hold grudges.",Worried,REAssaultKMK_COMPrestonScene
+Scene,SceneDialogue,Custom,,"Preston: But here you are, still fighting raiders. You could have that actually mean something, you know.",What... you mean... join back up? You serious?,"Preston: Yeah, I am. The Minutemen before Quincy, well... that isn't how it is anymore.",Suspicious,REAssaultKMK_COMPrestonScene
+Scene,SceneDialogue,Custom,,"Preston: What do you say, Ben? Want to give it another try?",Well... I've been hearing good things about the Minutemen lately...,"PrestonFriend: What the hell. I'm in if you'll have me. Where do you need me, General?",Neutral,REAssaultKMK_COMPrestonPlayerScene
+Scene,SceneDialogue,Custom,,Preston: We're helping people. For real this time. And we're going to make it last.,"I don't know about that, Garvey. Things went real bad. You of all people should know that.",,Suspicious,REAssaultKMK_COMPrestonScene
+Scene,SceneDialogue,Custom,,,"No offense, but I don't see why things are going to turn out any different this time around.",,,REAssaultKMK_COMPrestonScene
+Miscellaneous,Miscellaneous,Greeting,,,You must be the one I've heard about. The new General people are talking about.,Player Default: That's right. We're rebuilding the Minutemen.,Suspicious,REAssaultKMK_COMPrestonFriendScene
+Miscellaneous,Miscellaneous,Hello,,,I can't believe we killed that thing.,,Awed,
+Miscellaneous,Miscellaneous,Hello,,,We did it! We took back the Castle!,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,People will be talking about this for a long time.,,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,What is that thing?,,Afraid,
+Miscellaneous,Miscellaneous,Hello,,,"I think we'd better take care of business first, General!",,Worried,
+Miscellaneous,Miscellaneous,Hello,,,How are we going to stop that thing?,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,So far so good.,,Confident,
+Miscellaneous,Miscellaneous,Hello,,,"What's next, General?",,Question,
+Miscellaneous,Miscellaneous,Hello,,,How many more of them do you think are still around here?,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,Let's do this.,,Confident,
+Miscellaneous,Miscellaneous,Hello,,,"We've got this, General.",,Confident,
+Miscellaneous,Miscellaneous,Hello,,,A bunch of mirelurks aren't going to stop the Minutemen.,,Confident,
+Miscellaneous,Miscellaneous,Hello,,,"Good to see you, General.",,Confident,
+Miscellaneous,Miscellaneous,Hello,,,Looks like it's swarming with mirelurks.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,You think we can really take it back?,,Concerned,
+Scene,SceneDialogue,Custom,,,What?,Farmer01: Run for it!,Startled / Surprised,REChokepoint03_FarmerRunForIt
+Miscellaneous,Miscellaneous,Hello,,,You saved our lives. I... thank you. Thank you.,,"Relieved, grateful / Grateful",
+Miscellaneous,Miscellaneous,Hello,,,Thanks. Thanks again.,,"Relieved, grateful / Grateful",
+Topic,PlayerDialogue,Custom,,,Maybe you fellows can help. These damn raiders are bleeding us dry.,,Worried,
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I took care of some raiders earlier.,"Really? Well, that's the best news I've heard in a long time!",,Grateful,MinRadiantOwned02SettlementAccept
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I took care of some raiders earlier.,Thanks. It will be a relief not to have to worry about them.,,Grateful,MinRadiantOwned02SettlementAccept
+Scene,SceneDialogue,Custom,,"Player Default: Sorry, I can't help.","Oh. I guess all that stuff about the Minutemen standing together was just talk, then.",,Disgust,MinRadiantOwned02SettlementAccept
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I took care of those raiders for you.,Oh really? Thanks! I didn't know what we were going to do about them.,,Relieved,MinRadiantOwned02SettlementAccept
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: How many raiders were there?,Too many for us to handle. But I bet you won't have any problems with them.,Player Default: I took care of some raiders earlier.,Worried,MinRadiantOwned02SettlementAccept
+Scene,SceneDialogue,Custom,,Player Default: There's not a Raider alive who 'troubles' me.,We're really counting on your help. I thought that was the whole point of the Minutemen.,SettlementSpokesman: They showed up in force a few days ago.,Pleading,MinRadiantOwned02SettlementIntro
+Scene,SceneDialogue,Custom,,Player Default: There's not a Raider alive who 'troubles' me.,Please. We really need your help.,SettlementSpokesman: They showed up in force a few days ago.,Pleading,MinRadiantOwned02SettlementIntro
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Those raiders are already yesterday's news. Thanks to yours truly.,We really are grateful for the help.,,Grateful,MinRadiantOwned02SettlementConfirm
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I took care of those raiders for you.,Good. We didn't know who else to turn to.,,Relieved,MinRadiantOwned02SettlementConfirm
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Are you willing to support the Minutemen now?,Sure thing. I'm glad someone's trying to do some good around here for once. You can count on our help if you need it.,SettlementSpokesman: Thanks. It's good to know we can count on you guys when we're in trouble.,Grateful,MinRadiantOwned02SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Are you willing to support the Minutemen now?,Of course. It's good to know we've got each other's backs.,SettlementSpokesman: Thanks. It's good to know we can count on you guys when we're in trouble.,Grateful,MinRadiantOwned02SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Are you willing to support the Minutemen now?,"No, we're good now. But feel free to use our workshop. It's the least we can do.",SettlementSpokesman: Thanks. It's good to know we can count on you guys when we're in trouble.,Grateful,MinRadiantOwned02SettlementReward
+Scene,SceneDialogue,Custom,,Player Default: Sure thing. I'm glad someone's trying to do some good around here for once. You can count on our help if you need it.,Thanks. It's good to know we can count on you guys when we're in trouble.,,Grateful,MinRadiantOwned02SettlementReward
+Scene,SceneDialogue,Custom,,Player Default: Sure thing. I'm glad someone's trying to do some good around here for once. You can count on our help if you need it.,Thanks. It's good to know we can count on you when we're in trouble.,,Grateful,MinRadiantOwned02SettlementReward
+Scene,SceneDialogue,Custom,,Player Default: We're really counting on your help. I thought that was the whole point of the Minutemen.,They showed up in force a few days ago.,SettlementSpokesman: There were too many of them. We had to give them what they wanted.,Worried,MinRadiantOwned02SettlementIntro
+Miscellaneous,Miscellaneous,SharedInfo,,SettlementSpokesman: They showed up in force a few days ago.,There were too many of them. We had to give them what they wanted.,,Worried,MinRadiantOwned02SettlementIntro
+Miscellaneous,Miscellaneous,SharedInfo,,,"They said as long as we kept paying them ""tribute"", they'd leave us alone.",,Concerned,MinRadiantOwned02SettlementIntro
+Miscellaneous,Miscellaneous,SharedInfo,,,"At least we know where they're hiding out. Here, I'll mark it on your map.",Player Default: There's no need to worry. I already took care of those raiders.,Worried,MinRadiantOwned02SettlementIntro
+Miscellaneous,Miscellaneous,Greeting,,,So can we stop worrying about paying tribute to those raiders?,Player Default: They won't be bothering you again.,Concerned,MinRadiantOwned02SettlementReward
+Miscellaneous,Miscellaneous,Greeting,,,I'm glad you're here. We've been having some trouble with raiders.,Player Default: Tell me what's going on.,Relieved,MinRadiantOwned02SettlementIntro
+Miscellaneous,Miscellaneous,Hello,,,We're never going to get ahead if we keep having to pay tribute to these raiders all the time.,,,
+Miscellaneous,Miscellaneous,Hello,,,Damn raiders. They barely leave us enough to survive.,,,
+Topic,PlayerDialogue,Custom,,,I hope you can rescue our captured trader.,,Worried,
+Scene,SceneDialogue,Custom,,WorkshopSpokesman: They said they'd be back for the ransom in a few days.,"If we don't pay up, they'll kill him.",WorkshopSpokesman: What do you want to do?,Afraid,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,WorkshopSpokesman: They said they'd be back for the ransom in a few days.,"If we don't pay up, they'll kill her.",WorkshopSpokesman: What do you want to do?,Afraid,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,"WorkshopSpokesman: If we don't pay up, they'll kill him.",What do you want to do?,"Player Default: I'll get him back, don't worry.",Concerned,WorkshopRE02Intro
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Just remember that this is all thanks to the Minutemen.,We know. That's why we've decided to join the Minutemen. You can count on our help if you need it.,caravanActor: Thanks again for rescuing me. I won't forget it.,Grateful,MinRadiantOwned03SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Just remember that this is all thanks to the Minutemen.,We know. That's why we support the Minutemen. You can always count on us to help out down the road.,caravanActor: Thanks again for rescuing me. I won't forget it.,Grateful,MinRadiantOwned03SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Just remember that this is all thanks to the Minutemen.,"Not many would have. We don't have much to offer by way of thanks, but feel free to use our workshop. Least we can do.",caravanActor: Thanks again for rescuing me. I won't forget it.,Grateful,MinRadiantOwned03SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Hardly worth my time.,"Well, I'm still grateful for what you did.",,Grateful,MinRadiantOwned03SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,,"And you should know, we've decided to join the Minutemen. You can count on our help if you need it.",caravanActor: Thanks again for rescuing me. I won't forget it.,Friendly,MinRadiantOwned03SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Hardly worth my time.,"Well, I'm still grateful for what you did. It's good to know we can count on the Minutemen when we need them.",caravanActor: Thanks again for rescuing me. I won't forget it.,Grateful,MinRadiantOwned03SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Hardly worth my time.,"Well, I'm still grateful for what you did. And feel free to use our workshop. It's the least we can do.",caravanActor: Thanks again for rescuing me. I won't forget it.,Grateful,MinRadiantOwned03SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: You're welcome.,"You should know, we've decided to join the Minutemen. You can count on our help if you need it.",caravanActor: Thanks again for rescuing me. I won't forget it.,Grateful,MinRadiantOwned03SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: You're welcome.,It's good to know we can count on the Minutemen when we need them.,caravanActor: Thanks again for rescuing me. I won't forget it.,Grateful,MinRadiantOwned03SettlementReward
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: You're welcome.,"By the way, feel free to use our workshop. It's the least we can do.",caravanActor: Thanks again for rescuing me. I won't forget it.,Grateful,MinRadiantOwned03SettlementReward
+Scene,SceneDialogue,Custom,,Player Default: We know. That's why we've decided to join the Minutemen. You can count on our help if you need it.,Thanks again for rescuing me. I won't forget it.,,Grateful,MinRadiantOwned03SettlementReward
+Scene,SceneDialogue,Custom,,Player Default: Do you know where he's been taken?,Yeah. We followed them back to their hideout.,WorkshopSpokesman: They said they'd be back for the ransom in a few days.,Confident,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,Player Default: Yeah. We followed them back to their hideout.,They said they'd be back for the ransom in a few days.,"WorkshopSpokesman: If we don't pay up, they'll kill him.",Worried,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,"Player Default: I'll get him back, don't worry.",Good. We need that caravan route back.,WorkshopSpokesman: Alright. I just hope those raiders keep their end of the deal.,Relieved,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,Player Default: They can kill him for all I care.,What? You're really not going to do anything to help?,WorkshopSpokesman: Alright. I just hope those raiders keep their end of the deal.,Worried,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,Player Default: Here's the ransom. Pay them when they come back.,"Well, then what are we supposed to do?",WorkshopSpokesman: They said they'd be back for the ransom in a few days.,Worried,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,Player Default: How many raiders were there?,I don't know. It was only the one that delivered the ransom demand.,,Worried,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,,What do you want to do?,WorkshopSpokesman: They said they'd be back for the ransom in a few days.,Worried,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,Player Default: Good. We need that caravan route back.,Alright. I just hope those raiders keep their end of the deal.,,Concerned,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,Player Default: Good. We need that caravan route back.,Alright. Hopefully the Gunners will stick to their word.,,Concerned,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,Player Default: Good. We need that caravan route back.,"Not sure if we can trust Super Mutants to keep their word, but it's worth a shot.",,Concerned,WorkshopRE02Intro
+Scene,SceneDialogue,Custom,,Player Default: I wouldn't leave you here. Let's go.,You don't have to tell me twice. Lead the way.,,,WorkshopRE02CaptiveScene
+Scene,SceneDialogue,Custom,,Player Default: Not just yet. Don't go anywhere.,What? You can't leave me here!,,,WorkshopRE02CaptiveScene
+Scene,SceneDialogue,Custom,,Player Default: Let's get out of here.,"That's better. Okay, I'm right behind you.",,,WorkshopRE02CaptiveScene
+Scene,SceneDialogue,Custom,,Player Default: How'd you get caught?,They were waiting for me. Must have scoped out my route. I had no chance to run or fight.,,,WorkshopRE02CaptiveScene
+Scene,SceneDialogue,Custom,,,"Now let's get out of here, huh?",Player Default: I wouldn't leave you here. Let's go.,,WorkshopRE02CaptiveScene
+Miscellaneous,Miscellaneous,Greeting,,,Thanks a lot for rescuing our friend.,Player Default: Just remember that this is all thanks to the Minutemen.,Grateful,MinRadiantOwned03SettlementReward
+Miscellaneous,Miscellaneous,Greeting,,,We've got a problem. Raiders grabbed one of our traders.,"Player Default: Don't worry, I'll take care of it.",Worried,WorkshopRE02Intro
+Miscellaneous,Miscellaneous,Greeting,,,We've got a problem. The Gunners grabbed one of our traders.,"Player Default: Don't worry, I'll take care of it.",Worried,WorkshopRE02Intro
+Miscellaneous,Miscellaneous,Greeting,,,We've got a problem. Super Mutants grabbed one of our traders.,"Player Default: Don't worry, I'll take care of it.",Worried,WorkshopRE02Intro
+Miscellaneous,Miscellaneous,Greeting,,,Thank god! I knew you wouldn't let these bastards get away with this.,Player Default: I wouldn't leave you here. Let's go.,,WorkshopRE02CaptiveScene
+Miscellaneous,Miscellaneous,Greeting,,,"Come on, you've got to cut me loose!",Player Default: I wouldn't leave you here. Let's go.,,WorkshopRE02CaptiveScene
+Miscellaneous,Miscellaneous,Hello,,,I'm ashamed of myself. There's no other way to say it.,,"Ashamed, sad",
+Miscellaneous,Miscellaneous,Hello,,,I'll do whatever it takes to earn back my family's trust.,,Contrite,
+Miscellaneous,Miscellaneous,Hello,,,"If it wasn't for you, things could have been a lot worse.",,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,Can't believe what a damn fool I've been.,,Angry at yourself,
+Miscellaneous,Miscellaneous,Hello,,,"From now on, I'm going to help people.",,Angry at yourself,
+Miscellaneous,Miscellaneous,Hello,,,"I've got a lot to atone for, but I'll find a way to make things right.",,Angry at yourself,

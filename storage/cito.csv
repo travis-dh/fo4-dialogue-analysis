@@ -1,0 +1,158 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,,You stop machine? Now monsters die good!,,,DLC04CitoMachineOff
+Scene,SceneDialogue,Custom,,,Doctor man have key! We open clo-ning fa-cil-ity.,,Struggle with pronunciation a bit. Excited your info helped.,DLC04CitoHeinKeyPickup
+Scene,SceneDialogue,Custom,,,This it! This big metal snake!,,Excited you helped,DLC04CitoBigMetalSnakeArrive
+Scene,SceneDialogue,Custom,,,This big triangle house. It have door Cito never open.,,,DLC04CitoTriangleHouseArrive
+Scene,SceneDialogue,Custom,,,This door Cito not know how to open.,,,DLC04CitoCloningDoorLocked
+Scene,SceneDialogue,Custom,,Player Default: Cito happy have strong friend.,You kill Monster alone. Monster strong but you stronger.,,Confident,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,,Cito happy you kill Monster. Monster hurt Cito and Cito family.,"Player Default: Well, it can't hurt you anymore, Cito.",Angry,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,Player Default: Of course I'll help.,Cito happy you help!,CitoAlias: New friend follow Cito.,Happy,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,Player Default: *Sigh* I knew this would be a pain in the ass.,Cito not doctor. Maybe find medicine for ass while help Cito?,CitoAlias: New friend follow Cito.,"Cito doesn't get the idiom ""Pain in the ass"" and took it literally / Thinking",DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,Player Default: That depends. What are you offering in return?,New friend make Monster stop. Cito promise shiny thing give new friend.,,Confident,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,,Help Cito?,Player Default: Of course I'll help.,Question,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,Player Default: Maybe. Do you have any idea where they're coming from?,Cito not know.,CitoAlias: New friend follow Cito.,Irritated,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,"Player Default: It's okay Cito, we'll take care of your family.",Cito like new friend.,CitoAlias: Cito have story. Story help stop Monsters.,Friendly,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,Player Default: Just get to the part where you tell me how to kill them.,New friend not talk. New friend listen.,CitoAlias: Cito have story. Story help stop Monsters.,Irritated,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,Player Default: I hope you know somewhere to start.,Cito maybe know.,CitoAlias: Cito have story. Story help stop Monsters.,,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,Player Default: Why bring me here then?,Listen to Cito.,CitoAlias: Cito have story. Story help stop Monsters.,Confident,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,Player Default: Yes! Cito know!,"It big... what word? ""Ride.""",,Thinking,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,,Ride like big snake. Cito see from everywhere. Very big. Very snakey.,,Confident,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,,It up hill behind zoo. Maybe Doctor Man there?,"Player Default: Good job, Cito. I knew you'd be helpful.",Question,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,"Player Default: Good job, Cito. I knew you'd be helpful.",Cito help! Cito like help new friend.,,Confident,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,"Player Default: This had better not be a wild goose chase, Cito.","Not goose, snake. New friend talk good but not listen good.",,Irritated,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,,Hope new friend find Doctor Man.,,Confident,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,"Player Default: Right, the giant roller coaster. I get it now.",Roll-er coast-er? New friend say strange words.,,Puzzled,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,,Hope Cito help new friend find Doctor Man.,,Concerned,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,"Player Default: How did you know an Anaconda was a kind of snake, Cito?",Cito try learn words from zoo. Lots of words in zoo. Words and pictures.,,proud / Impressed,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,,"Cito see ""An-a-con-da"" in house with snakes.",,Confident,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,,Pictures in house with snakes look like big metal snake on hill. Cito smart!,"Player Default: Good job, Cito. I knew you'd be helpful.",Happy,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: We find that and we can find his passcode to get into the cloning facility.,Sound like name of snake from old zoo.,,Thinking trailing off / Thinking,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,,Oh! Maybe doctor under giant metal snake!,"Player Default: I'm sure you know exactly where that is, Cito.",Eureka moment / Surprised,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,"Player Default: I'm sure you know exactly where that is, Cito.",Yes! Cito know!,"CitoAlias: It big... what word? ""Ride.""",Excited you gave information that helped the player / Happy,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,Player Default: You're talking nonsense. Snakes aren't made of metal.,Not REAL snake. New friend listen to Cito. Maybe learn something.,"CitoAlias: It big... what word? ""Ride.""",Irritated,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,"Player Default: The, uh... giant metal snake. Of course.",New friend funny. How not see giant metal snake?,"CitoAlias: It big... what word? ""Ride.""",Amused,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,Player Default: Giant metal snake? That doesn't make much sense.,New friend not worry. Cito know.,"CitoAlias: It big... what word? ""Ride.""",Confident,DLC04CitoAngryAnacondaScene
+Scene,SceneDialogue,Custom,,"PlayerVoiceFemale01: Hmm... so it seems like the Gatorclaws, er... the Monsters, are coming from an animal cloning facility somewhere beneath Safari Adventure.",Shiny thing help new friend?!,"Player Default: Yes, it was very helpful. I just need to find the cloning facility.",Excited the player found a clue and excited you helped.  / Impressed,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,Player Default: You say nice thing. Cito like new friend.,Now you help Cito.,,Confident,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,Family in danger. Hide here from Monsters. Here only place safe.,,Concerned,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,Here have no food. Here have no water. Cito go outside to help family. Monster try to kill Cito.,,Concerned,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,Cito kill many. More Monsters come. Never stop. Cito scared Monster hurt family.,"Player Default: It's okay Cito, we'll take care of your family.",Concerned,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,Player Default: Cito like new friend.,Cito have story. Story help stop Monsters.,,Confident,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,Cito eat with family. Wrinkly Man come inside home. Wrinkly Man hurt. Cito try help.,,Confident,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,Wrinkly Man say he make Monsters! Cito mad at Wrinkly Man. Monsters hurt family.,,Confident,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,Wrinkly Man sorry Monsters hurt family. He give Cito shiny thing. He say shiny thing help Cito stop Monsters.,,Confident,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,Cito try help more but Wrinkly Man die. Cito put Wrinkly Man in ground but keep shiny thing.,CitoAlias: Now give shiny thing new friend. Help Cito.,Sad,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,"Player Default: Sure, we can be friends.",Cito happy have strong friend.,CitoAlias: You kill Monster alone. Monster strong but you stronger.,Relieved,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,"Player Default: I don't have time for this, pal. I've got raiding to do.",You no friend! You bad man! Cito kill you!,CitoAlias: You kill Monster alone. Monster strong but you stronger.,Angry,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,"Player Default: I don't have time for this, pal. I've got raiding to do.",You no friend! You bad lady! Cito kill you!,CitoAlias: You kill Monster alone. Monster strong but you stronger.,Angry,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,"Player Default: Oh, god. Let me guess, you were raised by apes.","Not know ""ape."" Cito only know family.",CitoAlias: You kill Monster alone. Monster strong but you stronger.,Puzzled,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,Player Default: Are you okay? Why are you talking like that?,Cito sorry Cito not talk good. Cito family not talk. Cito not talk to man or lady in long time.,CitoAlias: You kill Monster alone. Monster strong but you stronger.,Sad,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,Player Default: No. Many more Monster. No stop.,Cito kill Monster. New Monster come. Cito kill Monster again. New Monster come again.,,Concerned,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,,Monsters not stop. Help Cito stop Monsters?,Player Default: Of course I'll help.,Question,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,DLC04NPCMCito: Man!,Cito see you kill Monster. You friend?,"Player Default: Sure, we can be friends.",Suspicious,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,"Player Default: Well, it can't hurt you anymore, Cito.",No. Many more Monster. No stop.,CitoAlias: Cito kill Monster. New Monster come. Cito kill Monster again. New Monster come again.,Angry,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,Player Default: I can't believe you couldn't handle that thing yourself.,Not one Monster. Many Monsters.,CitoAlias: Cito kill Monster. New Monster come. Cito kill Monster again. New Monster come again.,Irritated,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,Player Default: I have a bad feeling you're going to ask me to kill more.,You good guesser!,CitoAlias: Cito kill Monster. New Monster come. Cito kill Monster again. New Monster come again.,Amused,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,Player Default: What the heck are those things? Are they some sort of a Deathclaw?,Death? Claw?,,Puzzled,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,,"Cito not know. Cito only know ""death"" bad and Monster bad.","Player Default: Well, it can't hurt you anymore, Cito.",Nervous,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,Player Default: Cito happy you help!,New friend follow Cito.,,Confident,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,,Cito show you thing. Thing to help kill Monsters.,,Confident,DLC04CitoIntroScene
+Scene,SceneDialogue,Custom,,"Player Default: I'm sorry Cito, it was an accident.",Cito angry new friend kill family. Cito sad new friend not friend anymore.,,Sad,DLC04CitoBetrayedScene
+Scene,SceneDialogue,Custom,,,Leave Cito alone.,,"Sad and angry, but not violent. Sending player away.  / Sad",DLC04CitoBetrayedScene
+Scene,SceneDialogue,Custom,,"Player Default: I'm sorry Cito, it was an accident.",No forgive. Cito kill!,,Leading into combat / Angry,DLC04CitoBetrayedScene
+Scene,SceneDialogue,Custom,,"Player Default: Deal with it, you idiot. You're next.",No. Cito kill you!,,Leading into combat / Angry,DLC04CitoBetrayedScene
+Scene,SceneDialogue,Custom,,"Player Default: They're just gorillas, Cito. Get over it.","Cito love family. New friend hurt Cito family, Cito hurt new friend!",,Leading into combat / Angry,DLC04CitoBetrayedScene
+Scene,SceneDialogue,Custom,,Player Default: Is there anything I can say that will make you feel better?,Cito not know. Cito confused why new friend hurt family!,"Player Default: I'm sorry Cito, it was an accident.",Angry,DLC04CitoBetrayedScene
+Scene,SceneDialogue,Custom,,"Player Default: Uh... You have a lovely family, Cito.",You say nice thing. Cito like new friend.,CitoAlias: Now you help Cito.,Happy,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,"Player Default: Are you kidding me? This isn't your family, these are animals.",An-i-mal? Cito not know word.,CitoAlias: Now you help Cito.,sounding out word / Puzzled,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,Player Default: Great. I always wanted to be best friends with a bunch of gorillas.,Cito glad new friend like family!,CitoAlias: Now you help Cito.,Happy,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,Player Default: How did you end up being raised by these gorillas?,Cito very small when first family die. First family look like Cito.,,Sad,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,"Cito not die, just walk and walk. Find zoo place. Find new family.",,Confident,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,"New family help Cito. Give Cito food, give water. Keep Cito safe.",,Happy,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,Now Cito big and strong. Cito help family fight Monsters.,"Player Default: Uh... You have a lovely family, Cito.",Confident,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,Player Default: How did you end up being raised by these gorillas?,Cito no tell. Story make sad.,"Player Default: Uh... You have a lovely family, Cito.",Sad,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,CitoAlias: Cito try help more but Wrinkly Man die. Cito put Wrinkly Man in ground but keep shiny thing.,Now give shiny thing new friend. Help Cito.,,Pleading,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,"Player Default: Yes, it was very helpful. I just need to find the cloning facility.",Cito have idea!,CitoAlias: Cito see Wrinkly Man come from Big Triangle House long time ago.,revelation / Surprised,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,"Player Default: This holotape is worthless, it doesn't point me to the cloning facility.",Cito remember something!,CitoAlias: Cito see Wrinkly Man come from Big Triangle House long time ago.,revelation / Surprised,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,"Player Default: Unless this ""shiny thing"" is about to sprout wings and lead me to the cloning facility, we're out of luck.",New friend funny. Shiny thing not bird.,,Amused,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,,"No worry, Cito can help. Cito remember something.",CitoAlias: Cito see Wrinkly Man come from Big Triangle House long time ago.,Confident,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Do you know anything about a cloning facility around here?,New friend say strange words.,,Puzzled,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,,"Cito not know what new friend want, but Cito know more about Wrinkly Man.",CitoAlias: Cito see Wrinkly Man come from Big Triangle House long time ago.,Confident,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Cito have idea!,Cito see Wrinkly Man come from Big Triangle House long time ago.,,Thinking,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,,Go to Big Triangle House. Find clo-ning fa-cil-ity. Stop Monsters.,,"Struggle a bit with ""cloning facility"". These are words you just learned.  / Concerned",DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,,Cito come with new friend. Cito help!,"Player Default: Okay, I could use the help. Follow me.",Sad,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,"Player Default: Okay, I could use the help. Follow me.",Cito strong. Cito help new friend!,,Friendly,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,Player Default: No. Stay with your family. I've got this.,Cito stay. Cito protect family.,,Confident,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,"Player Default: If you don't mind being gator bait, sure, tag along.",Cito not bait. Cito hook.,,Cito actually got that joke and tries to joke back / SinisterSmile,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Can you get your family to help us?,Chris big and strong. Chris help new friend and Cito.,,Chris is your biggest strongest gorilla friend.  / Confident,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,,*gorilla sounds*,,Confident,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Can you get your family to help us?,Cito no want family hurt. Cito go with new friend alone.,,Irritated,DLC04CitoCorpseTalkScene
+Scene,SceneDialogue,Custom,,DLC04NPCMCito: This home. This family.,*Gorilla sounds*,,Beckoning your Gorilla family to not attack the player. / Confident,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,No worry. They not hurt you. You friend Cito mean you friend family.,"Player Default: Uh... You have a lovely family, Cito.",Friendly,DLC04CitoPrimateHouseScene
+Scene,SceneDialogue,Custom,,,Cito never been here.,,Nervous,DLC04CitoCloningFacilityScene01
+Scene,SceneDialogue,Custom,,,Cito no like this place.,,Nervous,DLC04CitoCloningFacilityScene02
+Scene,SceneDialogue,Custom,,"Player Default: And they should not be coming back. Your family's safe, Cito.",Cito so happy.,CitoAlias: How Cito thank new friend?,Happy,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,"Player Default: Apart from your hideous family, yeah. I think the monsters here are gone.","New friend make bad joke. No worry, Cito think funny.",CitoAlias: How Cito thank new friend?,Amused,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,Player Default: There will always be other Monsters. But you've seen the last of the ones that were here.,Cito not worry. New friend teach Cito be strong. Teach Cito be brave.,CitoAlias: How Cito thank new friend?,Friendly,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,Player Default: Can't you tell?,Cito not see more Monsters.,CitoAlias: How Cito thank new friend?,Relieved,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,Player Default: Cito so happy.,How Cito thank new friend?,"Player Default: Listen, Cito. You and your family have to get out of here. Mean people are coming and they might hurt you or your family.",Question,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,"Player Default: Listen, Cito. You and your family have to get out of here. Mean people are coming and they might hurt you or your family.","Cito sad, but Cito understand. Home too dangerous now. Cito take family and go.",,Sad,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,,"Here, new friend take. It better shiny thing Cito save. Cito want to give.",,Friendly,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,,"Thank you, new friend. Cito always remember you.",,Friendly,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,"Player Default: Sorry Cito, I've got other friends moving into the zoo, and you'll just get in the way.",You betray Cito?! You enemy now!,,Angry,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,"Player Default: I have some friends moving in here, but if you play it cool we can all get along. Can you do that?",Cito trust you. Cito like more new friends!,,Happy,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,,"Before go, here, new friend take. It better shiny thing Cito save. Cito want to give.",,Friendly,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,,"Thank you, new friend. Cito always remember you.",,Happy,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,"Player Default: I have some friends moving in here, but if you play it cool we can all get along. Can you do that?",Cito no trust anyone but new friend. Cito not share home!,"Player Default: Listen, Cito. You and your family have to get out of here. Mean people are coming and they might hurt you or your family.",stubborn / Irritated,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,"Player Default: What's next for you Cito? You want to stay here, or take your family and head out to the Wasteland?",Zoo Cito home since small. Zoo family home since forever.,,Thinking,DLC04CitoWrapUpScene
+Scene,SceneDialogue,Custom,,,Cito want to stay. Waste-land not safe for Cito family or Cito.,"Player Default: Listen, Cito. You and your family have to get out of here. Mean people are coming and they might hurt you or your family.",Concerned,DLC04CitoWrapUpScene
+Miscellaneous,Miscellaneous,SharedInfo,,,Cito need help!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Agh!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,That hurt!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,*roar*,,Animal-like roar of pain,
+Miscellaneous,Miscellaneous,SharedInfo,,,*Gorilla noises*,,Cry out in pain like a Gorilla,
+Miscellaneous,Miscellaneous,SharedInfo,,,*Gorilla noises*,,"Battle taunt of Gorilla noises, Variation 1",
+Miscellaneous,Miscellaneous,SharedInfo,,,*Gorilla noises*,,"Battle taunt of Gorilla noises, Variation 2",
+Miscellaneous,Miscellaneous,SharedInfo,,,*Gorilla noises*,,"Battle taunt of Gorilla noises, Variation 3",
+Miscellaneous,Miscellaneous,SharedInfo,,,Cito crush you!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Cito strong!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,You dead!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Monster!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Here!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Cito kill.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Cito strong.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Cito do good.,,,
+Miscellaneous,Miscellaneous,Hello,,,Leave Cito alone...,,,
+Miscellaneous,Miscellaneous,Hello,,,You good fighter.,,,
+Miscellaneous,Miscellaneous,Hello,,,Cito strong. Cito protect family.,,,
+Miscellaneous,Miscellaneous,Hello,,,You big help Cito. Cito thank you.,,,
+Miscellaneous,Miscellaneous,Hello,,,Big metal snake. You no can miss!,,,
+Miscellaneous,Miscellaneous,Hello,,,Big triangle house near gate.,,,
+Miscellaneous,Miscellaneous,Hello,,,You have key. Now open clo-ning fa-cil-ity.,,Struggling with pronunciation,
+Miscellaneous,Miscellaneous,Hello,,,Let's finish killing monsters!,,,
+Miscellaneous,Miscellaneous,Hello,,,Cito can't wait to meet new friends!,,,
+Miscellaneous,Miscellaneous,Hello,,,Cito will miss home.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Man!,CitoAlias: Cito see you kill Monster. You friend?,calling out / Suspicious,DLC04CitoIntroScene
+Miscellaneous,Miscellaneous,Greeting,,,This home. This family.,CitoAlias: *Gorilla sounds*,Showing the player your home / Happy,DLC04CitoPrimateHouseScene
+Miscellaneous,Miscellaneous,Greeting,,,New friend done? No more Monsters?,"Player Default: And they should not be coming back. Your family's safe, Cito.",Question,DLC04CitoWrapUpScene
+Miscellaneous,Miscellaneous,Greeting,,,You kill family! No! Cito kill you!,"Player Default: I'm sorry Cito, it was an accident.",Player just killed one of Cito's family members. Hurt and angry.  / Angry,DLC04CitoBetrayedScene
+Miscellaneous,Miscellaneous,Greeting,,,Lady!,CitoAlias: Cito see you kill Monster. You friend?,calling out / Suspicious,DLC04CitoIntroScene
+Miscellaneous,Miscellaneous,Greeting,,,You show Cito something?,,,
+Miscellaneous,Miscellaneous,Greeting,,,Dead man have important thing?,,,
+Miscellaneous,Miscellaneous,Greeting,,,Follow Cito.,,,
+Miscellaneous,Miscellaneous,Hello,,,Cito glad Cito get to stay home.,,,
+Miscellaneous,Miscellaneous,Hello,,,Cito happy family safe now.,,,
+Miscellaneous,Miscellaneous,Hello,,,Cito like Pack men. They like family like Cito like family.,,,
+Miscellaneous,Miscellaneous,Hello,,,Pack men wear funny clothes. Make Cito laugh.,,Laughing to the player,
+Miscellaneous,Miscellaneous,Hello,,,Man have scary friends.,,,
+Miscellaneous,Miscellaneous,Hello,,,Lady have scary friends.,,,
+Miscellaneous,Miscellaneous,Hello,,,New friend teach Cito to use ter-mi-nal. Cito get angry and Cito break it.,,Just learned the word terminal,
+Miscellaneous,Miscellaneous,Hello,,,I think new friend not teach Cito more things.,,,
+Miscellaneous,Miscellaneous,Hello,,,Cito like Oper-ate-ors. They have lots of shiny things.,,Just learned the word operators,
+Miscellaneous,Miscellaneous,Hello,,,Cito not meet many people before. Cito get shy.,,,
+Miscellaneous,Miscellaneous,Hello,,,You tell friends not hurt family.,,Commanding,
+Miscellaneous,Miscellaneous,Hello,,,Cito make new home for family.,,Sad / Sad,
+Miscellaneous,Miscellaneous,Hello,,,Cito not know where to go. But Cito go.,,,
+Miscellaneous,Miscellaneous,Hello,,,Cito thought man make home safe.,,"Sad, accusatory / Sad",
+Miscellaneous,Miscellaneous,Hello,,,Cito thought lady make home safe.,,"Sad, accusatory / Sad",
+Miscellaneous,Miscellaneous,Hello,,,"Cito not sure about Dis-eye-poles. But if they your friend, they Cito friend.",,Cito just leanred the word Disciples,

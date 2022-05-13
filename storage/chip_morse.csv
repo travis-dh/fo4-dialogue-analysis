@@ -1,0 +1,58 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, life would be a little better for everyone, right?","Well, I'm just a trader, so I know my opinion doesn't count for anything, but I still think it's a good plan.",,,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,"Hell, it might even give those poor bastards out in Dry Rock Gulch a fighting chance.",Player Default: Colter had the right idea. I just might finish what he started.,"Amused, said with a chuckle / Amused",DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,Player Default: I think Colter was on to something. Having full power in the park would make everything easier.,"Yeah, life would be a little better for everyone, right?","ChipMorse: Well, I'm just a trader, so I know my opinion doesn't count for anything, but I still think it's a good plan.",,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Colter was weak, and now he's gone. It doesn't matter what he wanted.","You're right, boss. Park's yours now. Doesn't matter what he wanted.","ChipMorse: Well, I'm just a trader, so I know my opinion doesn't count for anything, but I still think it's a good plan.",,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,Player Default: Sounds like he just got comfortable.,"Not my place to say, but I've heard some of that talk in the gangs.","ChipMorse: Well, I'm just a trader, so I know my opinion doesn't count for anything, but I still think it's a good plan.",,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,Player Default: Why did he stop caring? Did something happen?,"Some of the gangs were guessing he got too comfortable, but I don't really know.","ChipMorse: Well, I'm just a trader, so I know my opinion doesn't count for anything, but I still think it's a good plan.",,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,"DLC04NPCMChipMorse: Hey there, boss. You really laid a beat-down on Colter. That was something.",Guess that means his big plans for the park died with him.,"Player Default: If there's a chance that Colter's plans could get this place back on track, I'm interested.",Regret / Sad,DLC04DialogueSettlement_ChipFirstScene
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: If there's a chance that Colter's plans could get this place back on track, I'm interested.","Whatever you say, boss.","ChipMorse: Back when Colter first took over, he had big ideas, and he made some big promises.",Obedient,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Keep talking, or I'll beat it out of you instead.","No need for that, boss. I'll tell you everything I know.","ChipMorse: Back when Colter first took over, he had big ideas, and he made some big promises.",Nervous / Nervous,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Big plans, huh? Did that include getting killed in his own arena?","Of course not, boss.","ChipMorse: Back when Colter first took over, he had big ideas, and he made some big promises.",Apologetic,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Whatever you say, boss.","Back when Colter first took over, he had big ideas, and he made some big promises.",,,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,"His plan was to get the power plant back online and light up the whole park, making it easier to conquer, and safer for all of us.",,,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,"We could have done it, too, but things changed. Slowed down. Colter stopped pushing, stopped caring so much.",Player Default: I think Colter was on to something. Having full power in the park would make everything easier.,,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,Player Default: Colter had the right idea. I just might finish what he started.,"I hope you do, boss.","ChipMorse: Truth is, I've dreamed about that day more than once. Not sure why, really.",Hopeful / Neutral,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,Player Default: Restoring power sounds like a waste of time. We've already got everything we need right here.,Of course. We'll do whatever you say.,,,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,"Still... it would be a sight, all these lights coming back on... All the color.","ChipMorse: Truth is, I've dreamed about that day more than once. Not sure why, really.",Hopeful / Neutral,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,Player Default: You seem pretty well informed about Colter's plans.,"Well, yeah. Colter needed my input on getting the power plant running again.",,,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,"I'm sort of the unofficial chief handyman around here, or as close as we've got to one.",,,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,Guess you could say I've got a vested interest in the plan to get the power back on.,,,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,"Speaking of which, do you think you'll see it through? Colter's plan, I mean?",Player Default: Colter had the right idea. I just might finish what he started.,Question,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,Player Default: What poor bastards are you talking about?,"Back when the Raiders took over, some of us - the traders who were here before, I mean - got away.",,,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,"Last I heard, those folks were holed up in Dry Rock Gulch. They're probably struggling, if they're alive at all.",,Somber / Worried,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,Do you think you'll follow through on Colter's plan? Get the juice flowing again?,Player Default: Colter had the right idea. I just might finish what he started.,Hopeful,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,Player Default: What poor bastards are you talking about?,Uh... you know what? Just forget I said that.,Player Default: Colter had the right idea. I just might finish what he started.,"Sheepish, said something you should not have / Worried",DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: I hope you do, boss.","Truth is, I've dreamed about that day more than once. Not sure why, really.",,Wistful / Neutral,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,"Maybe I've just grown attached to the place, what with all the work I've done on it.",,Neutral,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,"Sounds funny, I know, but I think Nuka-World is something really special. I think she deserves to have her lights shine again.",,Wistful / Neutral,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,"And just imagine... at night, you'd see it for miles around. Folk would talk about it. They'd come from all over to shop in the market.",,Wistful / Neutral,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,,That's a lot of caps for you and the gangs.,"Player Default: When you put it that way, it does sound like a pretty good idea.",Confident,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: When you put it that way, it does sound like a pretty good idea.","It's your call, boss, but there's plenty of time to figure things out.","ChipMorse: Gotta get back to work here. See you around, boss.",,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: You've wasted enough of my time, scab. Get back to work.","Whatever you say, boss.","ChipMorse: Gotta get back to work here. See you around, boss.",Snapping to attention / Stern,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,Player Default: You're dreaming if you think turning on some lights is going to magically transform this place into something great.,"A dream? Yeah, maybe, but I've got to hold onto something. Most days, that's all I've got.","ChipMorse: Gotta get back to work here. See you around, boss.","World-weary, sad / Sad",DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,Player Default: How long have you been here?,"Been about twenty years now, I guess. For better or worse, Nuka-World is my home.","ChipMorse: Gotta get back to work here. See you around, boss.",,DLC04DialogueSettlement_ChipFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: It's your call, boss, but there's plenty of time to figure things out.","Gotta get back to work here. See you around, boss.",,,DLC04DialogueSettlement_ChipFirstScene
+Combat,Combat,Death,,,Ugh.,,,
+Combat,Combat,Death,,,Nuh.,,,
+Combat,Combat,Death,,,Gah.,,,
+Combat,Combat,Flee,,,Aaaiiee!,,,
+Combat,Combat,Flee,,,Agghh!,,,
+Detection,Detection,NormalToAlert,,,What the?!,,,
+Detection,Detection,NormalToAlert,,,What?,,,
+Detection,Detection,NormalToAlert,,,Huh?,,,
+Miscellaneous,Miscellaneous,Greeting,,,"Hey there, boss. You really laid a beat-down on Colter. That was something.",ChipMorse: Guess that means his big plans for the park died with him.,Impressed / Impressed,DLC04DialogueSettlement_ChipFirstScene
+Miscellaneous,Miscellaneous,Hello,,,"Park sure is a sight, what with all the lights on.",,Impressed / Impressed,
+Miscellaneous,Miscellaneous,Hello,,,You really did it. You got the power plant up and running and everything.,,Impressed / Impressed,
+Miscellaneous,Miscellaneous,Hello,,,"No more Raiders... if this is a dream, don't wake me up.",,Mix of gratitude and disbelief / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,You really taught those Raiders a lesson.,,Admiration / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"Hey, boss. Good to see you.",,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"Being chief handyman basically means I'm the one who gets yelled at, threatened and kicked around when something breaks.",,,
+Miscellaneous,Miscellaneous,Hello,,,"If I said I loved my job, I'd be lying. At least the Raiders find me useful, so they mostly leave me alone.",,,
+Miscellaneous,Miscellaneous,Hello,,,"I spend half my time trying to squeeze every ounce of power I can out of this place. Never feels like enough, though.",,,
+Miscellaneous,Miscellaneous,Hello,,,"You wouldn't believe some of the stuff that comes out of the pipes around here. To call it ""sewage"" would be paying it a compliment.",,,
+Miscellaneous,Miscellaneous,Hello,,,"Believe it or not, I haven't had a Raider threaten to cut my face off for at least four hours. Maybe my luck is changing...",,,
+Miscellaneous,Miscellaneous,Hello,,,"I swear, half the manhole covers I open have ghouls waiting under them.",,,
+Miscellaneous,Miscellaneous,Hello,,,My definition of a good day is one where I don't find a nest of bloodworms in a utility tunnel.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Always wished I could ride some of the attractions here. Even now, they still look like a lot of fun.",,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Doing alright there, boss?",,Curious why the player has stopped talking,

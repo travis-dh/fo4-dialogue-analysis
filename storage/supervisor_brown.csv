@@ -1,0 +1,45 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, I'll take those caps now.",Jolly good! Here you are - two caps apiece.,,,DialogueGraygardenWorkReward
+Scene,SceneDialogue,Custom,,Player Default: I'm going to hold on to these Mutfruits.,"Then our business here is concluded, I should think. Cheerio!",,,DialogueGraygardenWorkReward
+Scene,SceneDialogue,Custom,,"Player Default: Some other time, maybe.","At your leisure, then. I shall be hereabout when you're ready.",,,DialogueGraygardenWorkReward
+Scene,SceneDialogue,Custom,,"Player Default: What are you offering, exactly?",It's two caps apiece.,"Player Default: Yeah, I'll take those caps now.",,DialogueGraygardenWorkReward
+Detection,Detection,NormalToCombat,,,For Queen and Country!,,"(See notes for Supervisor Brown) Shouting, starting a fight.",
+Detection,Detection,NormalToCombat,,,You'll pay for that!,,"(See notes for Supervisor Brown) Shouting, starting a fight.",
+Miscellaneous,Miscellaneous,Greeting,,,Ready to hand over those mutfruits?,"Player Default: Yeah, I'll take those caps now.",,DialogueGraygardenWorkReward
+Miscellaneous,Miscellaneous,SharedInfo,,,"If you could fetch me some mutfruits, I could extract the seeds, hand them off to the planters, and Bob's your uncle!",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"And of course, there will be caps to line your pocket. We see to our friends here!",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Ah. Well then, perhaps another time.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"In that case, we must bear the burden and soldier on.",,,
+Miscellaneous,Miscellaneous,Hello,,,"Bring me some mutfruits for seeding, and there'll be caps for your pocket. Off you go, then!",,Marching orders,
+Miscellaneous,Miscellaneous,Hello,,,"Caps for mutfruits, that's the way!",,Marching orders,
+Miscellaneous,Miscellaneous,Hello,,,"You helped us in our most desperate hour, and for that, I salute you, madam.",,Sincere gratitude,
+Miscellaneous,Miscellaneous,Hello,,,"You helped us in our most desperate hour, and for that, I salute you, sir.",,Sincere gratitude,
+Miscellaneous,Miscellaneous,Hello,,,Jolly good to see you!,,,
+Miscellaneous,Miscellaneous,Hello,,,"Lovely weather, wot?",,,
+Miscellaneous,Miscellaneous,Hello,,,By jove!,,,
+Miscellaneous,Miscellaneous,Hello,,,We could do with a spot of rain.,,,
+Miscellaneous,Miscellaneous,Hello,,,Well begun is half done!,,,
+Scene,SceneDialogue,Custom,,,"I say, Greene old chap, are you free?",Greene: Now it's time for short break and a word from our sponsors.,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,Greene: Now it's time for short break and a word from our sponsors.,I shall take that as a yes.,Brown: We're very nearly out of mutfruit seeds.,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,Greene: Now it's time for short break and a word from our sponsors.,"Uh... yes, well...",Brown: We're very nearly out of mutfruit seeds.,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,Greene: Now it's time for short break and a word from our sponsors.,Right...,Brown: We're very nearly out of mutfruit seeds.,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,Brown: I shall take that as a yes.,We're very nearly out of mutfruit seeds.,,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,,"Best if we set more of the fruit aside for extraction, wouldn't you say?","Greene: That's a big ""can do"", Brown! Don't you worry about a thing.",,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,Brown: I shall take that as a yes.,That last trader made mention of those scalawags at the salvage yard causing trouble for everyone nearby.,,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,,"Look sharp now, for they might make their way here.","Greene: That's a big ""can do"", Brown! Don't you worry about a thing.",,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,Brown: I shall take that as a yes.,White thinks she might have spied one of those abominable Yao-guai sniffing around the river's edge not far from here.,,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,,"Mind you keep an eye out. That's trouble we can do without, thank you very much.","Greene: That's a big ""can do"", Brown! Don't you worry about a thing.",,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,"Greene: That's a big ""can do"", Brown! Don't you worry about a thing.","Well, that's jolly good.",,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,"Greene: That's a big ""can do"", Brown! Don't you worry about a thing.","Quite right, quite right.",,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,"White: Brown, darling, I need you to pick something up for me the next time a trader visits.","Hm? Yes? What's that, then?",White: Drone Two's shear attachment is getting a little dull. We'll need to replace at least one of the blades.,,DialogueGraygardenWhiteBrownScene
+Scene,SceneDialogue,Custom,,White: Drone Two's shear attachment is getting a little dull. We'll need to replace at least one of the blades.,I should be able to acquire a knife easily enough. I'm sure we can re-purpose that.,"White: I'm sure you'll do your best, darling.",,DialogueGraygardenWhiteBrownScene
+Scene,SceneDialogue,Custom,,White: Drone Two's shear attachment is getting a little dull. We'll need to replace at least one of the blades.,"Hm... that could be difficult, but I shall do my best.","White: I'm sure you'll do your best, darling.",,DialogueGraygardenWhiteBrownScene
+Scene,SceneDialogue,Custom,,White: Drone Two's shear attachment is getting a little dull. We'll need to replace at least one of the blades.,"The last time I looked, wiring was cheap as chips. I'm sure it'll be no trouble.","White: I'm sure you'll do your best, darling.",,DialogueGraygardenWhiteBrownScene
+Scene,SceneDialogue,Custom,,,"I say, have you noticed unit seven-seven-J acting a bit strangely, White?","White: Really, darling, you must be a bit more specific than that.",,DialogueGraygardenBrownWhiteScene
+Scene,SceneDialogue,Custom,,"White: Really, darling, you must be a bit more specific than that.","Ah, yes, quite right.",,,DialogueGraygardenBrownWhiteScene
+Scene,SceneDialogue,Custom,,,"Well, it just seems to be a tad slow of late, as if it's not running on a full charge.",White: It's probably just a defect in the power unit. I'll have a look at it later.,,DialogueGraygardenBrownWhiteScene
+Scene,SceneDialogue,Custom,,White: It's probably just a defect in the power unit. I'll have a look at it later.,Jolly good. Just let me know if we need a new power unit and I'll see if can't make a trade for one.,,,DialogueGraygardenBrownWhiteScene
+Scene,SceneDialogue,Custom,,Greene: Hi there!,"Yes, Greene? What do you want?","Greene: Say, I was wondering if you could get your hands on some motor oil next time a trader comes through.",,DialogueGraygardenGreeneBrownScene
+Scene,SceneDialogue,Custom,,Greene: One of unit seven-seven-one's manipulator arms is getting just a little tight.,"Well, we can't have that.",,,DialogueGraygardenGreeneBrownScene
+Scene,SceneDialogue,Custom,,,"Rest assured, Greene, I shall secure the needed provisions as soon as I'm able.","Greene: Well that'd be just swell. Isn't he a great contestant, ladies and gentlemen?",,DialogueGraygardenGreeneBrownScene
+Scene,SceneDialogue,Custom,,"Greene: I'm afraid that's all the time we have for now. Thanks for watching, and come see us again soon!","Uh, yes.",,,DialogueGraygardenGreeneBrownScene

@@ -1,0 +1,58 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"HighRise: Fixer, right?","And my man, Deacon. Still with the same old face?",,Banter with a good friend / Friendly,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,,"What, it's been three whole months. You're getting slow.","HighRise: Word is the rookie cleared out the Switchboard, while you sat on the sidelines. Glad you joined the team, by the way.",Banter with a good friend / Amused,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,NPCMLowRoadFranklin: Don't shoot.,"Fixer, right?","HighRise: Word is the rookie cleared out the Switchboard, while you sat on the sidelines. Glad you joined the team, by the way.",Confirming identity,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,NPCMLowRoadFranklin: Don't shoot.,"Professor, right?","HighRise: Word is the rookie cleared out the Switchboard, while you sat on the sidelines. Glad you joined the team, by the way.",Confirming identity,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,NPCMLowRoadFranklin: Don't shoot.,"Charmer, right?","HighRise: Word is the rookie cleared out the Switchboard, while you sat on the sidelines. Glad you joined the team, by the way.",,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,NPCMLowRoadFranklin: Don't shoot.,"Whisper, right?","HighRise: Word is the rookie cleared out the Switchboard, while you sat on the sidelines. Glad you joined the team, by the way.",,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,NPCMLowRoadFranklin: Don't shoot.,"Bullseye, right?","HighRise: Word is the rookie cleared out the Switchboard, while you sat on the sidelines. Glad you joined the team, by the way.",,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,NPCMLowRoadFranklin: Don't shoot.,"Wanderer, right?","HighRise: Word is the rookie cleared out the Switchboard, while you sat on the sidelines. Glad you joined the team, by the way.",,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,"HighRise: What, it's been three whole months. You're getting slow.","Word is the rookie cleared out the Switchboard, while you sat on the sidelines. Glad you joined the team, by the way.",Player Default: It's nice to meet you.,Impressed / Amused,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,"HighRise: What, it's been three whole months. You're getting slow.","I heard about you. Walked the Freedom Trail, cleared out Switchboard. Glad you joined the team.",Player Default: It's nice to meet you.,Impressed / Impressed,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,Player Default: It's nice to meet you.,Honor's all mine. Let's take a look at our friend.,HighRise: Hey you. You OK?,Honored / Friendly,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,"Player Default: Moonlight's burning, we have to go.",I need a moment.,HighRise: Hey you. You OK?,Distracted,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,"Player Default: ""Do you have a geiger counter?""","Right, you are. ""Mine is in the shop."" All good?",,"Professional, ""Mine is in the shop"" is a secret code phrase.",RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,,"Now, let's take a look at our friend.",HighRise: Hey you. You OK?,Distracted,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,Player Default: You here to pick up a package?,"Yeah, I'm here for the package. Speaking of which.",HighRise: Hey you. You OK?,A little distracted,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,Player Default: Honor's all mine. Let's take a look at our friend.,Hey you. You OK?,H222: A little rattled. But I've never been better. The other man... He said I shouldn't talk too much.,"Said to H2, who is probably a little panicky - reassuring / Concerned",RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,H222: A little rattled. But I've never been better. The other man... He said I shouldn't talk too much.,"He told you right, H2. You'll need a real name, and a new face, but we'll get to that.",HighRise: There's more of them raiders behind me. Afraid we need a little more help.,"Reassuring, trying to be delicate and helpful / Friendly",RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,"HighRise: He told you right, H2. You'll need a real name, and a new face, but we'll get to that.",There's more of them raiders behind me. Afraid we need a little more help.,Player Default: More raiders. Not a problem.,"Turning to player, serious / Apologetic",RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,Player Default: More raiders. Not a problem.,You headquarter heavies mean business.,HighRise: We need to get to Ticonderoga Safehouse. My home.,Impressed,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,Player Default: You're supposed to take it from here.,Too much activity on the route and I ain't a heavy like you.,HighRise: We need to get to Ticonderoga Safehouse. My home.,Defensive / Apologetic,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,Player Default: What do you mean a new face?,We got to file off the serial numbers on new arrivals. Make it hard for the Institute to find them.,,Explaining with personality,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,,"Most synths go in for a brand new set of memories, as well. For that extra protection and all. But first we got to get him to safety.",HighRise: We need to get to Ticonderoga Safehouse. My home.,"Explaining with personality, then serious",RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,Player Default: You headquarter heavies mean business.,We need to get to Ticonderoga Safehouse. My home.,,"Laced with urgency, proud of his home",RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,,A lot of synths fresh off the boat crash there until we smuggle them out of the Commonwealth.,Player Default: Nice that you're willing to do that for us.,"Proud, compassionate to synths",RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, I'm working off sins from a misspent youth.",I'll lead the way.,,Decisive,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,Player Default: Nice that you're willing to do that for us.,"Yeah, I'm working off sins from a misspent youth.",HighRise: I'll lead the way.,Enjoying cultivating mystery / Amused,RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,Player Default: You do anything else there?,"Most of what we do is look after the new guys. They usually got a million questions, so I try and answer as best I can.",,"Proud, compassionate",RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,,"We got some of our own questions, too, about the Institute and what not.",,"A little cautious here, it's not exactly nice to pump synths for information (feels a little guilty)",RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,,Agents sometimes drop by to lay low if the bad guys are on their tail. Never a dull moment.,HighRise: I'll lead the way.,"Back to proud, chuckle at the end",RRM01_0450_Highrise
+Scene,SceneDialogue,Custom,,NPCMLowRoadFranklin: And we're here.,"All in a night's work for you agent types, huh?",Player Default: Just part of the service.,"Happy to be alive, thankful, impressed / Grateful",RRM01_0600_AtTicon
+Scene,SceneDialogue,Custom,,Player Default: Just part of the service.,I think I'm going to like you even more than Glory.,"HighRise: If you ever need grub, bullets, or just a power-nap take the elevator up to Ticon. My house is yours.","Laughing tone, impressed / Grateful",RRM01_0600_AtTicon
+Scene,SceneDialogue,Custom,,Player Default: I didn't sign up to babysit your ass.,"Sorry to impose. But, hey, it's all our jobs to look after synths, right?","HighRise: If you ever need grub, bullets, or just a power-nap take the elevator up to Ticon. My house is yours.","Trying to mollify the player, defensive / Apologetic",RRM01_0600_AtTicon
+Scene,SceneDialogue,Custom,,Player Default: I'm not here for chit chat.,To the point then.,"HighRise: If you ever need grub, bullets, or just a power-nap take the elevator up to Ticon. My house is yours.",Thankful,RRM01_0600_AtTicon
+Scene,SceneDialogue,Custom,,"Player Default: So, is this a normal operation?",More than I'd like. Sometimes I can sneak our friends through all by my lonesome.,,Proud of himself,RRM01_0600_AtTicon
+Scene,SceneDialogue,Custom,,,But other times it's like the damned raiders are holding a convention.,,"He's concerned about this, but sounding cool",RRM01_0600_AtTicon
+Scene,SceneDialogue,Custom,,,Working with you made it a whole lot easier.,"HighRise: If you ever need grub, bullets, or just a power-nap take the elevator up to Ticon. My house is yours.",Thankful,RRM01_0600_AtTicon
+Scene,SceneDialogue,Custom,,Player Default: I think I'm going to like you even more than Glory.,"If you ever need grub, bullets, or just a power-nap take the elevator up to Ticon. My house is yours.","HighRise: And, Deacon, try not to give the rookie too much shit.","Thankful, earnest offer / Grateful",RRM01_0600_AtTicon
+Scene,SceneDialogue,Custom,,"HighRise: If you ever need grub, bullets, or just a power-nap take the elevator up to Ticon. My house is yours.","And, Deacon, try not to give the rookie too much shit.",,Parting goodbye to a good friend / Amused,RRM01_0600_AtTicon
+Scene,SceneDialogue,Custom,,,"Deacon may be a terrible liar, but it always pays to have him on your side. Later.",,"Confiding to the player, friendly / Friendly",RRM01_0600_AtTicon
+Scene,SceneDialogue,Custom,,"HighRise: If you ever need grub, bullets, or just a power-nap take the elevator up to Ticon. My house is yours.","But right now, I need to take care of H2. Later.",,Thankful / Friendly,RRM01_0600_AtTicon
+Combat,Combat,Taunt,,,Protect H2.,,"Shouting to the player, concerned",
+Combat,Combat,Taunt,,,You've tangled with the wrong people.,,"Shouting, fierce",
+Combat,Combat,Taunt,,,"With my buddy here, we're going to make short work of you.",,"Fierce, shouting",
+Detection,Detection,NormalToCombat,,,"You want H2, you got to go through me first.",,"Angry, shouting, fierce",
+Detection,Detection,NormalToCombat,,,We ain't no easy pickings.,,"Fierce, shouting",
+Detection,Detection,NormalToCombat,,,"We're going to make Charlestown a safer place, one asshole at a time.",,"Fierce,  bravado",
+Detection,Detection,CombatToNormal,,,"When you're done looting up, I'll be up ahead.",,"Relieved, ""to business"" tone",
+Detection,Detection,CombatToNormal,,,"You safe, H2? We got to keep moving.",,"Catching breath, concerned for H2, urgency",
+Detection,Detection,CombatToNormal,,,I'm happy as hell HQ sent back up tonight.,,"Catching breath, relieved",
+Miscellaneous,Miscellaneous,Greeting,,,And we're here.,"HighRise: All in a night's work for you agent types, huh?",Happy,RRM01_0600_AtTicon
+Miscellaneous,Miscellaneous,Greeting,,,Don't shoot.,"HighRise: Fixer, right?",Cautious,RRM01_0450_Highrise
+Miscellaneous,Miscellaneous,Hello,,,Thanks again. The Commonwealth ain't safe at night.,,Appreciative,
+Miscellaneous,Miscellaneous,Hello,,,We can catch up at Ticon. We just got to make it there alive first.,,"Distracted, half muttering the last bit to himself (worried)",
+Miscellaneous,Miscellaneous,Hello,,,Hey.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Remember, my house is yours.",,"Friendly, appreciative",
+Miscellaneous,Miscellaneous,Hello,,,Take whatever you need here.,,Sincere thankful offer,
+Miscellaneous,Miscellaneous,Hello,,,I appreciate what you did for me and H2.,,Sincere,

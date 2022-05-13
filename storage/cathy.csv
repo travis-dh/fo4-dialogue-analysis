@@ -1,0 +1,42 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,John: You seriously going to take the opinion of some random stranger over your own son?,"If someone off the street can tell Geneva is one of those machine people, then so should you.","John: You JUST said no one could TELL the difference, Ma. Now will you leave my customers alone?",Stern,CathyGreetSceneTrailoff01
+Scene,SceneDialogue,Custom,,John: We're idiots? Just because we disagree with you?,"She's a synth, Johnny. Anyone with a brain in their head can figure that out.","John: You were JUST saying no one could TELL the difference, Ma. You wanna lay off?",you were arguing about whether the mayor's secretary was a synth / Irritated,CathyGreetSceneTrailoff02
+Scene,SceneDialogue,Custom,,"John: You JUST said no one could tell the difference, Ma. He don't know if Geneva's a synth, and neither do you, so could you lay off?","Don't you talk to your mother that way, Johnny.",,Stern,CathyGreetSceneTrailoff03
+Scene,SceneDialogue,Custom,,Player Default: She's a synth. Definitely.,Finally. Someone with some sense.,,Happy,CathyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: No. I don't think so.,*sigh* Everyone around me is a moron.,,Irritated,CathyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: No idea.,You don't know? What? Born without a brain between your ears?,,Stern,CathyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: What?,"You know what a synth is, right? Those machine people the Institute makes? Look and act just like the real thing?",,Puzzled,CathyGreetScene
+Scene,SceneDialogue,Custom,,,Only I think they made Geneva a little too perfect. No woman looks like she does. All... perky.,,"secretly jealous, bitter / Disgust",CathyGreetScene
+Scene,SceneDialogue,Custom,,,"So she's a synth, right? She has to be.",Player Default: She's a synth. Definitely.,,CathyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: What?,Oh my god. Really? What hole did they drag you out of? Southie?,,"shocked that the player doesn't know a very basic fact about the world. ""Southie"" refers to ""South Boston"" / Disbelief",CathyGreetScene
+Scene,SceneDialogue,Custom,,,The Institute are the ones who kidnap people. Replace them with synths? Not that McDonough would ever admit it. Paper's right about him.,,Disgust,CathyGreetScene
+Scene,SceneDialogue,Custom,,,Are you going to answer my question? Geneva. Is she a synth?,Player Default: She's a synth. Definitely.,,CathyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,You there. Talk some sense into my nitwit son. McDonough's secretary. Is she a synth?,Player Default: She's a synth. Definitely.,player walks into your salon as you're gossiping about the mayor's secretary,CathyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Well, do you think McDonough's secretary is a synth or not?",Player Default: She's a synth. Definitely.,,CathyGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,What are you? An idiot? Say something.,,player is just standing there not saying anything / Puzzled,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Not too quick, are you?",,player is just standing there not saying anything / Puzzled,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Forgotten how to speak?,,player is just standing there not saying anything / Puzzled,
+Miscellaneous,Miscellaneous,Hello,,,"I'm on break, dearie.",,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,You want a haircut? Talk to Johnny.,,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,You look terrible. Have my boy John straighten that mess on your head.,,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,Johnny can make you look a little less ridiculous.,,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,Can't a woman have some peace?,,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,You need a haircut? My boy John's right over there.,,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,"The Salon's closed, so don't bother me.",,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,Now where are my cigarettes?,,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,"What is it? I'm tired, dear.",,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,"Oh, go away. I'm busy.",,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,What? Can't get a moment to myself?,,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,What is it?,,"begin with a cough, general hellos to the player",
+Scene,SceneDialogue,Custom,,"John: The mayor's secretary? Come on, ma, I cut her hair myself, and I know human hair.","That's just it, Johnny. You wouldn't be able to tell the difference.",,scolding your son for not agreeing with you / Stern,SalonIntroScene
+Scene,SceneDialogue,Custom,,,"If you nicked McDonough with your razor, he'd bleed. Don't mean nothin'.",Ann: Mmmhmm.,"still talking about Synths, there's another rumor that McDonough is a Synth, and you know that Synth bleed just like real humans / Stern",SalonIntroScene
+Scene,SceneDialogue,Custom,,,"If anyone is... one of those things, it's that secretary of his. Her and her perfect hair.",Ann: Mmmhmm.,"at the hair salon, talking loudly about gossip while you work. you think the mayor's secretary is a Synth, a synthetic person / Suspicious",SalonIntroScene
+Scene,SceneDialogue,Custom,,"Darcy: Cathy, have you seen Paul around? He's... well, he's missing, and I'm getting worried about him.",You're worried? I thought that would be a wish come true for you.,Darcy: Why would you say that? I love Paul!,everyone knows Darcy was cheating on her husband Paul / Puzzled,ConvDiamondCityMS13PaulDiesDarcy03Scene
+Scene,SceneDialogue,Custom,,Darcy: Why would you say that? I love Paul!,At least you loved his money. When he had any.,Darcy: I don't have to stand here and listen to this.,"scolding, you think Darcy is an idiot / Stern",ConvDiamondCityMS13PaulDiesDarcy03Scene
+Scene,SceneDialogue,Custom,,"John: No Ma. You haven't. And for the record, me and Pa got on great.","Your father was a real hair stylist, John. He never resorted to the cheap tricks and shortcuts you always pull.","John: Maybe that was because he just wanted to paint, Ma!",upset that your son isn't measuring up to his father / Stern,ConvDiamondCityJohnCathy02Scene
+Scene,SceneDialogue,Custom,,,"John, have I told you today how much your father would be disappointed in you?","John: No Ma. You haven't. And for the record, me and Pa got on great.","upset with your son over some prior argument, you decide to push his buttons to get back at him / Stern",ConvDiamondCityJohnCathy02Scene
+Scene,SceneDialogue,Custom,,"John: Maybe he thought if he did everything perfect, you'd get off his back, and he'd have time to be himself.","And why is that so hard for you, huh? Is it so wrong that I want you to be the best?","John: I ain't havin' this conversation again, Ma. Just let me work, okay?",angry but also sad and upset that you never seem to get through to your son / Angry,ConvDiamondCityJohnCathy02Scene
+Scene,SceneDialogue,Custom,,John: Hey Ma. I was thinking of trying out a new look. Wanna be my guinea pig?,Not if it's going to be like the last mess you tried on me.,"John: The top bun? Ma, that was the most popular haircut in town for weeks! All the ladies in the Upper Stands wanted one.","you're always hard on your son, especially if he's trying something new / Stern",ConvDiamondCityJohnCathy01Scene
+Scene,SceneDialogue,Custom,,"John: The top bun? Ma, that was the most popular haircut in town for weeks! All the ladies in the Upper Stands wanted one.","And all of those were better than the half-assed job you did on me. You don't practice enough, Johnny. I keep telling you, but you don't listen.","John: Oh, I listen. All I friggin' do is listen...",Stern,ConvDiamondCityJohnCathy01Scene
+Miscellaneous,Miscellaneous,Greeting,,,He's going to shoot him. Just you watch.,,"a man has another man at gunpoint, you're in the crowd watching / Nervous",
+Miscellaneous,Miscellaneous,Greeting,,,Well that nonsense just ruined my whole day...,,"the police just shot a crazed gunman, you're closing your store / Nervous",

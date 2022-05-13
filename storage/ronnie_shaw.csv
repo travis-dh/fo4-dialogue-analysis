@@ -1,0 +1,284 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"NPCFRonnieShaw: Now that we have the armory back, you can resupply here whenever you run low on supplies.",Anything you need right now?,Player Default: Let me see what you've got.,Question,WorkshopVendorRonnieShawIntro
+Scene,SceneDialogue,Custom,,Player Default: Let me see what you've got.,"Sure thing, General.",,,WorkshopVendorRonnieShawScene
+Scene,SceneDialogue,Custom,,Player Default: Let me see what you've got.,Here's what we have on hand.,,,WorkshopVendorRonnieShawScene
+Scene,SceneDialogue,Custom,,Player Default: Let me see what you've got.,Take a look.,,,WorkshopVendorRonnieShawScene
+Scene,SceneDialogue,Custom,,Player Default: Not right now.,"What are you pestering me for, then?",,Irritated,WorkshopVendorRonnieShawScene
+Scene,SceneDialogue,Custom,,Player Default: Not right now.,"Ok, then.",,Neutral,WorkshopVendorRonnieShawScene
+Scene,SceneDialogue,Custom,,Player Default: Not right now.,Then I'll get back to my busy schedule.,,Sarcastic,WorkshopVendorRonnieShawScene
+Scene,SceneDialogue,Custom,,Player Default: Maybe. Let me take a look.,"The armory's always at your disposal, General.",,,WorkshopVendorRonnieShawScene
+Scene,SceneDialogue,Custom,,Player Default: Maybe. Let me take a look.,Help yourself.,,,WorkshopVendorRonnieShawScene
+Scene,SceneDialogue,Custom,,Player Default: Maybe. Let me take a look.,Must be something you need.,,,WorkshopVendorRonnieShawScene
+Scene,SceneDialogue,Custom,,"Player Default: The Castle armory is at your service, General. What do you need?",Nothing you need to worry about. We'll hold this place for the Minutemen as long as any of us are still breathing.,,Confident,WorkshopVendorRonnieShawScene
+Scene,SceneDialogue,Custom,,,"Now, did you need anything or not?",Player Default: Let me see what you've got.,Question,WorkshopVendorRonnieShawScene
+Miscellaneous,Miscellaneous,Greeting,,,"Now that we have the armory back, you can resupply here whenever you run low on supplies.",RonnieShaw: Anything you need right now?,Confident,WorkshopVendorRonnieShawIntro
+Miscellaneous,Miscellaneous,Greeting,,,"The Castle armory is at your service, General. What do you need?",Player Default: Let me see what you've got.,Question,WorkshopVendorRonnieShawScene
+Miscellaneous,Miscellaneous,Greeting,,,"Running low on supplies, General?",Player Default: Let me see what you've got.,Question,WorkshopVendorRonnieShawScene
+Miscellaneous,Miscellaneous,Greeting,,,Looking to resupply?,Player Default: Let me see what you've got.,Question,WorkshopVendorRonnieShawScene
+Miscellaneous,Miscellaneous,Hello,,,"I'll get these kids whipped into shape, don't worry.",,,
+Miscellaneous,Miscellaneous,Hello,,,"You do your job, I'll do mine.",,,
+Miscellaneous,Miscellaneous,Hello,,,"You need something, General?",,,
+Miscellaneous,Miscellaneous,Hello,,,Howdy.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Hey, General.",,,
+Topic,PlayerDialogue,Custom,,,"Now that you got that out of your system, can we get down to business?",,,
+Topic,PlayerDialogue,Custom,,,Now maybe we can talk.,,,
+Topic,PlayerDialogue,Custom,,,Now maybe we can have an adult conversation.,,,
+Topic,PlayerDialogue,Custom,,,Ready to talk to me now?,,,
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: The Minutemen are the good guys again. People are starting to realize that.,I've heard some good things. Wouldn't be here otherwise.,"RonnieShaw: Now that I'm here, I can see you really need my help.",Neutral,Min03RonnieIntroWhatSheWants
+Scene,SceneDialogue,Custom,,"Player Default: I don't need to answer to you, soldier.","You don't get a pass just because everybody calls you ""<p>General."" In the Minutemen, you've got to earn respect.</p>","RonnieShaw: But, I've heard some good things about what you've been doing. Wouldn't be here otherwise.",Disgust,Min03RonnieIntroWhatSheWants
+Scene,SceneDialogue,Custom,,Player Default: At least we're trying to help people. Can you say the same?,"Don't give me any attitude, sonny. I've been a Minuteman longer than you've been alive.","RonnieShaw: But, I've heard some good things about what you've been doing. Wouldn't be here otherwise.",Irritated,Min03RonnieIntroWhatSheWants
+Scene,SceneDialogue,Custom,,Player Default: At least we're trying to help people. Can you say the same?,"Don't give me any attitude, missy. I've been a Minuteman longer than you've been alive.","RonnieShaw: But, I've heard some good things about what you've been doing. Wouldn't be here otherwise.",Irritated,Min03RonnieIntroWhatSheWants
+Scene,SceneDialogue,Custom,,"RonnieShaw: But, I've heard some good things about what you've been doing. Wouldn't be here otherwise.","Now that I'm here, I can see you really need my help.",Player Default: We can always use more experienced soldiers.,"emphasis on ""really"" - you're kind of being insulting / Concerned",Min03RonnieIntroWhatSheWants
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: You don't get a pass just because everybody calls you ""General."" In the Minutemen, you've got to earn respect.","But, I've heard some good things about what you've been doing. Wouldn't be here otherwise.","RonnieShaw: Now that I'm here, I can see you really need my help.",Friendly,Min03RonnieIntroWhatSheWants
+Scene,SceneDialogue,Custom,,RonnieShaw: No point in getting all sentimental about something that happened 40 years ago.,"Come on, we're almost through.",,Confident,Min03GeneralCorpseScene
+Scene,SceneDialogue,Custom,,RonnieShaw: Let's see if this still opens from here.,There we go.,RonnieShaw: Told you I'd get us in here.,with satisfaction as you watch a huge blast door open / Relieved,Min03RonnieInsideArmoryDoorNEW
+Scene,SceneDialogue,Custom,,RonnieShaw: There we go.,Told you I'd get us in here.,,a bit smug / Defiant,Min03RonnieInsideArmoryDoorNEW
+Scene,SceneDialogue,Custom,,,Now let's see what kinds of goodies are left.,RonnieShaw: Excellent. The armory's still intact.,Confident,Min03RonnieInsideArmory02
+Scene,SceneDialogue,Custom,,,Sarge is still down here? I wouldn't want to be the unlucky one to have run upon him down here in the dark.,"RonnieShaw: Let's see, I used to know this password...",Surprised,Min03SecurityTerminalScene
+Scene,SceneDialogue,Custom,,,"Too bad Sarge went haywire. He's been guarding the Castle since... forever, far as I know.","RonnieShaw: Let's see, I used to know this password...",Concerned,Min03SecurityTerminalScene
+Scene,SceneDialogue,Custom,,"NPCFRonnieShaw: I'm probably the only one who still remembers this, but the Castle's armory was located in the west bastion.","All of our best equipment was stored in there. Weapons, ammo, schematics, you name it.","RonnieShaw: Come on, I'll show you.",,Min03RonnieIntroEnd
+Scene,SceneDialogue,Custom,,"RonnieShaw: All of our best equipment was stored in there. Weapons, ammo, schematics, you name it.","Come on, I'll show you.",,,Min03RonnieIntroEnd
+Scene,SceneDialogue,Custom,,,"So, how'd you all get that big sea beast cleared out of here anyway?","Player Default: We came in with a plan and everyone stuck to it. We've got some good people Ronnie, you'll see.",,Min03RonnieMirelurkQueenScene
+Scene,SceneDialogue,Custom,,"Player Default: We came in with a plan and everyone stuck to it. We've got some good people Ronnie, you'll see.","Well, you've made a better start than anybody else for a darn long time. I'll give you that.",RonnieShaw: Fine. You don't want to tell me? Whatever. I'll just have the story from someone else. Probably luck anyway.,Thinking,Min03RonnieMirelurkQueenScene
+Scene,SceneDialogue,Custom,,"Player Default: The queen? Please, that was nothing. I'm surprised no one cleared this place out sooner.","Hmph. Well I guess you've earned that much. But don't get cocky, General. There's still a lot of work to be done here.",RonnieShaw: Fine. You don't want to tell me? Whatever. I'll just have the story from someone else. Probably luck anyway.,Stern,Min03RonnieMirelurkQueenScene
+Scene,SceneDialogue,Custom,,"Player Default: The queen? Please, that was nothing. I'm surprised no one cleared this place out sooner.",Oh bull. It's been here so long it was probably half dead already. You just finished it off and took the credit.,RonnieShaw: Fine. You don't want to tell me? Whatever. I'll just have the story from someone else. Probably luck anyway.,Disgust,Min03RonnieMirelurkQueenScene
+Scene,SceneDialogue,Custom,,Player Default: That big mirelurk that kicked your asses? Turns out it helps if you try shooting it.,"Fine, I get it. You're tough. But if you think that's enough to unite the Commonwealth, you got another thing coming.",RonnieShaw: Fine. You don't want to tell me? Whatever. I'll just have the story from someone else. Probably luck anyway.,Irritated,Min03RonnieMirelurkQueenScene
+Scene,SceneDialogue,Custom,,Player Default: That big mirelurk that kicked your asses? Turns out it helps if you try shooting it.,"You'd better watch your mouth, kiddo. Good men and women died in that battle and you will respect their memory if I have to beat it into you.",RonnieShaw: Fine. You don't want to tell me? Whatever. I'll just have the story from someone else. Probably luck anyway.,Angry,Min03RonnieMirelurkQueenScene
+Scene,SceneDialogue,Custom,,"Player Default: It wasn't easy, but how did that thing get the better of you back then?","I wasn't here, but the survivors said it attacked out of the water in the middle of the night.",,Worried,Min03RonnieMirelurkQueenScene
+Scene,SceneDialogue,Custom,,,Smashed through the wall before anyone even saw it coming.,RonnieShaw: Fine. You don't want to tell me? Whatever. I'll just have the story from someone else. Probably luck anyway.,Somber,Min03RonnieMirelurkQueenScene
+Scene,SceneDialogue,Custom,,"Player Default: Well, you've made a better start than anybody else for a darn long time. I'll give you that.",Fine. You don't want to tell me? Whatever. I'll just have the story from someone else. Probably luck anyway.,,Irritated,Min03RonnieMirelurkQueenScene
+Scene,SceneDialogue,Custom,,,"All right General, if you can hear me, we're ready. Toss one of those smoke grenades into the target area and we'll start the test fire.",,,Min03RadioTestFireScene01
+Scene,SceneDialogue,Custom,,"RonnieShaw: I guess the uniform is yours now, if you want it. This old geezer doesn't need it any more.","Rest in peace, general. Your fight is done and the Minutemen live on.",RonnieShaw: No point in getting all sentimental about something that happened 40 years ago.,"quietly, uncharacteristically for you / Sad",Min03GeneralCorpseScene
+Scene,SceneDialogue,Custom,,RonnieShaw: He did manage to keep the armory secure. I'll give him that much.,"I guess the uniform is yours now, if you want it. This old geezer doesn't need it any more.","RonnieShaw: Rest in peace, general. Your fight is done and the Minutemen live on.","using ""old geezer"" to cover up your sadness over his death / Somber",Min03GeneralCorpseScene
+Scene,SceneDialogue,Custom,,,Let's get down there and see if there's still a way through.,RonnieShaw: Pretty dark down here. We'd better watch our step.,,Min03RonnieTunnelCleared
+Scene,SceneDialogue,Custom,,RonnieShaw: Let's get down there and see if there's still a way through.,Pretty dark down here. We'd better watch our step.,,,Min03RonnieTunnelCleared
+Scene,SceneDialogue,Custom,,RonnieShaw: Sarge is still down here? I wouldn't want to be the unlucky one to have run upon him down here in the dark.,"Let's see, I used to know this password...","RonnieShaw: ""<p>One if by land""... no, that's not it.</p>",Thinking,Min03SecurityTerminalScene
+Scene,SceneDialogue,Custom,,"RonnieShaw: ""<p>United we stand""...</p>","Yeah, that was it.",,Relieved,Min03SecurityTerminalScene
+Scene,SceneDialogue,Custom,,,Okay. Here we are.,,looking around at the old armory / Happy,Min03RonnieInsideArmory01
+Scene,SceneDialogue,Custom,,,Let's see if this still opens from here.,RonnieShaw: There we go.,Concerned,Min03RonnieInsideArmoryDoorNEW
+Scene,SceneDialogue,Custom,,RonnieShaw: Now let's see what kinds of goodies are left.,Excellent. The armory's still intact.,"RonnieShaw: Everything we need, just waiting for us.",Happy,Min03RonnieInsideArmory02
+Scene,SceneDialogue,Custom,,"RonnieShaw: Everything we need, just waiting for us.",And the cream of the crop. Schematics for building artillery.,"Player Default: I have to admit, Ronnie, having artillery would help out quite a bit.",Happy,Min03RonnieInsideArmory02
+Scene,SceneDialogue,Custom,,"RonnieShaw: Everything we need, just waiting for us.","You found the schematics for building artillery, right?","Player Default: I have to admit, Ronnie, having artillery would help out quite a bit.",Puzzled,Min03RonnieInsideArmory02
+Scene,SceneDialogue,Custom,,"Player Default: I have to admit, Ronnie, having artillery would help out quite a bit.",We used to rain down fire on deathclaws and super mutants alike. It was a glorious thing.,"RonnieShaw: Alright, let's get going. Don't forget to grab some smoke grenades, too.",Happy,Min03RonnieInsideArmory02
+Scene,SceneDialogue,Custom,,Player Default: All this for a pile of musty papers? You've got to be kidding.,You're smarter than that. Those musty old papers are going to help us take the Commonwealth back.,"RonnieShaw: Alright, let's get going. Don't forget to grab some smoke grenades, too.",Irritated,Min03RonnieInsideArmory02
+Scene,SceneDialogue,Custom,,"Player Default: Well, let's see if it was worth the effort.","General, when you see those shells raining down on our enemies... well, you'll know it was worth it.","RonnieShaw: Alright, let's get going. Don't forget to grab some smoke grenades, too.",Confident,Min03RonnieInsideArmory02
+Scene,SceneDialogue,Custom,,Player Default: Artillery?,Great big guns? Blow up our enemies from miles away? Any of this ringing a bell?,"RonnieShaw: Alright, let's get going. Don't forget to grab some smoke grenades, too.",Sarcastic,Min03RonnieInsideArmory02
+Scene,SceneDialogue,Custom,,"RonnieShaw: Let's see, I used to know this password...","""<p>One if by land""... no, that's not it.</p>","RonnieShaw: ""<p>One if by land""... no, that's not it.</p>",Puzzled,Min03SecurityTerminalScene
+Scene,SceneDialogue,Custom,,"RonnieShaw: Let's see, I used to know this password...","""<p>For the Commonwealth""... goldurnit. It's been a long time...</p>","RonnieShaw: ""<p>One if by land""... no, that's not it.</p>",Puzzled,Min03SecurityTerminalScene
+Scene,SceneDialogue,Custom,,"RonnieShaw: Let's see, I used to know this password...","""<p>United we stand""...</p>","RonnieShaw: Yeah, that was it.",Thinking,Min03SecurityTerminalScene
+Scene,SceneDialogue,Custom,,Player Default: We used to rain down fire on deathclaws and super mutants alike. It was a glorious thing.,"Alright, let's get going. Don't forget to grab some smoke grenades, too.",,Neutral,Min03RonnieInsideArmory02
+Scene,SceneDialogue,Custom,,Player Default: We used to rain down fire on deathclaws and super mutants alike. It was a glorious thing.,"Alright, grab that schematic and let's get going. Don't forget to grab some smoke grenades, too.",,Neutral,Min03RonnieInsideArmory02
+Miscellaneous,Miscellaneous,SharedInfo,,NPCFRonnieShaw: Looks like you've got everything we need.,"Gosh darn, it's good to see artillery here again.","RonnieShaw: So here's the thing about the big guns. They can't fire at anything too close, but their range is impressive.",,Min03RonnieBuildArtillery
+Scene,SceneDialogue,Custom,,NPCFRonnieShaw: Looks like you've got everything we need.,"As soon as you get some artillery built, we'll do a test fire to calibrate it.",,,Min03RonnieBuildArtillery
+Scene,SceneDialogue,Custom,,"NPCFRonnieShaw: Gosh darn, it's good to see artillery here again.","So here's the thing about the big guns. They can't fire at anything too close, but their range is impressive.",,,Min03RonnieExplainArtilleryScene
+Scene,SceneDialogue,Custom,,,That's what the smoke grenades are for.,,,Min03RonnieExplainArtilleryScene
+Scene,SceneDialogue,Custom,,,"Toss one of those at the bad guys. If we have artillery in range, we'll confirm over the radio and target our fire on your smoke.",,,Min03RonnieExplainArtilleryScene
+Scene,SceneDialogue,Custom,,,"But first, we better do a test fire. Make sure we're hitting what we're aiming at.",RonnieShaw: See that little building over there? We'll use that for our aiming point.,,Min03RonnieExplainArtilleryScene
+Scene,SceneDialogue,Custom,,"RonnieShaw: But first, we better do a test fire. Make sure we're hitting what we're aiming at.",See that little building over there? We'll use that for our aiming point.,,Question,Min03RonnieExplainArtilleryScene
+Scene,SceneDialogue,Custom,,,Keep your radio on and tuned to Radio Freedom so we can confirm we're ready.,,Neutral,Min03RonnieExplainArtilleryScene
+Scene,SceneDialogue,Custom,,,"Boy, gotta do everything myself here, huh?",,,Min03RonnieWalksToCourtyard
+Scene,SceneDialogue,Custom,,,I'll meet you in the courtyard.,,,Min03RonnieWalksToCourtyard
+Scene,SceneDialogue,Custom,,"RonnieShaw: Rest in peace, general. Your fight is done and the Minutemen live on.",No point in getting all sentimental about something that happened 40 years ago.,"RonnieShaw: Come on, we're almost through.","brusquely, pretending you weren't getting all sentimental / Irritated",Min03GeneralCorpseScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"Come on, General. You must have some way to clear this rubble.",RonnieShaw: That's done it.,Irritated,Min03RonnieWaitForTunnelClear
+Scene,SceneDialogue,Custom,,"RonnieShaw: Come on, General. You must have some way to clear this rubble.",That's done it.,,Happy,Min03RonnieWaitForTunnelClear
+Scene,SceneDialogue,Custom,,,"Ah, good. Give it here.",RonnieShaw: Let's place it nestled in here. That should blow the major debris out of the way without causing any major structural damage.,,Min03RonnieWallExplosionScene
+Scene,SceneDialogue,Custom,,"RonnieShaw: Ah, good. Give it here.",Let's place it nestled in here. That should blow the major debris out of the way without causing any major structural damage.,"RonnieShaw: All right, stand back.",,Min03RonnieWallExplosionScene
+Scene,SceneDialogue,Custom,,RonnieShaw: Let's place it nestled in here. That should blow the major debris out of the way without causing any major structural damage.,"All right, stand back.","RonnieShaw: Well, that seems to have done the trick. Though it looks like you got a window in your office now, General.",,Min03RonnieWallExplosionScene
+Scene,SceneDialogue,Custom,,"RonnieShaw: All right, stand back.","Well, that seems to have done the trick. Though it looks like you got a window in your office now, General.",,Light coughing from smoke after intentionally setting off an explosion,Min03RonnieWallExplosionScene
+Scene,SceneDialogue,Custom,,,Let's get down there and see if we can find a way to the armory.,,,Min03RonnieWallExplosionScene
+Scene,SceneDialogue,Custom,,,"That explains all the landmines. This is, well... was, General McGann.  He had your job back when I first joined up.",,Sad,Min03GeneralCorpseScene
+Scene,SceneDialogue,Custom,,,Must have gotten trapped down here when that sea beast attacked the Castle.,,Thinking,Min03GeneralCorpseScene
+Scene,SceneDialogue,Custom,,,He did manage to keep the armory secure. I'll give him that much.,"RonnieShaw: I guess the uniform is yours now, if you want it. This old geezer doesn't need it any more.",Somber,Min03GeneralCorpseScene
+Scene,SceneDialogue,Custom,,RonnieShaw: This was the General's quarters. Used to be a tunnel leading from here to the armory.,Hmm. Tunnel's blocked by this rubble. We'll have to find some way to clear it.,"RonnieShaw: Come on, General. You must have some way to clear this rubble.",Thinking,Min03RonnieArmoryScene02
+Scene,SceneDialogue,Custom,,RonnieShaw: This was the General's quarters. Used to be a tunnel leading from here to the armory.,Well lookie here. You've already cleared it. Good job.,RonnieShaw: Let's get down there and see if there's still a way through.,"grudging respect on the ""good job"" / Impressed",Min03RonnieArmoryScene02
+Scene,SceneDialogue,Custom,,NPCFRonnieShaw: This is the door to the armory.,Hmm. Good. Looks like it might still be intact. Door's still sealed... bastion hasn't collapsed.,RonnieShaw: Trick now is finding a way in.,,Min03RonnieArmoryScene01
+Scene,SceneDialogue,Custom,,RonnieShaw: Hmm. Good. Looks like it might still be intact. Door's still sealed... bastion hasn't collapsed.,Trick now is finding a way in.,Player Default: I hope you have an idea.,,Min03RonnieArmoryScene01
+Scene,SceneDialogue,Custom,,Player Default: I hope you have an idea.,Of course I do.,"RonnieShaw: If you can't go through, go around. Let's have a look at the northeast bastion.",,Min03RonnieArmoryScene01
+Scene,SceneDialogue,Custom,,Player Default: I don't see how we're getting through that door.,Don't give up so quick.,"RonnieShaw: If you can't go through, go around. Let's have a look at the northeast bastion.",,Min03RonnieArmoryScene01
+Scene,SceneDialogue,Custom,,Player Default: Easier said than done.,Don't worry. I've got an idea.,"RonnieShaw: If you can't go through, go around. Let's have a look at the northeast bastion.",,Min03RonnieArmoryScene01
+Scene,SceneDialogue,Custom,,Player Default: Do you know some way to open this door?,"No. And even if we could blast it open, we'd probably destroy what's inside while we're at it.","RonnieShaw: If you can't go through, go around. Let's have a look at the northeast bastion.",,Min03RonnieArmoryScene01
+Scene,SceneDialogue,Custom,,Player Default: Of course I do.,"If you can't go through, go around. Let's have a look at the northeast bastion.",,,Min03RonnieArmoryScene01
+Scene,SceneDialogue,Custom,,,This was the General's quarters. Used to be a tunnel leading from here to the armory.,RonnieShaw: Hmm. Tunnel's blocked by this rubble. We'll have to find some way to clear it.,,Min03RonnieArmoryScene02
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: We can always use more experienced soldiers.,"Yeah, you're not kidding. But I had something more specific in mind.","RonnieShaw: I'm probably the only one who still remembers this, but the Castle's armory was located in the west bastion.",Confident,Min03RonnieIntroWhatSheWants
+Scene,SceneDialogue,Custom,,Player Default: We were doing just fine without your help.,Really? I guess you know all about the Castle's old armory then.,Player Default: I'd like to hear about the armory.,Disbelief,Min03RonnieIntroWhatSheWants
+Scene,SceneDialogue,Custom,,Player Default: Are you offering to rejoin?,I guess I am. But first things first.,"RonnieShaw: I'm probably the only one who still remembers this, but the Castle's armory was located in the west bastion.",Friendly,Min03RonnieIntroWhatSheWants
+Miscellaneous,Miscellaneous,SharedInfo,,"RonnieShaw: Yeah, you're not kidding. But I had something more specific in mind.","I'm probably the only one who still remembers this, but the Castle's armory was located in the west bastion.",,Confident,Min03RonnieIntroWhatSheWants
+Scene,SceneDialogue,Custom,,Player Default: I'd like to hear about the armory.,"So polite now that I've got something you want, eh? Typical.",,Irritated,Min03RonnieIntroNegativeArmory
+Scene,SceneDialogue,Custom,,Player Default: You could have told me about that first thing.,You could have been less of a jerk first thing.,,Irritated,Min03RonnieIntroNegativeArmory
+Scene,SceneDialogue,Custom,,Player Default: You could have told me about that first thing.,I hauled my heinie all the way over here to do you a favor. Least you could do is listen politely.,,Irritated,Min03RonnieIntroNegativeArmory
+Scene,SceneDialogue,Custom,,Player Default: First I've heard of it.,I'm not surprised. It's been almost 50 years since this place was wiped out. I'm probably the last person alive who remembers how it was.,,Somber,Min03RonnieIntroNegativeArmory
+Scene,SceneDialogue,Custom,,,"The Castle's armory was located over there, in the west bastion.","RonnieShaw: All of our best equipment was stored in there. Weapons, ammo, schematics, you name it.",Neutral,Min03RonnieIntroNegativeArmory
+Scene,SceneDialogue,Custom,,Player Default: How would you know about an old armory?,"I used to be stationed here, that's how. For a few years, right after I joined up.",,Defiant,Min03RonnieIntroNegativeArmory
+Scene,SceneDialogue,Custom,,,Just dumb luck I was home on leave the day the lurks wiped this place out.,,Somber,Min03RonnieIntroNegativeArmory
+Scene,SceneDialogue,Custom,,Player Default: Glad to meet you. We could use some more veterans around here.,You're right about that. I feel like some of these you've got still may need their diapers changed.,,Sarcastic,Min03RonnieIntroWasMinuteman
+Scene,SceneDialogue,Custom,,Player Default: I don't like what you're implying.,"Easy there, cowboy. Joe Becker died years before you came along.","RonnieShaw: I'm talking about the gang of clowns that let the Minutemen fall apart. I didn't respect any of them, so I took a vacation.",Sarcastic,Min03RonnieIntroWasMinuteman
+Scene,SceneDialogue,Custom,,Player Default: I don't like what you're implying.,"Easy there, cowgirl. Joe Becker died years before you came along.","RonnieShaw: I'm talking about the gang of clowns that let the Minutemen fall apart. I didn't respect any of them, so I took a vacation.",Sarcastic,Min03RonnieIntroWasMinuteman
+Scene,SceneDialogue,Custom,,Player Default: You were a Minuteman?,What? You don't think an old broad like me can fight? I could kick your butt... punk.,Player Default: Easy. I just didn't know there were any other Minutemen out there.,Defiant,Min03RonnieIntroWasMinuteman
+Scene,SceneDialogue,Custom,,Player Default: You were a Minuteman?,What? You don't think an old broad like me can fight? I could kick your butt... princess.,Player Default: Easy. I just didn't know there were any other Minutemen out there.,Defiant,Min03RonnieIntroWasMinuteman
+Scene,SceneDialogue,Custom,,Player Default: Joe Becker? Who's that?,That's just sad. General Becker used to run the Minutemen. The last real leader we ever had.,,Disbelief,Min03RonnieIntroWasMinuteman
+Scene,SceneDialogue,Custom,,,"After he died, there wasn't anybody left with the guts and brains to pull things together.",,Disgust,Min03RonnieIntroWasMinuteman
+Scene,SceneDialogue,Custom,,Player Default: Easy. I just didn't know there were any other Minutemen out there.,"Yeah, I did take a pretty long vacation after Joe died. Not surprised you never heard of me.",,Somber,Min03RonnieIntroBrawl
+Scene,SceneDialogue,Custom,,Player Default: I'd like to see you try.,This is going to be fun.,,Amused,Min03RonnieIntroBrawl
+Scene,SceneDialogue,Custom,,Player Default: I don't have time for a dick-measuring contest. What do you actually want?,You kiss your mother with that mouth? At least you're finally ready to get down to business.,RonnieShaw: Heard you were trying to get the Minutemen back on their feet. Thought I'd come see the new General for myself.,Amused,Min03RonnieIntroBrawl
+Scene,SceneDialogue,Custom,,"Player Default: If you're a Minuteman, how come Preston never told me about you?","Garvey? Oh yeah, I heard of him. Took over Hollis's group after the Quincy Massacre. One of the good ones.",,Impressed,Min03RonnieIntroBrawl
+Scene,SceneDialogue,Custom,,,"Well, I've been gone a while. I guess even if he knew who I was, he figured I wasn't coming back. I never thought I would either.",,Somber,Min03RonnieIntroBrawl
+Scene,SceneDialogue,Custom,,"Player Default: Easy there, cowboy. Joe Becker died years before you came along.","I'm talking about the gang of clowns that let the Minutemen fall apart. I didn't respect any of them, so I took a vacation.",,Disgust,Min03RonnieIntroWasMinuteman
+Scene,SceneDialogue,Custom,,Player Default: I've been trying to.,Heard you were trying to get the Minutemen back on their feet. Thought I'd come see the new General for myself.,,Defiant,Min03RonnieIntroWhatSheWants
+Scene,SceneDialogue,Custom,,,So what's your story? What makes you think anybody even wants the Minutemen back?,Player Default: The Minutemen are the good guys again. People are starting to realize that.,Defiant,Min03RonnieIntroWhatSheWants
+Scene,SceneDialogue,Custom,,Player Default: Get to the point.,I've been trying to.,RonnieShaw: Heard you were trying to get the Minutemen back on their feet. Thought I'd come see the new General for myself.,Irritated,Min03RonnieIntroWhatSheWants
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Finally.,I'm Ronnie Shaw. Commonwealth Minutemen.,,you throw that out there waiting to see what kind of reaction you'll get / Defiant,Min03RonnieIntroNegativeA
+Miscellaneous,Miscellaneous,SharedInfo,,,As least I was. Back before Joe Becker got himself killed and the idiots took over.,Player Default: Glad to meet you. We could use some more veterans around here.,"feel free to pronounce that ""idjits"" :) / Disgust",Min03RonnieIntroNegativeA
+Scene,SceneDialogue,Custom,,"Player Default: You must be Ronnie Shaw, from the radio.",Who else would I be? Can't mistake me for one of these pups you've got running things around here.,,with a snort of amusement / Sarcastic,Min03RonnieIntroScene
+Scene,SceneDialogue,Custom,,,"Used to be with the Minutemen myself, back before Joe Becker got himself killed and the idiots took over.",Player Default: Glad to meet you. We could use some more veterans around here.,"feel free to pronounce that ""idjits"" :) / Disgust",Min03RonnieIntroScene
+Scene,SceneDialogue,Custom,,"Player Default: Lady, I really don't want to talk to you.","I don't much care what you want to do. But I want to talk to you, so you're going to listen.",Player Default: I'm listening.,Irritated,Min03RonnieIntroScene
+Scene,SceneDialogue,Custom,,Player Default: You forgot to make an appointment.,"Oh, a smartmouth, eh?",RonnieShaw: I'm Ronnie Shaw. Commonwealth Minutemen.,you like that / Amused,Min03RonnieIntroScene
+Scene,SceneDialogue,Custom,,Player Default: I'm listening.,Finally.,RonnieShaw: I'm Ronnie Shaw. Commonwealth Minutemen.,Irritated,Min03RonnieIntroNegativeA
+Scene,SceneDialogue,Custom,,Player Default: Actually I'm not.,Not a great first impression for someone trying to help your sorry butt.,RonnieShaw: I'm Ronnie Shaw. Commonwealth Minutemen.,Disgust,Min03RonnieIntroNegativeA
+Scene,SceneDialogue,Custom,,"Player Default: Get on with it, then.","Don't get testy with me, sonny. I was field-stripping laser muskets when you were still in diapers.","Player Default: I seriously doubt that. But please, get to the point.",Disgust,Min03RonnieIntroNegativeA
+Scene,SceneDialogue,Custom,,"Player Default: Get on with it, then.","Don't get testy with me, missy. I was field-stripping laser muskets when you still in diapers.","Player Default: I seriously doubt that. But please, get to the point.",Disgust,Min03RonnieIntroNegativeA
+Scene,SceneDialogue,Custom,,"Player Default: I seriously doubt that. But please, get to the point.",Something about you I don't get. Like... you're from somewhere else...,RonnieShaw: I'm Ronnie Shaw. Commonwealth Minutemen.,Puzzled,Min03RonnieIntroYoungsterReaction
+Scene,SceneDialogue,Custom,,"Player Default: Call me ""<p>missy"" again and you'll find out exactly how far I can shove my boot up your ass.</p>","Oh, so you do have a backbone.",,Impressed,Min03RonnieIntroYoungsterReaction
+Scene,SceneDialogue,Custom,,,Good. I wouldn't fight for anyone who lets me push them around.,RonnieShaw: I'm Ronnie Shaw. Commonwealth Minutemen.,Impressed,Min03RonnieIntroYoungsterReaction
+Scene,SceneDialogue,Custom,,Player Default: I get it. You're a hardass combat veteran. So am I. Can we move on?,"Sure thing, General.",RonnieShaw: I'm Ronnie Shaw. Commonwealth Minutemen.,"a hint of sarcasm in your use of ""General"" here / Sarcastic",Min03RonnieIntroYoungsterReaction
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Are you saying you were a Minuteman?,"Yeah, I was. Back before Joe Becker got himself killed and the idiots took over.",Player Default: Glad to meet you. We could use some more veterans around here.,Disgust,Min03RonnieIntroYoungsterReaction
+Scene,SceneDialogue,Custom,,"MinutemenRadioStation: Nothing serious, just... hey, you can't do that!","Listen up, ""<p>General"". Get your heinie over to the Castle pronto. This is Ronnie Shaw. You never heard of me but you'll want to talk to me.</p>",,,Min03RadioIntroScene
+Scene,SceneDialogue,Custom,,,"Alright, don't get your panties in a bunch, you can have your precious mic back.","MinutemenRadioStation: Uh... well, yeah. Sorry about that, folks.","a bit faint, as if you stepped away from the mike - speaking to the announcer whose mike you just took over",Min03RadioIntroScene
+Scene,SceneDialogue,Custom,,RonnieShaw: Excellent. The armory's still intact.,"Everything we need, just waiting for us.",RonnieShaw: And the cream of the crop. Schematics for building artillery.,Happy,Min03RonnieInsideArmory02
+Scene,SceneDialogue,Custom,,RonnieShaw: Excellent. The armory's still intact.,Looks like you've been having a field day in here.,RonnieShaw: And the cream of the crop. Schematics for building artillery.,Happy,Min03RonnieInsideArmory02
+Miscellaneous,Miscellaneous,SharedInfo,,,"I want to talk to whoever's in charge around here. Since nobody else would fess up to it, guess it must be you.",,Irritated,
+Miscellaneous,Miscellaneous,SharedInfo,,,I'm Ronnie Shaw. Guess you don't listen to your own darn radio station. What's the point of it if you don't listen to it?,,,
+Miscellaneous,Miscellaneous,Greeting,,,Well what are you waiting for? Get that artillery set up.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Looks like you've got everything we need.,"RonnieShaw: Gosh darn, it's good to see artillery here again.",,Min03RonnieBuildArtillery
+Miscellaneous,Miscellaneous,Greeting,,,"Not so fast, General. You need to get the artillery schematic and smoke grenades.",,,
+Miscellaneous,Miscellaneous,Greeting,,,This is the door to the armory.,RonnieShaw: Hmm. Good. Looks like it might still be intact. Door's still sealed... bastion hasn't collapsed.,,Min03RonnieArmoryScene01
+Miscellaneous,Miscellaneous,Greeting,,,We're not done yet.,Player Default: I'd still like to hear what you came to talk to me about.,Stern,Min03RonnieIntroWhatSheWants
+Miscellaneous,Miscellaneous,Greeting,,,Ready to talk to me?,"Player Default: You must be Ronnie Shaw, from the radio.",Irritated,Min03RonnieIntroScene
+Miscellaneous,Miscellaneous,Greeting,,,There you are. Finally. I've been waiting to talk to you.,"Player Default: You must be Ronnie Shaw, from the radio.",Irritated,Min03RonnieIntroScene
+Miscellaneous,Miscellaneous,Hello,,,Let me see if I can get that gate open.,,Concerned,
+Miscellaneous,Miscellaneous,Hello,,,"I'll back you up, General. My night vision ain't what it used to be.",,Concerned,
+Miscellaneous,Miscellaneous,Hello,,,I know there was a way through down here.,,Concerned,
+Miscellaneous,Miscellaneous,Hello,,,"I enjoyed that, General. Now we can really start taking the fight to our enemies.",,Happy,
+Miscellaneous,Miscellaneous,Hello,,,You put smoke on that target and we'll see if we can hit it.,,,
+Miscellaneous,Miscellaneous,Hello,,,We'll need a gunner assigned to the arty. It's not going to fire itself.,,,
+Miscellaneous,Miscellaneous,Hello,,,"If you're short of building supplies, there was some dismantled artillery in the armory that you could scrap for parts.",,Confident,
+Miscellaneous,Miscellaneous,Hello,,,"As soon as you get that artillery built, we'll see what it can do.",,Confident,
+Miscellaneous,Miscellaneous,Hello,,,"Unless you're some kind of artillery expert, you're going to need the schematics before you can build it.",,,
+Miscellaneous,Miscellaneous,Hello,,,You'll need the smoke grenades to show us what to shoot at.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,"Come on, General. Let's clear that rubble already.",,Irritated,
+Miscellaneous,Miscellaneous,Hello,,,I sure as heck hope you've got some way to clear this rubble.,,Irritated,
+Miscellaneous,Miscellaneous,Hello,,,Let's go see what's left.,,Confident,
+Miscellaneous,Miscellaneous,Hello,,,"What, didn't you believe me?",,smugly / Confident,
+Miscellaneous,Miscellaneous,Hello,,,Just hold your horses and follow me.,,Confident,
+Scene,SceneDialogue,Custom,,,You're no Minuteman.,"Opponent: I enjoyed that. Come on, get up. Maybe now we can talk.",,GenericBrawlScene
+Scene,SceneDialogue,Custom,,Opponent: You're no Minuteman.,"I enjoyed that. Come on, get up. Maybe now we can talk.",,,GenericBrawlScene
+Miscellaneous,Miscellaneous,Greeting,,,"You know how to throw a punch, I'll give you that.",,,GenericBrawlPlayerWinsScene
+Miscellaneous,Miscellaneous,Greeting,,,Come on. Let's see what you've got.,,,
+Scene,SceneDialogue,Custom,,,"Okay, we've got your smoke on the target. You might want to stand back. You know, just in case.","MinutemenRadioStation: That looked good from here. You've now got artillery support. Use it wisely, General.",,MinArtilleryRadioChatter
+Scene,SceneDialogue,Custom,,,That's not the target.,"MinutemenRadioStation: That looked good from here. You've now got artillery support. Use it wisely, General.",,MinArtilleryRadioChatter
+Scene,SceneDialogue,Custom,,,Put the smoke on the target.,"MinutemenRadioStation: That looked good from here. You've now got artillery support. Use it wisely, General.",,MinArtilleryRadioChatter
+Scene,SceneDialogue,Custom,,,We can't use the artillery until we calibrate it on the test target.,"MinutemenRadioStation: That looked good from here. You've now got artillery support. Use it wisely, General.",,MinArtilleryRadioChatter
+Scene,SceneDialogue,Custom,,"MinutemenRadioStation: Okay, we've got your smoke on the target. You might want to stand back. You know, just in case.","That looked good from here. You've now got artillery support. Use it wisely, General.",,,MinArtilleryRadioChatter
+Scene,SceneDialogue,Custom,,SentryBot: Comparing intruders to known Minutemen roster.,"Well I'll be. I would've never guessed the Sarge would still be down here. Don't worry, it's one of ours.",SentryBot: Error. File corruption detected.,,DN133_SentryBotScene
+Scene,SceneDialogue,Custom,,SentryBot: Initiating defensive protocols.,"Jiminy cricket, he's on the fritz! Look out!",,,DN133_SentryBotScene
+Scene,SceneDialogue,Custom,,,Ha! We broke them!,MinutemanBackupSpokesman: They won't be back anytime soon.,Defiant,MinDefendCastlePost
+Scene,SceneDialogue,Custom,,,"Listen up, kiddies. The Institute thought they could push us around, and we showed them different.",,Defiant,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,,"Next time, we're going to be taking the fight to them and we'll see how they like it.",RonnieShaw: We lost some good people today. You may wonder why you survived and your friend didn't.,Defiant,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,,"All right, people. That was a tough fight, but we came through it. You can be proud of yourselves for how you handled yourselves today.",RonnieShaw: We lost some good people today. You may wonder why you survived and your friend didn't.,Defiant,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,,"Listen up, people. The Brotherhood threw everything they had at us, and we kicked their heinies good. This was my proudest day as a Minuteman.",,Defiant,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,,"Today, the Brotherhood is finished as a threat to the Commonwealth. Their fancy airship is a smoldering wreck across the harbor.",,Defiant,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,,And they did us a favor by bringing all the rest of their vertibirds over here so we could blow them up.,,SinisterSmile,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,,"There may still be a few stragglers roaming around, but we'll kick their heinies too until they decide to leave the Commonwealth alone for good.",RonnieShaw: We lost some good people today. You may wonder why you survived and your friend didn't.,Confident,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,"RonnieShaw: Next time, we're going to be taking the fight to them and we'll see how they like it.",We lost some good people today. You may wonder why you survived and your friend didn't.,,Sad,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,,I'm afraid that's above my pay grade. All I can say is that it's up to us to make that sacrifice mean something.,RonnieShaw: But we don't have time to sit around moping about our losses or bragging about winning.,Stern,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,RonnieShaw: I'm afraid that's above my pay grade. All I can say is that it's up to us to make that sacrifice mean something.,But we don't have time to sit around moping about our losses or bragging about winning.,"RonnieShaw: We're the Minutemen, goldurnit, and that means we've always got to be ready for the next fight.",Defiant,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,RonnieShaw: I'm afraid that's above my pay grade. All I can say is that it's up to us to make that sacrifice mean something.,But we don't have time to sit around congratulating ourselves.,"RonnieShaw: We're the Minutemen, goldurnit, and that means we've always got to be ready for the next fight.",Defiant,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,RonnieShaw: But we don't have time to sit around moping about our losses or bragging about winning.,"We're the Minutemen, goldurnit, and that means we've always got to be ready for the next fight.",,Defiant,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,,"Let's get back to it, people.",,Confident,MinDefendCastlePostRonnieSpeech
+Scene,SceneDialogue,Custom,,"NPCFRonnieShaw: Glad you made it in time, General. I guess we're about to find out if these new Minutemen really have what it takes.",We've gotten reports of a large group of raiders in the area. I guess they think they can take us.,"RonnieShaw: We've called in volunteers, so we aren't short of people. We'll see how these greenhorns do in a real battle.",,MinDefendCastleRonnieIntro
+Scene,SceneDialogue,Custom,,"NPCFRonnieShaw: Glad you made it in time, General. I guess we're about to find out if these new Minutemen really have what it takes.","You know those tough-guy wanna-be's that call themselves ""<p>Gunners""? They've been scouting our defenses. Expect an attack any time now.</p>","RonnieShaw: We've called in volunteers, so we aren't short of people. We'll see how these greenhorns do in a real battle.",,MinDefendCastleRonnieIntro
+Scene,SceneDialogue,Custom,,"NPCFRonnieShaw: Glad you made it in time, General. I guess we're about to find out if these new Minutemen really have what it takes.",Our patrols have spotted a bunch of the green uglies in the area. Looks like they're working themselves up to attack us.,"RonnieShaw: We've called in volunteers, so we aren't short of people. We'll see how these greenhorns do in a real battle.",,MinDefendCastleRonnieIntro
+Scene,SceneDialogue,Custom,,"NPCFRonnieShaw: Glad you made it in time, General. I guess we're about to find out if these new Minutemen really have what it takes.",We've had a bunch of tin suits sniffing around. I guess the goldurned Brotherhood of Steel think they can take us out.,"RonnieShaw: We've called in volunteers, so we aren't short of people. We'll see how these greenhorns do in a real battle.",,MinDefendCastleRonnieIntro
+Scene,SceneDialogue,Custom,,"NPCFRonnieShaw: Glad you made it in time, General. I guess we're about to find out if these new Minutemen really have what it takes.",We've seen a lot of those Institute crow-things sniffing around. Looks like they're getting ready to try to take us out.,"RonnieShaw: We've called in volunteers, so we aren't short of people. We'll see how these greenhorns do in a real battle.",Disgust,MinDefendCastleRonnieIntro
+Scene,SceneDialogue,Custom,,"NPCFRonnieShaw: Glad you made it in time, General. I guess we're about to find out if these new Minutemen really have what it takes.",We've lost some scouts recently. Feels like trouble to me. Exactly what I would do before I tried to attack a place like this.,"RonnieShaw: We've called in volunteers, so we aren't short of people. We'll see how these greenhorns do in a real battle.",Worried,MinDefendCastleRonnieIntro
+Scene,SceneDialogue,Custom,,"RonnieShaw: We've called in volunteers, so we aren't short of people. We'll see how these greenhorns do in a real battle.",But our defenses could use some beefing up before it's too late.,,,MinDefendCastleRonnieIntro
+Scene,SceneDialogue,Custom,,"RonnieShaw: We've called in volunteers, so we aren't short of people. We'll see how these greenhorns do in a real battle.","I'm feeling pretty good about our defenses, but it sure wouldn't hurt for you to take a look around and shore up any weak points you see.",,,MinDefendCastleRonnieIntro
+Scene,SceneDialogue,Custom,,RonnieShaw: We've gotten reports of a large group of raiders in the area. I guess they think they can take us.,"We've called in volunteers, so we aren't short of people. We'll see how these greenhorns do in a real battle.",RonnieShaw: But our defenses could use some beefing up before it's too late.,,MinDefendCastleRonnieIntro
+Scene,SceneDialogue,Custom,,NPCFRonnieShaw: I guess the Institute will think twice before tangling with the Minutemen again.,I hear you're working on figuring out how to hit back at those rats. I hope you find a way and soon.,,Defiant,MinDefendCastleRonnieOutro
+Scene,SceneDialogue,Custom,,,"I'd like another crack at them, with the shoe on the other foot this time.",RonnieShaw: I think Preston wanted to talk to you. Maybe he has some good news.,Angry,MinDefendCastleRonnieOutro
+Scene,SceneDialogue,Custom,,NPCFRonnieShaw: I guess the Institute will think twice before tangling with the Minutemen again.,"What happened here today was the most decisive victory I've ever heard of, in the whole history of the Commonwealth.",,Defiant,MinDefendCastleRonnieOutro
+Scene,SceneDialogue,Custom,,,I don't think the Brotherhood will be coming back for a second try any time soon. They're finished as a threat.,RonnieShaw: I think Preston wanted to talk to you. Maybe he has some good news.,Confident,MinDefendCastleRonnieOutro
+Scene,SceneDialogue,Custom,,NPCFRonnieShaw: I guess the Institute will think twice before tangling with the Minutemen again.,"I've got it from here, General. I don't think anyone's going to be testing our mettle again anytime soon.",RonnieShaw: I think Preston wanted to talk to you. Maybe he has some good news.,Happy,MinDefendCastleRonnieOutro
+Scene,SceneDialogue,Custom,,"RonnieShaw: I'd like another crack at them, with the shoe on the other foot this time.",I think Preston wanted to talk to you. Maybe he has some good news.,,Question,MinDefendCastleRonnieOutro
+Miscellaneous,Miscellaneous,Hello,,,"We didn't do too bad, all things considered.",,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,We may be able to turn a few of these youngsters into decent Minutemen after all.,,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,You'd better build whatever defenses you think we need pronto.,,,
+Miscellaneous,Miscellaneous,Hello,,,"If it was me in charge, I might want some stronger defenses.",,,
+Miscellaneous,Miscellaneous,Hello,,,"Don't worry, General. We'll hold the Castle, no matter what.",,Confident,
+Miscellaneous,Miscellaneous,Hello,,,Nobody's going to kick my old butt out of this place. Just let them try.,,Confident,
+Miscellaneous,Miscellaneous,Greeting,,,I guess the Institute will think twice before tangling with the Minutemen again.,RonnieShaw: I hear you're working on figuring out how to hit back at those rats. I hope you find a way and soon.,Defiant,MinDefendCastleRonnieOutro
+Miscellaneous,Miscellaneous,Greeting,,,This morning the Brotherhood was sitting pretty with their airship and all their fancy vertibirds. Now that's all been blown to heck.,RonnieShaw: I hear you're working on figuring out how to hit back at those rats. I hope you find a way and soon.,Defiant,MinDefendCastleRonnieOutro
+Miscellaneous,Miscellaneous,Greeting,,,We sure showed them what happens when you mess with the Minutemen.,RonnieShaw: I hear you're working on figuring out how to hit back at those rats. I hope you find a way and soon.,Defiant,MinDefendCastleRonnieOutro
+Miscellaneous,Miscellaneous,Greeting,,,"Glad you made it in time, General. I guess we're about to find out if these new Minutemen really have what it takes.",RonnieShaw: We've gotten reports of a large group of raiders in the area. I guess they think they can take us.,,MinDefendCastleRonnieIntro
+Miscellaneous,Miscellaneous,Greeting,,,I'm glad you're here. It bucks up the troops to see their General taking charge.,RonnieShaw: We've gotten reports of a large group of raiders in the area. I guess they think they can take us.,,MinDefendCastleRonnieIntro
+Miscellaneous,Miscellaneous,Greeting,,,"Good to see you, General. You're just in time to see the brahmin chips go airborne.",RonnieShaw: We've gotten reports of a large group of raiders in the area. I guess they think they can take us.,,MinDefendCastleRonnieIntro
+Miscellaneous,Miscellaneous,Greeting,,,"We've got trouble, General.",RonnieShaw: We've gotten reports of a large group of raiders in the area. I guess they think they can take us.,,MinDefendCastleRonnieIntro
+Scene,SceneDialogue,Custom,,MinutemenRadioStation: Confirmed. The Prydwen is down... the Brotherhood threat to the Commonwealth is over.,Hold on. Let's see if they have any fight left in them.,RonnieShaw: Uh oh. I guess they aren't as dumb as all that.,Concerned,MinDestBoSFiring
+Scene,SceneDialogue,Custom,,RonnieShaw: Hold on. Let's see if they have any fight left in them.,Uh oh. I guess they aren't as dumb as all that.,PrestonGarvey: Holy shit. Here they come.,Concerned,MinDestBoSFiring
+Scene,SceneDialogue,Custom,,PrestonGarvey: Holy shit. Here they come.,Brotherhood vertibirds incoming! Take cover and get ready for the fight of your lives! Time to finish the job on these sons-of-biscuit-eaters.,MinutemenRadioStation: Alert. Alert. Brotherhood vertibirds converging on the Castle.,shouted to assembled soldiers / Defiant,MinDestBoSFiring
+Scene,SceneDialogue,Custom,,PrestonGarvey: Good lord above. Almost makes you feel sorry for those poor bastards.,They had it coming. Should've never tried to lord it over the Commonwealth. That never ends well.,MinutemenRadioStation: Confirmed. The Prydwen is down... the Brotherhood threat to the Commonwealth is over.,Stern,MinDestBoSFiring
+Miscellaneous,Miscellaneous,Hello,,,That's what payback looks like.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,"I gotta hand it to you, General. The old Minutemen could never have pulled off something like that.",,Friendly,
+Combat,Combat,Attack,,,Grrargh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Aggghh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Nyyarrggh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Rrarggh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Yearrgh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Hyargh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Bash,,,Hunh!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Gah!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Yah!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Rargh!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,BleedOut,,,*heavy breathing* *cough cough*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,BleedOut,,,Oof! *heavy breathing*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,BleedOut,,,Agh! *cough* *wheeze*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,Block,,,Gah!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Nargh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Unf!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Grrh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Nnh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Death,,,Agh.,,InPain,
+Combat,Combat,Hit,,,Gosh darn it!,,InPain,
+Combat,Combat,Hit,,,You're going to pay for that.,,Angry,
+Combat,Combat,Hit,,,Another scar to add to my collection.,,InPain,
+Combat,Combat,Hit,,,Argh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Weergh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Yeagh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Nargh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Oof!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Agh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,PowerAttack,,,Aaaayyyaarrrrgghh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,PowerAttack,,,Yyyaaaarrgghh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,PowerAttack,,,Rrrraaaaarrggghhhh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,Taunt,,,We're done being pushed around by the Institute.,,Confident,
+Combat,Combat,Taunt,,,"That's the best you can do, with all your fancy computer chips and whatnot?",,Sarcastic,
+Combat,Combat,Taunt,,,It's going to take more than this to shut me up.,,Defiant,
+Combat,Combat,Taunt,,,Let's get this over with.,,Irritated,
+Combat,Combat,Taunt,,,"Pretty sad, if this is the Institute's best effort.",,Defiant,
+Combat,Combat,Taunt,,,Come on. Let's see what you've got.,,Confident,
+Combat,Combat,Taunt,,,"What, did you think I was just gonna run?",,Defiant,
+Combat,Combat,Taunt,,,I've been putting down scum like you since before your mama was born.,,Irritated,
+Combat,Combat,Taunt,,,Just hold still a second. No point in dragging this out.,,Irritated,
+Combat,Combat,Taunt,,,Bet you thought an old broad like me couldn't fight.,,Defiant,
+Combat,Combat,Taunt,,,They get bigger and uglier every year.,,Disgust,
+Combat,Combat,Taunt,,,"You shouldn't have messed with me, you big ugly mug.",,Defiant,
+Combat,Combat,Taunt,,,I can't decide which is worse - your face or your stink.,,Disgust,
+Detection,Detection,CombatToNormal,,,"Well, that's done.",,Defiant,
+Detection,Detection,CombatToNormal,,,I think that's it.,,Confident,
+Detection,Detection,CombatToNormal,,,You should've known better than to mess with me.,,Defiant,
+Detection,Detection,CombatToNormal,,,It's over.,,Defiant,
+Detection,Detection,CombatToNormal,,,Another day in the Minutemen.,,Confident,
+Detection,Detection,NormalToCombat,,,Look alive. Here they come.,,Confident,
+Detection,Detection,NormalToCombat,,,We've got company.,,Confident,
+Detection,Detection,NormalToCombat,,,No wasted shots.,,Defiant,
+Detection,Detection,NormalToCombat,,,Let's get this over with.,,Irritated,
+Detection,Detection,NormalToCombat,,,Let's show the Institute what the Minutemen are made of.,,Defiant,

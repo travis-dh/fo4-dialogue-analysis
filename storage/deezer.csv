@@ -1,0 +1,39 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+,,,,myActor: Oi! Tin can. What do ya have on tap?,"Why, nothing but the most refreshing, delicious lemonade you've ever tasted!",myActor: Lemonade? Does it have whisky in it or somethin'?,,AO_Companion_Bar_Deezer
+,,,,myActor: Oi! Tin can. What do ya have on tap?,"And a good day to you too, sir! Can I interest you in a refreshing glass of Deezer's Lemonade?",myActor: Lemonade? Does it have whisky in it or somethin'?,Happy - still proudly/excitedly offering his lemonade. / Happy,AO_Companion_Bar_Deezer
+,,,,myActor: Oi! Tin can. What do ya have on tap?,Don't be the last person on the block to try fabulous Deezer's Lemonade.,myActor: Lemonade? Does it have whisky in it or somethin'?,,AO_Companion_Bar_Deezer
+,,,,myActor: Oi! Tin can. What do ya have on tap?,"The name is Deezer, and my intention is to provide you with the ultimate refreshment experience, Deezer's Lemonade!",myActor: Lemonade? Does it have whisky in it or somethin'?,,AO_Companion_Bar_Deezer
+,,,,myActor: Oi! Tin can. What do ya have on tap?,"Psst. Hey, mister. Do you want a cold delicious... lemonade?",myActor: Lemonade? Does it have whisky in it or somethin'?,,AO_Companion_Bar_Deezer
+,,,,myActor: Oi! Tin can. What do ya have on tap?,Deezer's lemonade has fewer rads and more flavor!,myActor: Lemonade? Does it have whisky in it or somethin'?,,AO_Companion_Bar_Deezer
+,,,,myActor: Oi! Tin can. What do ya have on tap?,"Why, Deezer's Lemonade of course! It's the most thirst-quenching drink in the Commonwealth!",myActor: Lemonade? Does it have whisky in it or somethin'?,,AO_Companion_Bar_Deezer
+,,,,myActor: Oi! Tin can. What do ya have on tap?,"No way! I'm selling Deezer's lemonade. Best lemonade in Covenant, three years running!",myActor: Lemonade? Does it have whisky in it or somethin'?,,AO_Companion_Bar_Deezer
+,,,,myActor: Oi! Tin can. What do ya have on tap?,"Yes, indeed! Known far and wide as the best lemonade in Covenant!",myActor: Lemonade? Does it have whisky in it or somethin'?,,AO_Companion_Bar_Deezer
+,,,,myActor: Oi! Tin can. What do ya have on tap?,Do you like lemonade my dear green goliath? It's the freshest of Deezer's latest batch.,myActor: Lemonade? Does it have whisky in it or somethin'?,,AO_Companion_Bar_Deezer
+,,,,myActor: Oi! Tin can. What do ya have on tap?,Business is booming for the most popular lemonade in Covenant.,myActor: Lemonade? Does it have whisky in it or somethin'?,,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,There are no alcoholic additives or artifical preservatives of any kind! Only good old-fashioned cold refreshment!,"myActor: Yuck. You know what, I think I'll pass.",,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,No discrimination here. Everyone benefits from Deezer's Lemonade.,,Happy and excited - Advertising his owns Lemonade. / Happy,AO_Companion_Bar_Deezer
+,,,,,Get yours today while supplies last.,"myActor: Yuck. You know what, I think I'll pass.",Happy and excited - Advertising his own lemonade. / Happy,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,"The secret recipe is a tightly guarded secret. But here, try a complimentary beverage.","myActor: Yuck. You know what, I think I'll pass.",,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,"Pardon me, sergeant/airman/petty officer/insert rank here... but you're mistaken. I'm simply here to quench your thirst!","myActor: Yuck. You know what, I think I'll pass.",Robot is trying to use pre-war knowledge to identify Danse's rank and failing,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,"You're really missing out. Enjoy a longer, healthier life with: Deezer's Lemonade.","myActor: Yuck. You know what, I think I'll pass.",,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,Your feedback is important to us. Please lodge any complaints with our customer service department. Me!,"myActor: Yuck. You know what, I think I'll pass.",,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,"And... I certainly hope you'll have a glass. It's amazingly refreshing, sir!","myActor: Yuck. You know what, I think I'll pass.",,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,Our secret recipe makes every glass of Deezer's a refreshment to remember.,"myActor: Yuck. You know what, I think I'll pass.",,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,Excellent! Enjoy!,"myActor: Yuck. You know what, I think I'll pass.",,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,Hmm. A cultural barrier I see.,,,AO_Companion_Bar_Deezer
+,,,,,Just trust me. It's a marvelous elixir made with Deezer's own secret ingredients.,"myActor: Yuck. You know what, I think I'll pass.",,AO_Companion_Bar_Deezer
+,,,,myActor: Lemonade? Does it have whisky in it or somethin'?,Any recent illnesses cannot be directly attributed to Deezer's lemonade.,"myActor: Yuck. You know what, I think I'll pass.",,AO_Companion_Bar_Deezer
+,,,,Player Default: I'll take some.,Enjoy.,,Too cheery,DialogueCovenant_Deezer
+,,,,Player Default: I'll take some.,Limit one per customer per day.,,Too cheery,DialogueCovenant_Deezer
+,,,,Player Default: I'll pass.,You don't know what you're missing.,,Too cheery,DialogueCovenant_Deezer
+,,,,Player Default: What's the catch?,"No tricks, no gimmicks. Just the best lemonade in Covenant. Free to our special guests.",Player Default: I'll take some.,Too cheery commercial-like,DialogueCovenant_Deezer
+,,,,Player Default: I'm looking into a lost caravan. Can you help?,"You know what would be great for a lost caravan? Deezer's lemonade. Voted ""Best Beverage in Covenant"" three years straight.",Player Default: I'll take some.,"Too cheery commercial. Programming deflects any inquiry into his commercial. Maybe even have ""Lost Caravan"" said in flatter voice.",DialogueCovenant_Deezer
+,,,,Player Default: I'm looking into a lost caravan. Can you help?,"Deezer's lemonade is made of goodness. Four special ingredients from sunny, non-irradiated environments all in one cold glass.",,Too cheery commercial-like,DialogueCovenant_Deezer
+,,,,,Try it and enjoy. Or take advantage of the money back guarantee.,Player Default: I'll take some.,"Too cheery commercial-like - maybe a hint on ominous-ness on ""Try it"". Am I drinking soilent green, thinks the player?",DialogueCovenant_Deezer
+,,,,,That's stealing!,,Angry,
+,,,,,Would you like some free lemonade?,Player Default: I'll take some.,Too cheery,DialogueCovenant_Deezer
+,,,,,"Less rads, less mutfruit. Same great taste. Try Deezer's lemonade.",Player Default: I'll take some.,Too cheery commercial,DialogueCovenant_Deezer
+,,,,,93% of all visitors prefer Deezer's lemonade.,Player Default: I'll take some.,Too cheery commercial,DialogueCovenant_Deezer
+,,,,,Fresh lemonade here.,Player Default: I'll take some.,"Called out like a town crier, cheery",DialogueCovenant_Deezer
+,,,,,"After a long day, nothing beats Deezer's lemonade.",,,
+,,,,,Get your lemonade here.,,,

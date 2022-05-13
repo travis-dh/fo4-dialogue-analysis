@@ -1,0 +1,29 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Player Default: Well, I do need some help.",I knew it. Let's see... I have a few caps to spare.,,treating the player like a beggar / Amused,AnnGreetScene
+Scene,SceneDialogue,Custom,,,Here. Take it and make yourself scarce.,Player Default: Fine. I'll leave.,treating the player like a beggar / Disgust,AnnGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: I don't beg, you stuck-up old bat.",Fine. Go ahead and pretend you're someone important.,,Irritated,AnnGreetScene
+Scene,SceneDialogue,Custom,,,I'm getting bored. Why don't you make yourself scarce?,Player Default: Fine. I'll leave.,Irritated,AnnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Wow. There are no words.,I don't care for your tone. Why don't you run along before I make a complaint with Security?,Player Default: Fine. I'll leave.,Stern,AnnGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: The ""poor and stupid""?","Oh, don't act like you don't know. There's two types of people in this town. The ones living in the stands, and everyone beneath us.",,Amused,AnnGreetScene
+Scene,SceneDialogue,Custom,,,"I know everyone in the stands, and that doesn't include you.",,Stern,AnnGreetScene
+Scene,SceneDialogue,Custom,,,Now why don't you make yourself scarce?,Player Default: Fine. I'll leave.,Disgust,AnnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Fine. I'll leave.,Good to see you know your place.,,Amused,AnnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Bitch.,What did you say?,,"you're hard of hearing, and the player was muttering under their breathe / Puzzled",AnnGreetScene
+Scene,SceneDialogue,Custom,,,"Oh, whatever. I'm done talking to you.",,Irritated,AnnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: And miss basking in your delightful personality?,"Do what you like, but I'm done talking to you.",,not finding the player's jokes to be very funny / Disgust,AnnGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Who are you, anyway?","Ann Codman, of the Codman family? Of the Upper Stands? If you haven't heard of us, that just shows how unimportant you are.",,Confident,AnnGreetScene
+Scene,SceneDialogue,Custom,,,"Now were you leaving, or not?",Player Default: Fine. I'll leave.,Stern,AnnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Well, hello there. Another one of the poor and stupid of Diamond City come begging for table scraps?","Player Default: Well, I do need some help.","meeting the player for the first time, you think he's another vagrant who is beneath you / Disgust",AnnGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,You're wasting my time.,,yawning,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,I'm getting bored.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Say something already...,,,
+Miscellaneous,Miscellaneous,Hello,,,You're bothering me again?,,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,You're in my way.,,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,"Go away, now. Shoo.",,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,"I'm a Codman, not some street rat. Leave me alone.",,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,"What do you want? No, wait. I don't care.",,general hellos to the player,
+Miscellaneous,Miscellaneous,Hello,,,What?,,"begin with a sigh, general hellos to the player / Irritated",
+Miscellaneous,Miscellaneous,Hello,,,You again?,,"begin with a sigh, general hellos to the player / Irritated",
+Miscellaneous,Miscellaneous,Hello,,,You're still here?,,general hellos to the player / Irritated,
+Scene,SceneDialogue,Custom,,"Cathy: If anyone is... one of those things, it's that secretary of his. Her and her perfect hair.",Mmmhmm.,"John: The mayor's secretary? Come on, ma, I cut her hair myself, and I know human hair.","at the hair salon, getting your hair done. you're mumbling in agreement to the conversation your stylist is having with the other stylist",SalonIntroScene
+Scene,SceneDialogue,Custom,,"Cathy: If you nicked McDonough with your razor, he'd bleed. Don't mean nothin'.",Mmmhmm.,,a final mumble of agreement to the conversation your stylist is having with the other stylist,SalonIntroScene

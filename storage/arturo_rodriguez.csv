@@ -1,0 +1,85 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Everything hand-tooled...,,showing your wares,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Self defense at its best.,,showing your wares,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Don't forget to stock up on ammo.,,showing your wares,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Something for everyone.,,showing your wares,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Feel free to test the grips.,,showing your wares,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,All right.,,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Another time then.,,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Well, we're always here.",,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Sure. No pressure.,,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Feel free to come back anytime.,,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Take your time.,,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Sure. Let me know.,,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,No problem.,,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,I'll be here if you need me.,,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Hey, no rush.",,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Thanks, Arturo.","Yeah, well, good luck. Hope you find your kid.",,Concerned,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,"Player Default: People don't like me going there, that's their problem.","It was just a friendly warning. Some of us live here, okay?",,Irritated,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,,"Anyway, good luck finding your kid.",,,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: Oh no. Gossip. My only weakness.,"Yeah, well, some of us live here, all right?",,slightly annoyed / Irritated,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,,"Anyway, good luck finding your kid.",,,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: Why don't people like the detective agency?,"Look, if you ask me, Valentine is a good guy. Saved a lot of lives. But other people think he's just going to bring the Institute's attention.","Player Default: Thanks, Arturo.",Nervous,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,,"Ah. Look. I want to take care of my customers, but with all that talk about the Institute in the papers...",,"player asks about finding a missing child, you're suddenly very nervous, afraid the Institute is listening in / Nervous",ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,,"I just can't get involved in someone else's problems, okay?","Player Default: Arturo, right? I'm just asking for information. That's all.",Nervous,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,"Player Default: Arturo, right? I'm just asking for information. That's all.",*sigh* Okay... There's someone who might be able to help.,ArturoAlias: The alley behind the market. There's a detective agency. Valentine's. You'll see the signs.,"persuaded to help, feel guilty about not helping before / Nervous",ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: Fine. I'll ask somewhere else.,Sorry again.,ArturoAlias: The alley behind the market. There's a detective agency. Valentine's. You'll see the signs.,still a bit nervous / Nervous,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: What if I made it worth your while?,"Nah, look, put the money away. I'll... I'll help you.",ArturoAlias: The alley behind the market. There's a detective agency. Valentine's. You'll see the signs.,"feeling guilty about not helping, changing your mind, but still nervous talking about it / Depressed",ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: What's this Institute everyone keeps talking about?,You don't know? They make the synths. Those machines that look like people?,,Nervous,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,,They say if you're not careful you'll get... replaced. By a synth double. Or maybe they'll just send someone you thought was human to kill you.,,Nervous,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,,"So, you understand? I can't just stick my foot into other people's business. Sorry, but what if the Institute is involved?","Player Default: Arturo, right? I'm just asking for information. That's all.",Nervous,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: What's this Institute everyone keeps talking about?,"I said, they're machines that look like humans. Some of them you can't even tell the difference.",,Nervous,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,,"And if that wasn't bad enough, the ones that do look like robots just go around killing whole towns off. Collecting what's left for God knows what.",,Nervous,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,,I hear University Point got hit a while back. Nothing there but the synths now.,"Player Default: Arturo, right? I'm just asking for information. That's all.",Nervous,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: *sigh* Okay... There's someone who might be able to help.,The alley behind the market. There's a detective agency. Valentine's. You'll see the signs.,,,ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,,"But don't tell anyone you're going there, okay? Folks don't like that place. Surprised it's even still open.","Player Default: Thanks, Arturo.","people don't like to talk about the detective agency, it's a business no one admits going to / Nervous",ArturoMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: The new guy?,Word kind of travels fast in Diamond City. What can I say?,,"friendly, chuckling / Apologetic",ArturoGreetScene
+Scene,SceneDialogue,Custom,,,"Name's Arturo Rodriguez. If you need protection, let's talk.",Player Default: Let's see what you've got.,friendly,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Yeah. I'm the new guy.,"Well, it's good to have you here. Name's Arturo Rodriguez. If you need protection, let's talk.",Player Default: Let's see what you've got.,friendly,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Got me mistaken for someone else.,"Mistaken, huh? Okay. Whatever. Well, my name's Arturo, and I sell protection if you're here to buy.",Player Default: Let's see what you've got.,Puzzled,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Depends on who's asking.,"Name's Arturo. I sell protection, if you're looking to buy.",Player Default: Let's see what you've got.,friendly,ArturoGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Can I pay with my charge card?,"You're kidding, right? Caps only, friend.",Player Default: Let's see what you've got.,"player is trying to pay with a ""charge card"" - it looks like a worthless piece of plastic",ArturoGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: So you know weapons, huh?","Listen, I can sell you guns, swords, whatever. And they'll keep you alive for sure. But the real secret is in the mods. The little personal touches.",,"passionate, knowledgeable",ArturoGreetScene
+Scene,SceneDialogue,Custom,,,"Install a scope, expand the clip size, whatever. You spend time with your gear, and you'll have the right answer to every problem.",,,ArturoGreetScene
+Scene,SceneDialogue,Custom,,,"Anyway, let's get back to you, and what kind of protection you need.",Player Default: Let's see what you've got.,,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey. You're the new guy, right?",Player Default: Yeah. I'm the new guy.,friendly,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"New guy, am I right?",Player Default: Yeah. I'm the new guy.,friendly,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"It's the new guy. That's you, right?",Player Default: Yeah. I'm the new guy.,friendly,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You're that new girl, right?",Player Default: Yeah. I'm the new guy.,friendly,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, you're the new girl, right?",Player Default: Yeah. I'm the new guy.,friendly,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, it's the new girl. Am I right?",Player Default: Yeah. I'm the new guy.,friendly,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, why don't we get back to talking weapons?",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Anyway, let's talk you and protection.",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Now, let's get back to talking shop.",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You know, I sold McDonough that gun he had. If I had known what he was... *sigh*...",Player Default: Let's see what you've got.,Mayor McDonough revealed to be a Synth and is dead or gone / Depressed,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Got some great stuff if you're interested.,Player Default: Let's see what you've got.,,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"We can talk guns, or maybe you wanna consider something more up close and personal?",Player Default: Let's see what you've got.,,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"If you're looking to keep your load light, we can shoot the breeze about the old-fashioned pistol, or anything else you need.",Player Default: Let's see what you've got.,,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Everything I got will keep you safe.,Player Default: Let's see what you've got.,,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You know, a shotgun's great insurance against Raiders, but I got a lot of options here.",Player Default: Let's see what you've got.,,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"If you're thinking safety, a long-range rifle let's you stay in cover and out of sight. But you might want a secondary weapon, for flexibility.",Player Default: Let's see what you've got.,,ArturoGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,You need protection. Everyone does.,Player Default: Let's see what you've got.,,ArturoGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,You all right?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Hello?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Uh... I'm waiting...,,"friendly, but a bit confused",
+Miscellaneous,Miscellaneous,Idle,,,Protection for sale! Hand-tooled pieces!,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Don't walk outside the Wall undefended! High quality protection for sale.,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,"Need some custom hardware? We got a free workbench for all your modifications. Scopes, clip sizes, barrels.",,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,"We got small arms, long arms, ammunition!",,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Don't be caught dead! Protection from Commonwealth Weaponry.,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Hello,,,Hey there. You should stop by my stall in the morning. Commonwealth Weaponry.,,store is closed and you're relaxing around town,
+Miscellaneous,Miscellaneous,Hello,,,"I've been dealing guns all my life. So did my dad. One day, my daughter's gonna pick up the mantle.",,store is closed and you're relaxing around town,
+Miscellaneous,Miscellaneous,Hello,,,"You have kids? My daughter's shy, but oh lord, she goes through books like mad.",,store is closed and you're relaxing around town,
+Miscellaneous,Miscellaneous,Hello,,,You take care.,,,
+Scene,SceneDialogue,Custom,,"GenericNPC: Got any recommendations, Arturo?",It all depends on where and what you need to protect.,,,ConvDiamondCityGenericArturo01Scene
+Scene,SceneDialogue,Custom,,,"Take the home, for example. A shotgun's great for its intimidation factor. Robbers might run off without you even needing to fire.","GenericNPC: I'm more worried about personal protection. You know, someone coming at you when you're not expecting.",,ConvDiamondCityGenericArturo01Scene
+Scene,SceneDialogue,Custom,,"GenericNPC: I'm more worried about personal protection. You know, someone coming at you when you're not expecting.",Small semi-automatic with a good holster is what you're looking for.,GenericNPC: Thanks. I'll think about it.,,ConvDiamondCityGenericArturo01Scene
+Scene,SceneDialogue,Custom,,,"You still carrying that old handmade around? I'm telling you, the grip on that thing is just going to fall off one of these days.",GenericNPC: Hasn't so far. You think I'm just going to buy a new gun because of a bad grip?,"handmade as in ""handmade pistol""",ConvDiamondCityGenericArturo02Scene
+Scene,SceneDialogue,Custom,,GenericNPC: Hasn't so far. You think I'm just going to buy a new gun because of a bad grip?,Who's talking about a new gun?,,,ConvDiamondCityGenericArturo02Scene
+Scene,SceneDialogue,Custom,,,"I can sell you a properly machined grip at a discount, and you can install it yourself.",GenericNPC: Hmm... Not a bad idea. Maybe next time.,,ConvDiamondCityGenericArturo02Scene
+Miscellaneous,Miscellaneous,Greeting,,,Keep your head down. There's trouble...,,"a man has another man at gunpoint, you're in the crowd watching / Nervous",
+Miscellaneous,Miscellaneous,Greeting,,,Glad Security took care of that madman.,,the police just shot a crazed gunman / Nervous,
+Scene,SceneDialogue,Custom,,,"Geiger counter, bud?",Companion: Mine is in the shop.,Matter of fact,CIS_ChatWithNPC_Deacon_DiamondCityArturo
+Scene,SceneDialogue,Custom,,Companion: Mine is in the shop.,You the guy about the article?,Companion: The one and only.,"Double-speak - speaking to a spy, element of danger",CIS_ChatWithNPC_Deacon_DiamondCityArturo
+Scene,SceneDialogue,Custom,,Companion: The one and only.,I'd be careful around here. The target keeps late hours with strange visitors.,Companion: That's not proof.,"Hushed, double-speak vital information to a spy",CIS_ChatWithNPC_Deacon_DiamondCityArturo
+Scene,SceneDialogue,Custom,,Companion: That's not proof.,"Hey, not even Piper's dug up anything more yet.",Companion: Got it. Keep your head down and no heroics.,Defensive,CIS_ChatWithNPC_Deacon_DiamondCityArturo

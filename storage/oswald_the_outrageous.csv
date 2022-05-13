@@ -1,0 +1,123 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Oswald: I'll gather what remains of my friends and we'll leave this place in your care.,"Don't worry about the radiation, it will no longer be a burden to you and your kind.",,,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"Here, you should have this. Consider it an apology for misjudging you.",Oswald: Farewell.,Apologetic,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,"Oswald: Here, you should have this. Consider it an apology for misjudging you.",Farewell.,,Somber,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"I'll admit, I didn't think you'd make it this far.","Oswald: I can tell you're different than the usual invaders, so I'll not bother with the usual tricks and illusions I use to scare off the superstitious.",Impressed,DLC04_KiddieKingdomShowNew
+Scene,SceneDialogue,Custom,,"Oswald: I'll admit, I didn't think you'd make it this far.","I can tell you're different than the usual invaders, so I'll not bother with the usual tricks and illusions I use to scare off the superstitious.",,Conspiratorial,DLC04_KiddieKingdomShowNew
+Scene,SceneDialogue,Custom,,,"When the bombs fell, everything changed.",Oswald: We changed.,Happy,DLC04_KiddieKingdomShowNewB
+Scene,SceneDialogue,Custom,,"Oswald: When the bombs fell, everything changed.",We changed.,Oswald: And somehow I received a gift. Actual magic. The stuff of legends. Perhaps you'd like to see some?,Emphasis on WE. Referring to him and his ghoul friends / Somber,DLC04_KiddieKingdomShowNewB
+Scene,SceneDialogue,Custom,,Oswald: We changed.,And somehow I received a gift. Actual magic. The stuff of legends. Perhaps you'd like to see some?,Oswald: Up!,Question,DLC04_KiddieKingdomShowNewB
+Scene,SceneDialogue,Custom,,Oswald: And somehow I received a gift. Actual magic. The stuff of legends. Perhaps you'd like to see some?,Up!,"Oswald: No matter what you do, I can heal my friends, and we will protect what is ours.","Huge emphasis, this is essentially casting a spell to raise your ghoul friends back to life. May even be processed by the theater sound system. / Defiant",DLC04_KiddieKingdomShowNewB
+Scene,SceneDialogue,Custom,,Oswald: Up!,"No matter what you do, I can heal my friends, and we will protect what is ours.",,SinisterSmile,DLC04_KiddieKingdomShowNewB
+Scene,SceneDialogue,Custom,,"Player Default: You're wrong! Rachel is going to find a way to cure them, we're going to fix this!",My beloved left this place years ago to find a cure to this disease.,,Stern,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"In return, I swore that I'd keep our people safe by defending our home.",,Somber,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"When Rachel walks back through those gates with the cure in hand, then you'll see, everyone will see, that I was right!","Player Default: Rachel's dead. Here, she left this for you.",Defiant,DLC04_KiddieKingdomRoof
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: Well that does it, then. It's up to me to leave here and find the cure myself.",I'll gather what remains of my friends and we'll leave this place in your care.,"Oswald: Don't worry about the radiation, it will no longer be a burden to you and your kind.",Neutral,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,"Oswald: You Raiders are all the same. You come into someone's home, steal their belongings and kill those they care about.","I'm not going to let you kill any more of my friends. This is our home, not yours.",Player Default: I'm not your enemy. This can end without bloodshed.,Stern,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,"Player Default: You come here, attack my friends, try to steal our home and have the gall to claim you aren't my enemy?","We've defended this place for over 200 years. Do you think you're the first outsider I've met that's chosen to brand ""feral"" ghouls as monsters?",,Defiant,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,How many of them have you needlessly slaughtered while ignorantly thinking you're doing the world a favor?!,"Player Default: Ghouls like your friends, it's too late for them. The radiation changed them forever.",Disgust,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,"Player Default: Ghouls like your friends, it's too late for them. The radiation changed them forever.",So you're admitting my friends are sick and yet you try to kill them anyway?,,Disbelief,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,I'd say that makes you the only monster around here.,"Player Default: Ghouls like your friends, it's too late for them. The radiation changed them forever.",Disgust,DLC04_KiddieKingdomRoof
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: Ghouls like your friends, it's too late for them. The radiation changed them forever.","You're wrong! Rachel is going to find a way to cure them, we're going to fix this!",Oswald: My beloved left this place years ago to find a cure to this disease.,Angry,DLC04_KiddieKingdomRoof
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I'm done talking. Let's just get this over with.,"Fine, I've been looking forward to making you disappear.",Oswald: My beloved left this place years ago to find a cure to this disease.,SinisterSmile,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,Player Default: There's no point in arguing anymore. Just leave!,"Perhaps I would leave, but I made a promise to keep this place safe until my Rachel finds the cure.",Oswald: My beloved left this place years ago to find a cure to this disease.,Tired,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,Player Default: You've been here for 200 years? Why?,"We worked here as entertainers until the bombs fell. The radiation may have changed us, but we decided to make this place our home.",,Suspicious,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"Over time, the illness took the minds of my friends... and those that we love.",,Tired,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"I am going to find a cure, and fix my friends before someone like you comes along and exterminates us all.","Player Default: Ghouls like your friends, it's too late for them. The radiation changed them forever.",Defiant,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,"Player Default: Rachel's dead. Here, she left this for you.",She's dead? No... no... my poor Rachel.,,Sad,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,How could I allow her to leave my side on such a difficult journey alone? This is all my fault.,,Sad,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"Well that does it, then. It's up to me to leave here and find the cure myself.",Oswald: I'll gather what remains of my friends and we'll leave this place in your care.,Confident,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,"Player Default: Rachel's dead. Here, she left this for you.",Maybe you're right.,,Thinking,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"If Rachel is still out there, I'll find her and we'll search for this cure together.",Oswald: I'll gather what remains of my friends and we'll leave this place in your care.,Relieved,DLC04_KiddieKingdomRoof
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: Rachel's dead. Here, she left this for you.",No! You're wrong!,,Angry,DLC04_KiddieKingdomRoof
+Miscellaneous,Miscellaneous,SharedInfo,,,I'm tired of this debate and I refuse to have your presence here threaten us any longer!,Oswald: I'll gather what remains of my friends and we'll leave this place in your care.,Irritated,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,Player Default: It's obvious she thinks you're a lunatic and left you behind.,How dare you say that about her! You'll pay for that with your life!,Oswald: I'll gather what remains of my friends and we'll leave this place in your care.,Angry,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,"Player Default: I promise you, there is no cure. You'd be better off trying to find her so you can be together.","You're wrong. There is a cure, there has to be. But... maybe she needs my help.",,Stern,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"If Rachel is still out there, I'll find her and we'll search for this cure together.",Oswald: I'll gather what remains of my friends and we'll leave this place in your care.,Thinking,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,Player Default: What if she never returns? How long are you going to wait?,I will stay here for as long as it takes.,,Confident,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"I've already watched 200 years pass, what makes you think I can't wait 200 more?","Player Default: Rachel's dead. Here, she left this for you.",Irritated,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,DLC04NPCMOswald: I can see now this was never going to end without a fight.,"You Raiders are all the same. You come into someone's home, steal their belongings and kill those they care about.","Oswald: I'm not going to let you kill any more of my friends. This is our home, not yours.",Angry,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,DLC04NPCMOswald: I can see now this was never going to end without a fight.,"You invaders are all the same. You come into someone's home, steal their belongings and kill those they care about.","Oswald: I'm not going to let you kill any more of my friends. This is our home, not yours.",Angry,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,Player Default: I'm not your enemy. This can end without bloodshed.,"You come here, attack my friends, try to steal our home and have the gall to claim you aren't my enemy?","Oswald: We've defended this place for over 200 years. Do you think you're the first outsider I've met that's chosen to brand ""feral"" ghouls as monsters?",Disbelief,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,"Player Default: If these feral ghouls are your ""friends,"" I'd love to see who you consider your enemy.",How ironic you should say something like that.,"Oswald: We've defended this place for over 200 years. Do you think you're the first outsider I've met that's chosen to brand ""feral"" ghouls as monsters?",Sarcastic,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,"Player Default: You realize your ""friends"" are feral ghouls, right?","They're not feral, they're sick!",,Angry,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,They can't help what they've become. It's an illness and it certainly doesn't justify you trying to wipe us out.,Player Default: I'm not your enemy. This can end without bloodshed.,Depressed,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,"Player Default: You realize your ""friends"" are feral ghouls, right?",*growl*,,Angry,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,"It's an illness that affects the brain. We're going to find a cure, and we are going to drive you out of our home!","Oswald: We've defended this place for over 200 years. Do you think you're the first outsider I've met that's chosen to brand ""feral"" ghouls as monsters?",Defiant,DLC04_KiddieKingdomRoof
+Scene,SceneDialogue,Custom,,,What are you doing out of costume again? You know Nuka fires people for breaking character.,TunnelGhoul: *Growl*,Irritated,DLC04_KiddieKingdomTunnelPainting
+Scene,SceneDialogue,Custom,,TunnelGhoul: *Growl*,"Yes of course I'm kidding. But seriously, the clown make up helps scare the invaders off and there's a new one in the park.",TunnelGhoul: *Growl*,Amused,DLC04_KiddieKingdomTunnelPainting
+Scene,SceneDialogue,Custom,,TunnelGhoul: *Growl*,No. No I don't think that's going to work this time. There's something different about this one.,TunnelGhoul: *Angry Growl*,Puzzled,DLC04_KiddieKingdomTunnelPainting
+Scene,SceneDialogue,Custom,,Oswald: We'll fix this. I promise.,There. Back in character.,,Amused,DLC04_KiddieKingdomTunnelPainting
+Scene,SceneDialogue,Custom,,,I need to prepare some more surprises for our visitor so I'll leave you to find your way out.,,Thinking,DLC04_KiddieKingdomTunnelPainting
+Scene,SceneDialogue,Custom,,TunnelGhoul: *Angry Growl*,*growl*,,Angry,DLC04_KiddieKingdomTunnelPainting
+Scene,SceneDialogue,Custom,,,"See, I can do that too. Now stop squirming.",TunnelGhoul: *Growl*,Irritated,DLC04_KiddieKingdomTunnelPainting
+Scene,SceneDialogue,Custom,,TunnelGhoul: *Growl*,Sorry. I know you can't help it. We just have to hold out till she gets back with a cure.,,InPain,DLC04_KiddieKingdomTunnelPainting
+Scene,SceneDialogue,Custom,,,Then we'll drive the Raiders out and get the farm back in order.,,Apologetic,DLC04_KiddieKingdomTunnelPainting
+Scene,SceneDialogue,Custom,,,We'll fix this. I promise.,Oswald: There. Back in character.,Stern,DLC04_KiddieKingdomTunnelPainting
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!",Welcome boys and girls to... The Fun House!,,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,And aren't we having fun.,ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!","Don't worry, the mirrors are too dirty to reflect anything.",,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"In your case, I'd say that's probably a benefit.",ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!",Listen to the sound of my voice... You're going to die... hahahaha!,ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!",Feeling dizzy yet? Can't tell which way is up?,ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!",Should have watched your step! That's what you get for invading our home!,ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!",Round and round and round and round!,ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!",Looks like you've found some friends to join you on the dance floor!,ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!",Now there's a lovely sight.,ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!",Aw... are you feeling lost? Pathetic.,ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!",Where are you even going? At this rate you'll starve to death in there.,ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!",Ah ah. You won't be leaving that way I'm afraid.,ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!","Well, you're a bit hardier than those others it seems. But not much smarter I'm afraid.",ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!","Ooh, by all means... keep trying. You're doing great.",ClosestPA: You've finally arrived. Quickly the show is about to begin!,"Sarcastic, but totally dry. The player is lost in your maze.",DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!","Sorry, already gone little raider. Don't worry, I've still got plenty of surprises in store for you.",ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,"ClosestPA: Should have looked both ways, stupid!","Sorry, stranger. Already flew the coop. Don't worry, I've still got plenty of surprises in store for you.",ClosestPA: You've finally arrived. Quickly the show is about to begin!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,ClosestPA: And aren't we having fun.,You've finally arrived. Quickly the show is about to begin!,ClosestPA: Why would you shut that off? That's what's keeping the Raiders out!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,ClosestPA: And aren't we having fun.,This is no time to piss your britches. We have a show to do! Now get to the stage!,ClosestPA: Why would you shut that off? That's what's keeping the Raiders out!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,ClosestPA: And aren't we having fun.,"Oh, I'm afraid that area is off limits. Senior cast members only.",ClosestPA: Why would you shut that off? That's what's keeping the Raiders out!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,ClosestPA: And aren't we having fun.,"Sorry, but I'm not going out that easily. The show must go on!",ClosestPA: Why would you shut that off? That's what's keeping the Raiders out!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,ClosestPA: And aren't we having fun.,I didn't take you for a coward. Or have you thought better of trying to invade our home?,ClosestPA: Why would you shut that off? That's what's keeping the Raiders out!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,ClosestPA: You've finally arrived. Quickly the show is about to begin!,Why would you shut that off? That's what's keeping the Raiders out!,,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,ClosestPA: You've finally arrived. Quickly the show is about to begin!,"What are you doing? Get away from the pumps, they're of no concern to you.",,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Should have looked both ways, stupid!",ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Well, I can see you're no rocket scientist!",ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Really now. They just go in a big circle. If you couldn't see that coming, I don't know what you think you're doing here.",ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,Those radiation sprayers keeping you cool? They perk us right up.,ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"What's wrong, does that mist have you feeling a little... green?",ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Don't worry, I'm sure you're hair is supposed to fall out like that.",ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,Seems like you've bitten off more than you can chew. But don't worry...,,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,My friends don't have that problem.,ClosestPA: Welcome boys and girls to... The Fun House!,referring to feral ghouls,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"What's wrong, Tin Man? Having trouble finding the Wizard? Personally, I would have figured you for the Scarecrow.",ClosestPA: Welcome boys and girls to... The Fun House!,Insulting the player if they are wearing power armor,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Well now friends, it seems we have another uninvited guest to the park.",,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Up! Up, performers! It's time for another show! Though I doubt you'll even make it to the Theater, stranger.",,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Shall we take bets on where this one shuffles off? What do you think friends, the tunnels? The Fun House?",ClosestPA: Welcome boys and girls to... The Fun House!,End in an slightly insane laugh,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,Do you enjoy that lovely glowing mist? Feels great to us!,,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Why, we've got sprayers all over Kiddie Kingdom to keep you cool and irradiated.",ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Oh no! You shut off my defenses! Oh wait, I'll just turn these back on.",ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,You keep turning our radiation sprayers off and I'll keep turning them back on.,,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,We've been doing this since before the war. How long have you got?,ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,Ha! You really thought it would be that easy to get rid of me?,ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,What's wrong? Not your cup of tea?,ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"You're looking a little green. Feeling nauseous, little raider?",ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Well, it seems your asinine assault won't be dissuaded. Then I guess it's time for our final act.",,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,Join me on the roof of King Cola's Castle and we'll see an end to this production.,ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,"Baker, baker, pastry maker.",,Sing songy,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,Shoot and slash and bite and break her.,ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,Don't you think you're a little big for that ride? Around the middle mostly.,,,DLC04_KiddieKingdomPA
+Scene,SceneDialogue,Custom,,,Though we do occasionally make exceptions for simpletons like yourself.,ClosestPA: Welcome boys and girls to... The Fun House!,,DLC04_KiddieKingdomPA
+Combat,Combat,Attack,,,Ha ha ha ha...,,,
+Combat,Combat,Attack,,,Graaah!,,,
+Combat,Combat,Hit,,,Guh!,,,
+Combat,Combat,Hit,,,Aaaagh!,,,
+Combat,Combat,Death,,,Aaaghh... Rachel...,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Now tell me, assistant, do you believe in Magic?",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Don't get your hackles up. Have a look in the suitcase.,,,
+Miscellaneous,Miscellaneous,Greeting,,,"You're holding up the show, Assistant. I need to know if you have some money I can borrow.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Right. Where were we...,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Have you ever heard of The Philosopher's Stone?,,,
+Miscellaneous,Miscellaneous,Greeting,,,I can see now this was never going to end without a fight.,"Oswald: You Raiders are all the same. You come into someone's home, steal their belongings and kill those they care about.",Disgust,DLC04_KiddieKingdomRoof
+Miscellaneous,Miscellaneous,SharedInfo,,,"Really now, you're holding up the show.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Voilà!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Maybe you should just leave wit to someone better equipped.,,Sarcastic,
+Miscellaneous,Miscellaneous,SharedInfo,,,"If I could, I would. But I made a promise to keep this place safe till we could find a cure.",,Tired,
+Miscellaneous,Miscellaneous,SharedInfo,,,Never.,,Defiant,
+Miscellaneous,Miscellaneous,SharedInfo,,,You had your chance to leave. This is our home and we're not giving it up.,,Irritated,

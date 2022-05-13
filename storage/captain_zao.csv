@@ -1,0 +1,127 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,,No! You fool! I have not prepared the reactor yet!,,Afraid,MS02WarheadFirst
+Scene,SceneDialogue,Custom,,,"No! You fool! Without dampening coil, the reactor will explode! Baozha!",,Afraid,MS02WarheadFirst
+Scene,SceneDialogue,Custom,,NPCMCaptainZao: Was not sure my beautiful Yangtze would hold together. But we did it!,Here. Payment Zao promised you.,,Happy,MS02SubReady
+Scene,SceneDialogue,Custom,,,"Plus, to show my thanks. I give you these, ah... Transponders.",Captain: Each one acts as a homing signal for missile I can fire from my Yangtze.,struggles a bit recalling the English word / Nervous,MS02SubReady
+Scene,SceneDialogue,Custom,,NPCMCaptainZao: Was not sure my beautiful Yangtze would hold together. But we did it!,You are a capitalist. I know you expect payment for services.,,Amused,MS02SubReady
+Scene,SceneDialogue,Custom,,,Instead I would offer you service in exchange for your service. It is our way.,,Grateful,MS02SubReady
+Scene,SceneDialogue,Custom,,,"Take these, ah... Transponders.",Captain: Each one acts as a homing signal for missile I can fire from my Yangtze.,Grateful,MS02SubReady
+Scene,SceneDialogue,Custom,,Player Default: I wish you a safe journey.,Many thanks. I look forward to seeing my Zhongguo soon.,"Captain: Soon, I will set sail. You should get ashore. Farewell, American. I must admit. I have met...  worse capitalists.",Grateful,MS02SubReady
+Scene,SceneDialogue,Custom,,Player Default: I hope this tub sinks with you in it.,"The journey is long. Sadly, that is possible.",,Amused,MS02SubReady
+Scene,SceneDialogue,Custom,,,It is fortunate Zao is man of honor. A lesser man insulted would not keep his promise.,"Captain: Soon, I will set sail. You should get ashore. Farewell, American. I must admit. I have met...  worse capitalists.",Angry,MS02SubReady
+Scene,SceneDialogue,Custom,,Player Default: You should just leave now.,I understand. There is no love for Zao. Or Zhongguo.,"Captain: Soon, I will set sail. You should get ashore. Farewell, American. I must admit. I have met...  worse capitalists.",Apologetic,MS02SubReady
+Scene,SceneDialogue,Custom,,Player Default: Why would you let me use up your missiles?,I have no wish to bring weapons back home. I leave the fire here.,,Worried,MS02SubReady
+Scene,SceneDialogue,Custom,,,"And... I owe you. Zao pays his debts. Besides, my missiles just might... *chuckle*  ""Save your bacon.""","Captain: Soon, I will set sail. You should get ashore. Farewell, American. I must admit. I have met...  worse capitalists.",coming up with a good English phase you remember at the end / Amused,MS02SubReady
+Scene,SceneDialogue,Custom,,Player Default: Many thanks. I look forward to seeing my Zhongguo soon.,"Soon, I will set sail. You should get ashore. Farewell, American. I must admit. I have met...  worse capitalists.",,Grateful,MS02SubReady
+Scene,SceneDialogue,Custom,,"Captain: Plus, to show my thanks. I give you these, ah... Transponders.",Each one acts as a homing signal for missile I can fire from my Yangtze.,,Confident,MS02SubReady
+Scene,SceneDialogue,Custom,,,Only small. Tactical nukes. But you should still get far away as possible!,,Concerned,MS02SubReady
+Scene,SceneDialogue,Custom,,,"Throw transponder like a grenade to activate it. Then wait for baozha. ""Kaboom!""",Player Default: I wish you a safe journey.,Amused,MS02SubReady
+Scene,SceneDialogue,Custom,,Player Default: I admire your spirit.,While you are getting warhead? I will prepare the reactor.,Captain: But now I must... warn you. There is danger. Wei xian! Old crew... still down there.,,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Captain: While you are getting warhead? I will prepare the reactor.,But now I must... warn you. There is danger. Wei xian! Old crew... still down there.,,,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,,Not okay like their captain. Worse. They do not harm me. But they will kill you!,,,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,,"I... I cannot kill them. Still, they are my crew. My family. Jia ren, all of us. But you must do what you must do.",,,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Player Default: The next step seems simple. But do not be deceived.,"200 years ago, I launched all of Yangtze's high-yield nuclear missiles. As ordered.",,Sad,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,,"For 200 years, I have lived with that guilt. That shame. So much fire Such bei.",,Sad,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,,But one missile failed to launch. You must go down. Remove the warhead. Then bring it to me.,Player Default: I already have the warhead.,Somber,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Player Default: I already have the warhead.,"So. You have met my crew, then. Or... what is left of them.","Player Default: I'm alive, aren't I?",,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Player Default: I already have the warhead.,I admire your spirit.,Captain: While you are getting warhead? I will prepare the reactor.,,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Player Default: The warhead might detonate. We'd both be killed.,"No, no. It will not detonate. Not if you are careful. Treat it as ji dan. A chicken egg.",,,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,,But... you will be exposed to radiation. So long as you carry it.,Captain: While you are getting warhead? I will prepare the reactor.,,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Player Default: You've got to be kidding.,No. No jokes. Just jue wang. Desperation. Only thing left to try. Plutonium in warhead will serve as fuel.,Captain: While you are getting warhead? I will prepare the reactor.,,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Player Default: Why don't you get it?,Ah... Because I have different task.,Captain: While you are getting warhead? I will prepare the reactor.,,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,NPCMCaptainZao: I watched you talk to a boy on the dock. Swim out here.,You appear... able. But not a threat? No. Come in he ping. Ah... peace?,Player Default: I'm not a threat to you. Just curious.,calmly assessing the threat / Confident,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: Fortune smiles. Let us work together. Yi qi lai.,First thing we need - a new dampening coil. To stabilize Yangtze's reactor.,,Neutral,MS02CaptainRefused
+Scene,SceneDialogue,Custom,,,You can find them at Saugus Ironworks. That is what my old intelligence says.,Player Default: I already have the dampening coil from Saugus.,Confident,MS02CaptainRefused
+Scene,SceneDialogue,Custom,,Player Default: What about the nuclear fuel?,I have idea for that. But first - dampening coil.,Player Default: I already have the dampening coil from Saugus.,Confident,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: What about the nuclear fuel?,"For long, I was happy to stay here. Of late, though... I have been thinking of my zu guo. Of China.",,Sad,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,Also... my Yangtze is not safe. Raiders come. I have fought them. But I fear leaving her alone to get what I need for repair.,Player Default: I already have the dampening coil from Saugus.,Afraid,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: What's in it for me?,"Money! Xianjin! American money. From before. Still worth something, no? Worthless to me, on my Yangtze.",Player Default: I already have the dampening coil from Saugus.,Conspiratorial,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: What's in it for me?,"Wealth is like dung, useful only when spread.",,Disgust,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,"I have some bottle caps, too. New money for your new, burned America. They are yours as well.",Player Default: I already have the dampening coil from Saugus.,Conspiratorial,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: What's in it for me?,You force me to make... ultimate decision. Sad decision. Maybe yi han.,,Sad,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,"My sword. Sharp, wondrous jian. Sword of Chinese officer. It is yours. If you help me!",Player Default: I already have the dampening coil from Saugus.,Sad,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: What's in it for me?,"I thought we might deal fairly, you and I.",,Angry,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,I see now you are just a mercenary. Gu yong bing!,,Angry,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,Help me. Or don't. You get nothing from Zao!,,Disgust,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: You'll have to wait awhile.,Waiting and I are old friends. I can do that.,,Confident,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: I already have the dampening coil from Saugus.,"Ha! Fortune favors us both, it seems.",,Amused,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,"Now, all we need... one thing. Nuclear fuel.",Player Default: I already have the warhead.,Confident,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: I already have the dampening coil from Saugus.,I am not your captain. Zao will do.,,"emphasis on ""your"" - clearly he doesn't get the joke. / Irritated",MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,You go. Get the dampening coil. I will work on repairing the bridge control systems. Much gong zuo.,,Stern,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: But no fear. No murder. No wei xian. Not from Captain Zao.,Why are you here? War is over. Long over. And my Yangtze holds no bao wu. No... treasure. Nothing for you to plunder.,Player Default: Just trying to figure out who you are. No plundering. I swear.,suspicious / Suspicious,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,Just like all the others. Unable to see past what I look like.,,Disgust,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: I'm not a threat to you. Just curious.,"Ha! ""Curious cat gets murdered.""",,rhetorical question / Question,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,But no fear. No murder. No wei xian. Not from Captain Zao.,Captain: Why are you here? War is over. Long over. And my Yangtze holds no bao wu. No... treasure. Nothing for you to plunder.,Friendly,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: You're a ghoul!,Ghoul? Like... jang shi? Ah... monster? No! I am Zao. Zao! From China. Captain of my beautiful Yangtze. This qian ting.,,annoyed / Irritated,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,Monster. Ha!,Captain: Why are you here? War is over. Long over. And my Yangtze holds no bao wu. No... treasure. Nothing for you to plunder.,Surprised,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: I thought this submarine was abandoned. Empty.,No. Not empty. I am here. Captain Zao. This is my qianting. My submarine. The Yangtze.,Captain: Why are you here? War is over. Long over. And my Yangtze holds no bao wu. No... treasure. Nothing for you to plunder.,"matter of fact, standing his ground. Emphasis on ""my"" / Defiant",MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: I thought this submarine was abandoned. Empty.,Had hoped he would get bored. Leave.,,realizing it isn't going to happen / Worried,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,I need no one seeing my qianting. Ah... submarine. My beautiful Yangtze.,,annoyed / Irritated,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,I could have killed him. Easy. But... I do not think that way. Not anymore.,Captain: Why are you here? War is over. Long over. And my Yangtze holds no bao wu. No... treasure. Nothing for you to plunder.,resolute / Irritated,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: Who are you?,Zao! Captain of the Chinese Navy! I sail the Yangtze-31. This qianting. Submarine. My beautiful boat.,,proud / Confident,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,Speak harsh words of me if you must. But my Yangtze... Speak of her with respect.,Captain: Why are you here? War is over. Long over. And my Yangtze holds no bao wu. No... treasure. Nothing for you to plunder.,friendly warning / Confident,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: Just trying to figure out who you are. No plundering. I swear.,Hmph. Pirate or Raider would have attacked by now. I accept your gu shi as truth.,"Captain: Your arrival is good xingyun for me. I need help, you see.",Thinking,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: Commie bastard! You destroyed my country! Die!,Zhu! Zi ben jia! Die!,"Captain: Your arrival is good xingyun for me. I need help, you see.",Angry,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,"Player Default: All right, you got me. I'm scavenging for supplies.",Ha! Honest answer. Zao appreciates your truth. Xie xie.,,grudging acknowledgement / Neutral,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,"As you can see, there is little of value here.","Captain: Your arrival is good xingyun for me. I need help, you see.",Apologetic,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: Have you been here for 200 years?,Wa! It has been that long? Shi de. Yes. I suppose it has.,,bemused / Surprised,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,Long ago. Just after the fire. Yangtze struck a mine. My qianting barely made it here into harbor.,,explaining / Sad,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,City already ruins by then. Few noticed us. Fewer cared. Too much tong ku.,"Captain: Your arrival is good xingyun for me. I need help, you see.",grateful nobody noticed him / Relieved,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: Have you been here for 200 years?,Fushe! You say... radiation. From damaged reactor. Turn me into this guai wu.,,"hates how he looks, but he's resigned to it. / Disgust",MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,My crew... gone. I cannot think on their fate.,"Captain: Your arrival is good xingyun for me. I need help, you see.",clearly avoiding telling the full story. / Nervous,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: Hmph. Pirate or Raider would have attacked by now. I accept your gu shi as truth.,"Your arrival is good xingyun for me. I need help, you see.",,Happy,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,Yangtze is not... ahh... Seaworthy. You will help me fix her?,Player Default: I'm at your disposal.,"struggles a bit, searching for the right word / Question",MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: I'm at your disposal.,Ha! Yes! Thank you. Xie xie my friend.,,Happy,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,"But, first problem. Yangtze has no power.",Captain: If we get reactor working? Probably enough.,a bit sad / Irritated,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: You can go to Hell. You're part of the enemy that destroyed my country.,"That is... sad. Um... unfortunate. Bu xing. I hoped that after 200 years, we could forget past hatred.",,Tired,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,I shall wait for someone more willing to help me.,Captain: If we get reactor working? Probably enough.,Tired,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: Let me think about it.,Yes. Of course. I wish only to help my beautiful qian ting. Make my Yangtze ready for the sea.,Captain: If we get reactor working? Probably enough.,Pleading,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,"Player Default: Why would you trust me, a stranger?",Trust is risk. But a man must plow with oxen he has.,,second part is a Chinese proverb / Apologetic,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,You are not like raiders that board my quianting. My Yangtze. You show peace. Xie xie.,Player Default: I'm at your disposal.,Impressed,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,"Player Default: Why would you trust me, a stranger?",Ah. I sail for Zhongguo. Return to China. Where I belong. My jia. My home?,Player Default: I'm at your disposal.,wistful for home / Amused,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,"Player Default: Why would you trust me, a stranger?","Anything Zao can do. If China is gone, I will build. House by house.",,hopeful / Nervous,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,"And if no houses can be built, I will die. My jia. At peace.",Player Default: I'm at your disposal.,resigned / Worried,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,"Player Default: But, first problem. Yangtze has no power.",If we get reactor working? Probably enough.,,hopeful / Amused,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,"There is damage to a, um... dampening coil. Bad damage. Need new coil.",,annoyed / Irritated,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,,"I have information. Intelligence, from war time. Dampening coils are at facility called... Saugus Ironworks.",Player Default: I already have the dampening coil from Saugus.,business like / Neutral,MS02CaptainFirstMtg
+Scene,SceneDialogue,Custom,,Player Default: I already have the warhead.,You have been busy.,,Surprised,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,,I hope you showed my crew... mercy. They have not been themselves lately.,"Player Default: I'm alive, aren't I?",Apologetic,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Player Default: I already have the warhead.,The next step seems simple. But do not be deceived.,"Captain: 200 years ago, I launched all of Yangtze's high-yield nuclear missiles. As ordered.",Conspiratorial,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Player Default: I have a few things to do first.,"Hmph. Good crew says ""us first,"" not ""me first.""",,Irritated,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,,I need that dampening coil.,"Captain: 200 years ago, I launched all of Yangtze's high-yield nuclear missiles. As ordered.",Stern,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Player Default: Let's get on with it.,You are impatient. Good. Then you are focused on our task.,"Captain: 200 years ago, I launched all of Yangtze's high-yield nuclear missiles. As ordered.",Confident,MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,Player Default: Where are you going to get that?,Ah... Now that is the right question to ask.,"Captain: 200 years ago, I launched all of Yangtze's high-yield nuclear missiles. As ordered.","Emphasize ""that"" / Amused",MS02CaptainPChasRods
+Scene,SceneDialogue,Custom,,"Player Default: I'm alive, aren't I?",Be resolved and the thing is done.,Captain: Now. Here is what you must do. Head down to the reactor. Take dampening coil and warhead with you.,Amused,MS02CaptainPChasWarhead
+Scene,SceneDialogue,Custom,,Player Default: Not yet.,Well? Go. Go!,Captain: Now. Here is what you must do. Head down to the reactor. Take dampening coil and warhead with you.,Stern,MS02CaptainPChasWarhead
+Scene,SceneDialogue,Custom,,"Player Default: Nah. No sweat. The radiation did give me super powers, though. X-Ray vision. Love the leopard g-string.","200 years, and your humor is still bad. America liberating Anchorage? Now that was a good joke.",Captain: Now. Here is what you must do. Head down to the reactor. Take dampening coil and warhead with you.,Irritated,MS02CaptainPChasWarhead
+Scene,SceneDialogue,Custom,,Player Default: What are you going to do with the other missiles?,Nothing. That is what. No plans.,,Apologetic,MS02CaptainPChasWarhead
+Scene,SceneDialogue,Custom,,,They are small. Tactical. Of no real use to me.,Captain: Now. Here is what you must do. Head down to the reactor. Take dampening coil and warhead with you.,Apologetic,MS02CaptainPChasWarhead
+Scene,SceneDialogue,Custom,,Player Default: Be resolved and the thing is done.,Now. Here is what you must do. Head down to the reactor. Take dampening coil and warhead with you.,,Stern,MS02CaptainPChasWarhead
+Scene,SceneDialogue,Custom,,,"First, insert the dampening coil. Carefully. Xiao xin.",,"Slight emphasis on ""carefully."" / Nervous",MS02CaptainPChasWarhead
+Scene,SceneDialogue,Custom,,,"Then, put warhead into the reactor. As you do that, I monitor power levels from the control room.",,Stern,MS02CaptainPChasWarhead
+Scene,SceneDialogue,Custom,,,"Do not put in warhead first! Do that? Si wang. Death, for you and me both.",,Nervous,MS02CaptainPChasWarhead
+Scene,SceneDialogue,Custom,,"Player Default: Yes, I'm willing to help you.",Fortune smiles. Let us work together. Yi qi lai.,Captain: First thing we need - a new dampening coil. To stabilize Yangtze's reactor.,Happy,MS02CaptainRefused
+Scene,SceneDialogue,Custom,,Player Default: No. You're the enemy that destroyed my country.,I have been no one's enemy for two hundred years.,Captain: First thing we need - a new dampening coil. To stabilize Yangtze's reactor.,Apologetic,MS02CaptainRefused
+Scene,SceneDialogue,Custom,,Player Default: I'm just doing it for the loot.,Well. Those who beg cannot choose. I accept.,Captain: First thing we need - a new dampening coil. To stabilize Yangtze's reactor.,Grateful,MS02CaptainRefused
+Scene,SceneDialogue,Custom,,Player Default: You said you had a plan?,I do.,Captain: First thing we need - a new dampening coil. To stabilize Yangtze's reactor.,Confident,MS02CaptainRefused
+Miscellaneous,Miscellaneous,Greeting,,,I watched you talk to a boy on the dock. Swim out here.,Captain: You appear... able. But not a threat? No. Come in he ping. Ah... peace?,"Slightly suspicious, mostly just stating an observation / Suspicious",MS02CaptainFirstMtg
+Miscellaneous,Miscellaneous,Greeting,,,You have dampening coil? Ha! Youxiu. Youxiu. Now to get... nuclear fuel.,Player Default: I already have the warhead.,Question is mostly rhetorical. / Relieved,MS02CaptainPChasRods
+Miscellaneous,Miscellaneous,Greeting,,,You have returned! I was not sure you would.,,Relieved,MS02CaptainPChasRods
+Miscellaneous,Miscellaneous,Greeting,,,Next we need more nuclear fuel. To feed Yangtze's reactor.,Player Default: I already have the warhead.,business like / Confident,MS02CaptainPChasRods
+Miscellaneous,Miscellaneous,Greeting,,,"No difficulty with the warhead, I trust?","Player Default: I'm alive, aren't I?",knows the player probably didn't have any difficulties. / Question,MS02CaptainPChasWarhead
+Miscellaneous,Miscellaneous,Greeting,,,I watched you swim out here.,Captain: You appear... able. But not a threat? No. Come in he ping. Ah... peace?,Slightly suspicious. Mostly just as observation. / Neutral,MS02CaptainFirstMtg
+Miscellaneous,Miscellaneous,Greeting,,,Why are you on my submarine?,Captain: You appear... able. But not a threat? No. Come in he ping. Ah... peace?,mildly suspicious / Suspicious,MS02CaptainFirstMtg
+Miscellaneous,Miscellaneous,Greeting,,,You again? Thought you had no interest in helping old sailor.,"Player Default: Yes, I'm willing to help you.",surprised / Surprised,MS02CaptainRefused
+Miscellaneous,Miscellaneous,Greeting,,,"Still here... Change of heart, perhaps? You have decided to help me after all?","Player Default: Yes, I'm willing to help you.","hopeful, not pleading. He's the kind of guy that would never beg. / Pleading",MS02CaptainRefused
+Miscellaneous,Miscellaneous,Greeting,,,Was not sure my beautiful Yangtze would hold together. But we did it!,Captain: Here. Payment Zao promised you.,"relieved, glad / Relieved",MS02SubReady
+Miscellaneous,Miscellaneous,SharedInfo,,,"Finally, after so many years, my beautiful Yangtze will dive once more!",,excited / Happy,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Hello?,,player is just standing there not saying anything / Puzzled,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,You're... okay?,,player is just standing there not saying anything / Puzzled,
+Miscellaneous,Miscellaneous,Hello,,,They say a shipwright should not build new ship out of old wood. But we have no other choice.,,quoting and old Chinese proverb / Worried,
+Miscellaneous,Miscellaneous,Hello,,,After all these years. I might finally see my home again. Sweet Zhongguo.,,hopeful / Happy,
+Miscellaneous,Miscellaneous,Hello,,,Well? What are you standing there for?,,get going / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,I will prepare the submarine while you are getting dampening coil.,,business like / Confident,
+Miscellaneous,Miscellaneous,Hello,,,Good luck at the ironworks.,,confident the player will succeed / Confident,
+Miscellaneous,Miscellaneous,Hello,,,That dampening coil will not find itself...,,nudging the player to get going / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,Raise your sail one foot and get ten feet of wind.,,old Chinese proverb / Happy,
+Miscellaneous,Miscellaneous,Hello,,,"Yangtze has been my home, my jia, for two centuries. Now there is a chance she will sail again. One last time.",,nostalgic / Happy,

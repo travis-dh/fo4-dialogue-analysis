@@ -1,0 +1,52 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,SharedInfo,,Phil: I am the rim. The spoke and hub support me.,I am the rim. The spoke and hub support me.,DaraHubbell: We fought a great battle today.,Awed,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,"DaraHubbell: By the Hub, it's working!",Visions! I'm seeing visions!,Rolanda: I think I'm going to puke.,Happy,MS02RideIsSpinning
+Scene,SceneDialogue,Custom,,"Cleansed: Phil does the alignments that rid your body of polluting neurodynes. After we talk to Dara, you should go see him.",Dara asked me to bring any mercenary types to her first.,,Apologetic,MS02CleansedEscortPC
+Scene,SceneDialogue,Custom,,,You definitely look like you know how to handle yourself.,"Cleansed: There are six of us right now, but I'm trying to recruit more members like yourself.",Friendly,MS02CleansedEscortPC
+Scene,SceneDialogue,Custom,,,This way.,Cleansed: Hubology has given me inner peace and expanded my mind. It can do the same for you.,Confident,MS02CleansedEscortPC
+Scene,SceneDialogue,Custom,,Cleansed: This way.,Hubology has given me inner peace and expanded my mind. It can do the same for you.,"Cleansed: Phil does the alignments that rid your body of polluting neurodynes. After we talk to Dara, you should go see him.",Awed,MS02CleansedEscortPC
+Scene,SceneDialogue,Custom,,Cleansed: Hubology has given me inner peace and expanded my mind. It can do the same for you.,"Phil does the alignments that rid your body of polluting neurodynes. After we talk to Dara, you should go see him.",Cleansed: Dara asked me to bring any mercenary types to her first.,Friendly,MS02CleansedEscortPC
+Scene,SceneDialogue,Custom,,Cleansed: You definitely look like you know how to handle yourself.,"There are six of us right now, but I'm trying to recruit more members like yourself.","Cleansed: I've tried talking to the Raiders in the Nuka-World park, but they were not receptive to the potential benefits of Hubology.",Apologetic,MS02CleansedEscortPC
+Scene,SceneDialogue,Custom,,"Cleansed: I've tried talking to the Raiders in the Nuka-World park, but they were not receptive to the potential benefits of Hubology.",Dara says we need more people for the next step of her plan.,Cleansed: Uh... I probably shouldn't have said that. Just forget what I said.,Friendly,MS02CleansedEscortPC
+Scene,SceneDialogue,Custom,,"Cleansed: There are six of us right now, but I'm trying to recruit more members like yourself.","I've tried talking to the Raiders in the Nuka-World park, but they were not receptive to the potential benefits of Hubology.",Cleansed: Dara says we need more people for the next step of her plan.,Concerned,MS02CleansedEscortPC
+Scene,SceneDialogue,Custom,,Cleansed: Dara says we need more people for the next step of her plan.,Uh... I probably shouldn't have said that. Just forget what I said.,,Worried,MS02CleansedEscortPC
+Scene,SceneDialogue,Custom,,DLC04NPCFDaraHubbell: I see you brought me a new recruit. Thank you Cleansed.,The wheel turns.,DaraHubbell: Have you changed your mind about helping us?,Awed,MS02DaraGreet
+Scene,SceneDialogue,Custom,,MaleRough: Excuse me gentle sir.,Are you happy? Truly happy?,Player Default: I think I'm fairly happy.,"emphasize ""truly"" / Question",MS02CleansedGreet
+Scene,SceneDialogue,Custom,,Player Default: I think I'm fairly happy.,Then you are not truly and completely happy.,Cleansed: I can show you the path to true happiness.,Grateful,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,Player Default: Of course not. Irradiated monsters are constantly trying to kill me.,I may be able to help you.,Cleansed: I can show you the path to true happiness.,Grateful,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,"Player Default: Some days yes, some days no.",A common answer.,Cleansed: I can show you the path to true happiness.,Grateful,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,Player Default: Why do you call yourself Cleansed?,I have been cleansed of neurodynes. I no longer need my birth name.,,Grateful,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,I renamed myself Cleansed.,,Confident,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,But you haven't answered my question. Are you truly happy?,Player Default: I think I'm fairly happy.,Question,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,Player Default: Why do you call yourself Cleansed?,They are kind of like ghosts that get into your brain.,,Concerned,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,They can cloud your thinking and hold you back from your full potential.,,Concerned,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,"So, are you truly happy?",Player Default: I think I'm fairly happy.,Question,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,Player Default: Then you are not truly and completely happy.,I can show you the path to true happiness.,,Conspiratorial,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,The path to enlightenment through Hubology.,,Awed,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,It can relieve you of your burdens. Help you find the true happiness you so desperately want.,,Happy,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,"It can also unlock the true potential of your mind, giving you great mental powers.",Player Default: That sounds good. Show me the path to true happiness.,Awed,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,Player Default: That sounds good. Show me the path to true happiness.,"If you truly mean what you say, come with me.",,Concerned,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,I will introduce you to the others and you can take your first alignment.,Cleansed: This way.,Happy,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,Player Default: You're a crackpot. You just want to take my money and sell me some religious bullshit.,The great wheel is crushing you and you don't even know it.,,Worried,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,You are rim meat and it draws the neurodynes like carrion draws the bloatfly.,,Depressed,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,"When your unhappiness becomes unbearable, I will be here.",,Apologetic,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,Player Default: Right. And I'll wake up in the morning missing a kidney.,Why would I take your kidney?,,Puzzled,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,"The neurodynes infest your liver, colon and spine.",,Puzzled,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,"But they cannot be cut out with a knife, only through alignment.",,Concerned,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,"When you are ready, come to me.",,Concerned,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,Player Default: What is Hubology?,Hubology is the science of unlocking the full potential of the human mind.,,Awed,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,It brings true happiness and peace to those that walk it's long path.,,Awed,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,Dara is much better at explaining this. She's an AHS-9.,,Apologetic,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,Come with me and she can answer all your questions.,Player Default: That sounds good. Show me the path to true happiness.,Friendly,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,Player Default: What is Hubology?,That is her rank in the Great Wheel of Hubology.,,Confident,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,I am but an AHS-6. She sits at the hub of the Great Wheel.,,Apologetic,MS02CleansedGreet
+Scene,SceneDialogue,Custom,,,You can ask her all these questions yourself. Follow me.,,Friendly,MS02CleansedGreet
+Miscellaneous,Miscellaneous,Idle,,,Where are you going? We should stick together.,,Concerned,
+Miscellaneous,Miscellaneous,Idle,,,Keep your eyes peeled for threats.,,Concerned,
+Miscellaneous,Miscellaneous,Idle,,,There it is. Try to stay quiet.,,Concerned,
+Miscellaneous,Miscellaneous,Greeting,,,Excuse me gentle sir.,Cleansed: Are you happy? Truly happy?,Apologetic,MS02CleansedGreet
+Miscellaneous,Miscellaneous,Greeting,,,Excuse me gentle ma'am.,Cleansed: Are you happy? Truly happy?,Apologetic,MS02CleansedGreet
+Miscellaneous,Miscellaneous,Greeting,,,Back again? Our last talk didn't end so well.,,Apologetic,MS02CleansedGreet
+Miscellaneous,Miscellaneous,Greeting,,,I'll ask you again.,Cleansed: Are you happy? Truly happy?,Confident,MS02CleansedGreet
+Miscellaneous,Miscellaneous,Greeting,,,You should save your questions until you meet Dara.,,Happy,
+Miscellaneous,Miscellaneous,Greeting,,,Just a little longer.,,Neutral,

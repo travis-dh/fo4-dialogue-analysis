@@ -1,0 +1,82 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,,Room 2 is yours. Enjoy.,,,YefimGreetScene
+Scene,SceneDialogue,Custom,,,Room's not free. Sorry.,,Irritated,YefimGreetScene
+Scene,SceneDialogue,Custom,,,Come back when you have the money.,,player doesn't have enough money / Irritated,YefimGreetScene
+Scene,SceneDialogue,Custom,,,Look. I can't let you stay for free.,,player doesn't have enough money / Irritated,YefimGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Have a good day.,,,YefimGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Well, it's vacant if you ever need it.",,,YefimGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Suit yourself.,,Irritated,YefimGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Fine, but no sleeping on the couch.",,,YefimGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let me think about it.,Whatever you say.,,,YefimGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let me think about it.,Heard that one before.,,,YefimGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let me think about it.,"Yeah, sure.",,,YefimGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let me think about it.,All right.,,,YefimGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: So, how's business?","Not much to say. We sell food, drink, and rooms. Mainly for traders that come through the area.",,,YefimGreetScene
+Scene,SceneDialogue,Custom,,,"My brother, Vadim, runs the bar. Scarlett's our waitress, and she helps me keep the rooms clean. As much as they can be.","Yefim: Not much to say. We sell food, drink, and rooms. Mainly for traders that come through the area.",,YefimGreetScene
+Scene,SceneDialogue,Custom,,Player Default: What's the story with this place?,"Things are good! I think you have helped not only Travis, but Vadim as well. Fewer shady characters in here.",,,YefimGreetScene
+Scene,SceneDialogue,Custom,,,"And no one complains about the radio anymore. But I must admit, awkward as he was, Travis had a certain charm about him before all this.","Yefim: Not much to say. We sell food, drink, and rooms. Mainly for traders that come through the area.",,YefimGreetScene
+Scene,SceneDialogue,Custom,,Player Default: What's the word around town?,Nothing I'd want to talk about.,"Yefim: Not much to say. We sell food, drink, and rooms. Mainly for traders that come through the area.",,YefimGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Have a nice stay.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Just don't throw up all over my floors.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Lost? You're in Room 2.,,,
+Miscellaneous,Miscellaneous,Greeting,,,"Anyway, did you want a room?",,"generic ""coming from another conversation and getting back to business"" line",YefimGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, were you going to get a room, or not?",,"generic ""coming from another conversation and getting back to business"" line",YefimGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Now, I should get back to work. Did you want a room?",,,YefimGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Oh, a customer. Need a room?",,"serious, somber, quiet",YefimGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"I'm glad you found Earl's killer, but now my brother won't shut up about you. *sigh* Anyway, did you need a room?",,"player discovered Doc Crocker killed Earl Sterling, your troublesome employee",YefimGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Tell me if you need a room, otherwise the bar is over there.",,"serious, somber, quiet",YefimGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Glad we haven't scared you off yet. Need a room?,,"serious, somber, quiet",YefimGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,You look tired. Need a room?,,renting rooms in the motel,YefimGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Need a room?,,renting rooms in the hotel,YefimGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,I... I'm waiting...,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Uh... were you going to say something?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Look, I got errands to run...",,,
+Scene,SceneDialogue,Custom,,,"One of my brother's old friends. Oh boy, the way those two would go on about girls. You think Vadim is loud now...",,Amused,001_MS07aYefimScene
+Scene,SceneDialogue,Custom,,,"Earl was a horrible womanizer, and I warned him more than once to leave the staff and customers alone, but my brother always stood up for him.",,Amused,001_MS07aYefimScene
+Scene,SceneDialogue,Custom,,,Honestly? Kind of glad he's gone. Wouldn't shut up about the new face he was going to get at the Mega Surgery Center. Vain till the end.,,Neutral,001_MS07aYefimScene
+Scene,SceneDialogue,Custom,,,Earl was one of my brother's employees. You can talk to him about it. I have no further comment.,,Defiant,001_MS07aYefimScene
+Scene,SceneDialogue,Custom,,,"Please, talk to Travis. Find out where they've taken Vadim!",,scared,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,NPCMYefimBobrov: This is terrible...,"Oh, I knew it. I knew it! He was up to no good, and look what's happened now!",Yefim: You've got to help. I can't do it... You've got to help me!,Worried,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,"Yefim: Oh, I knew it. I knew it! He was up to no good, and look what's happened now!",You've got to help. I can't do it... You've got to help me!,"Player Default: Take it easy, it'll be all right. Just tell me what happened.",Pleading,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,"Player Default: Take it easy, it'll be all right. Just tell me what happened.",They took him! They took Vadim!,"Yefim: Those men... The ones that messed with Travis. They came back. Said Vadim owed them money, that they had a deal.",Afraid,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,Player Default: Would you calm down? I can't understand a damn thing.,I can't calm down! They took Vadim!,"Yefim: Those men... The ones that messed with Travis. They came back. Said Vadim owed them money, that they had a deal.",Afraid,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,"Player Default: I have no idea what's going on here, Yefim.",They took him! They took Vadim!,"Yefim: Those men... The ones that messed with Travis. They came back. Said Vadim owed them money, that they had a deal.",upset / Afraid,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,Player Default: What are you talking about?,I'm talking about Vadim! They took him!,"Yefim: Those men... The ones that messed with Travis. They came back. Said Vadim owed them money, that they had a deal.",Afraid,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,Player Default: They took him! They took Vadim!,"Those men... The ones that messed with Travis. They came back. Said Vadim owed them money, that they had a deal.","Yefim: He wouldn't pay, and they grabbed him and said they'd make him pay... And then they just dragged him out!",Worried,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,Player Default: They took him! They took Vadim!,Men came in... They said they were friends of the ones you killed... said Vadim owed them money because of what happened...,"Yefim: He wouldn't pay, and they grabbed him and said they'd make him pay... And then they just dragged him out!",scared / Worried,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,"Yefim: Those men... The ones that messed with Travis. They came back. Said Vadim owed them money, that they had a deal.","He wouldn't pay, and they grabbed him and said they'd make him pay... And then they just dragged him out!",Yefim: You have to do something. Please tell me you can do something!,upset / Afraid,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,"Yefim: He wouldn't pay, and they grabbed him and said they'd make him pay... And then they just dragged him out!",You have to do something. Please tell me you can do something!,"Player Default: I'll bring him back, Yefim. Count on it.",Pleading,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,"Player Default: I'll bring him back, Yefim. Count on it.","Please, just bring him back. He's an idiot, but he's my brother. I'd go with you, but someone has to stay here.",,Pleading,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,,Talk to Travis. Maybe he knows where they took him.,,Pleading,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,"Player Default: Hey man, this isn't my problem.","Please, I am begging you. He's my only brother. I know he's stupid, but he's family. I can't lose him.",,Pleading,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,,Talk to Travis. Maybe he knows where they took him!,,Pleading,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,Player Default: I don't know if I want to get involved in this.,"I can't lose my brother. I know he makes terrible decisions, but he's the only family I have. I can't run this place alone.",,Pleading,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,,"Find Travis. Maybe he knows where they took Vadim. Please, hurry!",,Pleading,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,Player Default: Do you know where they took him?,"No, I don't know! He's the one that has always dealt with them; I've tried to avoid them.",,Worried,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,,"Travis might know! You should ask him. Please, hurry. I don't want anything to happen to Vadim!",,Pleading,MS14YefimStage60Scene
+Scene,SceneDialogue,Custom,,"Player Default: All right! Now, it has to be quietly, with no fuss. Maybe lead him out of town...","All right, that's enough!",Yefim: Vadim isn't serious. He doesn't really want to kill Travis.,Disgust,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,"Yefim: All right, that's enough!",Vadim isn't serious. He doesn't really want to kill Travis.,"Player Default: Right, we're all just having a laugh.",Apologetic,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,"Player Default: Right, we're all just having a laugh.","Okay, good. I didn't want you to get the wrong idea.",Vadim: It's true. Only jokes. Travis is a good friend. Yefim and I worry about him.,Concerned,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,Player Default: I'm not stupid. I wasn't falling for it.,We weren't trying to trick you or anything. Vadim just likes to joke.,Vadim: It's true. Only jokes. Travis is a good friend. Yefim and I worry about him.,Apologetic,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,Player Default: He seemed pretty serious to me.,"No, no. He was only kidding. Right Vadim?",Vadim: It's true. Only jokes. Travis is a good friend. Yefim and I worry about him.,apologetic / Apologetic,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,"Player Default: Okay, what's really going on here?","Sorry, we were just joking around a bit.",Vadim: It's true. Only jokes. Travis is a good friend. Yefim and I worry about him.,Apologetic,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,Vadim: It's true. Only jokes. Travis is a good friend. Yefim and I worry about him.,"Poor Travis... He means well, but he does not have the confidence he needs for that job. Or anything else, really.",,Concerned,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,,And so he is always awkward.,,Concerned,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,,"He does not believe in himself, you see? He expects he will fail at everything, and so he does.","Player Default: Well, that can always be turned around.",Concerned,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,,"Oh, here we go.","Vadim: Quiet, Yefim. All right, you. Tell me. Diamond City Radio -- It's terrible, yes? Makes you want to cut your own ears off?",Concerned,MS14BobrovOpeningScene
+Scene,SceneDialogue,Custom,,"Player Default: Either we have unhappy customers listening to bad DJ, or we have no music and customers have boredom.",Vadim...,Vadim: It's true. Don't you listen to my brother.,"annoyed, chastising / Concerned",MS14BobrovOpeningScene
+Miscellaneous,Miscellaneous,Greeting,,,This is terrible...,"Yefim: Oh, I knew it. I knew it! He was up to no good, and look what's happened now!",Afraid,MS14YefimStage60Scene
+Miscellaneous,Miscellaneous,Greeting,,,"Please, bring my brother back...",,Afraid,
+Miscellaneous,Miscellaneous,Greeting,,,I can't manage this place on my own. I need Vadim...,,Afraid,
+Scene,SceneDialogue,Custom,,,Vadim. We need to talk.,"Vadim: Oh no. What I do this time? You remind me of mother, all this nagging...",Stern,ConvDiamondCityVadimYefim02ScarlettScene
+Scene,SceneDialogue,Custom,,"Vadim: Oh no. What I do this time? You remind me of mother, all this nagging...","I need you to stop drinking while you're at work. Last night, poor Scarlett had to carry you to your room before you passed out.",Vadim: She is strong girl. I don't see problem.,Stern,ConvDiamondCityVadimYefim02ScarlettScene
+Scene,SceneDialogue,Custom,,Vadim: She is strong girl. I don't see problem.,"Look, we don't pay her to babysit you, okay? Taper off early next time.",,Stern,ConvDiamondCityVadimYefim02ScarlettScene
+Scene,SceneDialogue,Custom,,"Vadim: Why you look so grouchy, brother? Lighten up! You ruin mood of whole bar.","Yeah, about that... could you maybe cut people off earlier tonight?",Vadim: What!? What kind of question is that?,,ConvDiamondCityVadimYefimScene
+Scene,SceneDialogue,Custom,,Vadim: What!? What kind of question is that?,Do you know how much work it is to handle hotel guests that black out?,,Irritated,ConvDiamondCityVadimYefimScene
+Scene,SceneDialogue,Custom,,,Dragging them to bed? Making sure they don't die of alcohol poisoning? Not to mention the vomit...,"Vadim: Nonsense. Is all part of Dugout Inn experience. I am not shutting down the bar early, and that's that.",Disgust,ConvDiamondCityVadimYefimScene
+Scene,SceneDialogue,Custom,,"Vadim: How about you tend bar sometime, brother?",This again? No... I don't...,Vadim: You need to get out more! Have some fun! Tending bar is great way to meet people.,shy / Nervous,ConvDiamondCityVadimYefim03Scene
+Scene,SceneDialogue,Custom,,Vadim: You need to get out more! Have some fun! Tending bar is great way to meet people.,"Exactly. I'll be behind there all night, while everyone asks where you are, and why they are stuck with me instead.","Vadim: No they won't! And if they do, I throw them out of bar myself.",shy / Nervous,ConvDiamondCityVadimYefim03Scene
+Scene,SceneDialogue,Custom,,"Vadim: No they won't! And if they do, I throw them out of bar myself.",I'll... think about it...,,shy / Nervous,ConvDiamondCityVadimYefim03Scene
+Scene,SceneDialogue,Custom,,,"Vadim. Vadim, I need to talk...",Vadim: Just a minute Yefim. I am in middle of story.,"walking over to Vadim at the bar, normal voice but urgent",IntroSceneDiamondCityDugoutInnScene
+Scene,SceneDialogue,Custom,,"Hawthorne: A Mirelurk? Come on. That's like, two out of ten points of danger. Tops. Now if you wanna talk something really deadly...",Vadim!,"Vadim: Oh. I forgot you were there, Yefim. What is it?","through clenched teeth, not wanting to be too loud, but angry enough / Irritated",IntroSceneDiamondCityDugoutInnScene
+Scene,SceneDialogue,Custom,,"Vadim: Oh. I forgot you were there, Yefim. What is it?",*sigh* You know what? Never mind. I'll handle it myself.,,Irritated,IntroSceneDiamondCityDugoutInnScene

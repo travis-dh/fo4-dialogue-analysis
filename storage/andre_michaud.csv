@@ -1,0 +1,38 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,SmallBertha: Remember who's given us a new chance to take back our island.,I owe my very life to the stranger. We should listen now.,Mitch: My uncle's safe and alive. The stranger's always steered us right.,,DLC03MQ05_0500c_SpareAvery
+Scene,SceneDialogue,Custom,,"DLC03MaleAndreMichaud: The doctor has said in time, I will fully recover.",He says this is your doing? But... I do not know you.,Player Default: I was just doing my civic duty.,"Confused, grateful / Puzzled",DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,Player Default: I was just doing my civic duty.,"*dry chuckle* You're obviously not from here. Gratitude... It's a hard thing out here. So, yeah.",AndreMichaud: This island... It... it has taken my husband. It has taken everything.,"Reflexive chuckle, someone reeling emotionally / Sad",DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,Player Default: I was hoping to get something on the back end for patching you up.,"Of course. They did not find much on me, but you're welcome to it.",AndreMichaud: This island... It... it has taken my husband. It has taken everything.,Grateful / Grateful,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,Player Default: It was really no big deal.,"Well, I might beg to differ about that.",AndreMichaud: This island... It... it has taken my husband. It has taken everything.,Half-hearted humor / Sad,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,"Player Default: No, we're strangers. Who exactly are you, anyway?","Andre Michaud. With my husband John.... We hunt Mirelurks, for their meat, their shells.",,"Tired, a little bit windy / Tired",DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,,But... the last hunt did not go well.,Player Default: I was just doing my civic duty.,Recalling recent deep loss / Sad,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,"Player Default: No, we're strangers. Who exactly are you, anyway?","As bad as it can get. A Mirelurk Hunter, he blindsided John. I managed to pull him out, but I had to run blindly. Into the Fog.",,"Holding back tears, franticly reliving the recent trauma / Sad",DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,,"John was the tracker, he was the one who knows this island. But me, I got turned around.",,Sad,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,,"I don't remember what happened. Someone, I don't even know who, found me... brought me here.",Player Default: I was just doing my civic duty.,So sad / Somber,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,"Player Default: *dry chuckle* You're obviously not from here. Gratitude... It's a hard thing out here. So, yeah.",This island... It... it has taken my husband. It has taken everything.,"AndreMichaud: This island is a sickness. Don't you see, it's evil?",growing anger / Stern,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,AndreMichaud: This island... It... it has taken my husband. It has taken everything.,"This island is a sickness. Don't you see, it's evil?",,Holding back tears / Stern,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,,"As soon as I am well, I am going to grab as many guns as I can carry.",,Growing REVENGE - anger! / Angry,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,,And I will slaughter everything in my path... Until the island is clean or I am no more.,"Player Default: I wish you well, Andre.","Anger, willing to die / Angry",DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,"Player Default: I wish you well, Andre.","I will not go down easily, my friend.",,Grim - death wish / Somber,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,Player Default: Way to throw your life away.,I wouldn't expect a mainlander to understand. Goodbye.,,Grim - death wish / Defiant,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,"Player Default: You're in pain, I've been there. But your plan is... unreasonable. Find a purpose, some constructive purpose, to keep you going.","You wouldn't know... Once, Far Harbor was... well, not thriving... But alive.",,"Really shaken by player's words, becomes clear the player has reached through his grief / Thinking",DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,,I... I'll think on what you've said.,,"Small, sad / Thinking",DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,"Player Default: You're in pain, I've been there. But your plan is... unreasonable. Find a purpose, some constructive purpose, to keep you going.","The doctor has tried to talk me out of this, too. But I will not be dissuaded.",,Grim - death wish / Defiant,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,,"But now, I must rest.",,Tired,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,Player Default: Really? That's your plan?,The island wants all of us dead.,,Grim / Defiant,DLC03DialogueFarHarbor_AndreHealed
+Scene,SceneDialogue,Custom,,,"If it wants me, it can try to take me.","Player Default: I wish you well, Andre.",Steeling himself for a suicide run / Defiant,DLC03DialogueFarHarbor_AndreHealed
+Miscellaneous,Miscellaneous,Hello,,,You are not like anyone I've ever met.,,,
+Miscellaneous,Miscellaneous,Hello,,,Mmm...,,,
+Miscellaneous,Miscellaneous,Hello,,,"I was out awhile, the doctor said.",,,
+Miscellaneous,Miscellaneous,Hello,,,"As soon as I'm able, I will find John.",,,
+Miscellaneous,Miscellaneous,Hello,,,He's dead... With no last goodbye.,,,
+Miscellaneous,Miscellaneous,Hello,,,And I am the one who still lives.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Thankful to be alive. This, is not living.",,,
+Miscellaneous,Miscellaneous,Hello,,,I suppose... thanks.,,,
+Miscellaneous,Miscellaneous,Hello,,,I will find a way to clear this debt I have with you.,,,
+Miscellaneous,Miscellaneous,Hello,,,John... No... No...,,,
+Miscellaneous,Miscellaneous,Hello,,,Must... find... Mon dieu...,,,
+Miscellaneous,Miscellaneous,Hello,,,*groan*,,,
+Miscellaneous,Miscellaneous,Hello,,,Everywhere... It's coming... Oh....,,,
+Miscellaneous,Miscellaneous,Hello,,,Please... No....,,,
+Miscellaneous,Miscellaneous,Greeting,,,"The doctor has said in time, I will fully recover.",AndreMichaud: He says this is your doing? But... I do not know you.,Tired,DLC03DialogueFarHarbor_AndreHealed

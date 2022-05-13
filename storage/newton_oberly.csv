@@ -1,0 +1,90 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Player Default: It'll take some time, but I could learn to like it here.",I'm so glad to hear you say so. and promise I'll work hard to make sure that you do.,NewtonOberly: You should know that many of us consider it a great honor to have you here.,,DialogueInstituteNewtonFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: The only place I want to call home was destroyed a long time ago.,I'm truly sorry. This must all be terribly difficult for you.,NewtonOberly: You should know that many of us consider it a great honor to have you here.,,DialogueInstituteNewtonFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: I think it's a little too science-fiction for my taste.,"Of course, I understand. Nearly all of us were born here, but you come form a very different world.",NewtonOberly: You should know that many of us consider it a great honor to have you here.,,DialogueInstituteNewtonFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: What do you do here?,I'm in charge of housing and provisions.,,,DialogueInstituteNewtonFirstGreeting
+Scene,SceneDialogue,Custom,,,It's my mission to ensure that everyone lives a comfortable and productive life.,NewtonOberly: You should know that many of us consider it a great honor to have you here.,,DialogueInstituteNewtonFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: I'm so glad to hear you say so. and promise I'll work hard to make sure that you do.,You should know that many of us consider it a great honor to have you here.,,,DialogueInstituteNewtonFirstGreeting
+Miscellaneous,Miscellaneous,Greeting,,,"Welcome, welcome! It's so good to meet you. I truly hope you'll come to think of the Institute as your home.","Player Default: It'll take some time, but I could learn to like it here.","Very friendly, perhaps laying it on a bit thick",DialogueInstituteNewtonFirstGreeting
+Miscellaneous,Miscellaneous,Hello,,,Good to see you. Feeling well today?,,"Sincere, friendly",
+Miscellaneous,Miscellaneous,Hello,,,I hope all your needs are being seen to. You just let me know if they're not.,,"Sincere, friendly",
+Miscellaneous,Miscellaneous,Hello,,,People on the surface have got it pretty bad. Makes me thankful for being down here.,,Genuine compassion,
+Miscellaneous,Miscellaneous,Hello,,,"When the lights go down and the stars come out, a man just forgets all his troubles.",,Wistful,
+Miscellaneous,Miscellaneous,Hello,,,"Our newest synths are so lifelike, I keep mistaking them for real people.",,"Impressed, amused",
+Miscellaneous,Miscellaneous,SharedInfo,,Newton: I gathered these items together for you. I think you'll find them useful.,I'll see that the mess in Hydroponics is cleaned up.,,,InstM03NewtonBranchPunishment
+Miscellaneous,Miscellaneous,SharedInfo,,,I suppose I should also make the funeral arrangements.,,Sad,InstM03NewtonBranchPunishment
+Miscellaneous,Miscellaneous,SharedInfo,,,"Well, there's much to do, so I'll get about it. In the meantime, I'm sure everyone will be relieved that this is over.",,,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,Player Default: I'm just glad they listened to reason.,Indeed.,,,InstM03NewtonSceneEndGood
+Scene,SceneDialogue,Custom,,Player Default: Keeping our food supply secure is your responsibility. This better not happen again.,I'll make it my top priority.,,Confident,InstM03NewtonSceneEndGood
+Scene,SceneDialogue,Custom,,Player Default: I'm starting to get used to that.,I apologize. I won't doubt you again.,,Apologetic / Apologetic,InstM03NewtonSceneEndGood
+Scene,SceneDialogue,Custom,,"Player Default: What do you mean ""you feared the worst?""",I just didn't want to see anyone get hurt.,,Apologetic / Apologetic,InstM03NewtonSceneEndGood
+Scene,SceneDialogue,Custom,,Player Default: There's no need to drag this out. I believe they learned their lesson.,Your compassion and understanding speak well of you.,Companion: Cait interjects,"Relieved, satisfied / Relieved",InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,Player Default: They were prepared to let everyone starve to death. They have to die.,"I... I understand. I'll make the necessary arrangements, though it saddens me to do so.",Newton: I'll see that the mess in Hydroponics is cleaned up.,Sad / Sad,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,Player Default: They were prepared to let everyone starve to death. They have to die.,What?! Execute them? But that's not how we do things here.,,"Surprised, aghast / Surprised",InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,,"Please, I beg you, choose something else. Anything.",Player Default: There's no need to drag this out. I believe they learned their lesson.,Pleading / Pleading,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,Player Default: They were prepared to let everyone starve to death. They have to die.,"I'm sorry, but I won't do that. We're not savages.",,Firm rejection / Confident,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,,I must insist that you choose another form of punishment.,Player Default: There's no need to drag this out. I believe they learned their lesson.,"Firm, resolute / Confident",InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,Player Default: Put them on probation. Limit their access to quarters and non-working areas.,That's more than fair. I'll see to it that everyone's notified.,Companion: Cait interjects,,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,Player Default: Give them supplies and then throw them out. They're banned for life.,"I wish I could say that would be unfair, but there's no denying those men put all our lives at risk.",,,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,,"I'll see to those supplies. At least they'll have a fighting chance, which is perhaps more than they deserve.",Companion: Cait interjects,,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,Newton: I'll take that holotape back.,I also wanted to offer you something as a more personal expression of gratitude.,,Grateful / Grateful,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,,I know that your work often takes you to the surface where supplies are scarce.,,Grateful / Grateful,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,,I gathered these items together for you. I think you'll find them useful.,Newton: I'll see that the mess in Hydroponics is cleaned up.,Grateful / Grateful,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,,There is one further matter to discuss.,,,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,,"Obviously, some kind of disciplinary action must be taken here. The question of what form it takes is up to you.",Player Default: There's no need to drag this out. I believe they learned their lesson.,Broaching a difficult subject,InstM03NewtonBranchPunishment
+Scene,SceneDialogue,Custom,,Player Default: The food supply is secure. I'd still call that a win.,"In the short-term, perhaps, but choosing violence always carries a cost.",Newton: I'll see that the mess in Hydroponics is cleaned up.,Lecturing / Neutral,InstM03NewtonSceneEndBad
+Scene,SceneDialogue,Custom,,Player Default: Stop whining and be grateful I got your food supply back.,"Yes, of course. Sorry if I seemed ungrateful.",Newton: I'll see that the mess in Hydroponics is cleaned up.,Apologetic / Apologetic,InstM03NewtonSceneEndBad
+Scene,SceneDialogue,Custom,,Player Default: The important thing is that we got the food supply back.,"You're right, of course.",,Relieved,InstM03NewtonSceneEndBad
+Scene,SceneDialogue,Custom,,,"When Higgs and Loken chose their path, they chose the consequences that go with it.",Newton: I'll see that the mess in Hydroponics is cleaned up.,Hint of sadness. / Sad,InstM03NewtonSceneEndBad
+Scene,SceneDialogue,Custom,,"Player Default: What was I supposed to do, let everyone starve?",I don't meant to preach. I simply wish that matters could have been resolved more peacefully.,Newton: I'll see that the mess in Hydroponics is cleaned up.,Apologetic / Apologetic,InstM03NewtonSceneEndBad
+Scene,SceneDialogue,Custom,,,Here we are. Just give me a moment...,"Newton: There, it's unlocked.",Tiinkering with something... almost rhetorical,InstM03NewtonUnlocksTunnel
+Scene,SceneDialogue,Custom,,Newton: Here we are. Just give me a moment...,"There, it's unlocked.",,,InstM03NewtonUnlocksTunnel
+Scene,SceneDialogue,Custom,,,"For goodness' sake, be reasonable!",,Frustrated... shouting through a door at someone / Irritated,InstM03NewtonScene0Door
+Scene,SceneDialogue,Custom,,,"I know you can hear me, now open this door!","Newton: Oh, what's the use.",Angry... shouting through a door at someone / Angry,InstM03NewtonScene0Door
+Scene,SceneDialogue,Custom,,"Newton: I know you can hear me, now open this door!","Oh, what's the use.",,"Defeated, giving up / Tired",InstM03NewtonScene0Door
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: What's going on?,Doctor Higgs and Doctor Loken have decided to protest your appointment as Father's successor.,,"Irritated, exasperated / Irritated",InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,,They've taken control of the BioScience security systems and cut off our food supply.,,Frustrated / Irritated,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,Player Default: I'm sure they'll calm down in time.,"I know these men, and I can assure you they're completely serious.",Player Default: Maybe I can reason with them.,"Serious, somber / Somber",InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,Player Default: They've lost their minds.,"No, they've lost faith.",Player Default: Maybe I can reason with them.,,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,"Player Default: Oh, great. Like I don't have enough problems.","Well I'm sorry you've been inconvenienced, but solving personnel issues is part of an administrator's job.",Player Default: Maybe I can reason with them.,Stern / Stern,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,Player Default: Have they made any demands?,"Not yet, but I expect they'll demand that you renounce all ties to the Institute.",Player Default: Maybe I can reason with them.,Concerned / Concerned,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,Player Default: Maybe I can reason with them.,I believe I can help with that.,Newton: I can unlock the maintenance tunnel that leads to the BioScience observation room.,,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,"Player Default: It's one thing to protest, but this is going way too far.","Look, I can see that you're angry, but please, talk to them before resorting to more violent measures.",Newton: I can unlock the maintenance tunnel that leads to the BioScience observation room.,Pleading / Pleading,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,Neutral,Player Default: This isn't going to change anything.,"Well, perhaps if you could just talk to them, this could all be resolved peacefully.",,Hopeful,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,Neutral,,"In fact, I think I can help you with that.",Newton: I can unlock the maintenance tunnel that leads to the BioScience observation room.,Thinking aloud / Thinking,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,Player Default: Is there a way I can communicate with them?,"As a matter of fact, there is.",Newton: I can unlock the maintenance tunnel that leads to the BioScience observation room.,,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,Player Default: I believe I can help with that.,I can unlock the maintenance tunnel that leads to the BioScience observation room.,,,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,,"From there, you should be able to communicate with Higgs and Loken.",,,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,,"If you can't reason with them, you can use this holotape to access the command functions on the observation room terminal.",,,InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,,"That should give you some options. Just please, try to talk to them first. Use violence only as a last resort.",,"Worried, urging restraint / Worried",InstM03NewtonScene1Intro
+Scene,SceneDialogue,Custom,,Player Default: Your compassion and understanding speak well of you.,I'll take that holotape back.,Newton: I also wanted to offer you something as a more personal expression of gratitude.,"Curt, professional",InstM03NewtonBranchPunishment
+Miscellaneous,Miscellaneous,Hello,,,"Remember, they control the defense systems. Be careful",,,
+Miscellaneous,Miscellaneous,Hello,,,"For what it's worth, I have every confidence in you. Higgs and Loken do not speak for all of us.",,,
+Miscellaneous,Miscellaneous,Hello,,,I can understand why Higgs and Loken are frustrated. To not be consulted on a decision of that magnitude must feel like an insult.,,,
+Miscellaneous,Miscellaneous,Hello,,,There's an opportunity here to demonstrate your ability to lead. I hope you'll make the most of it.,,,
+Miscellaneous,Miscellaneous,Hello,,,"In all my years, I've never seen anything like this. The sheer impertinence of it!",,,
+Miscellaneous,Miscellaneous,Hello,,,Doctor Higgs has always been one to complain. I suppose I shouldn't be surprised by this.,,,
+Miscellaneous,Miscellaneous,Hello,,,"It's damned selfish, that's what it is!",,,
+Miscellaneous,Miscellaneous,Hello,,,"I begged them to stop this nonsense before you returned, but of course they wouldn't listen.",,,
+Miscellaneous,Miscellaneous,Hello,,,I'm as frustrated right now as I've ever been. I just can't believe this.,,,
+Miscellaneous,Miscellaneous,Idle,,,It's not too late to change your minds!,,Shouting through a closed door at someone,
+Miscellaneous,Miscellaneous,Idle,,,"No good can come of this, Lawrence. You won't win!",,Shouting through a closed door at someone,
+Miscellaneous,Miscellaneous,Idle,,,This is just unbelievable.,,Muttering to yourself... Incredulous...,
+Miscellaneous,Miscellaneous,Idle,,,"In all my years, I have never seen such nerve!",,Muttering to yourself... Incredulous...,
+Miscellaneous,Miscellaneous,Greeting,,,"That was... unfortunate. We don't like violence here, and I fear your actions will have consequences.",Player Default: The food supply is secure. I'd still call that a win.,Stern / Stern,InstM03NewtonSceneEndBad
+Miscellaneous,Miscellaneous,Greeting,,,"Bravo! I admit, I was fearing for the worst, but I can see that I underestimated you.",Player Default: I'm just glad they listened to reason.,"Impressed, pleased / Impressed",InstM03NewtonSceneEndGood
+Miscellaneous,Miscellaneous,SharedInfo,,,"Yes, well, it seems we're at an impasse.",,,
+Miscellaneous,Miscellaneous,SharedInfo,Neutral,,"I understand that they feel slighted, but it won't change anything.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Your son will leave a lasting legacy here. He truly was a great man and a great leader.,,"Sympathetic, supportive... the player's father was killed and you are euologzing him / Sad",
+Miscellaneous,Miscellaneous,Hello,,,"I wasn't sure about you, not at first. Now I can see why Father chose you to lead us.",,A realization... you were wrong / Impressed,
+Miscellaneous,Miscellaneous,Hello,,,Your son will leave a lasting legacy here. He truly was a great man and a great leader.,,"Sympathetic, supportive... the player's father was killed and you are euologzing him / Sad",
+Miscellaneous,Miscellaneous,Hello,,,"I wasn't sure about you, not at first. Now I can see why Father chose you to lead us.",,A realization... you were wrong / Impressed,
+Miscellaneous,Miscellaneous,Hello,,,Your son will leave a lasting legacy here. He truly was a great man and a great leader.,,"Sympathetic, supportive... the player's father was killed and you are euologzing him / Sad",
+Miscellaneous,Miscellaneous,Hello,,,I'm not going to miss everyone complaining about insufficient power levels.,,"Amused, add a chuckle at the start / Amused",
+Miscellaneous,Miscellaneous,Hello,,,Things have changed for the better since you arrived. Looks like Father was right all along.,,Impressed / Impressed,
+Miscellaneous,Miscellaneous,Hello,,,"For what it's worth, I think you're a fine choice to take Father's place.",,"Friendly, enthusiastic / Friendly",
+Miscellaneous,Miscellaneous,Hello,,,I'm sure some of the others will question your appointment as our next director. Don't let it bother you.,,Friendly / Friendly,
+Scene,SceneDialogue,Custom,,"Courser: You know the protocol, sir. Authorized personnel only.","So, Doctor Ayo thinks he can hide in his office, does he?",,"Irritated, accusing / Irritated",InstituteSS5Scene
+Scene,SceneDialogue,Custom,,,"Well, you can tell him that I intend to speak to Father about these unannounced security sweeps of yours.",,Irritated / Irritated,InstituteSS5Scene
+Scene,SceneDialogue,Custom,,,Ransacking my quarters in the middle of the night is totally unacceptable.,"Courser: I'll pass along your message, doctor.",Angry / Angry,InstituteSS5Scene
+Scene,SceneDialogue,Custom,,"Courser: I'll pass along your message, doctor.",See that you do.,,"Irritated, forceful / Irritated",InstituteSS5Scene

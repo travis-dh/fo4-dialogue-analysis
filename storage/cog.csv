@@ -1,0 +1,96 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Cog: Anyway, lately I've taken to amusing myself with trading. Don't have much to work with, but I'm always happy to make a good deal.","Let me know if you need something. I probably won't have it, but let me know anyway.",Player Default: Let's see what you've got.,,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: Hey, Kasumi said she needed the key to the storage room downstairs. Can I borrow it?","Well, yeah, I guess. I mean, you could, but I lost it. Should never have agreed to help Faraday move all that equipment in the observatory.",,player says Kasumi needs the key to the storage room. you're convinced he's being honest / Tired,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,,Like there could be anything I'm carrying that's going to damage DiMA's computers. *sigh*,,Irritated,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,,"I was shoving things around in that upper floor that circles the wall of the telescope room, if that helps.",,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,"Player Default: Hey, Kasumi said she needed the key to the storage room downstairs. Can I borrow it?","What? No. She doesn't have any business there, and neither do you.",,"firm ""no."" player says Kasumi needs the key to the storage room. you're not convinced he's being honest / Irritated",DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,"Player Default: Hey, Kasumi said she needed the key to the storage room downstairs. Can I borrow it?","God, no. Have you looked around this place? Death by boredom is a legitimate concern.",,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,,So come on - you want to do a little trading?,Player Default: Let's see what you've got.,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,"Player Default: Hey, Kasumi said she needed the key to the storage room downstairs. Can I borrow it?","Me? Ha. No story here. Not one that matters, anyway. Like I said, it's not worth holding on to.",,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,,"Nice of you to ask, though.",,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,You know where to find me...,,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Ah, some other time, then.",,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,You never know... I  might actually have somethin' useful.,,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Now we're talkin'.,,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Let's do some business.,,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,"The best Acadia has to offer, comin' right up.",,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Suit yourself.,,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Okay then.,,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Probably don't have anything you'd want anyway.,,,DLC03AcadiaDialogueCogBaseScene
+Scene,SceneDialogue,Custom,,Player Default: That so? Most of the chumps here act like I'm out of my gourd. Good to know someone else sees it my way.,"Anyway, lately I've taken to amusing myself with trading. Don't have much to work with, but I'm always happy to make a good deal.","Cog: Let me know if you need something. I probably won't have it, but let me know anyway.",,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,"Cog: That Kasumi's a good enough kid, I suppose. Little confused, maybe. But then, aren't we all?","Not that anyone's asking, but I'll tell you - it all gets easier to deal with when you realize none of it matters.",,,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,,"What you are, where you came from... Let go of all that, and life gets simple.","Player Default: Yeah, I hear you.",,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, I hear you.",That so? Most of the chumps here act like I'm out of my gourd. Good to know someone else sees it my way.,"Cog: Anyway, lately I've taken to amusing myself with trading. Don't have much to work with, but I'm always happy to make a good deal.",,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,Player Default: That sounds pretty bleak to me.,It's all in how you look at it.,"Cog: Anyway, lately I've taken to amusing myself with trading. Don't have much to work with, but I'm always happy to make a good deal.",,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,Player Default: You must be the life of the party around here.,"Hey, if we had parties, I damn well would be.","Cog: Anyway, lately I've taken to amusing myself with trading. Don't have much to work with, but I'm always happy to make a good deal.",,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,Player Default: Is there anything you care about?,"I mean, staying alive is preferable to... not. Beyond that, what's the point of caring?","Cog: Anyway, lately I've taken to amusing myself with trading. Don't have much to work with, but I'm always happy to make a good deal.",,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: Aww, isn't that sweet of you.","That Kasumi's a good enough kid, I suppose. Little confused, maybe. But then, aren't we all?","Cog: Not that anyone's asking, but I'll tell you - it all gets easier to deal with when you realize none of it matters.",,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,Player Default: I came here looking for Kasumi.,"Aww, isn't that sweet of you.","Cog: That Kasumi's a good enough kid, I suppose. Little confused, maybe. But then, aren't we all?","good natured, but poking fun.",DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: Not really any of your business, is it?","Sure, sure. None of my business.",,amused,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,,"Seems odd, is all. This Kasumi girl shows up, convinced she's a synth, then not long after... here you are, looking around.","Cog: That Kasumi's a good enough kid, I suppose. Little confused, maybe. But then, aren't we all?",,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,Player Default: I'm just taking a look around.,"Sure you are. Just of your own accord, no particular reason... Nothing to do with that Kasumi girl, right?","Cog: That Kasumi's a good enough kid, I suppose. Little confused, maybe. But then, aren't we all?",,DLC03AcadiaDialogueCogInitialScene
+Scene,SceneDialogue,Custom,,Player Default: Why do you care?,"I suppose I don't, really. Just not too many visitors lately... that new girl, and now you.","Cog: That Kasumi's a good enough kid, I suppose. Little confused, maybe. But then, aren't we all?",,DLC03AcadiaDialogueCogInitialScene
+Combat,Combat,Taunt,,,I cannot wait to kill you!,,,
+Combat,Combat,Taunt,,,You are so gonna die!,,,
+Combat,Combat,Death,,,Hunh.,,,
+Combat,Combat,Hit,,,Oww.,,,
+Combat,Combat,Hit,,,Shit.,,,
+Combat,Combat,Hit,,,Urg.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Uh-oh, did I lose ya?",,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"We are still talking, right?",,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Did the conversation end, and nobody told me?",,,
+Miscellaneous,Miscellaneous,Greeting,,,"Nope, not me, pal. You want to be talking to DiMA.",,wryly amused,
+Miscellaneous,Miscellaneous,Greeting,,,"Nope, not me, lady. You want to be talking to DiMA.",,wryly amused,
+Miscellaneous,Miscellaneous,Greeting,,,"I think you've got more important things to be doing right now, don't you?",,wryly amused,
+Miscellaneous,Miscellaneous,Greeting,,,Sounds like you got the all-clear. So what's your story?,Player Default: I came here looking for Kasumi.,,DLC03AcadiaDialogueCogInitialScene
+Miscellaneous,Miscellaneous,Greeting,,,Need something?,Player Default: Let's see what you've got.,,DLC03AcadiaDialogueCogBaseScene
+Miscellaneous,Miscellaneous,Hello,,,"If anyone on this island was going to die in a fireball, I'm glad it was the Children of Atom. Couldn't have happened to a nicer bunch.",,sarcastic,
+Miscellaneous,Miscellaneous,Hello,,,"Best way to keep safe is not go anywhere, or do anything.",,,
+Miscellaneous,Miscellaneous,Hello,,,Hey there. Staying sane?,,,
+Miscellaneous,Miscellaneous,Hello,,,Don't ask me for anything. I just live here.,,,
+Miscellaneous,Miscellaneous,Hello,,,Looks like the fog hasn't killed ya yet!,,,
+Miscellaneous,Miscellaneous,Hello,,,"Another day in paradise, huh?",,,
+Miscellaneous,Miscellaneous,Hello,,,"Hard to believe, isn't it? No one on the island threatenin' to kill everyone else... well, I mean the Trappers don't count. Still, though. It's nice.",,,
+Miscellaneous,Miscellaneous,Hello,,,"I may not have agreed with all of DiMA's ideas, but damned if he wasn't committed to them.",,,
+Scene,SceneDialogue,Custom,,,"Okay, here's what I'm thinking: later on tonight, we go streaking through town, freak out the locals. Sound good?","Jule: Oh, fuck off Cog. You know I'm not doin' that.",,DLC03Acadia_Conv_CogJule02Scene
+Scene,SceneDialogue,Custom,,,"All right, Jule. Drinking contest, you and me. Right now. Let's go.","Jule: Oh, fuck off Cog. You know I'm not doin' that.",,DLC03Acadia_Conv_CogJule02Scene
+Scene,SceneDialogue,Custom,,,"Later on today, you wanna see if Faraday's up for switching our brains? I could be you, you could be me... It'd be fun.","Jule: Oh, fuck off Cog. You know I'm not doin' that.",,DLC03Acadia_Conv_CogJule02Scene
+Scene,SceneDialogue,Custom,,,"Hey, you wanna hide all the bullets from Chase's guns? The look on her face would be priceless.","Jule: Oh, fuck off Cog. You know I'm not doin' that.",,DLC03Acadia_Conv_CogJule02Scene
+Scene,SceneDialogue,Custom,,"Jule: Oh, fuck off Cog. You know I'm not doin' that.","Yeah, I figured. Just throwin' it out there.",,,DLC03Acadia_Conv_CogJule02Scene
+Scene,SceneDialogue,Custom,,Chase: How is Jule today?,...the Hell you askin' me for?,Chase: You have been spending a significant amount of time with her lately. I assumed you were close.,,DLC03Acadia_Conv_ChaseCog02Scene
+Scene,SceneDialogue,Custom,,Chase: You have been spending a significant amount of time with her lately. I assumed you were close.,"Well, don't assume. You know what they say...","Chase: No, I'm afraid not.",,DLC03Acadia_Conv_ChaseCog02Scene
+Scene,SceneDialogue,Custom,,"Chase: No, I'm afraid not.",Of course you don't. Just... never mind.,,,DLC03Acadia_Conv_ChaseCog02Scene
+Scene,SceneDialogue,Custom,,"Chase: I spoke with Dejen. You were outside the perimeter again, Cog.","""Perimeter?"" You mean the wall of junk? Come on, Chase...","Chase: You know the rules, Cog.",,DLC03Acadia_Conv_ChaseCog01Scene
+Scene,SceneDialogue,Custom,,"Chase: You know the rules, Cog.",What can I say? Sometimes I'm forgetful. You know how it is.,"Chase: Cog, I'm serious. Don't endanger others just because you don't like the rules.",,DLC03Acadia_Conv_ChaseCog01Scene
+Scene,SceneDialogue,Custom,,,"How you holdin' up, kiddo?",Jule: You mean aside from feeling like my head is filled with shards of broken glass?,,DLC03Acadia_Conv_CogJule01Scene
+Scene,SceneDialogue,Custom,,Jule: You mean aside from feeling like my head is filled with shards of broken glass?,Sorry I can't do anything more for you.,Jule: At least you're acting concerned. More than I can say for anyone else.,,DLC03Acadia_Conv_CogJule01Scene
+Scene,SceneDialogue,Custom,,"Player Default: Fine, here you go.","Thank you. I won't say anything, you don't say anything, and we can all just go on pretending that everything is fine.",,,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,"Player Default: Sorry, Cog. I can't do that.","Shit. This is not what I wanted.... Okay, fine. Tell her, see what happens. Live with that guilt.",,,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,Player Default: Jule deserves to know the truth.,"Oh, bullshit. She deserves a chance to be happy, and this will do the exact opposite. Come on, hand it over and let's forget this happened.","Player Default: Fine, here you go.",,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,Player Default: You want to just keep this a secret?,"Of course I do - no one benefits if this comes out. Is it screwed up? Yes, absolutely. It's nuts that they'd do this to one of us.",,,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,,"But the damage is already done. Tell Jule, and not only will it crush her, it could ruin this whole little fake utopia everyone has going.",,,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,,Screw it. We pretend this didn't happen. Are you with me?,"Player Default: Fine, here you go.",,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,Player Default: What? The hell are you talking about?,"All right, look. This is a real shit-show, but telling Jule... It doesn't do her any good. Just hand over the note you found, and let's call this a day.","Player Default: Fine, here you go.",,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,"DLC03MaleCog: You found something, didn't you.","All right, spill it. What's going on?",Player Default: The mind wipe that went bad... Faraday did it with DiMA's blessing.,,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,Player Default: The mind wipe that went bad... Faraday did it with DiMA's blessing.,What? The hell are you talking about?,"Cog: All right, look. This is a real shit-show, but telling Jule... It doesn't do her any good. Just hand over the note you found, and let's call this a day.",,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,Player Default: Jule used to be named Victoria. She was a totally different person... synth...,This doesn't make any sense....,"Cog: All right, look. This is a real shit-show, but telling Jule... It doesn't do her any good. Just hand over the note you found, and let's call this a day.",,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,Player Default: There was an accident. Emergency surgery was the only way to save her.,They did reconstruction surgery on her? Why?,"Cog: All right, look. This is a real shit-show, but telling Jule... It doesn't do her any good. Just hand over the note you found, and let's call this a day.",,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,Player Default: What do we tell Jule about all this?,You've gotta tell me everything...,Player Default: The mind wipe that went bad... Faraday did it with DiMA's blessing.,,DLC03AcadiaM04Stage400CogScene
+Scene,SceneDialogue,Custom,,"DLC03MaleCog: So.... You see why I wanted you to know about this, right?","That boat Faraday wanted you to find. It's connected, right? Gotta be.",Cog: Please tell me you're gonna go check it out.,,DLC03AcadiaM04Stage200CogScene
+Scene,SceneDialogue,Custom,,"Cog: That boat Faraday wanted you to find. It's connected, right? Gotta be.",Please tell me you're gonna go check it out.,Player Default: I'll make sure I take a thorough look.,,DLC03AcadiaM04Stage200CogScene
+Scene,SceneDialogue,Custom,,Player Default: I'll make sure I take a thorough look.,"Thanks, I mean it. Just... If anything turns up, you come tell me. Not Jule. Okay? You and I can sort this out.",,,DLC03AcadiaM04Stage200CogScene
+Scene,SceneDialogue,Custom,,"Player Default: Look, this is ridiculous. I've got better things to do.","Maybe you do, but Jule could really use some help. Just... while you're out there tooling around, just think about it.",,,DLC03AcadiaM04Stage200CogScene
+Scene,SceneDialogue,Custom,,,"And look, if you do learn anything, you come to me, okay? Don't talk to Jule, not until you and I have a chance to talk.",,,DLC03AcadiaM04Stage200CogScene
+Scene,SceneDialogue,Custom,,"Player Default: I don't know, Cog. This all seems pretty unrelated.","Okay, fine. Maybe it is. But if there's a chance this could help Jule... Just give it a look, okay?",,,DLC03AcadiaM04Stage200CogScene
+Scene,SceneDialogue,Custom,,,"And let's say you do find something. You come back to me, and we talk it over. Stays between us for now, you got it?",,,DLC03AcadiaM04Stage200CogScene
+Scene,SceneDialogue,Custom,,Player Default: Since when do you care about any of this?,Jule's a good kid. She had some messed up stuff happen to her... and if there's a way to sort it out then she deserves it.,,,DLC03AcadiaM04Stage200CogScene
+Scene,SceneDialogue,Custom,,,"Come on, don't make me get all sentimental about it. Are you going to look into it?",Player Default: I'll make sure I take a thorough look.,,DLC03AcadiaM04Stage200CogScene
+Scene,SceneDialogue,Custom,,"DLC03MaleCog: Hey, you got a second?","Word is, you were asked to go check out some boat for Faraday.","Cog: Storage drives or something, right? Okay, I need you to come with me for a minute.",,DLC03AcadiaM04StartScene
+Scene,SceneDialogue,Custom,,"Cog: Word is, you were asked to go check out some boat for Faraday.","Storage drives or something, right? Okay, I need you to come with me for a minute.",,,DLC03AcadiaM04StartScene
+Scene,SceneDialogue,Custom,,,"We're gonna go have a little chat with Jule, and if I know her, she's hiding out...","Cog: Hey there, kiddo. Need to you tell our friend here what you told me.",,DLC03AcadiaM04CogJuleStage50Scene
+Scene,SceneDialogue,Custom,,"Cog: We're gonna go have a little chat with Jule, and if I know her, she's hiding out...","Hey there, kiddo. Need to you tell our friend here what you told me.","Jule: What the fuck, Cog? That was between us!",Concerned,DLC03AcadiaM04CogJuleStage50Scene
+Scene,SceneDialogue,Custom,,"Jule: What the fuck, Cog? That was between us!","Skip it, okay? She's here to help. Promise.",Jule: Fine. I don't see the point...,,DLC03AcadiaM04CogJuleStage50Scene
+Scene,SceneDialogue,Custom,,"Jule: What the fuck, Cog? That was between us!","Skip it, okay? He's here to help. Promise.",Jule: Fine. I don't see the point...,,DLC03AcadiaM04CogJuleStage50Scene
+Miscellaneous,Miscellaneous,Greeting,,,"So.... You see why I wanted you to know about this, right?","Cog: That boat Faraday wanted you to find. It's connected, right? Gotta be.",,DLC03AcadiaM04Stage200CogScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, you got a second?","Cog: Word is, you were asked to go check out some boat for Faraday.",,DLC03AcadiaM04StartScene
+Miscellaneous,Miscellaneous,Greeting,,,"You found something, didn't you.","Cog: All right, spill it. What's going on?",,DLC03AcadiaM04Stage400CogScene

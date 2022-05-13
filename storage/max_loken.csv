@@ -1,0 +1,81 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,,"I know that we've discussed this matter before, but I'm not sure I've made the extent of my concerns clear to you.",,"Professional, but concerned",InstituteHolotapeSynthSpouse
+Scene,SceneDialogue,Custom,,,Many of us are increasingly uncomfortable with the idea of a synth living with Doctor Binet.,,"Professional, but concerned",InstituteHolotapeSynthSpouse
+Scene,SceneDialogue,Custom,,,"Frankly, many of us believe Alan doesn't understand how inappropriate his relationship with the third-generation unit is.",Player Default: I hope you'll consider having a word with Doctor Binet.,"Professional, but concerned",InstituteHolotapeSynthSpouse
+Scene,SceneDialogue,Custom,,NPCMMaxLoken: You've arrived at a momentous time.,"Our third-generation synths are a true breakthrough, the culmination of centuries of research.",,,DialogueInstituteMaxFirstGreeting
+Scene,SceneDialogue,Custom,,,It's no exaggeration to say that they're superior in almost every way to human beings.,Player Default: What I've seen so far is pretty impressive.,,DialogueInstituteMaxFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: What I've seen so far is pretty impressive.,It's just the beginning.,"MaxLoken: Like I said, a momentous time.",,DialogueInstituteMaxFirstGreeting
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: No robot is superior to me.,"You might think so now, but just wait.",,,DialogueInstituteMaxFirstGreeting
+Miscellaneous,Miscellaneous,SharedInfo,,,You've only seen a fraction of what our synths can do. Their potential is limitless.,"MaxLoken: Like I said, a momentous time.",,DialogueInstituteMaxFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: What makes them superior?,The list of improvements is exhaustive. I can talk for an hour and still not cover all of it.,,,DialogueInstituteMaxFirstGreeting
+Scene,SceneDialogue,Custom,,,Imagine what you could accomplish if you could live without fear of hunger or disease.,,,DialogueInstituteMaxFirstGreeting
+Scene,SceneDialogue,Custom,,,"Imagine what you could create if you could use every waking moment of your life as you saw fit, with no need of sleep?","MaxLoken: Like I said, a momentous time.",,DialogueInstituteMaxFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: It's just the beginning.,"Like I said, a momentous time.",,,DialogueInstituteMaxFirstGreeting
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Well I think it's interesting.,,"Emphasis on ""I"". Filling an awkward pause in the conversation... the player has stopped talking.",
+Miscellaneous,Miscellaneous,Greeting,,,You've arrived at a momentous time.,"MaxLoken: Our third-generation synths are a true breakthrough, the culmination of centuries of research.","Profound, with great important",DialogueInstituteMaxFirstGreeting
+Miscellaneous,Miscellaneous,Hello,,,"With our third-generation synths, we've improved upon humanity.",,"Proud, almost reverent",
+Miscellaneous,Miscellaneous,Hello,,,"All our divisions are important, but I tend to think of Robotics as the first among equals.",,"Proud, with a hint of arrogance",
+Miscellaneous,Miscellaneous,Hello,,,"The synths aren't just Father's legacy, they're his gift to humanity.",,Reverent,
+Miscellaneous,Miscellaneous,Hello,,,"If you ask me, the synth software could use a little more de-bugging.",,"Annoyed, blaming someone else",
+Scene,SceneDialogue,Custom,,,Who's that in the control room?,Lawrence: Father's heir apparent. He made it past your impenetrable defenses.,Worried / Worried,InstM03HiggsReassure
+Scene,SceneDialogue,Custom,,Lawrence: Father's heir apparent. He made it past your impenetrable defenses.,But if he got that far...,"Lawrence: Compose yourself, man. We've always known the risks, but we are still in control.",Worried,InstM03HiggsReassure
+Scene,SceneDialogue,Custom,,Lawrence: Father's heir apparent. He made it past your impenetrable defenses.,But if she got that far...,"Lawrence: Compose yourself, man. We've always known the risks, but we are still in control.",,InstM03HiggsReassure
+Scene,SceneDialogue,Custom,,Lawrence: Look out!,"Quickly, take cover!",,"Panic, a shouted warning / Afraid",InstM03ReactGuardCombat
+Scene,SceneDialogue,Custom,,,The gorilla pen door is opening!,,"Panic, shouting / Angry",InstM03ReactGorillas
+Scene,SceneDialogue,Custom,,,"The door's unlocked! Synths, defense protocol one!",,A shouted warning / Angry,InstM03ReactDoor
+Scene,SceneDialogue,Custom,,"Lawrence: Max, no!","It's over, Lawrence, and you're a fool if you can't see that.",,"Angry, firm, raised voice / Angry",InstM03OpenHydroDoor2
+Scene,SceneDialogue,Custom,,,"Now unless you intend to shoot me, please stand aside while I put an end to this.","Lawrence: Future generations will remember this decision, Max. I'll make sure of it.",Angry,InstM03OpenHydroDoor2
+Scene,SceneDialogue,Custom,,"Lawrence: Future generations will remember this decision, Max. I'll make sure of it.",I suggest we confine ourselves to quarters until our fate's decided. We can at least face the consequences with our dignity intact.,Lawrence: What choice do we have?,Somber,InstM03OpenHydroDoor2
+Scene,SceneDialogue,Custom,,,"Enough! Have you lost your mind, Lawrence?","Lawrence: Max, no!",Angry / Angry,InstM03OpenHydroDoor2
+Scene,SceneDialogue,Custom,,"Max: Enough! Have you lost your mind, Lawrence?",I'll do it. I'll open the door.,"Lawrence: Max, no!","Resigned, admitting defeat / Sad",InstM03OpenHydroDoor2
+Scene,SceneDialogue,Custom,,"Lawrence: What do you think, Max?",Even the most fastidious researcher must sometimes take a leap of faith.,,Hopeful / Neutral,InstM03OpenHydroDoor1
+Scene,SceneDialogue,Custom,,,I say let's give it a try.,"Lawrence: Very well, then. Open the door and let's return to the fold.",Hopeful,InstM03OpenHydroDoor1
+Scene,SceneDialogue,Custom,,"Lawrence: Very well, then. Open the door and let's return to the fold.","Synths, abort command override and resume normal functions.",,Shouting orders,InstM03OpenHydroDoor1
+Scene,SceneDialogue,Custom,,,"Come now, Alan. It could have been anything.",,,DialogueInstituteAlanMax1Scene
+Scene,SceneDialogue,Custom,,,It was probably just a glitch in the nervous system. The fine motor control software could use an update.,"Alan: If it were just a limb twitching, perhaps, but her eyes were moving as well.",,DialogueInstituteAlanMax1Scene
+Scene,SceneDialogue,Custom,,Alan: You just don't want to admit to yourself what it is.,"If you're about to launch into one of your impassioned speeches about artificial sentience and machines with souls, don't bother.",,,DialogueInstituteAlanMax1Scene
+Scene,SceneDialogue,Custom,,,"I've heard enough of them by now. Hell, I could write them down from memory.","Alan: But we can't just ignore the question. If a synth can dream, why can't it have a soul?",,DialogueInstituteAlanMax1Scene
+Scene,SceneDialogue,Custom,,"Alan: Of course, it's far more comfortable to think of them as machines, so we can do what we want with them.","If you disapprove of the work we do here, Doctor Binet, you know where to find the teleporter.","Alan: Now just a moment, I never said that.",,DialogueInstituteAlanMax1Scene
+Scene,SceneDialogue,Custom,,Alan: I'm simply trying to open everyone's eyes to new possibilities.,Well it's an unwanted distraction.,,,DialogueInstituteAlanMax1Scene
+Scene,SceneDialogue,Custom,,,"We're men of science, not philosophers. You'd do well to remember that.",,,DialogueInstituteAlanMax1Scene
+Scene,SceneDialogue,Custom,,Alan: Something about a twitch in the right hand that's affecting their manual dexterity.,"Yes, I've seen the same thing myself a time or two.",,,DialogueInstituteRobotics3Scene
+Scene,SceneDialogue,Custom,,,I made a note to look into it when there's time.,"Alan: Sounds like you're on top of things, then.",,DialogueInstituteRobotics3Scene
+Scene,SceneDialogue,Custom,,Alan: Something about a twitch in the right hand that's affecting their manual dexterity.,"I saw the message about that. There's a maintenance cycle coming up, so we can look into it then.",,,DialogueInstituteRobotics3Scene
+Scene,SceneDialogue,Custom,,,"I'd do it sooner, but my plate's just as full as yours.","Alan: Sounds like you're on top of things, then.",,DialogueInstituteRobotics3Scene
+Scene,SceneDialogue,Custom,,Alan: Something about a twitch in the right hand that's affecting their manual dexterity.,I'll take care of it once I've worked through the other hundred tasks on my list.,"Alan: Sounds like you're on top of things, then.",,DialogueInstituteRobotics3Scene
+Scene,SceneDialogue,Custom,,,SRB's asking if we can prioritize the Courser musculature upgrades.,,"Polite, asking for a favor",DialogueInstituteRobotics2Scene
+Scene,SceneDialogue,Custom,,,I'm swamped right now. Can you accomodate them?,Alan: I'll see what I can do.,"Polite, asking for a favor",DialogueInstituteRobotics2Scene
+Scene,SceneDialogue,Custom,,,Advanced Systems says the new linguistic software is ready for installation.,,"Polite, asking for a favor",DialogueInstituteRobotics2Scene
+Scene,SceneDialogue,Custom,,,Any chance you can take that on?,Alan: I'll see what I can do.,"Polite, asking for a favor",DialogueInstituteRobotics2Scene
+Scene,SceneDialogue,Custom,,,Facilities has gently reminded us that the gen 1s are overdue for maintenance.,,"Polite, asking for a favor. Gen 1s is ""gen (as in generation) ones""",DialogueInstituteRobotics2Scene
+Scene,SceneDialogue,Custom,,,I was hoping you could handle it. I'm overtasked as it is.,Alan: I'll see what I can do.,"Polite, asking for a favor",DialogueInstituteRobotics2Scene
+Scene,SceneDialogue,Custom,,Alan: I'll see what I can do.,Thanks.,,Resignation. You are taking on extra work.,DialogueInstituteRobotics2Scene
+Scene,SceneDialogue,Custom,,Alan: I'll see what I can do.,Sounds good.,,Resignation. You are taking on extra work.,DialogueInstituteRobotics2Scene
+Scene,SceneDialogue,Custom,,Alan: I'll see what I can do.,"Alright, I'll let them know.",,Resignation. You are taking on extra work.,DialogueInstituteRobotics2Scene
+Scene,SceneDialogue,Custom,,,How's that personal synth of yours working out? I've heard that Liam's grown quite attached to it.,"Alan: Not ""it"", Doctor Loken, ""she."" And she has a name.",,DialogueInstituteRobotics4Scene
+Scene,SceneDialogue,Custom,,"Alan: To answer your question, Eve has been an indispensable companion, both to Liam and myself.","Alan, I know it's been difficult for you since you lost your wife, but don't lose perspective.",,"Concerned, a little patronizing",DialogueInstituteRobotics4Scene
+Scene,SceneDialogue,Custom,,,"A synth might look like a man or a woman, but it isn't. It's not healthy to become too attached.","Alan: Need I remind you, Doctor Loken, that in biochemical terms a human being is also a machine.","Concerned, but also a lecture",DialogueInstituteRobotics4Scene
+Scene,SceneDialogue,Custom,,"Alan: Need I remind you, Doctor Loken, that in biochemical terms a human being is also a machine.","Don't hide behind technicalities, Alan. I'm your friend. I'm not judging you, but others will.",,,DialogueInstituteRobotics4Scene
+Scene,SceneDialogue,Custom,,,Such behavior could be construed as deviant. You know where that will lead.,"Alan: There's no need to get worked up over it, Max. I'm simply carrying out an experiment.",,DialogueInstituteRobotics4Scene
+Scene,SceneDialogue,Custom,,Alan: Only through close observation can I prove my hypothesis.,"Alright, Alan. I'll trust your judgement on this. Just be careful.",,,DialogueInstituteRobotics4Scene
+Miscellaneous,Miscellaneous,Hello,,,Leave us alone.,,Angry,
+Miscellaneous,Miscellaneous,Hello,I suppose we deserve this.,,I suppose we deserve this.,,Defeated / Angry,
+Miscellaneous,Miscellaneous,Hello,I suppose we deserve this.,,I never appreciated how comfortable my bed was.,,"Defeated, hopeless / Angry",
+Miscellaneous,Miscellaneous,Hello,I suppose we deserve this.,,I'm sorry for what happened. I really am.,,Contrite / Angry,
+Miscellaneous,Miscellaneous,Hello,I suppose we deserve this.,,"I admit it, I regret what I did.",,"Defeated, hopeless / Angry",
+Miscellaneous,Miscellaneous,SharedInfo,,,Father was a great man. He'll be missed.,,"Sympathetic, sad / Sad",
+Miscellaneous,Miscellaneous,Greeting,,,"The Institute is in your hands now, director.",,"Weighty, important / Stern",
+Miscellaneous,Miscellaneous,Hello,,,Father was a great man. He'll be missed.,,"Sympathetic, sad / Sad",
+Miscellaneous,Miscellaneous,Hello,,,Father was a great man. He'll be missed.,,"Sympathetic, sad / Sad",
+Miscellaneous,Miscellaneous,Hello,,,"The Institute is in your hands now, director.",,"Weighty, important / Stern",
+Miscellaneous,Miscellaneous,Hello,,,"The Institute is in your hands now, director.",,"Weighty, important / Stern",
+Miscellaneous,Miscellaneous,Hello,,,"I had my doubts about you, but you're starting to erase them.",,An admission... maybe you were wrong / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,You might just make a good director after all.,,An admission... maybe you were wrong / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,I honestly thought Doctor Li or Doctor Holdren would be appointed to succeed Father.,,"Measured, uncertain. The player was promoted and you aren't sure it was deserved.",
+Miscellaneous,Miscellaneous,Hello,,,You have a lot to learn if you're really going to be the next director of the Institute.,,"Measured, uncertain. The player was promoted and you aren't sure it was deserved.",
+Scene,SceneDialogue,Custom,,"InstituteScientist: Doctor Loken, we've received a work order from SRB.",What do they need?,"InstituteScientist: They're requesting replacement Coursers again. Quite a few, actually. I guess they lost a whole unit on the surface.",Curious / Puzzled,DialogueInstituteRoboticsScene5
+Scene,SceneDialogue,Custom,,"InstituteScientist: They're requesting replacement Coursers again. Quite a few, actually. I guess they lost a whole unit on the surface.",Is this some sort of joke? This is the third time this month. Doctor Ayo can't keep using my synths so recklessly. I refuse to give him anymore.,InstituteScientist: Should I tell him that?,Upset / Irritated,DialogueInstituteRoboticsScene5
+Scene,SceneDialogue,Custom,,InstituteScientist: Should I tell him that?,"No, I'll handle it. I wouldn't wish dealing with that man on my worst enemy.",,"Exasperated, annoyed / Stern",DialogueInstituteRoboticsScene5
+Miscellaneous,Miscellaneous,Hello,,,I can't believe I let Lawrence talk me into that scheme.,,Ashamed / Disbelief,
+Miscellaneous,Miscellaneous,Hello,,,"I regret what we did. In fact, I feel like a complete fool about it.",,Ashamed / Apologetic,
+Miscellaneous,Miscellaneous,Hello,,,I was wrong about you. I think you'll make a great leader for the Institute.,,Contrite / Apologetic,

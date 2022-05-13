@@ -1,0 +1,159 @@
+Topic,PlayerDialogue,Custom,,,Lemme just slide in here...,,"playful banter, moving your spouse out of the way to use the mirror",
+Topic,PlayerDialogue,Custom,,,Just another minute. I swear...,,"playful banter, moving your spouse out of the way to use the mirror",
+Topic,PlayerDialogue,Custom,,,Such a cute nose.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,I think Shaun has your nose.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,As beautiful as the day we met...,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,Lookin' good.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"Lookin' good, hon.",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,That's the face I fell in love with.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"Every time I see that face, I fall in love with you all over again.",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"Hon, you look as good as the day we met.",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,Hmm. So pretty.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,You are so beautiful.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"You're beautiful, you know that?",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,Absolutely lovely.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,I swear you haven't aged a day since our wedding.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,You look lovely.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,My beautiful wife.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,Gorgeous.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"Lookin' good, hon.",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"Sweetie, you look as beautiful as the day we met...",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,This new haircut's really working for me.,,"commenting on yourself, at the mirror",
+Topic,PlayerDialogue,Custom,,,"What do you think, hon? Beard or no beard?",,"commenting on yourself, at the mirror",
+Topic,PlayerDialogue,Custom,,,"Hon, you think my nose is too big?",,"commenting on yourself, with your spouse at the mirror",
+Topic,PlayerDialogue,Custom,,,"Well, hello handsome...",,"referring to yourself, looking in the mirror",
+Topic,PlayerDialogue,Custom,,,"Looking good, if I do say so myself...",,"referring to yourself, looking in the mirror",
+Topic,PlayerDialogue,Custom,,,"Not bad, not bad...",,"referring to yourself, looking in the mirror",
+Topic,PlayerDialogue,Custom,,,I clean up pretty nice...,,"referring to yourself, looking in the mirror",
+Topic,PlayerDialogue,Custom,,,Yeah. Not bad...,,"referring to yourself, looking in the mirror",
+Topic,PlayerDialogue,Custom,,,"What d'ya think, hon? Roguishly handsome, or handsomely roguish?",,"joking, referring to yourself, looking in the mirror",
+Topic,PlayerDialogue,Custom,,,"Wow, your hair looks great.",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"Wow, your hair looks great.",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"Blonde, brunette, purple. It all looks good on you.",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,Did you color your hair?,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,New hair color?,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,You get a hair cut yesterday?,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,I love the haircut.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"Wait, did you go to the hairdresser yesterday?",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,Did I mention how much I love your new hairstyle?,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,New hairstyle? Love it.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,New hairstyle? I love it.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,You do know you've got the most beautiful eyes I've ever seen?,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,Shaun totally has your eyes.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,Such pretty eyes.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,Are you staring at those lips too? Or is that just me?,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"Hon, you have such great cheekbones.",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,You have such a cute chin.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"You have great lips, you know that?",,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,Such a great smile.,,"playful banter, lovingly married for years",
+Topic,PlayerDialogue,Custom,,,"Shaun has your smile, you know?",,"playful banter, lovingly married for years",
+Scene,SceneDialogue,Custom,MQ101_012_AfterNukeTV,MQ101_012_AfterNukeTV,I've got Shaun. Let's go!,MQ101_012_AfterNukeTV,Prewar Player House: Just saw the TV news that the Bombs are coming. You and your spouse begin racing to the Vault. / Afraid,MQ101_012_AfterNukeTV
+Scene,SceneDialogue,Custom,MQ101_004_ShaunCries,MQ101_004_ShaunCries,"*chuckle* I know we were nervous at first, but I'm glad we got Codsworth.",MQ101_004_ShaunCries,Codsworth has just gone to check on baby Shaun,MQ101_004_ShaunCries
+Scene,SceneDialogue,Custom,MQ101_005_DoorbellRepeat,MQ101_005_DoorbellRepeat,"He's persistent, I'll give him that.",MQ101_005_DoorbellRepeat,"playful banter to spouse, salesman keeps ringing the door",MQ101_005_DoorbellRepeat
+Scene,SceneDialogue,Custom,MQ101_005_DoorbellRepeat,MQ101_005_DoorbellRepeat,"Maybe if we ignore him, he'll go away.",MQ101_005_DoorbellRepeat,"playful banter to spouse, salesman keeps ringing the door",MQ101_005_DoorbellRepeat
+Scene,SceneDialogue,Custom,MQ101_005_DoorbellRepeat,MQ101_005_DoorbellRepeat,He's still there. I'm kind of impressed.,MQ101_005_DoorbellRepeat,"playful banter to spouse, salesman keeps ringing the door",MQ101_005_DoorbellRepeat
+Scene,SceneDialogue,Custom,MQ101_005_DoorbellRepeat,MQ101_005_DoorbellRepeat,"Well, now I just wanna know who's going to give up first. Us or him.",MQ101_005_DoorbellRepeat,"playful banter to spouse, salesman keeps ringing the door",MQ101_005_DoorbellRepeat
+Scene,SceneDialogue,Custom,MQ101_019a_Vault111Greeting01a,MQ101_019a_Vault111Greeting01a,We did it. We made it. We're okay...,MQ101_019a_Vault111Greeting01a,"bombs just dropped, barely made it into the vault / Puzzled",MQ101_019a_Vault111Greeting01a
+Scene,SceneDialogue,Custom,MQ101_020a_Vault111ToPods,MQ101_020a_Vault111ToPods,"Hon, could you help me?",MQ101_020a_Vault111ToPods,trying to calm Shaun down,MQ101_020a_Vault111ToPods
+Scene,SceneDialogue,Custom,MQ101_020a_Vault111ToPods,MQ101_020a_Vault111ToPods,Shaun's acting up. Could you help?,MQ101_020a_Vault111ToPods,trying to calm Shaun down,MQ101_020a_Vault111ToPods
+Scene,SceneDialogue,Custom,MQ101_020a_Vault111ToPods,MQ101_020a_Vault111ToPods,He's being fussy. Could you...?,MQ101_020a_Vault111ToPods,trying to calm Shaun down,MQ101_020a_Vault111ToPods
+Scene,SceneDialogue,Custom,MQ101_020b_Vault111Shaun,MQ101_020b_Vault111Shaun,Who's my little guy? I'm not going far. I'll just be over there.,MQ101_020b_Vault111Shaun,"comforting Shaun, about to enter the Vault cryopod",MQ101_020b_Vault111Shaun
+Scene,SceneDialogue,Custom,MQ101_020b_Vault111Shaun,MQ101_020b_Vault111Shaun,"There she is, see? Mommy's not going far.",MQ101_020b_Vault111Shaun,talking to baby shaun,MQ101_020b_Vault111Shaun
+Scene,SceneDialogue,Custom,MQ101_023_BangOnCryopod,MQ101_023_BangOnCryopod,*grunt*,MQ101_023_BangOnCryopod,"banging on the glass of the cryopod, trapped inside",MQ101_023_BangOnCryopod
+Scene,SceneDialogue,Custom,MQ101_023_BangOnCryopod,MQ101_023_BangOnCryopod,*grunt*,MQ101_023_BangOnCryopod,"banging on the glass of the cryopod, trapped inside",MQ101_023_BangOnCryopod
+Scene,SceneDialogue,Custom,MQ101_023_BangOnCryopod,MQ101_023_BangOnCryopod,*grunt*,MQ101_023_BangOnCryopod,"banging on the glass of the cryopod, trapped inside",MQ101_023_BangOnCryopod
+Scene,SceneDialogue,Custom,MQ101_023_BangOnCryopod,MQ101_023_BangOnCryopod,*grunt*,MQ101_023_BangOnCryopod,"banging on the glass of the cryopod, trapped inside",MQ101_023_BangOnCryopod
+Scene,SceneDialogue,Custom,MQ101_023_BangOnCryopod,MQ101_023_BangOnCryopod,*grunt*,MQ101_023_BangOnCryopod,"banging on the glass of the cryopod, trapped inside",MQ101_023_BangOnCryopod
+Scene,SceneDialogue,Custom,MQ101_020a_Vault111ToPods,MQ101_020a_Vault111ToPods,"It'll be okay. Mommy's right here, see?",MQ101_020a_Vault111ToPods,baby is being fussy,MQ101_020a_Vault111ToPods
+Scene,SceneDialogue,Custom,MQ101_019b_Vault111Suit,MQ101_019b_Vault111Suit,Thanks. What now?,MQ101_019b_Vault111Suit,talking to a vault tec scientist handing you a vault suit / Tired,MQ101_019b_Vault111Suit
+Scene,SceneDialogue,Custom,MQ101_018_NukeExplodes,MQ101_018_NukeExplodes,HOLD ON!,MQ101_018_NukeExplodes,"screaming over the sound of the nuclear blast, elevator is descending",MQ101_018_NukeExplodes
+Scene,SceneDialogue,Custom,MQ101_018_NukeExplodes,MQ101_018_NukeExplodes,Oh my god!,MQ101_018_NukeExplodes,"screaming, the nuclear bomb has just detonated on the horizon",MQ101_018_NukeExplodes
+Scene,SceneDialogue,Custom,MQ101_011_SpouseTakesBaby,MQ101_011_SpouseTakesBaby,"Yeah, sounds like fun.",MQ101_011_SpouseTakesBaby,Surprised,MQ101_011_SpouseTakesBaby
+Scene,SceneDialogue,Custom,MQ101_020a_Vault111ToPods,MQ101_020a_Vault111ToPods,See? This is our new home...,MQ101_020a_Vault111ToPods,talking to baby Shaun / Nervous,MQ101_020a_Vault111ToPods
+Scene,SceneDialogue,Custom,MQ101_006_VaultTecRep,MQ101_006_VaultTecRep,Sounds great.,MQ101_006_VaultTecRep,"sincere, friendly",MQ101_006_VaultTecRep
+Scene,SceneDialogue,Custom,MQ101_020a_Vault111ToPods,MQ101_020a_Vault111ToPods,How long do you think we'll be down here?,MQ101_020a_Vault111ToPods,"still a bit shaken from the bomb blast, referring to how long you'll be living in the vault (in years or whatnot) / Nervous",MQ101_020a_Vault111ToPods
+Scene,SceneDialogue,Custom,MQ101_021_Vault111InPod,MQ101_021_Vault111InPod,Time for a whole new life...,MQ101_021_Vault111InPod,waiting in the pod,MQ101_021_Vault111InPod
+Scene,SceneDialogue,Custom,MQ101_018_ElevatorDescendScene,MQ101_018_ElevatorDescendScene,He's fine. We're gonna be okay. I love you.,MQ101_018_ElevatorDescendScene,"panicked, short of breathe, just ran to the Vault elevator / Nervous",MQ101_018_ElevatorDescendScene
+Scene,SceneDialogue,Custom,MQ101_018_ElevatorDescendScene,MQ101_018_ElevatorDescendScene,Almost there. We're gonna be okay. I love you. Both of you.,MQ101_018_ElevatorDescendScene,"re-record for PlayerVoiceMale01, need each sentence to be clear, especially ""we're gonna be okay"". Whole tone needs to be more panicked / Nervous",MQ101_018_ElevatorDescendScene
+Scene,SceneDialogue,Custom,MQ101_013_EmergencyBroadcast,MQ101_013_EmergencyBroadcast,"Hold on, little guy. Hold on...",MQ101_013_EmergencyBroadcast,"comforting baby Shaun, who is crying / Nervous",MQ101_013_EmergencyBroadcast
+Scene,SceneDialogue,Custom,MQ101_011_SpouseTakesBaby,MQ101_011_SpouseTakesBaby,"That's my boy. On his best behavior, just like his dad. Well, most of the time, anyway...",MQ101_011_SpouseTakesBaby,playful,MQ101_011_SpouseTakesBaby
+Scene,SceneDialogue,Custom,MQ101_009_GotoShaun,MQ101_009_GotoShaun,"*chuckle* Go ahead, honey. I'll be there in a second to help, okay?",MQ101_009_GotoShaun,playful banter,MQ101_009_GotoShaun
+Scene,SceneDialogue,Custom,MQ101_010_SpouseMobile,MQ101_010_SpouseMobile,"My boy isn't giving his mother any trouble, is he?",MQ101_010_SpouseMobile,"talking to spouse, playful",MQ101_010_SpouseMobile
+Scene,SceneDialogue,Custom,MQ101_010_SpouseMobile,MQ101_010_SpouseMobile,"Hey, I just fixed that mobile on his crib the other day. Why don't you give it a spin?",MQ101_010_SpouseMobile,pronounced MOH-BEEL,MQ101_010_SpouseMobile
+Scene,SceneDialogue,Custom,MQ101_011_SpouseTakesBaby,MQ101_011_SpouseTakesBaby,"Listen, after breakfast, I was thinking we could head to the park for a bit. Weather should hold up.",MQ101_011_SpouseTakesBaby,Friendly,MQ101_011_SpouseTakesBaby
+Scene,SceneDialogue,Custom,MQ101_011_SpouseTakesBaby,MQ101_011_SpouseTakesBaby,Codsworth? What's wrong?,MQ101_011_SpouseTakesBaby,projected voice - Codsworth is in the room down the hall / Puzzled,MQ101_011_SpouseTakesBaby
+Scene,SceneDialogue,Custom,MQ101_012_AfterNukeTV,MQ101_012_AfterNukeTV,Oh my god...,MQ101_012_AfterNukeTV,Nervous,MQ101_012_AfterNukeTV
+Scene,SceneDialogue,Custom,MQ101_012_AfterNukeTV,MQ101_012_AfterNukeTV,We need to get to the Vault. Now!,MQ101_012_AfterNukeTV,"shouting the last part: ""We need to get to the Vault. NOW!"" / Nervous",MQ101_012_AfterNukeTV
+Scene,SceneDialogue,Custom,MQ101_008_AfterSign,MQ101_008_AfterSign,Um...Thanks again...,MQ101_008_AfterSign,Puzzled,MQ101_008_AfterSign
+Scene,SceneDialogue,Custom,MQ101_008_AfterSign,MQ101_008_AfterSign,"Hey, it's peace of mind. That's worth a little paperwork, right?",MQ101_008_AfterSign,Friendly,MQ101_008_AfterSign
+Scene,SceneDialogue,Custom,MQ101_008_AfterSign,MQ101_008_AfterSign,"For you and Shaun, no price is too high.",MQ101_008_AfterSign,Friendly,MQ101_008_AfterSign
+Scene,SceneDialogue,Custom,MQ101_008_AfterSign,MQ101_008_AfterSign,*chuckle* Good answer.,MQ101_008_AfterSign,Friendly,MQ101_008_AfterSign
+Scene,SceneDialogue,Custom,MQ101_008_AfterSign,MQ101_008_AfterSign,I have my moments.,MQ101_008_AfterSign,Confident,MQ101_008_AfterSign
+Scene,SceneDialogue,Custom,MQ101_007_PlayerDoesntSign,MQ101_007_PlayerDoesntSign,*Sigh* Okay. You talked me into it.,MQ101_007_PlayerDoesntSign,"laughing a little. Playful. You got talked into it, but don't mind.",MQ101_007_PlayerDoesntSign
+Scene,SceneDialogue,Custom,MQ101_005_Doorbell,MQ101_005_Doorbell,*sigh* It's that salesman again. I don't know why he keeps bothering you.,MQ101_005_Doorbell,salesman just rung the doorbell,MQ101_005_Doorbell
+Scene,SceneDialogue,Custom,MQ101_006_VaultTecRep,MQ101_006_VaultTecRep,Then I'm glad you caught up with me.,MQ101_006_VaultTecRep,"sincere, polite",MQ101_006_VaultTecRep
+Scene,SceneDialogue,Custom,MQ101_006_VaultTecRep,MQ101_006_VaultTecRep,The apocalypse? Well Hell. Sign me up!,MQ101_006_VaultTecRep,sarcastic,MQ101_006_VaultTecRep
+Scene,SceneDialogue,Custom,MQ101_001_MirrorScene,MQ101_001_MirrorScene,You think?,MQ101_001_MirrorScene,Flirting,MQ101_001_MirrorScene
+Scene,SceneDialogue,Custom,MQ101_001_MirrorScene,MQ101_001_MirrorScene,Right.,MQ101_001_MirrorScene,"playful banter, lovingly married for years / Flirting",MQ101_001_MirrorScene
+Scene,SceneDialogue,Custom,MQ101_001_MirrorScene,MQ101_001_MirrorScene,War never changes...,MQ101_001_MirrorScene,practicing the speech in the mirror / Neutral,MQ101_001_MirrorScene
+Scene,SceneDialogue,Custom,MQ101_006_VaultTecRep,MQ101_006_VaultTecRep,,MQ101_006_VaultTecRep,DO NOT RECORD,MQ101_006_VaultTecRep
+Scene,SceneDialogue,Custom,MQ101_007_PlayerDoesntSign,MQ101_007_PlayerDoesntSign,,MQ101_007_PlayerDoesntSign,DO NOT RECORD,MQ101_007_PlayerDoesntSign
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Hon?,,player is standing there not saying anything,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Are you okay?,,player is standing there not saying anything,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,You all right?,,player is standing there not saying anything,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Honey?,,player is standing there not saying anything,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,You look tired...,,player is standing there not saying anything,
+Miscellaneous,Miscellaneous,ImpatientNegative,,,Vault-Tec...pfft...,,"Re-record, more under your breathe, referring to the Vault-Tec Rep",
+Miscellaneous,Miscellaneous,ImpatientNegative,,,So stubborn...,,"under your breathe, referring to your spouse",
+Miscellaneous,Miscellaneous,Greeting,,,We need to get in! We're on the list.,,talking to the soldier checking people into the vault,
+Miscellaneous,Miscellaneous,Greeting,,,"Codsworth. Stay safe, buddy.",,"leaving the house to go to the Vault, leaving Codsworth behind",
+Miscellaneous,Miscellaneous,Hello,,,"Can you get the door? Whenever I answer, he just asks for you over and over.",,"playful, loving",
+Miscellaneous,Miscellaneous,Hello,,,I've tried waiting him out before. Doesn't work. Might as well just answer the door.,,"playful, loving",
+Miscellaneous,Miscellaneous,Hello,,,"Come on, get the door. I'll owe you one, okay?",,"playful, loving",
+Miscellaneous,Miscellaneous,Hello,,,It's that salesman. He'll want to talk to you.,,"playful, loving",
+Miscellaneous,Miscellaneous,Hello,,,I'll be there in a minute. Go ahead.,,"playful, loving, sending the player to check on Shaun",
+Miscellaneous,Miscellaneous,Hello,,,"Let's give Codsworth a break. I'll be along right after you, okay?",,"playful, loving",
+Miscellaneous,Miscellaneous,Hello,,,Go on. I'll be right there.,,"playful, loving",
+Miscellaneous,Miscellaneous,Hello,,,"You okay? Didn't forget how to handle the baby, did we?",,"playful, loving",
+Miscellaneous,Miscellaneous,Hello,,,Don't worry. I won't take long. Go ahead.,,"playful, loving",
+Miscellaneous,Miscellaneous,Hello,,,"I know it's corny to say this, but everything I need in life is right here in this room.",,"playful, loving, in the baby's room with your wife",
+Miscellaneous,Miscellaneous,Hello,,,"I didn't do a bad job decorating here, huh? Okay, maybe one too many rocket ships...",,"playful, loving, in the baby's room with your wife",
+Miscellaneous,Miscellaneous,Hello,,,"We'll have plenty of time together now that I'm back. You, me, and Shaun.",,"playful, loving, in the baby's room with your wife",
+Miscellaneous,Miscellaneous,Hello,,,What's wrong with Codsworth?,,Codsworth just shouted from the living room down the hall,
+Miscellaneous,Miscellaneous,Hello,,,We should check on Codsworth.,,Codsworth just shouted from the living room down the hall,
+Miscellaneous,Miscellaneous,Hello,,,Better see what's gotten Codsworth so upset.,,Codsworth just shouted from the living room down the hall,
+Miscellaneous,Miscellaneous,Hello,,,What's going on?,,"afraid, watching the news report, talks about bombs dropping",
+Miscellaneous,Miscellaneous,Hello,,,Wait. What did he just say?,,"watching the news report, talks about bombs dropping",
+Miscellaneous,Miscellaneous,Hello,,,Oh god...,,"watching the news report, talks about bombs dropping",
+Miscellaneous,Miscellaneous,Hello,,,"Well, look at you, how'd a guy like me ever get so lucky, huh?",,"relaxing at home, speaking to your spouse who is only a few feet away from you",
+Miscellaneous,Miscellaneous,Hello,,,Can't believe it's almost Halloween. Need to finish making Shaun's costume.,,you and your spouse are making Shaun's costume at home,
+Miscellaneous,Miscellaneous,Hello,,,"Do I look nervous? I look nervous, don't I?",,"relaxing at home but still nervous about your upcoming speech, speaking to your spouse who is only a few feet away from you",
+Miscellaneous,Miscellaneous,Hello,,,"We should take Codsworth to be serviced soon, don't you think?",,"MARK FOR RE-RECORD. relaxing at home, speaking to your spouse who is only a few feet away from you",
+Miscellaneous,Miscellaneous,Hello,,,Just getting ready.,,at the bathroom mirror - your spouse just tapped you on the shoulder and is only a couple of feet away from you,
+Miscellaneous,Miscellaneous,Hello,,,I'll just be a minute.,,at the bathroom mirror - your spouse just tapped you on the shoulder and is only a couple of feet away from you,
+Miscellaneous,Miscellaneous,Hello,,,Why don't you see if breakfast is ready?,,at the bathroom mirror - your spouse just tapped you on the shoulder and is only a couple of feet away from you,
+Miscellaneous,Miscellaneous,Hello,,,I'm hurrying up. Don't worry.,,at the bathroom mirror - your spouse just tapped you on the shoulder and is only a couple of feet away from you,
+Miscellaneous,Miscellaneous,Hello,,,Oh my god.,,"with your spouse, listening to the TV report of the bombs dropping / Nervous",
+Miscellaneous,Miscellaneous,Hello,,,Hon?,,"with your spouse, listening to the TV report of the bombs dropping / Nervous",
+Miscellaneous,Miscellaneous,Hello,,,Hey Hon...,,tapping your spouse on the shoulder to get their attention,
+Miscellaneous,Miscellaneous,Hello,,,Hey Hon...,,tapping your spouse on the shoulder to get their attention,
+Miscellaneous,Miscellaneous,Hello,,,Hon...,,tapping your spouse on the shoulder to get their attention,
+Miscellaneous,Miscellaneous,Hello,,,Hon...,,tapping your spouse on the shoulder to get their attention,
+Miscellaneous,Miscellaneous,Hello,,,Hey Codsworth...,,tapping on the shoulder to get their attention,
+Miscellaneous,Miscellaneous,Hello,,,Codsworth...,,tapping on the shoulder to get their attention,
+Miscellaneous,Miscellaneous,Hello,,,Can I help you?,,greeting salesman at the door,
+Miscellaneous,Miscellaneous,Hello,,,Codsworth...,,"bombs are dropping, more concerned and rushed",
+Miscellaneous,Miscellaneous,Hello,,,Codsworth?,,"bombs are dropping, more concerned and rushed",
+Miscellaneous,Miscellaneous,Hello,,,Hon...,,"tired, still nervous, being led to the Vault",
+Miscellaneous,Miscellaneous,Hello,,,Hon...,,"tired, still nervous, being led to the Vault",
+Miscellaneous,Miscellaneous,Hello,,,"Hey, Hon...",,"tired, still nervous, being led to the Vault",
+Miscellaneous,Miscellaneous,Hello,,,"Hey, Hon...",,"tired, still nervous, being led to the Vault",
+Miscellaneous,Miscellaneous,Hello,,,Keep going!,,"panicked, running to the Vault with your spouse",
+Miscellaneous,Miscellaneous,Hello,,,Hold on to Shaun!,,"panicked, running to the Vault with your spouse",
+Miscellaneous,Miscellaneous,Hello,,,I'm right here! Go!,,"panicked, running to the Vault with your spouse",
+Miscellaneous,Miscellaneous,Hello,,,Just a little farther...,,"tired, still nervous, being led to the Vault",
+Miscellaneous,Miscellaneous,Hello,,,We're almost there...,,"tired, still nervous, being led to the Vault",
+Miscellaneous,Miscellaneous,Hello,,,"Come on, let's get to the Vault...",,"tired, still nervous, being led to the Vault, talking to your spouse",
+Miscellaneous,Miscellaneous,Hello,,,The Vault's this way! Come on!,,"panicked, running to the Vault with your spouse",
+Miscellaneous,Miscellaneous,Hello,,,This way!,,"panicked, running to the Vault with your spouse",
+Miscellaneous,Miscellaneous,Hello,,,Follow me!,,"panicked, running to the Vault with your spouse",

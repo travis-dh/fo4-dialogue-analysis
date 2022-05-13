@@ -1,0 +1,80 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Player Default: Easy there big fella, I was just looking around.","I'm plenty calm, considering you invaded my home.","Erikson: Look, I don't really want any trouble. I broke off from the group I came here with a long time ago.",,DLC03_ADV017InitConversation
+Scene,SceneDialogue,Custom,,Player Default: Die mutant scum!,Like hell!,"Erikson: Look, I don't really want any trouble. I broke off from the group I came here with a long time ago.",,DLC03_ADV017InitConversation
+Scene,SceneDialogue,Custom,,Player Default: Nice hat.,Uh... thanks. I skinned it myself.,"Erikson: Look, I don't really want any trouble. I broke off from the group I came here with a long time ago.",,DLC03_ADV017InitConversation
+Scene,SceneDialogue,Custom,,Player Default: You're a super mutant? I'm surprised you didn't attack me.,"Yeah well, maybe you shouldn't be so quick to jump to conclusions.","Erikson: Look, I don't really want any trouble. I broke off from the group I came here with a long time ago.",,DLC03_ADV017InitConversation
+Scene,SceneDialogue,Custom,,"Player Default: I'm plenty calm, considering you invaded my home.","Look, I don't really want any trouble. I broke off from the group I came here with a long time ago.",,,DLC03_ADV017InitConversation
+Scene,SceneDialogue,Custom,,,I just... started seeing things differently when we came to the island and I couldn't stand how the other super mutants act to humans.,,,DLC03_ADV017InitConversation
+Scene,SceneDialogue,Custom,,,I keep to my self up here and train my dogs. Do a bit of trade with people too. At least those that don't open fire on me.,,,DLC03_ADV017InitConversation
+Scene,SceneDialogue,Custom,,,Don't see any reason we can't do the same. Come on up if you'd like.,,,DLC03_ADV017InitConversation
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I was interested in the dog.,That's a shame.,,,DLC03_ADV017_EriksonBuyDog
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I was interested in the dog.,I'm all out at the moment. Give me a week or two and I'll train up another.,,,DLC03_ADV017_EriksonBuyDog
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I've changed my mind.,Whatever.,,,DLC03_ADV017_EriksonBuyDog
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I've changed my mind.,Good luck out there.,,,DLC03_ADV017_EriksonBuyDog
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I've changed my mind.,Fine.,,,DLC03_ADV017_EriksonBuyDog
+Miscellaneous,Miscellaneous,SharedInfo,,,Where did you want it to guard?,,,DLC03_ADV017_BuyDog
+Miscellaneous,Miscellaneous,SharedInfo,,Erikson: Where did you want it to guard?,Alright. Make sure you give it a good home.,,,DLC03_ADV017_BuyDog
+Miscellaneous,Miscellaneous,SharedInfo,,Erikson: Where did you want it to guard?,"Treat 'em right, and they'll do the same for you.",,,DLC03_ADV017_BuyDog
+Miscellaneous,Miscellaneous,SharedInfo,,Erikson: Where did you want it to guard?,Sounds good. You take care.,,,DLC03_ADV017_BuyDog
+Miscellaneous,Miscellaneous,SharedInfo,,Erikson: Where did you want it to guard?,"Well, I'm not giving you one of my dogs if you don't have somewhere for it to live.",Player Default: You interested in a trade?,,DLC03_ADV017_BuyDog
+Scene,SceneDialogue,Custom,,,"Come on out stranger, this doesn't have to get messy.",,,DLC03_ADV017_IntroYellingScene
+Scene,SceneDialogue,Custom,,,"Who ever's in there, you'd better come out quiet.",,,DLC03_ADV017_IntroYellingScene
+Scene,SceneDialogue,Custom,,,"If you've hurt my dogs, this is gonna go bad for you.",,,DLC03_ADV017_IntroYellingScene
+Scene,SceneDialogue,Custom,,,"If you're one of those trappers, I've warned you to stay the hell away from me!",,,DLC03_ADV017_IntroYellingScene
+Scene,SceneDialogue,Custom,,,"Alright, that's a start. Now you just put your weapon away and I'll do the same. Then we can talk.",Erikson: Good. Just come on down here and we'll talk.,,DLC03_ADV017_IntroPlayerApproach
+Scene,SceneDialogue,Custom,,,Put your weapon away and we can talk.,Erikson: Good. Just come on down here and we'll talk.,,DLC03_ADV017_IntroPlayerApproach
+Scene,SceneDialogue,Custom,,,"Look, if we both just put our weapons away this can stay peaceful.",Erikson: Good. Just come on down here and we'll talk.,,DLC03_ADV017_IntroPlayerApproach
+Scene,SceneDialogue,Custom,,,I'm not lookin' for trouble here. Put that weapon away and I'll do the same.,Erikson: Good. Just come on down here and we'll talk.,,DLC03_ADV017_IntroPlayerApproach
+Scene,SceneDialogue,Custom,,"Erikson: Alright, that's a start. Now you just put your weapon away and I'll do the same. Then we can talk.",Good. Just come on down here and we'll talk.,,,DLC03_ADV017_IntroPlayerApproach
+Scene,SceneDialogue,Custom,,"Player Default: Sorry, I thought this was just another trapper camp and that they would attack me if given the chance.","Well, at least you're honest. Damn shame, I had almost gotten them trained up right.",,"Heavy sigh. Sad, but predictable.",DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,"Player Default: Sorry, I thought this was just another trapper camp and that they would attack me if given the chance.",Typical human. Can't leave anyone in peace.,,,DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,"Player Default: No, I just found them like this.",Damn. Must have been trappers again.,,,DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,"Player Default: No, I just found them like this.",Damn. Must have been trappers again.,,,DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,"Player Default: No, I just found them like this.",You're lying.,,,DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,"Player Default: It wasn't my fault, they attacked me.","Damn, and I thought I was making progress with them.",,"Heavy sigh, you had almost rehabilitated the dogs",DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,"Player Default: It wasn't my fault, they attacked me.","If you're going to lie, at least be convincing.",,"Heavy sigh, you had almost rehabilitated the dogs",DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,Player Default: These were your dogs?,"Yes, I've been training them. Did you attack my dogs?","Player Default: Sorry, I thought this was just another trapper camp and that they would attack me if given the chance.",,DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,Player Default: These were your dogs?,"Then we've got a problem. So, did you kill them?","Player Default: Sorry, I thought this was just another trapper camp and that they would attack me if given the chance.",,DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,Player Default: These were your dogs?,Quit dodging the question. Did you attack them?,"Player Default: Sorry, I thought this was just another trapper camp and that they would attack me if given the chance.",,DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,,Did you do this? Did you kill my dogs?,"Player Default: Sorry, I thought this was just another trapper camp and that they would attack me if given the chance.",,DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,,You guys alright?,,Talking to his dogs after getting home.,DLC03_ADV017_IntroEndNormal
+Scene,SceneDialogue,Custom,,,"Yeah, you're good.","Erikson: Sorry about pointing a gun at you earlier, I just get a bit jumpy when a stranger might be killing my dogs.","subdued happiness. your dogs are the only thing that make you happy, but you are being guarded around strangers.",DLC03_ADV017_IntroEndNormal
+Scene,SceneDialogue,Custom,,"Erikson: Yeah, you're good.","Sorry about pointing a gun at you earlier, I just get a bit jumpy when a stranger might be killing my dogs.",,,DLC03_ADV017_IntroEndNormal
+Scene,SceneDialogue,Custom,,DLC03SuperMutantErikson: Hey.,Huh. That's a nice lookin' dog you've got there.,Erikson: Where'd you find him?,,DLC03_ADV017_IntroEndDogmeat
+Scene,SceneDialogue,Custom,,Erikson: Huh. That's a nice lookin' dog you've got there.,Where'd you find him?,"Player Default: I found him in the Commonwealth, near Boston.",,DLC03_ADV017_IntroEndDogmeat
+Scene,SceneDialogue,Custom,,"Player Default: I found him in the Commonwealth, near Boston.",Hm. Long way. Got a good coat on him.,Erikson: Here. Something for your pup.,,DLC03_ADV017_IntroEndDogmeat
+Scene,SceneDialogue,Custom,,Player Default: It's none of your business.,Alright fine. You just be on your way then.,Erikson: Here. Something for your pup.,,DLC03_ADV017_IntroEndDogmeat
+Scene,SceneDialogue,Custom,,"Player Default: To be honest, he kind of found me.","Hm. Yep, certainly had a few follow me home before.",Erikson: Here. Something for your pup.,,DLC03_ADV017_IntroEndDogmeat
+Scene,SceneDialogue,Custom,,Player Default: Why do you ask?,Just curious. Never seen one with that coloring before.,Erikson: Here. Something for your pup.,,DLC03_ADV017_IntroEndDogmeat
+Scene,SceneDialogue,Custom,,"Erikson: Wait a minute, I know that voice...",Longfellow? You're still alive eh? Tell your friend to come on out here.,Erikson: Mind telling your friend to ease off the weapon?,"Feigned Surprise. gruff joking, think Walter Matthaeu from Grumpy Old Men",DLC03_ADV017_LongfellowIntro
+Scene,SceneDialogue,Custom,,Erikson: Longfellow? You're still alive eh? Tell your friend to come on out here.,Mind telling your friend to ease off the weapon?,Companion: I've had dealings with him before. Not a bad sort.,,DLC03_ADV017_LongfellowIntro
+Scene,SceneDialogue,Custom,,Player Default: You interested in a trade?,Hm.. maybe.,,,DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,"Player Default: Look, I'm honestly sorry about your dogs. I didn't realize.",You know... just... don't be so quick to kill everything in sight next time.,Player Default: You interested in a trade?,"Start heated, but back down. Trying to make peace with it. can't save every dog.",DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,"Player Default: Look, I'm honestly sorry about your dogs. I didn't realize.",Just let it go. No point crying over what's done.,Player Default: You interested in a trade?,"Still angry, but trying to cut off the topic.",DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,"Player Default: Look, I'm honestly sorry about your dogs. I didn't realize.",Which one would you like?,Player Default: I was interested in the dog.,,DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,"Player Default: So, why don't you hate humans like the rest of your kind seem to?","Started seeing things more clearly when we came here. Who knows, maybe it's the fog. I just don't see what the point of us all killing each other is.",Player Default: You interested in a trade?,,DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,"Player Default: So, why don't you hate humans like the rest of your kind seem to?",Yeah. As guard dogs. Not all can be trained though. Most are used to being kicked or shot at.,,,DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,,"I can only manage a few at a time though, so unless I find a new home for one of them, I can't really take on any more.",Player Default: You interested in a trade?,,DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,"Player Default: So, why don't you hate humans like the rest of your kind seem to?",My kind are mostly stupid brutes.,,,DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,,"Used to trade with a couple people in Far Harbor, but they don't leave the settlement much these days.",,,DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,,The rest of the people on the island are worse.,Player Default: You interested in a trade?,,DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,"Player Default: So, why don't you hate humans like the rest of your kind seem to?",Hm...,,"Very neutral, this is just a connective line",DLC03_ADV017_EriksonMain
+Scene,SceneDialogue,Custom,,,There's a lighthouse on the south end of the island. Big family of trappers lives there.,,,DLC03_ADV017_EriksonIslandTips
+Scene,SceneDialogue,Custom,,,Northwest of Far Harbor there's a big building on a cliff. Full of ghouls.,,,DLC03_ADV017_EriksonIslandTips
+Scene,SceneDialogue,Custom,,,But every once in a while I've seen robots come out of there too.,,,DLC03_ADV017_EriksonIslandTips
+Scene,SceneDialogue,Custom,,,Overheard a couple trappers saying that lumber yard would be a good place to build a camp.,,,DLC03_ADV017_EriksonIslandTips
+Scene,SceneDialogue,Custom,,,"Near the center of the island, there's an old military base. The Children of Atom live there.",,,DLC03_ADV017_EriksonIslandTips
+Scene,SceneDialogue,Custom,,,"Watch your back if you head to the Harbor Grand Hotel, the super mutants there aren't as friendly as me.",,,DLC03_ADV017_EriksonIslandTips
+Scene,SceneDialogue,Custom,,,There's a group of humans living at the top of the mountain. Heard someone call them Simps. Maybe you know what that means.,,,DLC03_ADV017_EriksonIslandTips
+Scene,SceneDialogue,Custom,,,Nothing right now.,,,DLC03_ADV017_EriksonIslandTips
+Scene,SceneDialogue,Custom,,Player Default: Hm. Long way. Got a good coat on him.,Here. Something for your pup.,Erikson: Did you need something?,,DLC03_ADV017_IntroEndDogmeat
+Scene,SceneDialogue,Custom,,Erikson: Here. Something for your pup.,Did you need something?,Player Default: You interested in a trade?,,DLC03_ADV017_IntroEndDogmeat
+Scene,SceneDialogue,Custom,,,Longfellow. Good to see you're still kicking.,"Companion: Yeah, you too.",,DLC03_ADV017_LongfellowIntro2
+Scene,SceneDialogue,Custom,,Erikson: Longfellow. Good to see you're still kicking.,You vouching for him?,Companion: No. Not from what I've seen.,,DLC03_ADV017_LongfellowIntro2
+Miscellaneous,Miscellaneous,Greeting,,,What were you doing up there in my camp?,"Player Default: Easy there big fella, I was just looking around.",,DLC03_ADV017InitConversation
+Miscellaneous,Miscellaneous,Greeting,,,"Ah, hello again. Did you need something?",Player Default: You interested in a trade?,,DLC03_ADV017_EriksonMain
+Miscellaneous,Miscellaneous,Greeting,,,Looking to trade?,Player Default: You interested in a trade?,,DLC03_ADV017_EriksonMain
+Miscellaneous,Miscellaneous,Greeting,,,There's probably a bed around if you need a rest.,Player Default: You interested in a trade?,,DLC03_ADV017_EriksonMain
+Miscellaneous,Miscellaneous,Greeting,,,"You hungry? Here, have this.",Player Default: You interested in a trade?,,DLC03_ADV017_EriksonMain
+Miscellaneous,Miscellaneous,Greeting,,,Hey.,Erikson: Huh. That's a nice lookin' dog you've got there.,,DLC03_ADV017_IntroEndDogmeat
+Miscellaneous,Miscellaneous,Greeting,,,"Here, this is for your friend. Not often that I see other super mutants willing to travel with a human.",Player Default: You interested in a trade?,,DLC03_ADV017_EriksonMain

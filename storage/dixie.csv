@@ -1,0 +1,78 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: We're packing up to leave and we're outta here! I wanted to leave this message for you...,It's awfully sweet of ya'll to welcome a stranger into your home.,"Player Default: Oh, you've no idea how happy we are that we ran into you.",Friendly,DLC04Holotapes_DixieSouvenir01
+Scene,SceneDialogue,Custom,,"Player Default: Oh, you've no idea how happy we are that we ran into you.",Not as happy as I am.,"Player Default: What are you doing? Wait, I thought you were here to...Argh!",Pulling out your knife to kill someone with enjoyment. / SinisterSmile,DLC04Holotapes_DixieSouvenir01
+Scene,SceneDialogue,Custom,,Player Default: Sam! No! What have you done?,"Don't worry, honey. I'd never keep two love birds apart.",Player Default: No! Argh!,"Just killed a husband, now you're going to kill a wife, with enjoyment! / SinisterSmile",DLC04Holotapes_DixieSouvenir01
+Scene,SceneDialogue,Custom,,Player Default: No! Argh!,Ah. That went well.,,Satisfied Ah. Very happy with yourself.  / Confident,DLC04Holotapes_DixieSouvenir01
+Scene,SceneDialogue,Custom,,,What's this? I think I'll keep you as my little souvenir.,,Excited to find the holotape still recording. / Amused,DLC04Holotapes_DixieSouvenir01
+Scene,SceneDialogue,Custom,,"Player Default: This whole plan was a bust. As it is, we barely got enough to pay for our losses.","Hey, are all ya'll traders? If so, I know a pretty good post nearby. Guarantee you'll turn a profit if you want to check it out.","Player Default: Yeah? Well, I'm not sure we'd want to trust anything some stranger in a mask told us. Sure you're not some sort of Raider?",Friendly,DLC04Holotapes_DixieSouvenir02
+Scene,SceneDialogue,Custom,,"Player Default: Yeah? Well, I'm not sure we'd want to trust anything some stranger in a mask told us. Sure you're not some sort of Raider?",I ain't no Raider. And I only wear this mask on account of some yao guai wantin' a piece of me a while back.,,Friendly,DLC04Holotapes_DixieSouvenir02
+Scene,SceneDialogue,Custom,,,"It's up to you folks. If ya'll are interested, Nuka-World's just a short trip north. Can't miss it!",,Friendly,DLC04Holotapes_DixieSouvenir02
+Scene,SceneDialogue,Custom,,,"Just tell 'em Dixie sent ya, and they'll treat you and yours like ya'll are family.","Player Default: Hmm, we'll talk about it. Thanks for stopping by.",Friendly,DLC04Holotapes_DixieSouvenir02
+Scene,SceneDialogue,Custom,,Player Default: I can't wait to see... What the hell? How'd you get in here?,A girl's got her ways. I'm just here 'cause Anna's big into helping Nisha keep the peace between all us gangs.,,Amused,DLC04Holotapes_DixieSouvenir03
+Scene,SceneDialogue,Custom,,,Me? Not so much.,Player Default: What the...?,Amused,DLC04Holotapes_DixieSouvenir03
+Scene,SceneDialogue,Custom,,Player Default: What the...?,That should keep you quiet 'till I get you back to Fizztop.,,Amused,DLC04Holotapes_DixieSouvenir03
+Scene,SceneDialogue,Custom,,,Aw were you recording this just for lil old me? You Operators are such sweethearts.,,Amused,DLC04Holotapes_DixieSouvenir03
+Scene,SceneDialogue,Custom,,Player Default: Let them live. We could use more workers in Nuka-World.,"Oh, come on!",,"Over exaggerated... Oh, COOOME On!  / Surprised",DLC04RESceneCT03_Dixie
+Scene,SceneDialogue,Custom,,,*sigh* All right. But... That doesn't mean I can't bleed them just a little.,,SinisterSmile,DLC04RESceneCT03_Dixie
+Scene,SceneDialogue,Custom,,Player Default: Let them live. We could use more workers in Nuka-World.,"Didn't anyone ever tell you, ""Never come between a gal and her prey?""",,SinisterSmile,DLC04RESceneCT03_Dixie
+Scene,SceneDialogue,Custom,,Player Default: Take the ghoul first.,I like your style. Save the fresh one for last.,,SinisterSmile,DLC04RESceneCT03_Dixie
+Scene,SceneDialogue,Custom,,Player Default: Take the old man first.,The weak are always the first to go.,,SinisterSmile,DLC04RESceneCT03_Dixie
+Scene,SceneDialogue,Custom,,Player Default: Does it really matter?,Of course it matters! One of these lucky fellas gets the privilege of watching the other die first.,Player Default: Let them live. We could use more workers in Nuka-World.,Confident,DLC04RESceneCT03_Dixie
+Scene,SceneDialogue,Custom,,"DLC04NPCFDixie: Well, well, well, fancy meeting you out here... Overboss.","We were just debating which of these little lambs to bleed first. But since you're here, maybe you'd like the honor?",Player Default: Let them live. We could use more workers in Nuka-World.,SinisterSmile,DLC04RESceneCT03_Dixie
+Scene,SceneDialogue,Custom,,,"You heard the boss. We can't kill 'em, but that doesn't mean we can't have a little fun first.","Victim02: No, please! I'll do anything!",Confident,DLC04RESceneCT03_DixieFinal
+Scene,SceneDialogue,Custom,,,"All right, ladies. Let's get started, shall we?","Victim02: No, please! I'll do anything!",Confident,DLC04RESceneCT03_DixieFinal
+Scene,SceneDialogue,Custom,,Victim01: Do it! I've had enough of this world.,I love it when they beg.,Victim01: Do it! I've had enough of this world.,SinisterSmile,DLC04RESceneCT03_DixieFinal
+Scene,SceneDialogue,Custom,,Victim01: Do it! I've had enough of this world.,"Ah, that's better. Now, let's get back to Nuka-World.",,Confident,DLC04RESceneCT03_DixieFinal
+Miscellaneous,Miscellaneous,Hello,,,"Way to steal a gal's fun, though I can't say I blame you.",,SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,That ought to tide me over for a few days.,,SinisterSmile,
+Miscellaneous,Miscellaneous,Greeting,,,"Well, well, well, fancy meeting you out here... Overboss.","Dixie: We were just debating which of these little lambs to bleed first. But since you're here, maybe you'd like the honor?",Coy. / SinisterSmile,DLC04RESceneCT03_Dixie
+Combat,Combat,Death,,,Finally...,,"Player just killed you, but you're at peace with your death, being united with the dark entity you believe in. / InPain",
+Combat,Combat,Hit,,,That all you got?,,Player hit you in combat. Coy taunting. / SinisterSmile,
+Combat,Combat,Hit,,,Do your worst.,,Player hit you in combat. Coy taunting. / SinisterSmile,
+Combat,Combat,Hit,,,You're not even trying.,,Player hit you in combat. Coy taunting. / SinisterSmile,
+Combat,Combat,Taunt,,,Don't hold out on me. I can take it.,,Taunting the player in combat and loving it. / SinisterSmile,
+Combat,Combat,Taunt,,,I just want to carve a new smile on that face.,,Taunting the player in combat and loving it. / SinisterSmile,
+Combat,Combat,Taunt,,,"If you're not going to try, you might as well die.",,Taunting the player in combat and loving it. Intentional rhyming. / SinisterSmile,
+Detection,Detection,NormalToCombat,,,Time for some fun.,,Starting combat. Excited. / SinisterSmile,
+Detection,Detection,NormalToCombat,,,"Oh, the things I'm going to show you.",,Starting combat. Excited. / SinisterSmile,
+Detection,Detection,NormalToCombat,,,You just made my day.,,Starting combat. Excited. / SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,"The new OB, eh? I reckon you're here to talk to Nisha. She's in charge.",,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"So this is what it feels like to be on top of the world. Not bad, OB, not bad.",,Amused,
+Miscellaneous,Miscellaneous,Hello,,,A girl could definitely get used to this!,,Amused,
+Miscellaneous,Miscellaneous,Hello,,,You sure put a shine on this place. I knew you liked it here.,,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,"You got good taste, OB. I knew I liked you.",,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,This is the most fun I've had since we got here.,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,Are all ya'll vault dwellers this talented?,,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,"Stick with us, OB. Those other gangs ain't nearly as fun.",,SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,Don't tell me you're afraid to get a little blood on your hands.,,SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,"I'm not feeling the love here, OB. We ain't scaring you away, are we?",,SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,I'm fixin' to toss your head on a pike if you don't walk away right now.,,Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"If you ain't here to make things right, you may want to turn tail and get before I forget my manners.",,Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"Watch your back, OB. You sure ain't making any friends 'round here.",,Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"If I hear them Pack animals talkin' trash one more time, they're gonna wake up short a few body parts.",,SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,All that time in front of a mirror and the Operators still don't know they look like fools. Bless their little hearts.,,Amused,
+Miscellaneous,Miscellaneous,Hello,,,Never understood the Power Armor thing. Takes half the thrill out of a fight.,,Thinking,
+Miscellaneous,Miscellaneous,Hello,,,I love it when the traders try to escape and the collar triggers. Nothing like watching a head go pop!,,Amused,
+Miscellaneous,Miscellaneous,Hello,,,I'm surprised Colter lasted as long as he did. Pretty sure we all wanted him dead.,,Amused,
+Scene,SceneDialogue,Custom,,"DLC04NPCFDixie: Hey, boss.",Was wondering when you were gonna come see me. Heard you're collecting toys to help you mark us out some new stompin' grounds.,"Dixie: Well, ours is, without a doubt, the finest little piece of hardware you've ever laid your eyes on.",Amused,DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,Dixie: Was wondering when you were gonna come see me. Heard you're collecting toys to help you mark us out some new stompin' grounds.,"Well, ours is, without a doubt, the finest little piece of hardware you've ever laid your eyes on.","Dixie: Sure, she may be based off some shitty Operator tech. But a little Dixie love and some fine tweaking go a long way.",Friendly,DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,"Dixie: Well, ours is, without a doubt, the finest little piece of hardware you've ever laid your eyes on.","Sure, she may be based off some shitty Operator tech. But a little Dixie love and some fine tweaking go a long way.",,Conspiratorial,DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,,"Let's just say, them fever blossoms ain't no joke. Mix 'em with just the right ingredients? Makes people madder than a hornet's nest.",,Conspiratorial,DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,,Perfect for convincing any meddlesome settlers to rip each other apart.,Player Default: Sounds like I'll be putting it to good use.,Conspiratorial,DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,Player Default: Sounds like I'll be putting it to good use.,Damn straight you will. I trust she'll make her mama proud.,Dixie: Only wish I could watch the show myself.,Confident,DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,Player Default: I think there's already enough violence around here. I don't plan on making any more.,"What's that? I couldn't hear you just then. Give her a try, boss. My girl's sure to do the trick.",Dixie: Only wish I could watch the show myself.,Pretending she didn't hear the player say he was against violence. / Puzzled,DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,Player Default: Oh so it's like an instant play date.,"I like how you think, boss.",Dixie: Only wish I could watch the show myself.,Amused,DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,Player Default: Is there anything else I should know about this?,"I mean, she won't work on bots or lower gen Synths, but otherwise, that's it in a nutshell.",,Conspiratorial,DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,,"All you got to do is sit back, relax, and enjoy the show!",Player Default: Sounds like I'll be putting it to good use.,Amused,DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,Player Default: Damn straight you will. I trust she'll make her mama proud.,Only wish I could watch the show myself.,,Neutral,DLC04MQ04DixieSceneQuest_Scene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, boss.",Dixie: Was wondering when you were gonna come see me. Heard you're collecting toys to help you mark us out some new stompin' grounds.,Friendly,DLC04MQ04DixieSceneQuest_Scene
+Miscellaneous,Miscellaneous,Greeting,,,Boss. The grenades. I hope you're planning on using them well.,Player Default: Sounds like I'll be putting it to good use.,"Boss is a greeting to the player here. ""The grenades"" is referencing a previous conversation the two of you had. / Neutral",DLC04MQ04DixieSceneQuest_Scene
+Scene,SceneDialogue,Custom,,,"Well, well, look who it is.","Disciple: Yeah, yeah. Savoy said he'd rather skin himself alive than listen to another one of my ideas. He can kiss my ass.",Amused,DLC04ConvDiscipleDixieScene
+Scene,SceneDialogue,Custom,,,Someone's looking glum. Why the long face?,"Disciple: Yeah, yeah. Savoy said he'd rather skin himself alive than listen to another one of my ideas. He can kiss my ass.",Concerned,DLC04ConvDiscipleDixieScene
+Scene,SceneDialogue,Custom,,,Did you figure it out yet?,"Disciple: Yeah, yeah. Savoy said he'd rather skin himself alive than listen to another one of my ideas. He can kiss my ass.",Amused,DLC04ConvDiscipleDixieScene
+Scene,SceneDialogue,Custom,,"Disciple: Yeah, yeah. Savoy said he'd rather skin himself alive than listen to another one of my ideas. He can kiss my ass.","Told you that dog won't hunt. But you can still run your pretty, little idea by me tomorrow. You know where to find me.",,Start with an amused laugh. / Amused,DLC04ConvDiscipleDixieScene
+Scene,SceneDialogue,Custom,,"Disciple: Yeah, yeah. Savoy said he'd rather skin himself alive than listen to another one of my ideas. He can kiss my ass.","That's 'cause we want to run this place someday, dummy, so until we do, I suggest you wise up. And only a mile? I'm disappointed.",,Scolding. / Concerned,DLC04ConvDiscipleDixieScene
+Scene,SceneDialogue,Custom,,"Disciple: Yeah, yeah. Savoy said he'd rather skin himself alive than listen to another one of my ideas. He can kiss my ass.","Aw, if you can't figure it out soon, come see me. A Disciple that can't do a simple knife trick? I'll put you out of your misery myself.",,"Half joking, half serious / Amused",DLC04ConvDiscipleDixieScene
+Scene,SceneDialogue,Custom,,,"Come on, girl, you know we should run this place. Not some lil greenie Gage dragged in.","Nisha: We're giving him a second chance. Gage screws this up, he knows we'll skin him alive. So shut up and be patient.",Concerned,DLC04DialogueRaiderDiscipleScenes_Intro
+Scene,SceneDialogue,Custom,,"Nisha: We're giving him a second chance. Gage screws this up, he knows we'll skin him alive. So shut up and be patient.",What about you big guy? Nothing to say on the matter?,Savoy: As long as he doesn't get in my way... don't much care.,Amused,DLC04DialogueRaiderDiscipleScenes_Intro
+Scene,SceneDialogue,Custom,,Savoy: As long as he doesn't get in my way... don't much care.,"Yeah, figured as much.",Nisha: Both of you just get out of here. And make sure the others get the message.,Amused,DLC04DialogueRaiderDiscipleScenes_Intro

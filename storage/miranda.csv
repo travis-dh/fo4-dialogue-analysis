@@ -1,0 +1,30 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Player Default: Mmm, I suppose. One could do with a little excitement now and then, though - don't you think?",I'm sure I'll see you around. Do take care!,,,DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: Oh, that's so good to hear!","I would like to see it again someday, once things settle down here.",,,DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,,"Acadia is all well and good, I suppose, but honestly, it does get a bit boring.",Player Default: You're safe here; that's what really matters.,,DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,Player Default: You're safe here; that's what really matters.,"Mmm, I suppose. One could do with a little excitement now and then, though - don't you think?",Miranda: I'm sure I'll see you around. Do take care!,,DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: I'm sure they wouldn't mind one less mouth to feed. Why don't you just leave, then.","Oh no, I just couldn't leave my dear friends behind.",Miranda: I'm sure I'll see you around. Do take care!,,DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: If this is boring, I'd hate to see what you consider ""exciting.""","Oh, aren't you a card.",Miranda: I'm sure I'll see you around. Do take care!,"mildly amused, disinterested",DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: No offense, but... are you crazy?","Ha ha, oh you! I think we're all a little mad in the end.",Miranda: I'm sure I'll see you around. Do take care!,,DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,"DLC03FemaleMiranda: So, you're that new fellow from the Commonwealth!","It's so wonderful to meet someone from back home. I'm afraid Kasumi doesn't seem to want to discuss it, but... how are things there?","Player Default: Getting better every day, I think.",,DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: Getting better every day, I think.","Oh, that's so good to hear!","Miranda: I would like to see it again someday, once things settle down here.",,DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,Player Default: Feels like things are getting worse by the day.,"Oh, don't be silly. It was never all that bad, not really...","Miranda: I would like to see it again someday, once things settle down here.",,DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: It's the same as it's ever been, as far as I can tell.","Well, that's good to hear. It certainly did have its charms.","Miranda: I would like to see it again someday, once things settle down here.",,DLC03AcadiaDialogueMirandaInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: You think of the Commonwealth as ""back home?"" Aren't you a synth?","Well certainly, why wouldn't I? It's where I came from!","Miranda: I would like to see it again someday, once things settle down here.",,DLC03AcadiaDialogueMirandaInitialScene
+Combat,Combat,Death,,,Hnnh.,,,
+Combat,Combat,Hit,,,Urg.,,,
+Combat,Combat,Hit,,,Hunh.,,,
+Combat,Combat,Hit,,,Hurgh.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Darling, don't leave me waiting...",,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Come now. The suspense is killing me.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Well? What is it?,,,
+Miscellaneous,Miscellaneous,Greeting,,,"I'd love to talk to you, but I don't think you should keep DiMA waiting.",,,
+Miscellaneous,Miscellaneous,Greeting,,,"So, you're that new fellow from the Commonwealth!","Miranda: It's so wonderful to meet someone from back home. I'm afraid Kasumi doesn't seem to want to discuss it, but... how are things there?",,DLC03AcadiaDialogueMirandaInitialScene
+Miscellaneous,Miscellaneous,Greeting,,,"So, you're that new gal from the Commonwealth!","Miranda: It's so wonderful to meet someone from back home. I'm afraid Kasumi doesn't seem to want to discuss it, but... how are things there?",,DLC03AcadiaDialogueMirandaInitialScene
+Miscellaneous,Miscellaneous,Hello,,,"Such a shame about those poor folks in Far Harbor. I didn't know them, but a shame nonetheless...",,"sympathetic, but fake / Apologetic",
+Miscellaneous,Miscellaneous,Hello,,,"Those poor, misguided souls. Following ""atom into"" what... a big glowing cloud of nothing. Such a pity.",,,
+Miscellaneous,Miscellaneous,Hello,,,One day I'm going to get out there and see the rest of the world.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Synths and humans will all get along someday, I just know it.",,,
+Miscellaneous,Miscellaneous,Hello,,,I can't wait to get out of here and travel.,,,
+Miscellaneous,Miscellaneous,Hello,,,I don't know why everyone's so surprised we're all getting along on our little island. I told 'em all it'd turn out this way!,,content,
+Miscellaneous,Miscellaneous,Hello,,,"They keep saying that folks in Far Harbor killed DiMA, but that just can't be right. No way they'd be so cruel.",,,

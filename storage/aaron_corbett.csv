@@ -1,0 +1,48 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,You got it.,,,DLC04DialogueSettlement_AaronVendor
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Let's see what you've got.,Alright.,,,DLC04DialogueSettlement_AaronVendor
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Let's see what you've got.,Sure.,,,DLC04DialogueSettlement_AaronVendor
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Let's see what you've got.,Okay.,,,DLC04DialogueSettlement_AaronVendor
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Whatever you want.,,,DLC04DialogueSettlement_AaronVendor
+Scene,SceneDialogue,Custom,,Player Default: You'll see a lot of hard-working people forced to peddle stolen goods to the travelers who come from all over the wasteland.,"We do all the work, then the gangs reap the rewards. Pretty sweet setup, at least for you.",,,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,,"But I guess it doesn't really matter what I think, does it? As long as I'm wearing this collar, I'm no better than a slave.","Player Default: Hey, it's not my fault things are like this. I just got here.",,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Why do I have to pay for this stuff? I'm the Overboss, remember?","Like any market, this place needs caps to run. Whether it's for payoffs, bribes, you name it.",,,DLC04DialogueSettlement_AaronVendor
+Scene,SceneDialogue,Custom,,,"I don't mean any offense, boss. It's just the way things run around here.","AaronCorbett: Like any market, this place needs caps to run. Whether it's for payoffs, bribes, you name it.",Apologetic,DLC04DialogueSettlement_AaronVendor
+Scene,SceneDialogue,Custom,,Player Default: Nothing like that. I'm just having a look around.,Yeah? Let me tell you what you're going to see.,,,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,,You'll see a lot of hard-working people forced to peddle stolen goods to the travelers who come from all over the wasteland.,"AaronCorbett: We do all the work, then the gangs reap the rewards. Pretty sweet setup, at least for you.",,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Lose the atittude, or lose something a lot more valuable.","Sorry. I know you didn't ask for this. It's just hard not to be bitter, you know?","AaronCorbett: We do all the work, then the gangs reap the rewards. Pretty sweet setup, at least for you.","Contrite, a little nervous / Nervous",DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Lose the atittude, or lose something a lot more valuable.","If I seem a little salty today, it's just because of how things work around here.","AaronCorbett: We do all the work, then the gangs reap the rewards. Pretty sweet setup, at least for you.",,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,Player Default: Damn right. You should thank me. It's not every day I wander out to visit the peasants.,"For a second there, I thought you might be making a joke. Hell, I even considered laughing.",,Sardonic humor,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,,But then I remembered that it's not a joke at all. It's the truth I live with every day.,"AaronCorbett: We do all the work, then the gangs reap the rewards. Pretty sweet setup, at least for you.",Lecturing / Stern,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,Player Default: What's your problem?,Well let's just say the situation in Nuka-World has never been what I'd call equitable.,"AaronCorbett: We do all the work, then the gangs reap the rewards. Pretty sweet setup, at least for you.",,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,Player Default: Never said it was. Just figured you should know what you're getting into.,"Now, if you need guns or ammo, I'm the one you talk to. And before you ask, yes, everyone pays. Even you.",Player Default: Let's see what you've got.,,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Hey, it's not my fault things are like this. I just got here.",Never said it was. Just figured you should know what you're getting into.,"AaronCorbett: Now, if you need guns or ammo, I'm the one you talk to. And before you ask, yes, everyone pays. Even you.",,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Unless you want a bullet in the brain, shut the hell up and get back to work.",Fine. I've said all I wanted to say anyway.,"AaronCorbett: Now, if you need guns or ammo, I'm the one you talk to. And before you ask, yes, everyone pays. Even you.",,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, but you're a slave with all his limbs still attached. For now.","You're right, life is wonderful! Thanks so much for opening my eyes!","AaronCorbett: Now, if you need guns or ammo, I'm the one you talk to. And before you ask, yes, everyone pays. Even you.",,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Do you complain this much to everyone, or am I just being singled out here?",Well it's not every day that one of us low-life traders gets to have words with the high and mighty Overboss.,,,DLC04DialogueSettlement_AaronFirstScene
+Scene,SceneDialogue,Custom,,,Maybe I didn't want to waste the opportunity to tell you how things really are around here.,"AaronCorbett: Now, if you need guns or ammo, I'm the one you talk to. And before you ask, yes, everyone pays. Even you.",,DLC04DialogueSettlement_AaronFirstScene
+Combat,Combat,Death,,,Ugh.,,,
+Combat,Combat,Death,,,Nuh.,,,
+Combat,Combat,Death,,,Gah.,,,
+Combat,Combat,Flee,,,Aaaiiee!,,,
+Combat,Combat,Flee,,,Agghh!,,,
+Detection,Detection,NormalToAlert,,,What the?!,,,
+Detection,Detection,NormalToAlert,,,What?,,,
+Detection,Detection,NormalToAlert,,,Huh?,,,
+Miscellaneous,Miscellaneous,Idle,,,Guns and ammo here.,,A vendor calling out to sell his wares,
+Miscellaneous,Miscellaneous,Idle,,,"Weapons of all kinds, yours for a fair price.",,A vendor calling out to sell his wares,
+Miscellaneous,Miscellaneous,Idle,,,"Pistols, rifles, grenades and every other kind of weapon you need.",,A vendor calling out to sell his wares,
+Miscellaneous,Miscellaneous,Idle,,,Ammo here. Don't want to be caught without it.,,A vendor calling out to sell his wares,
+Miscellaneous,Miscellaneous,Idle,,,Wasteland's a dangerous place. Arm yourself with a quality weapon right here.,,A vendor calling out to sell his wares,
+Miscellaneous,Miscellaneous,Greeting,,,"Well, look who it is. Are you here to grace my humble market stand with your presence, oh great boss?",Player Default: Nothing like that. I'm just having a look around.,Bitter / Irritated,DLC04DialogueSettlement_AaronFirstScene
+Miscellaneous,Miscellaneous,Greeting,,,"It's a new day, boss. We all owe you one. Now what can I get for you?",Player Default: Let's see what you've got.,Warming up to the player a bit / Neutral,DLC04DialogueSettlement_AaronVendor
+Miscellaneous,Miscellaneous,Greeting,,,"Guns, ammo, you know the deal.",Player Default: Let's see what you've got.,"Disinterested, unhappy / Depressed",DLC04DialogueSettlement_AaronVendor
+Miscellaneous,Miscellaneous,Greeting,,,Buying or browsing?,Player Default: Let's see what you've got.,"Disinterested, unhappy / Irritated",DLC04DialogueSettlement_AaronVendor
+Miscellaneous,Miscellaneous,Greeting,,,Here to stock up? Or just making the rounds?,Player Default: Let's see what you've got.,You don't really care,DLC04DialogueSettlement_AaronVendor
+Miscellaneous,Miscellaneous,Greeting,,,"Everyone runs out of ammo sooner or later. So, what do you need?",Player Default: Let's see what you've got.,You don't really care,DLC04DialogueSettlement_AaronVendor
+Miscellaneous,Miscellaneous,Greeting,,,"Unless you're here to take this collar off me and set me free, I'll assume you need guns or ammo.",Player Default: Let's see what you've got.,Sardonic / Irritated,DLC04DialogueSettlement_AaronVendor
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Something wrong? Decided this Overboss thing isn't for you?,,Curious why the player has stopped talking,
+Scene,SceneDialogue,Custom,,"Traveler: I'm telling you, that rifle is stolen! Some Raiders hit my farm and grabbed it! Hell, they're probably here right now.","Look, pal, I don't know anything about it.",,"Defensive, annoyed, not my problem / Irritated",DLC04HubConversation01_TravelerAaron_Scene
+Scene,SceneDialogue,Custom,,,"You can either pay the caps and take it home, or you take it up with one of the guards.",,Brush-off / Irritated,DLC04HubConversation01_TravelerAaron_Scene
+Scene,SceneDialogue,Custom,,,I'd pick the first option if I were you. The last guy who complained doesn't walk so good anymore.,Traveler: You know what? Just forget about it.,Menacing / Irritated,DLC04HubConversation01_TravelerAaron_Scene
+Scene,SceneDialogue,Custom,,Traveler: You know what? Just forget about it.,"Way ahead of you, pal.",,Sneering sarcasm / Sarcastic,DLC04HubConversation01_TravelerAaron_Scene

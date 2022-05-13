@@ -1,0 +1,1309 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Preston: Take care, Codsworth.","I'll head for home, then. Good luck.",,,COMPrestonFollowStartScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"Good luck, General. I hope you find your son.",,Concerned,
+Scene,SceneDialogue,Custom,,"Ada: Once I'm in the robot workbench, just install the Radar Beacon and I'll do the rest.",Shall I go with you? Or meet you there?,"Player Default: Yes, come with me.",Question,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,"Player Default: Yes, come with me.",Let's be on our way.,,Neutral,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,Player Default: Never mind.,I will do my best to make my way there when you're ready.,,Neutral,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,Player Default: I'll meet you there.,Right. I will be on my way then.,,Neutral,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,Player Default: What would you prefer?,"I would prefer to accompany you. While I could make my way there myself, it would be more efficient for us to travel together.","Player Default: Yes, come with me.",Neutral,DLC01MQ02_2600_AdaWorkbench
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Good. The installation should be simple.,"Once I'm in the robot workbench, just install the Radar Beacon and I'll do the rest.",Ada: Shall I go with you? Or meet you there?,Confident,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,Player Default: Good. The installation should be simple.,"Once I'm in the robot workbench, just install the Radar Beacon and I'll do the rest.",Ada: Shall I go with you? Or meet you there?,Confident,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,"Player Default: Finally, we have an advantage.","Perhaps, but it isn't quite that simple.",Ada: The encryption on the source signal is complex but not beyond solving.,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: Another Robobrain? Who cares.,We care. Allow me to explain.,Ada: The encryption on the source signal is complex but not beyond solving.,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: Which means the one I destroyed isn't the only Robobrain under the Mechanist's control.,"Yes, and we can use this to our advantage.",Ada: The encryption on the source signal is complex but not beyond solving.,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: And this is important because?,I will explain.,Ada: The encryption on the source signal is complex but not beyond solving.,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: It had this strange device on it.,Let's have a look.,,Neutral,DLC01MQ02_2400_AdaBeaconCompanion
+Scene,SceneDialogue,Custom,,Player Default: Just this piece of junk.,Even junk may hold a purpose.,,Neutral,DLC01MQ02_2400_AdaBeaconCompanion
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, it had this interesting tech.",Intriguing. Let's examine it.,,Neutral,DLC01MQ02_2400_AdaBeaconCompanion
+Scene,SceneDialogue,Custom,,Player Default: Have you seen a robot with a brain like that before?,"No, but my old caravan discovered records about them while we were scavenging military facilities.",,Neutral,DLC01MQ02_2400_AdaBeaconCompanion
+Scene,SceneDialogue,Custom,,,"According to my data banks, it's called the ""Robobrain.""",,Neutral,DLC01MQ02_2400_AdaBeaconCompanion
+Scene,SceneDialogue,Custom,,,"It was considered one of the most technologically superior robots ever constructed, but the model never reached full production status.",Player Default: It had this strange device on it.,Neutral,DLC01MQ02_2400_AdaBeaconCompanion
+Scene,SceneDialogue,Custom,,"Ada: You'll need to use a robot workbench to ensure proper installation, and my presence will be required.","In order to maximize our time efficiency, perhaps I should accompany you now?","Player Default: Yes, come with me.",Question,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,"Ada: You'll need to use a robot workbench to ensure proper installation, and my presence will be required.","To maintain peak efficiency, I strongly recommend that we remain together until the Radar Beacon is successfully installed.","Player Default: Yes, come with me.",Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,Player Default: I found this strange device on a robot.,Let's have a look.,Ada: Impressive technology.,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,Player Default: Just this piece of junk.,Even junk may hold a purpose.,Ada: Impressive technology.,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,Player Default: I was able to find some some interesting tech on a robot.,Intriguing. Let's examine it.,Ada: Impressive technology.,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Have you seen a robot with a brain before?,"I've never encountered such a robot, but my old caravan discovered records about them while we were scavenging military facilities.",,Relaying information. / Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,,"According to my data banks, it's called the ""Robobrain.""",,Relaying information. / Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,,"It was considered one of the most technologically superior robots ever constructed, but the model never reached full production status.",Ada: Impressive technology.,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,Player Default: It's time. Let's do this.,Good. The installation should be simple.,"Ada: Once I'm in the robot workbench, just install the Radar Beacon and I'll do the rest.",Neutral,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,Player Default: Let's just get this over with.,"Don't worry, the installation shouldn't take long.","Ada: Once I'm in the robot workbench, just install the Radar Beacon and I'll do the rest.",Neutral,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,Player Default: Time to operate.,Just be certain you don't disconnect anything essential while you're rummaging through my circuitry.,"Ada: Once I'm in the robot workbench, just install the Radar Beacon and I'll do the rest.",Concerned,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,Player Default: Does it have to be you? I could install it on a different robot.,My memory contains more relevant knowledge than any new robot you attempt to create.,,Neutral,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,,"I appreciate your concern, but I can assure you I won't suffer any harm from the installation.",,appreciative / Grateful,DLC01MQ02_2600_AdaWorkbench
+Scene,SceneDialogue,Custom,,,"So, are you ready?",Player Default: It's time. Let's do this.,Question,DLC01MQ02_2600_AdaWorkbench
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Let's have a look.,Impressive technology.,,as if examining something / Thinking,DLC01MQ02_2400_AdaBeaconNotCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,,"If my analysis is correct, this is a specialized Radar Beacon.",,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,,I suspect it's how the Mechanist was keeping track of the Robobrain you destroyed.,,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,,"As the next logical step, I need you to install this beacon within me so we can use it to our advantage.",Player Default: Sounds like a solid plan.,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,Player Default: Sounds like a solid plan.,I'm glad you agree.,"Ada: You'll need to use a robot workbench to ensure proper installation, and my presence will be required.",Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,Player Default: That's too dangerous.,"Perhaps, but I'm confident that the reward will outweigh the risk.","Ada: You'll need to use a robot workbench to ensure proper installation, and my presence will be required.",Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,Player Default: Let's just hope it's safe.,I share your sentiment.,"Ada: You'll need to use a robot workbench to ensure proper installation, and my presence will be required.",Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,Player Default: Are you sure?,"While there's only a 78.3% chance that I'm correct, I'd like to point out that it's the only lead we have.",Player Default: Sounds like a solid plan.,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,"Player Default: Yes, come with me.",Let's be on our way.,,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,"Player Default: Not right now, Ada.",I will be here when you're ready.,,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,Player Default: I'll get you later.,Very well. I'll be here when you're ready.,,Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,Player Default: Your presence is required?,"Yes, in order to modify me, I will need to accompany you.","Player Default: Yes, come with me.",Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I'm glad you agree.,"You'll need to use a robot workbench to ensure proper installation, and my presence will be required.","Ada: In order to maximize our time efficiency, perhaps I should accompany you now?",Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Scene,SceneDialogue,Custom,,DLC01RobotCompanionFemaleDefault: A moment. The modification was successful. New hardware has been detected and software is updating... And installation complete.,Analyzing Mechanist hardware...,,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,,The Radar Beacon is receiving a strong encrypted signal but I can't determine the source.,Player Default: It's a good start at least.,slightly disappointed / Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: Good. Let's get started.,I'm uploading the location of the Robobrain to your Pip-Boy now...,,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,,"Just be careful... these robots tend to travel in groups, so you're likely to encounter heavy resistance.",,Concerned,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: It's a good start at least.,Absolutely.,"Ada: With some additional assistance, I should be able to decrypt the signal and locate the Mechanist.",Friendly explanation. / Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,"Player Default: Well, that's useless. I did all this for nothing?",On the contrary.,"Ada: With some additional assistance, I should be able to decrypt the signal and locate the Mechanist.",Reassuring. Trying to be positive. / Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,"Player Default: Damn, then we've hit a dead end.",Not necessarily.,"Ada: With some additional assistance, I should be able to decrypt the signal and locate the Mechanist.",Supportive. / Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: Do you think the Mechanist knows we're tampering with the beacon?,I've already added failsafes to ensure my location is secure and prevent any unintended commands the signal may issue.,,Friendly explanation. / Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,,"Unfortunately, one of that will help us determine the signal's source.",Player Default: It's a good start at least.,Concerned,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: Absolutely.,"With some additional assistance, I should be able to decrypt the signal and locate the Mechanist.",,Confident,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,,"Fortunately, I'm detecting another Robobrain in the Commonwealth that's receiving the same signal.","Player Default: Finally, we have an advantage.",Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,"Player Default: Perhaps, but it isn't quite that simple.",The encryption on the source signal is complex but not beyond solving.,,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,,"If you can bring me two additional beacons, they should provide the keys and algorithms that I need to enhance my decryption routines.",Player Default: Alright. Let's do it.,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: Alright. Let's do it.,Good. Let's get started.,Ada: I'm uploading the location of the Robobrain to your Pip-Boy now...,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: This better work.,"Provided the human element doesn't fail, it will.",Ada: I'm uploading the location of the Robobrain to your Pip-Boy now...,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: Looks like it's Robobrain season.,At least until our mission is complete.,Ada: I'm uploading the location of the Robobrain to your Pip-Boy now...,Neutral,DLC01MQ02_2900_AdaInstalled
+Scene,SceneDialogue,Custom,,Player Default: Are you sure this will work?,"I've calculated an 96.9% chance of success. Given your capabilities, I believe the odds to be in our favor.",Player Default: Alright. Let's do it.,Neutral,DLC01MQ02_2900_AdaInstalled
+Miscellaneous,Miscellaneous,SharedInfo,,,You are... leaving?,,Player walked away. / Question,DLC01MQ02_2400_AdaBeaconCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,,Where are you going?,,Player walked away. / Question,DLC01MQ02_2400_AdaBeaconCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,,I don't believe we were finished.,,Player walked away. / Puzzled,DLC01MQ02_2400_AdaBeaconCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,DLC01RobotCompanionFemaleDefault: As I was saying...,I'm relieved to see you've returned. Were you able to find anything at General Atomics?,Ada: Impressive technology.,Relived and curious. / Neutral,DLC01MQ02_2400_AdaBeaconNotCompanion
+Miscellaneous,Miscellaneous,SharedInfo,,DLC01RobotCompanionFemaleDefault: As I was saying...,Did you retrieve something from that robot?,Player Default: It had this strange device on it.,Ada: Curious. / Neutral,DLC01MQ02_2400_AdaBeaconCompanion
+Miscellaneous,Miscellaneous,Greeting,,,A moment. The modification was successful. New hardware has been detected and software is updating... And installation complete.,Ada: Analyzing Mechanist hardware...,Neutral,DLC01MQ02_2900_AdaInstalled
+Miscellaneous,Miscellaneous,Greeting,,,Is it time to use the workbench?,,"Slight suspicion, but generally good mood. / Neutral",
+Miscellaneous,Miscellaneous,SharedInfo,,,As I was saying...,Ada: Did you retrieve something from that robot?,Player walked away and has returned. / Neutral,DLC01MQ02_2400_AdaBeaconCompanion
+Miscellaneous,Miscellaneous,Greeting,,,Are you ready to install the Radar Beacon?,Player Default: It's time. Let's do this.,Neutral,DLC01MQ02_2600_AdaWorkbench
+Miscellaneous,Miscellaneous,Greeting,,,Your return tells me the workbench must be ready.,,Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: General Atomics has valuable salvage. Chances are high the robots are still there.,"I'm familiar with the settlement. Hopefully, I may be of some use there.",,Hopeful / Neutral,DLC01MQ01_2400_AdaIntro
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: General Atomics has valuable salvage. Chances are high the robots are still there.,"Very well. I cannot stay here. You can find me at the Red Rocket should you need me. I recall, it would be a suitable place for me to stay.",,"A bit sad when she says ""I cannot stay here"" because that's where her friends were all killed. / Neutral",DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: You'll need help if you want to succeed.,I'm aware of this.,Ada: You have shown willingness to aid others. I ask that you please assist me in stopping this Mechanist.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: The Mechanist? Sounds ridiculous.,"Perhaps, but the name does not change the level of threat.",Ada: You have shown willingness to aid others. I ask that you please assist me in stopping this Mechanist.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: It sounds like it could be a dangerous undertaking.,"For me alone, it certainly is.",Ada: You have shown willingness to aid others. I ask that you please assist me in stopping this Mechanist.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Who's the Mechanist?,The only information I have comes from the eyebot broadcasts. The false claims of peace and justice...,,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,The only certainty is that these robots bring only death.,Ada: You have shown willingness to aid others. I ask that you please assist me in stopping this Mechanist.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: You couldn't have known something like this would happen.,The probability of attack was high. I should have forced our departure.,"Ada: In recompense, I will seek justice for my friends and stop these robots from causing further harm.",Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,"Player Default: Well, you certainly paid that price.",Your apathy only increases my feelings of responsibility.,"Ada: In recompense, I will seek justice for my friends and stop these robots from causing further harm.",Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,"Player Default: Well, what's done is done. You can't change the past.",You're right. I must look to the future.,"Ada: In recompense, I will seek justice for my friends and stop these robots from causing further harm.",Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: So why did you end up staying?,Our caravan specialized in mechanical repairs and trade. The Commonwealth has an abundance of salvage that would benefit our business.,,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,It was a calculated risk.,Player Default: You couldn't have known something like this would happen.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,"Player Default: Settlers, merchants... and caravans like ours.",We knew we ran the risk of encountering more of these hostile robots if we stayed in the Commonwealth. If only we had made the decision to leave.,Player Default: You couldn't have known something like this would happen.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: The probability of attack was high. I should have forced our departure.,"In recompense, I will seek justice for my friends and stop these robots from causing further harm.",,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,It's time to uncover the source and confront their leader: the Mechanist.,Player Default: You'll need help if you want to succeed.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,"Jackson, someone has answered your distress call. Jackson?",,"Thinks she has good news, but then realizes Jackson is dead. / Neutral",DLC01MQ01_2350_PlayerEnteredArea
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, let's go, Ada.",General Atomics has valuable salvage. Chances are high the robots are still there.,"Ada: I'm familiar with the settlement. Hopefully, I may be of some use there.","Friendly, but not overly so. Codsworth may be in a state of ""disdain"" with the player. / Neutral",DLC01MQ01_2400_AdaIntro
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Not right now.,Perhaps there is a place I may be of use until you return?,"Ada: I'm familiar with the settlement. Hopefully, I may be of some use there.",Curious. / Question,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Are you sure you're up for it?,Yes. I will not rest until the Mechanist is stopped.,"Player Default: Yeah, let's go, Ada.",Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Looks like it was your lucky day.,An interesting choice of words.,Ada: My name is Ada. This was the third time we'd been attacked by robots like these.,Knows she's both lucky to be alive and unlucky that all her friends are dead. / Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Are you ok?,"Thanks to your timing, my diagnostics show only superficial damage. I wish I could say the same for my late friends.",Player Default: I'm sorry for your loss.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Are you ok?,"Physically, the damage is minor, but I am registering sadness and anger at the loss of my friends.",,Somber,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,"It may sound strange coming from a robot, but they were my... family.",,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,"Again, I thank you for your efforts. I know they would have thanked you as well.",Player Default: I'm sorry for your loss.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Are you ok?,"I am heavily modified, but at my core, I am an Assaultron.",Ada: My name is Ada. This was the third time we'd been attacked by robots like these.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: An interesting choice of words.,My name is Ada. This was the third time we'd been attacked by robots like these.,,Sad recollection. / Somber,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,"Even with the weapon and detection upgrades Jackson gave me, I was unable to defend them.",Player Default: Tell me about these robots.,Disappointed in herself. / Sad,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Tell me about these robots.,"They roam the Commonwealth and claim to be restoring order. We've seen them fighting Raiders, but they've also attacked innocents.",,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,"Settlers, merchants... and caravans like ours.",Ada: We knew we ran the risk of encountering more of these hostile robots if we stayed in the Commonwealth. If only we had made the decision to leave.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Tough break.,They were my... friends. And I failed them.,Ada: We knew we ran the risk of encountering more of these hostile robots if we stayed in the Commonwealth. If only we had made the decision to leave.,Somber,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: They must be targeting you for some reason.,"Probability is high that I am part of that reason. Besides myself, Jackson also created Turing, Hurtz, and Porter.",,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,Our built in modifications would be desired pieces of salvage.,Ada: We knew we ran the risk of encountering more of these hostile robots if we stayed in the Commonwealth. If only we had made the decision to leave.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Who's Jackson?,"Jackson was the leader of this caravan. He had a great mind for technology. In many ways, he is my creator.",,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,"He installed all my current upgrades. Unfortunately, they were not enough to protect them from the robots.",Player Default: Tell me about these robots.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Who's Jackson?,"Yes, modified using a robot workbench based on prototype schematics. The workbench allows for a wide range of robot modifications.",,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,"Perhaps if I had more Sentry Bot based defenses, I could have successfully defended my friends against those robots.",Player Default: Tell me about these robots.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: I'm aware of this.,You have shown willingness to aid others. I ask that you please assist me in stopping this Mechanist.,,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,"In return, I can give you the schematics to build your own robot workbench, so you have additional resources in this undertaking.",Player Default: I'll do it.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: I'm aware of this.,I ask your assistance in stopping this Mechanist. A dangerous mind should not control such power.,,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,"In return, I can give you the schematics to build your own robot workbench, so you have additional resources in this undertaking.",Player Default: I'll do it.,Neutral,DLC01MQ01_2400_AdaIntro
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I'll do it.,I wish I had the proper vocal registry to express my gratitude.,"Ada: Now, we last saw a group of the Mechanist robots at the General Atomics Factory.",Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: This isn't my fight.,Correction. This is everyone's fight.,,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,"As long as these robots roam free, people will die, and the Mechanist will only grow more powerful.","Ada: Now, we last saw a group of the Mechanist robots at the General Atomics Factory.",Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,"Player Default: You want revenge, don't you?",I wish to prevent these Mechanist robots from destroying further innocent lives.,"Ada: Now, we last saw a group of the Mechanist robots at the General Atomics Factory.",Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,"Player Default: You want revenge, don't you?","I admit my goal is twofold. Stopping the Mechanist both protects the Commonwealth, and allows me to avenge my fallen friends.",,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,I won't rest until I see this threat dissolved. I owe it to them.,"Ada: Now, we last saw a group of the Mechanist robots at the General Atomics Factory.",Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: What's a robot workbench?,"The robot workbench will allow you to create and modify your own robots, given enough resources.",Player Default: I'll do it.,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,Player Default: I wish I had the proper vocal registry to express my gratitude.,"Now, we last saw a group of the Mechanist robots at the General Atomics Factory.",,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,You may find information there that will lead us to the Mechanist.,,Neutral,DLC01MQ01_2400_AdaIntro
+Scene,SceneDialogue,Custom,,,I will follow and assist with your permission.,"Player Default: Yeah, let's go, Ada.",Neutral,DLC01MQ01_2400_AdaIntro
+Combat,Combat,Attack,,,You'll pay for that!,,Neutral,
+Combat,Combat,Attack,,,Look what you've done!,,Neutral,
+Combat,Combat,Attack,,,You must be stopped!,,Neutral,
+Combat,Combat,AvoidThreat,,,Taking cover!,,,
+Combat,Combat,BleedOut,,,Must not... give up.,,,
+Combat,Combat,BleedOut,,,Can't stop now...,,,
+Combat,Combat,Taunt,,,You're killing them!,,,
+Combat,Combat,Taunt,,,I can't let this continue!,,,
+Combat,Combat,Taunt,,,I need to end this!,,,
+Combat,Combat,Taunt,,,Stop this!,,,
+Combat,Combat,Taunt,,,This has to stop!,,,
+Detection,Detection,CombatToNormal,,,Is it over?,,,
+Detection,Detection,NormalToCombat,,,Leave us alone!,,,
+Detection,Detection,NormalToCombat,,,This can't go on!,,,
+Detection,Detection,NormalToCombat,,,I won't let you hurt them!,,,
+Detection,Detection,NormalToCombat,,,Stop this!,,,
+Detection,Detection,NormalToCombat,,,You're killing them!,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,I'm searching for the target.,,Android voice,
+Miscellaneous,Miscellaneous,SharedInfo,,,Switching to search mode!,,Android voice,
+Miscellaneous,Miscellaneous,SharedInfo,,,That's the last of them.,,Android voice,
+Miscellaneous,Miscellaneous,Greeting,,,My friends... did not survive the attack. Thank you for assisting. I was certain to meet my end here as well.,Player Default: I'm sorry for your loss.,"In shock, sad, and grateful. Pause between ""dead"" and ""thank you"". / Neutral",DLC01MQ01_2400_AdaIntro
+Miscellaneous,Miscellaneous,SharedInfo,,,My database holds no knowledge of the Mechanist. We've yet to encounter anything more than the robots.,,Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,"They claim to restore order, yet they attack humans indiscriminately.",,Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,I understand. I will be here should you change your mind. Be careful.,,"Friendly, but not overly so. Codsworth may be in a state of ""disdain"" with the player. / Neutral",
+Scene,SceneDialogue,Custom,,"Player Default: Sure, that would be great.",Acknowledged. Personality subroutine activated.,,Robot voice,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: No, I think I'll keep you in default mode for now.",Acknowledged. You can enable this unit's personality subroutine at any time by utilizing the vocal interface.,,Robot voice,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,Player Default: I'm not sure. I'll just decide later.,Acknowledged. Remaining in factory default mode.,,Robot voice,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,,You can enable this unit's personality subroutine at any time by utilizing the vocal interface.,,Robot voice,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: ""Personality subroutine?"" Would you mind explaining that to me?",Processing...,,Robot voice,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,,This unit is equipped with a dynamic personality subroutine to allow a more human-like interface.,,Robot voice,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,,"The subroutine is equipped with several advanced A.I. protocols, such as: emotion, humor, companionship and empathy.",,Robot voice,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,,The personality subroutine is highly recommended by the manufacturer if long-term rapport with this unit is expected.,,Robot voice,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,,Do you wish to enable this unit's personality subroutine?,"Player Default: Sure, that would be great.",Robot voice,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,,Unit remaining in factory default mode.,,Robot voice,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,Player Default: I'd like to activate your personality subroutine.,Acknowledged. Personality subroutine activated.,Player Default: Yes.,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: I'd like to activate your personality subroutine.,Very well. Disabling personality subroutine and restoring factory default mode.,Player Default: Yes.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: I'd like to activate your personality subroutine.,"Sorry, no can do. That switch was disabled when I was built. I'm afraid you're stuck with me this way.",Player Default: Yes.,Apologetic,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,Understood.,Player Default: Yes.,Robot Voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,Acknowledged.,Player Default: Yes.,Robot Voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,Affirmative.,Player Default: Yes.,Robot Voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,Very well.,Player Default: Yes.,Android Voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,All right.,Player Default: Yes.,Android Voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,No problem.,Player Default: Yes.,Android Voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: We should go our separate ways.,Affirmative. Returning to origin.,Player Default: Yes.,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: We should go our separate ways.,Acknowledged. Returning to origin.,Player Default: Yes.,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: We should go our separate ways.,Command approved. Returning to origin.,Player Default: Yes.,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: We should go our separate ways.,"I wouldn't recommend that course of action, but you're in charge.",Player Default: Yes.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: We should go our separate ways.,"I'd prefer to remain by your side, but I'll abide by your command.",Player Default: Yes.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: We should go our separate ways.,"I hope I've done nothing to offend you, sir. Have a pleasant journey.",Player Default: Yes.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: We should go our separate ways.,"I hope I've done nothing to offend you, ma'am. Have a pleasant journey.",Player Default: Yes.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Are you able to self-destruct?,Affirmative. This unit is equipped with a self-destruct.,,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,,Warning: there will be an irreversible ten-second countdown followed by detonation. Recommend moving to a safe distance.,,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,,Did you wish to arm this unit's self-destruct system?,Player Default: Yes.,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Are you able to self-destruct?,"Yes, but you should be absolutely certain before you issue the command.",,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,,"There will be a ten-second countdown and then I'll be destroyed. Once you arm that system, there's no going back.",,Android Voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,,"That being said, do you wish to arm my self-destruct system?",Player Default: Yes.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Are you able to self-destruct?,This command requires secondary confirmation. Are you certain you wish to arm this unit's self-destruct system?,Player Default: Yes.,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Are you able to self-destruct?,"No, I can't. I'm fairly certain that my original creator had grander plans for me other than becoming a pile of debris.",Player Default: Yes.,a little offended / Sarcastic,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Are you able to self-destruct?,"I understand, but for those orders, I need secondary confirmation.",Player Default: Yes.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Yes.,Command approved. Initiating self-destruct.,RobotCompanion: Self-destruct sequence activated.,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Yes.,"Understood. It's been a pleasure serving with you, sir.",RobotCompanion: Self-destruct sequence activated.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Yes.,"Understood. It's been a pleasure serving with you, ma'am.",RobotCompanion: Self-destruct sequence activated.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Forget it. Cancel the self-destruct.,Acknowledged. Returning to command mode.,,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Forget it. Cancel the self-destruct.,"Good, I'm pleased we didn't have to resort to that.",,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,,Is there anything else you require?,,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: No offense. I'm just getting desperate here.,Command unrecognized. Awaiting secondary confirmation. Are you certain you wish to arm this unit's self-destruct system?,Player Default: Yes.,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: No offense. I'm just getting desperate here.,It's not for me to judge your actions. I'm certain you've exhausted all other options if you're willing to issue this command.,,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,,"That being said, I still require secondary confirmation to proceed. Do you wish to arm my self-destruct?",Player Default: Yes.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Will you be completely destroyed?,Affirmative. Only items stowed in this unit's cargo area will be accessible after detonation.,,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,,Awaiting secondary confirmation. Are you certain you wish to arm this unit's self-destruct system?,Player Default: Yes.,Robot voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,Player Default: Will you be completely destroyed?,"If you're concerned about everything I'm carrying, I can assure you all of it will remain accessible after I'm gone.",,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,,"That being said, I still require secondary confirmation to proceed. Do you wish to arm my self-destruct?",Player Default: Yes.,Android voice,DLC01COMRobotCompanionTalkScene
+Scene,SceneDialogue,Custom,,,Self-destruct sequence activated.,RobotCompanion: 10... 9... 8... 7... 6... 5... 4... 3... 2... 1...,Robot voice,DLC01COMRobotCompanionTalkSelfDestruct
+Scene,SceneDialogue,Custom,,,Self-destruct sequence activated.,RobotCompanion: 10... 9... 8... 7... 6... 5... 4... 3... 2... 1...,Android voice,DLC01COMRobotCompanionTalkSelfDestruct
+Scene,SceneDialogue,Custom,,RobotCompanion: Self-destruct sequence activated.,10... 9... 8... 7... 6... 5... 4... 3... 2... 1...,RobotCompanion: Detonate.,Robot voice,DLC01COMRobotCompanionTalkSelfDestruct
+Scene,SceneDialogue,Custom,,RobotCompanion: Self-destruct sequence activated.,10... 9... 8... 7... 6... 5... 4... 3... 2... 1...,RobotCompanion: Detonate.,Android voice,DLC01COMRobotCompanionTalkSelfDestruct
+Scene,SceneDialogue,Custom,,RobotCompanion: 10... 9... 8... 7... 6... 5... 4... 3... 2... 1...,Detonate.,,Robot voice,DLC01COMRobotCompanionTalkSelfDestruct
+Scene,SceneDialogue,Custom,,RobotCompanion: 10... 9... 8... 7... 6... 5... 4... 3... 2... 1...,Detonating!,,Android voice,DLC01COMRobotCompanionTalkSelfDestruct
+Miscellaneous,Miscellaneous,Greeting,,,Please take your components.,,Robot voice,
+Miscellaneous,Miscellaneous,Greeting,,,"Your components, as requested.",,Robot voice,
+Miscellaneous,Miscellaneous,Greeting,,,Outputting components.,,Robot voice,
+Miscellaneous,Miscellaneous,Greeting,,,Here you are. I hope these help.,,Android voice,
+Miscellaneous,Miscellaneous,Greeting,,,These are for you.,,Android voice,
+Miscellaneous,Miscellaneous,Greeting,,,"Here you are, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Greeting,,,"Here you are, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Greeting,,,"Please take your components, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Greeting,,,"Please take your components, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Greeting,,,Standing by.,Player Default: I'd like to activate your personality subroutine.,Robot voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Command mode enabled.,Player Default: I'd like to activate your personality subroutine.,Robot voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Ready.,Player Default: I'd like to activate your personality subroutine.,Robot voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Please proceed.,Player Default: I'd like to activate your personality subroutine.,Robot voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Awaiting instructions.,Player Default: I'd like to activate your personality subroutine.,Robot voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,This unit is at your command.,Player Default: I'd like to activate your personality subroutine.,Robot voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Ready to serve.,Player Default: I'd like to activate your personality subroutine.,Robot voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Proceed.,Player Default: I'd like to activate your personality subroutine.,Robot voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Ready for next instruction.,Player Default: I'd like to activate your personality subroutine.,Robot voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,At your command.,Player Default: I'd like to activate your personality subroutine.,Robot voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Yes? How can I assist?,Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,What can I do for you?,Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,How can I help?,Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,What did you need?,Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Is there something I can help you with?,Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Did you require my assistance?,Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Yes sir?,Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Yes ma'am?,Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"How may I be of service, sir?",Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"How may I be of service, ma'am?",Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"New orders, sir?",Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"New orders, ma'am?",Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"May I assist you, sir?",Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"May I assist you, ma'am?",Player Default: I'd like to activate your personality subroutine.,Android voice,DLC01COMRobotCompanionTalkScene
+Miscellaneous,Miscellaneous,Greeting,,,This unit is currently in factory default mode. Do you wish to enable this unit's personality subroutine?,"Player Default: Sure, that would be great.",,DLC01COMRobotCompanionTalkInitialScene
+Scene,SceneDialogue,Custom,,"Ada: With this knowledge, I am finally registering feelings of satisfaction and accomplishment... and I have you to thank for it.","As a result, I have decided to stay here.",,Grateful,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,,I know some of the Mechanist's robots still roam the Commonwealth.,,Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,,Perhaps there is still much left for me to accomplish.,,Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,"Ada: It does not bring back my friends, but if not for their deaths, the Mechanist may still be alive, posing a threat to the Commonwealth.","Had the those robots remained unchecked, I'm certain the damage would have been extensive...",,Neutral,DLC01MQ05_1000_AdaMechDead
+Scene,SceneDialogue,Custom,,,"Halting, if not reversing, any progress that has been made here.",,Somber,DLC01MQ05_1000_AdaMechDead
+Scene,SceneDialogue,Custom,,,"With this knowledge, I am finally registering feelings of satisfaction and accomplishment... and I have you to thank for it.","Ada: As a result, I have decided to stay here.",Neutral,DLC01MQ05_1000_AdaMechDead
+Scene,SceneDialogue,Custom,,"Ada: With this knowledge, I am finally registering feelings of satisfaction and accomplishment... and I have you to thank for it.","As a result, I have decided to stay here.",,Grateful,DLC01MQ05_1000_AdaMechDead
+Scene,SceneDialogue,Custom,,Player Default: I need to outfit a robot with something called an M-SAT. Jezebel gave me the plans.,A custom modification that acts as a key to the Mechanist facility. Very smart.,,Realization  / Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,,"In fact, chances are high the M-SAT may be required for multiple access points, like a robot identification card.","Ada: As for my task, I was able to decrypt the signal with the final Radar Beacon.",Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,"Player Default: Think we can trust what Jezebel said? I'm hoping she doesn't have her own interpretation of the word ""access,"" too.",We'll soon find out. What did she have to say?,Player Default: I need to outfit a robot with something called an M-SAT. Jezebel gave me the plans.,Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: It's over. The Mechanist is dead.,A just end for the pain and suffering inflicted.,"Ada: It does not bring back my friends, but if not for their deaths, the Mechanist may still be alive, posing a threat to the Commonwealth.",Neutral,DLC01MQ05_1000_AdaMechDead
+Scene,SceneDialogue,Custom,,Player Default: So the Mechanist really was misguided.,Did she reveal her motives and reasoning?,Player Default: The Robobrains were responsible. It was their twisted logic that started all this.,Question,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Player Default: Does it matter? It's over.,"The end result is favorable, but I ask only so it may give me a better understanding of what happened and why my friends died for it.",Player Default: The Robobrains were responsible. It was their twisted logic that started all this.,Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Player Default: The Robobrains were responsible. It was their twisted logic that started all this.,A biological wildcard. The unknowns are vast. She had to know the risk she was taking by creating them.,Ada: Many good people endured suffering and death because of the Mechanist.,Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,"Player Default: Of course, Ada. Let's go.",Lead the way.,,Friendly. / Friendly,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: No. Stay here.,I understand. I wouldn't want my own personal investment to cause any complications.,,"Conversational, polite. / Neutral",DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,"Player Default: Not now, Ada. Maybe later.",I understand. I am ready and willing if you change your mind.,,"Conversational, polite. / Neutral",DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: Are you volunteering for that M-SAT?,"I may be a robot, but I feel a strong amount of personal investment to see this mission through.",,"Amused at first, but then worried. / Neutral",DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,,I will do anything I can to help.,"Player Default: Of course, Ada. Let's go.",Curious. / Neutral,DLC01MQ05_400_AdaStart
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: Hey, I'm not the enemy. I'm the one trying to protect the Commonwealth against your robots.",They have taken innocent lives. My friends... they were simple traders. All dead at the hands of your robots.,Mechanist: No. That's not true.,Slight pleading. / Somber,DLC01MQ05_850_MechanistMainConfrontation
+Scene,SceneDialogue,Custom,,Player Default: Think about it. There's probably a reason these robots weren't in mass production.,The introduction of a human brain creates too many unknown variables. You can't claim to know them all.,Mechanist: I took all the necessary precautions. Innocent lives should never be taken.,Slight disgust. / Disgust,DLC01MQ05_850_MechanistMainConfrontation
+Scene,SceneDialogue,Custom,,Player Default: Stop looking at the damn numbers and start taking a good hard look at the Commonwealth.,"If you saw them in action, you'd instantly see how wrong you are.","Mechanist: I need to think. You have to believe with the number of precautions I took, anyone would have concluded it was safe.",Trying to be persuasive by being nice. / Friendly,DLC01MQ05_850_MechanistMainConfrontation
+Scene,SceneDialogue,Custom,,"Player Default: This is no tale, Mechanist. Reflect upon your actions.","You know there is a chance we are right, you are just afraid to take it.","Mechanist: It can't be true. I would never program a robot to harm another living person, or creature for that matter.",Slight pleading. / Pleading,DLC01MQ05_850_MechanistMainConfrontation
+Scene,SceneDialogue,Custom,,Player Default: Are you listening to me? They are saving people... by killing them.,A deadly misinterpretation.,"Mechanist: I am listening, I'm just... processing. So many precautions and safeguards.",Re-emphasizing what the player has said. / Concerned,DLC01MQ05_850_MechanistMainConfrontation
+Scene,SceneDialogue,Custom,,,I don't understand. I wasn't finished.,,Player walked away. / Puzzled,DLC01MQ05_1000_AdaMechDead
+Scene,SceneDialogue,Custom,,Player Default: I got her to see the truth.,She was poorly misguided.,,Admiration for the player. / Neutral,DLC01MQ05_1000_AdaMechAliveFollower
+Scene,SceneDialogue,Custom,,Player Default: I shut her down. The whole facility is under my control.,"Yes, the desired outcome was accomplished. The maximum production rate the Mechanist could produce was remarkable.",,Relieved. / Neutral,DLC01MQ05_1000_AdaMechAliveFollower
+Scene,SceneDialogue,Custom,,Player Default: The Commonwealth is safe. It doesn't have to fear the Mechanist any longer.,"Yes, the mission was a success.",,Proud. / Neutral,DLC01MQ05_1000_AdaMechAliveFollower
+Scene,SceneDialogue,Custom,,Player Default: Are you disappointed I let her live?,"I do have conflicting outlooks, but I trust your judgment. The guilt of her actions is a punishment in itself.",Player Default: I got her to see the truth.,Curious at how people can be so blind. / Concerned,DLC01MQ05_1000_AdaMechAliveFollower
+Scene,SceneDialogue,Custom,,Player Default: I got what we needed.,Good. What did she say we'd need to access the Mechanist's facility?,Player Default: I need to outfit a robot with something called an M-SAT. Jezebel gave me the plans.,Pleased. / Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: She's insane. Said she's killing people to save them.,"That logic... They killed my friends to save them? Had Jezebel been in my care, I would have decommissioned her.",,Agreeing in mutual disgust with the player. / Disgust,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,,I hope you at least learned how to gain access to the Mechanist.,Player Default: I need to outfit a robot with something called an M-SAT. Jezebel gave me the plans.,Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: That's an understatement. Rudest. Robot. Ever.,I did warn you. But you were successful in learning how to gain access to the Mechanist?,Player Default: I need to outfit a robot with something called an M-SAT. Jezebel gave me the plans.,Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: Is there a chance these robots could be misinterpreting orders?,"Yes, I've considered the possibility. The contradictory nature of the Mechanist's broadcasts are troubling.",,Initially agreeing and then getting disgusted at the idea of someone screwing up so badly it cost hundreds of lives. / Thinking,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,,"But the truth is, regardless of intent, the Mechanist needs to be stopped. These robots are too much a threat.",,Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,,Were you able to discover how to gain access to the Mechanist?,Player Default: I need to outfit a robot with something called an M-SAT. Jezebel gave me the plans.,Curious / Question,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,"Ada: In fact, chances are high the M-SAT may be required for multiple access points, like a robot identification card.","As for my task, I was able to decrypt the signal with the final Radar Beacon.",,Trying to be positive. / Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,,The source is coming from a RobCo Sales &amp; Service Center. Most likely a front for a larger operation.,,Being hopeful. / Concerned,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,,It's time to take the offensive. Have you formulated a plan?,Player Default: It's time to confront the Mechanist.,Question,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: It's time to confront the Mechanist.,I hope you're allowed the opportunity. I too am curious as to what the Mechanist would have to say.,"Ada: Now, if you're ready, I believe you have an M-SAT to install.",Agreeing. / Confident,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: This Mechanist is a real threat. I only see one of us walking away from this one.,"I won't disagree, but it may be beneficial to discover motive and reasoning first.","Ada: Now, if you're ready, I believe you have an M-SAT to install.","Being cautious, trying to get the player to take the wiser route. / Neutral",DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: I'm not sure. I'll improvise when I get there.,"Yes, the actual confrontation will allow you to make a more educated decision.","Ada: Now, if you're ready, I believe you have an M-SAT to install.",Agreeing. / Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: Did you have any ideas?,"I am at an impasse. I wish to see the Mechanist endure the same fate as my friends, but I know this to be due to my personality subroutine.",,"Thoughtful, considering possibilities. / Concerned",DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,,"When I compartmentalize, I want to know reason and motive before passing judgment.",,Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,,This is why I leave the decision to you.,"Ada: Now, if you're ready, I believe you have an M-SAT to install.",Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: I hope you're allowed the opportunity. I too am curious as to what the Mechanist would have to say.,"Now, if you're ready, I believe you have an M-SAT to install.",,Friendly. / Friendly,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,,Would you allow me to assist you on this mission?,"Player Default: Of course, Ada. Let's go.",Friendly offer. / Question,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: I hope you're allowed the opportunity. I too am curious as to what the Mechanist would have to say.,"Now, if you're ready, I believe you have an M-SAT to install.","Player Default: Of course, Ada. Let's go.",Friendly. / Neutral,DLC01MQ05_400_AdaStart
+Scene,SceneDialogue,Custom,,Player Default: I got her to see the truth. She's standing down.,So the Mechanist really was misguided.,Ada: Did she reveal her motives and reasoning?,Happy over the peaceful resolution. / Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Player Default: I shut her down. The whole facility is under my control.,So the desired result has been accomplished.,Ada: Did she reveal her motives and reasoning?,Happy over the peaceful resolution. / Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Player Default: The Commonwealth is safe. It doesn't have to fear the Mechanist any longer.,A successful mission then.,Ada: Did she reveal her motives and reasoning?,Happy over the peaceful resolution. / Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Player Default: Would you be disappointed to hear that I let her live?,"I do have conflicting outlooks if that is the case, but I trust your judgment. If she lives, she does so with the guilt of what she's done.",Player Default: I got her to see the truth. She's standing down.,Curious at how people can be so blind. / Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Player Default: The Mechanist is dead. Think that's too harsh a punishment?,"It was the right course of action. Given the opportunity, who's to say the past wouldn't repeat itself?","Ada: It does not bring back my friends, but if not for their deaths, the Mechanist may still be alive, posing a threat to the Commonwealth.",Slight disappointment. / Somber,DLC01MQ05_1000_AdaMechDead
+Scene,SceneDialogue,Custom,,"Player Default: She's good at heart. She made a mistake... a big one, and she'll live with that guilt.","I believe I have a certain understanding when it comes to guilt. While it's not the justice I had hoped for, it will suffice.","Ada: Still, I now know that the death of my friends has brought about a safer Commonwealth.",Somber,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Player Default: She's an idiot. She's lucky to be alive.,I'm uncertain if my logic protocols could override my personality subroutines had the decision been in my hands.,"Ada: Still, I now know that the death of my friends has brought about a safer Commonwealth.",Trying to turn the player's bad point of view around. / Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Player Default: She had good intentions. She was simply misled.,Even good intentions need checks and balances.,"Ada: Still, I now know that the death of my friends has brought about a safer Commonwealth.","Thoughtful, reflecting on what the player just said. / Neutral",DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Player Default: Think it was a mistake to let her live?,It would be disrespectful of my friends' memory if I were to say yes.,,Reassuring the player that they made the right decision. / Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,,"Though my personality programming harbors feelings of revenge, my friends taught me mercy... and mercy can have very powerful effects.","Player Default: She's good at heart. She made a mistake... a big one, and she'll live with that guilt.",Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Ada: A biological wildcard. The unknowns are vast. She had to know the risk she was taking by creating them.,Many good people endured suffering and death because of the Mechanist.,,"Slight disappointment, but had admiration for the Mechanist due to her talent in robotics. / Neutral",DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,,It's a shame a mind as brilliant as hers allowed such... atrocities to be committed.,"Player Default: She's good at heart. She made a mistake... a big one, and she'll live with that guilt.",Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,"Player Default: I believe I have a certain understanding when it comes to guilt. While it's not the justice I had hoped for, it will suffice.","Still, I now know that the death of my friends has brought about a safer Commonwealth.",,Cheerful. / Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,,"Had the Mechanist's robots remained unchecked, I'm certain the damage would have been extensive...",,Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,,"Halting, if not reversing, any progress that has been made here.",,Somber,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,,"With this knowledge, I am finally registering feelings of satisfaction and accomplishment... and I have you to thank for it.","Ada: As a result, I have decided to stay here.",Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,,Were we done?,,Player walked away. Quick and matter-of-fact. / Neutral,DLC01MQ05_1000_AdaMechAlive
+Scene,SceneDialogue,Custom,,Ada: A just end for the pain and suffering inflicted.,"It does not bring back my friends, but if not for their deaths, the Mechanist may still be alive, posing a threat to the Commonwealth.","Ada: Had the those robots remained unchecked, I'm certain the damage would have been extensive...",Being positive. / Friendly,DLC01MQ05_1000_AdaMechDead
+Miscellaneous,Miscellaneous,SharedInfo,,,"Ghastly, even.",,Disgusted. / Disgust,
+Miscellaneous,Miscellaneous,Greeting,,,I trust you've completed your business with Jezebel. I hope she wasn't too... difficult.,Player Default: I got what we needed.,Neutral,DLC01MQ05_400_AdaStart
+Miscellaneous,Miscellaneous,SharedInfo,,,Your return is a relief. I trust the outcome was what you wanted?,Player Default: I got her to see the truth. She's standing down.,Conversational question with some urgency at the end. / Question,DLC01MQ05_1000_AdaMechAlive
+Miscellaneous,Miscellaneous,Greeting,,,"While not wholly unexpected, that outcome was not the one I believed to have the highest probability.",Player Default: I got her to see the truth.,Neutral,DLC01MQ05_1000_AdaMechAliveFollower
+Miscellaneous,Miscellaneous,Greeting,,,You've done it. You stopped the Mechanist.,Player Default: It's over. The Mechanist is dead.,Disappointed that the Mechanist had to die. / Neutral,DLC01MQ05_1000_AdaMechDead
+Topic,PlayerDialogue,Custom,,,This area was occupied recently. We should remain cautious.,,Android voice,
+Topic,PlayerDialogue,Custom,,,This location appears to be only recently abandoned.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Be careful. Whoever, or whatever, was here could return soon.",,Android voice,
+Topic,PlayerDialogue,Custom,,,I'm seeing evidence of recent occupation here.,,Android voice,
+Topic,PlayerDialogue,Custom,,,The lighting here is overloading my ocular sensors.,,Android voice,
+Topic,PlayerDialogue,Custom,,,You think there's a reason this place is being illuminated so heavily?,,Android voice,
+Topic,PlayerDialogue,Custom,,,The ample lighting here reduces the threat of an ambush.,,Android voice,
+Topic,PlayerDialogue,Custom,,,This area is rather tidy.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Someone took the time to clean this place up? How curious.,,Android voice,
+Topic,PlayerDialogue,Custom,,,The dust to oxygen ratio here is remarkably low.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Is there a reason the hairs on your neck are standing up like that?,,Android voice,
+Topic,PlayerDialogue,Custom,,,Interesting. Was that something moving or just a trick of the light?,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Perhaps it's just my proximity sensors malfunctioning, but something feels very wrong here.",,Android voice,
+Topic,PlayerDialogue,Custom,,,This area appears to be unsafe. We must proceed with caution.,,Android voice,
+Topic,PlayerDialogue,Custom,,,The lack of illumination here is troubling.,,Android voice,
+Topic,PlayerDialogue,Custom,,,It's quite dark here. Adjusting visual sensors to compensate.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Be careful, it's too dark here to maintain an accurate threat assessment.",,Android voice,
+Topic,PlayerDialogue,Custom,,,I'm glad my intakes have a dust filter.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"If I had access to a vacuum modification, I could make this place shine.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Judging from all this dust, we could be the first to visit this place in quite a while.",,Android voice,
+Topic,PlayerDialogue,Custom,,,Let's move along as soon as possible. We're exposed here.,,Android voice,
+Topic,PlayerDialogue,Custom,,,It's dangerous to be standing out in the open. Let's move.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"I don't want to alarm you, but this spot lacks sufficient cover.",,Android voice,
+Topic,PlayerDialogue,Custom,,,This location appears quite secure.,,Android voice,
+Topic,PlayerDialogue,Custom,,,This area could withstand a sustained heavy assault. Impressive.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Should the need arise, these reinforced structures would make excellent cover.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Well, there certainly isn't much left of whatever this was.",,Android voice,
+Topic,PlayerDialogue,Custom,,,This is a fascinating study of anatomical remains. Marvelous splatter patterns.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"I'm not certain what caused this mess, but perhaps it's best that we weren't here to find out.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"This will make an excellent visual record for my definition of ""utterly disgusting.""",,Android voice,
+Topic,PlayerDialogue,Custom,,,Can we move along? I don't want get any of this mess into my circuits.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Disgusting. You should be happy that I'm not equipped with a vomiting subroutine.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Looking at all this equipment makes me feel right at home.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Such a senseless waste of perfectly good technology.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Quite a few impressive devices around here.,,Android voice,
+Topic,PlayerDialogue,Custom,,,The noise here is overloading my audio pickups.,,"Android voice - don't yell this, slightly elevate volume",
+Topic,PlayerDialogue,Custom,,,"Careful, this noise could be masking an ambush.",,"Android voice - don't yell this, slightly elevate volume",
+Topic,PlayerDialogue,Custom,,,The sound here is several decibels over the tolerable limit.,,"Android voice - don't yell this, slightly elevate volume",
+Topic,PlayerDialogue,Custom,,,It's going to be difficult finding anything useful in this mess.,,Android voice,
+Topic,PlayerDialogue,Custom,,,I hope you aren't expecting me to sort through this clutter.,,Android voice,
+Topic,PlayerDialogue,Custom,,,I wonder what caused all the discord around here?,,Android voice,
+Topic,PlayerDialogue,Custom,,,This looks rather... pleasant I believe you'd call it?,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Well, this is nice. Rather unusual, wouldn't you say?",,Android voice,
+Topic,PlayerDialogue,Custom,,,"This area appears to have quite the calming effect on you, sir.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"This area appears to have quite the calming effect on you, ma'am.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"It's awfully quiet. Reminds me of the expression ""the calm before the storm.""",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Strange, my audio receptors are barely picking up any noise.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"If anything's waiting for us around here, I certainly can't hear it.",,Android voice,
+Topic,PlayerDialogue,Custom,,,This looks like a safe place to recharge our batteries.,,Android voice,
+Topic,PlayerDialogue,Custom,,,This location appears secure.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"If you need a moment to compose yourself, this appears to be the perfect place.",,Android voice,
+Topic,PlayerDialogue,Custom,,,The fumes here are distressingly noxious.,,Android voice,
+Topic,PlayerDialogue,Custom,,,I suggest you refrain from inhaling the tainted air here.,,Android voice,
+Topic,PlayerDialogue,Custom,,,My olfactory sensors just spiked. You may want to hold your breath.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Don't worry, this moisture won't affect my circuits.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Excellent, I'll use this opportunity to flush my particle filters.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Exercise caution, sir. The water may be irradiated.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Exercise caution, ma'am. The water may be irradiated.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"I'm concerned that those chems appear to be taking a serious toll on your body, sir.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"I'm concerned that those chems appear to be taking a serious toll on your body, ma'am.",,Android voice,
+Topic,PlayerDialogue,Custom,,,I hope you're aware that chem addiction comes at a terrible cost.,,Android voice,
+Topic,PlayerDialogue,Custom,,,You're not looking well. Perhaps you should stop using so many chems.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Were you aware that repeated chem use can cause serious health issues?,,Android voice,
+Topic,PlayerDialogue,Custom,,,"According to my files, potential side effects of that chem are: nausea, vomiting and diarrhea... or are you attempting the trifecta?",,Android voice,
+Topic,PlayerDialogue,Custom,,,I trust that won't end up slowing us down.,,Android voice,
+Miscellaneous,Miscellaneous,SharedInfo,,,Warning: arm servos disrupted!,,Robot voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Warning: limb hydraulics system compromised!,,Robot voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Warning: damage to upper appendage detected!,,Robot voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,My arm's been hit!,,Android voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,I've taken severe shoulder damage!,,Android voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Arm hit badly... compensating!,,Android voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Warning: ocular sensors damaged!,,Robot voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Warning: cerebral core damage detected!,,Robot voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Warning: cranial strike sustained!,,Robot voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Visual system damaged!,,Android voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Head's been hit!,,Android voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Knocked my sensors offline!,,Android voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Warning: lower extremity damage detected!,,Robot voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Warning: movement capability compromised!,,Robot voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Warning: leg actuator failure detected!,,Robot voice - damage from combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,My leg's been hit!,,Android voice - damage from combat!,
+Miscellaneous,Miscellaneous,SharedInfo,,,Leg damaged! Compensating!,,Android voice - damage from combat!,
+Miscellaneous,Miscellaneous,SharedInfo,,,Knee servos failing!,,Android voice - damage from combat!,
+Topic,PlayerDialogue,Custom,,,What exactly are you firing at?,,Android voice,
+Topic,PlayerDialogue,Custom,,,Is this really the best place to be firing your weapon?,,Android voice,
+Topic,PlayerDialogue,Custom,,,I'd suggest you stop doing that before you hurt someone.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Your canine companion appears to be severely hurt.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"You may want to help your dog, it doesn't look well.",,Android voice,
+Topic,PlayerDialogue,Custom,,,Dogmeat's injuries are severe. I suggest you administer a stimpak immediately.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Are you certain that's wise? Alcohol will likely impair your capabilities.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"What was that expression? ""Down the hatch?""",,Android voice,
+Topic,PlayerDialogue,Custom,,,"I'm not equipped to imbibe alcoholic substances, so I'm afraid you'll have to drink alone, sir.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"I'm not equipped to imbibe alcoholic substances, so I'm afraid you'll have to drink alone, ma'am.",,Android voice,
+Topic,PlayerDialogue,Custom,,,You certain you wish to leave that behind?,,Android voice,
+Topic,PlayerDialogue,Custom,,,Leaving that here would be a waste.,,Android voice,
+Topic,PlayerDialogue,Custom,,,You're dropping that? Strange... it seems quite useful to me.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Now you'll know a bit more how I feel being encased in a metal shell.,,Android voice,
+Topic,PlayerDialogue,Custom,,,I hope you have additional fusion cores to spare.,,Ada / Neutral,
+Topic,PlayerDialogue,Custom,,,That suit should tip the balance of things in our favor.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Decided to play tin soldier, sir?",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Decided to play tin soldier, ma'am?",,Android voice,
+Topic,PlayerDialogue,Custom,,,That Power Armor will provide adequate protection.,,Ada / Neutral,
+Topic,PlayerDialogue,Custom,,,"That vehicle looks dangerous. I wish you luck, sir.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"That vehicle looks dangerous. I wish you luck, ma'am.",,Android voice,
+Topic,PlayerDialogue,Custom,,,I'm afraid I'm not equipped to travel on a vertibird. I'll catch up with you later.,,Android voice,
+Topic,PlayerDialogue,Custom,,,I'm going to stick to the ground. We'll meet up soon.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Unfortunately, a vertibird cannot properly accommodate me for air travel. I'll meet you at your destination.",,Ada / Neutral,
+Topic,PlayerDialogue,Custom,,,Impressive. Couldn't have done it better myself.,,Android voice,
+Topic,PlayerDialogue,Custom,,,You certainly have a knack for adapting to technology.,,Android voice,
+Topic,PlayerDialogue,Custom,,,I often forget people need to use the keyboard to access a terminal.,,Ada / Neutral,
+Topic,PlayerDialogue,Custom,,,Using a keyboard? How quaint.,,Android voice,
+Topic,PlayerDialogue,Custom,,,It's surprisingly generous of you to share your supplies with that canine creature.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Dogmeat is looking quite well, I think your stimpak did the trick.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Repairing Dogmeat are we, sir?",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Repairing Dogmeat are we, ma'am?",,Android voice,
+Topic,PlayerDialogue,Custom,,,Perhaps next time we should scout for a safer way down.,,Android voice,
+Topic,PlayerDialogue,Custom,,,That was foolish! Are you damaged?,,Android voice,
+Topic,PlayerDialogue,Custom,,,I hope you don't expect me to jump down like that!,,Android voice,
+Miscellaneous,Miscellaneous,SharedInfo,,,Find anything useful?,,Android voice,
+Miscellaneous,Miscellaneous,SharedInfo,,,Make sure you don't leave anything useful behind.,,Android voice,
+Miscellaneous,Miscellaneous,SharedInfo,,,I suggest we take as much as we can carry.,,Android voice,
+Miscellaneous,Miscellaneous,SharedInfo,,,"If you find any spare parts, you be sure and let me know.",,Android voice,
+Topic,PlayerDialogue,Custom,,,May as well take what we can... they won't be needing those items any longer.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Impressive. I wasn't aware such a thing even existed.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Very nice. That should tip the odds in our favor.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"You're quite lucky to find one of those, they're quite rare.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Remind you of brighter days, sir?",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Remind you of brighter days, ma'am?",,Android voice,
+Topic,PlayerDialogue,Custom,,,That's a museum quality piece.,,Android voice,
+Topic,PlayerDialogue,Custom,,,The past yields such interesting finds.,,Android voice,
+Topic,PlayerDialogue,Custom,,,That should afford you better protection.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Making some changes to your armor? Clever.,,Android voice,
+Topic,PlayerDialogue,Custom,,,I'm pleased with anything that keeps you alive longer.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Adding a bit more punch to your weapon, sir?",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Adding a bit more punch to your weapon, ma'am?",,Android voice,
+Topic,PlayerDialogue,Custom,,,Increasing your firepower should proportionally increase your chances of survival.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Well done. Like watching an artist at work.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Killing that target wasn't necessary. In the future, I suggest we refrain from attracting unwanted attention.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Is that what's known as ""collateral damage?""",,Android voice,
+Topic,PlayerDialogue,Custom,,,"While I'm certain you had a good reason for killing that target, the logic simply doesn't compute.",,Android voice,
+Topic,PlayerDialogue,Custom,,,Systems coming back online.,,Robot voice,
+Topic,PlayerDialogue,Custom,,,Repairs completed. Running self-diagnostic.,,Robot voice,
+Topic,PlayerDialogue,Custom,,,Damage report: now operating at 100% capacity.,,Robot voice,
+Topic,PlayerDialogue,Custom,,,Your assistance with my repairs is appreciated.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Excellent. I should be able to resume my duties immediately.,,Android voice,
+Topic,PlayerDialogue,Custom,,,My self-diagnostic looks green. Ready to get back to the action.,,Android voice,
+Topic,PlayerDialogue,Custom,,,What a clever way to bypass that lock.,,Android voice,
+Topic,PlayerDialogue,Custom,,,I wonder what the inventor of the bobby pin would think of its new primary use in the Commonwealth.,,Ada / Neutral,
+Topic,PlayerDialogue,Custom,,,Still using bobby pins to open those locks? How crude.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Hopefully the reward will be worth all that effort.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Proceed with caution, this area may be occupied.",,Android voice,
+Topic,PlayerDialogue,Custom,,,I don't think we're supposed to be here.,,Android voice,
+Topic,PlayerDialogue,Custom,,,I hope you know what you're doing.,,Android voice,
+Miscellaneous,Miscellaneous,SharedInfo,,,Sir? Are you alright? That looked bad!,,Android voice - in combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Are you okay, sir?!",,Android voice - in combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Hang in there, sir!",,Android voice - in combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,Ma'am!? Are you alright? That looked bad!,,Android voice - in combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Are you okay, ma'am?!",,Android voice - in combat,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Hang in there, ma'am!",,Android voice - in combat,
+Topic,PlayerDialogue,Custom,,,Maybe I could carry some of that for you?,,Android voice,
+Topic,PlayerDialogue,Custom,,,You might want to drop some of those things you're carrying.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Carrying all that weight is simply slowing you down.,,Android voice,
+Topic,PlayerDialogue,Custom,,,My rad counter is spiking. We may want to move.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Being non-organic, these rads won't affect me. You, that's a different story.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"If we keep standing in this radiation, you're going to get sick.",,Android voice,
+Topic,PlayerDialogue,Custom,,,Those rads are getting the better of you. Better take some Radaway.,,Android voice,
+Topic,PlayerDialogue,Custom,,,You're not looking well... I think you've soaked too many rads.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"According to my rad counter, you should visit a doctor as soon as possible.",,Android voice,
+Topic,PlayerDialogue,Custom,,,Doing a bit of light reading to pass the time?,,Android voice,
+Topic,PlayerDialogue,Custom,,,That would be more efficient if it was a holotape.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Learn anything interesting, sir?",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Learn anything interesting, ma'am?",,Android voice,
+Topic,PlayerDialogue,Custom,,,"You realize that doesn't belong to us, right?",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Forgive my curiosity, but isn't that owned by someone else?",,Android voice,
+Topic,PlayerDialogue,Custom,,,"If you're going to take that, we may have trouble in the future.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Not to sound judgmental, but I'm just wondering if the reward was worth the risk.",,Android voice,
+Topic,PlayerDialogue,Custom,,,Interesting. Did you have permission to take that?,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Sir, I don't believe that's ours to take.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"Ma'am, I don't believe that's ours to take.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"I'm not certain your aware of this, but robots were never meant to swim.",,Android voice,
+Topic,PlayerDialogue,Custom,,,"While I don't normally shy away from water, it isn't exactly my first choice for travel.",,Android voice,
+Topic,PlayerDialogue,Custom,,,Perhaps we could find a way around this body of water instead?,,Android voice,
+Topic,PlayerDialogue,Custom,,,I'd advise you to watch your step in the future.,,Android voice,
+Topic,PlayerDialogue,Custom,,,That was... clumsy. I hope you aren't badly damaged.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Careful, there may be more of those around here.",,Android voice,
+Topic,PlayerDialogue,Custom,,,You certainly know your way around a workbench.,,Android voice,
+Topic,PlayerDialogue,Custom,,,This should prove interesting... I wonder what you'll build next.,,Android voice,
+Topic,PlayerDialogue,Custom,,,It's always fascinating watching you create.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Humans look so strange without their clothes.,,Android voice,
+Topic,PlayerDialogue,Custom,,,Running around without clothes doesn't seem to be the smartest thing to do in an environment like this.,,Android voice,
+Topic,PlayerDialogue,Custom,,,"Sadly, I'll never know the exhilaration of being nude.",,Android voice,
+Topic,PlayerDialogue,Custom,,,People look so strange without their clothes.,,Ada / Neutral,
+Scene,SceneDialogue,Custom,,,Affirmative. Engaging hacking protocol.,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Affirmative. Engaging unlocking protocol.,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"No problem, I'll have it unlocked in a moment.","CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"Certainly, let me get that terminal unlocked for you.","CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"This lock appears to be a bit tricky, but I'll do my best.",,Android voice / Concerned,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Looks like this shouldn't be too difficult.,,Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,This shouldn't be a problem at all.,,Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,I'm afraid there's no way to open this.,,Android voice / Apologetic,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"Sorry, this lock is more difficult than I anticipated.",,Android Voice / Apologetic,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Error: Locking mechanism exceeds this unit's capability to bypass.,,Robot Voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Error: Opening lock requires key.,,Robot Voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,You're going to need a key to open that lock.,,Android Voice / Apologetic,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Error: Opening this lock will require access via terminal.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,I'm afraid the only way to unlock this door is by using a terminal.,,Android voice / Apologetic,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Error: This door is inaccessible.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Lock analysis: complexity level below normal standards.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Lock analysis: complexity level at normal standards.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Lock analysis: complexity level above normal standards.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Lock analysis: complexity level extremely high.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Error: Terminal security exceeds this unit's capability to bypass.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Error: This terminal requires a password to disable security protocols.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Terminal analysis: security level below normal standards.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Terminal analysis: security level at normal standards.,,Robot Voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Terminal analysis: security level above normal standards.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Terminal analysis: security level extremely high.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"I don't know if I can hack this... it's got top tier security, but I won't let it stop me from trying.",,Android voice / Concerned,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"There's some tough security on this terminal, but I'll do the best I can.",,Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"Decent security, but I don't think it should keep me out.",,Android Voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"Good, it's a simple algorithm. I'll have this accessed in no time.",,Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,I'm afraid a password is required to disable this terminal's security.,,Android voice / Apologetic,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"Sorry, there's no way I can bypass the security on this terminal.",,Android voice / Apologetic,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"This one's going to be a challenge, but I'm still willing to give it a try.",,Android voice / Concerned,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Error: Lock bypass failure. Repeating attempt.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Error: terminal security bypass failure. Repeating attempt.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Error: terminal security holding. Repeating attempt.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Error: Hacking terminal failed. Repeating attempt.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.","No, that's not it...",,Android voice / Thinking,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Maybe if I used this algorithm instead...,,Android voice / Thinking,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Tough security on this one. Let me try again...,,Android voice / Thinking,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Error: Lock manipulation failed. Repeating attempt.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Error: Attempt to bypass lock failed. Repeating attempt.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.","Nope, that's not it...",,Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Let me try something else...,,Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,"CommandActor: This lock appears to be a bit tricky, but I'll do my best.",Hm. Maybe if I tried this...,,Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Lock disengaged.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Report: this unit is unable to bypass the locking mechanism.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Terminal security removed.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Report: This unit is unable to bypass terminal security.,,Robot voice,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,Nope. I'm afraid the security on this terminal has gotten the better of me.,,Android voice / Apologetic,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,All done. You should be able to use the terminal now.,,Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,"Well, that's that. I'm sorry, this lock was trickier than I assumed.",,Android voice / Apologetic,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,,There we are. Unlocked as requested.,,Android voice / Confident,DLC01COMRobotCompanion_UnlockScene
+Scene,SceneDialogue,Custom,,Player Default: Time to hit the road.,Acknowledged.,,Robot voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,Player Default: Time to hit the road.,Understood. Obedience subroutines online.,,Robot voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,Player Default: Time to hit the road.,Confirmed. All systems at your command.,,Robot voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,Player Default: Time to hit the road.,Wonderful. I look forward to traveling with you.,,Android voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,Player Default: Time to hit the road.,"Understood. Please, lead on.",,Android voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,Player Default: Time to hit the road.,Excellent. I'll endeavor to do my best.,,Android voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,"Player Default: Actually, I'll be back later.",Standing down.,,Robot voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,"Player Default: Actually, I'll be back later.",Systems returning to standby mode.,,Robot voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,"Player Default: Actually, I'll be back later.",Understood.,,Ada. Slight disappointment. / Neutral,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,"Player Default: Actually, I'll be back later.","Very well, sir.",,Android voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,"Player Default: Actually, I'll be back later.","Very well, ma'am.",,Android voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,Player Default: I just want to trade a few things.,Cargo access... granted.,,Robot voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,Player Default: I just want to trade a few things.,Of course.,,Ada: Agreeing to trade. / Neutral,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,Player Default: I just want to trade a few things.,"Certainly, help yourself, sir.",,Android voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,Player Default: I just want to trade a few things.,"Certainly, help yourself, ma'am.",,Android voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,,This unit is currently functioning at optimum parameters.,,Robot voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,,Ready for next command.,Player Default: Time to hit the road.,Robot voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,,Ready and waiting.,,Ada: Telling player she's ready to become a companion. / Neutral,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,,"So, shall we depart?",Player Default: Time to hit the road.,Ada: Ready to go / Neutral,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,,"Don't worry, I may look... unique, but all of my systems are operating properly.",,Android Voice,DLC01COMRobotCompanionPickupScene
+Scene,SceneDialogue,Custom,,,"So, shall we depart?",Player Default: Time to hit the road.,Android voice,DLC01COMRobotCompanionPickupScene
+Combat,Combat,Attack,,,Switching to close-range combat.,,Robot voice combat mode,
+Combat,Combat,Attack,,,Engaging hostile target.,,Robot voice combat mode,
+Combat,Combat,Attack,,,Assault mode activated.,,Robot voice combat mode,
+Combat,Combat,Attack,,,Time for you to perish!,,Android voice combat mode,
+Combat,Combat,Attack,,,Prepare to be annihilated!,,Android voice combat mode,
+Combat,Combat,Attack,,,Your destruction is at hand!,,Android voice combat mode,
+Combat,Combat,AvoidThreat,,,Threat incoming.,,Robot voice combat mode,
+Combat,Combat,AvoidThreat,,,Evasive maneuvers recommended.,,Robot voice combat mode,
+Combat,Combat,AvoidThreat,,,Hostile projectile inbound.,,Robot voice combat mode,
+Combat,Combat,AvoidThreat,,,Look out!,,Android voice combat mode,
+Combat,Combat,AvoidThreat,,,Incoming! Seek cover!,,Android voice combat mode,
+Combat,Combat,AvoidThreat,,,"Watch out, sir!",,Android voice combat mode,
+Combat,Combat,AvoidThreat,,,"Watch out, ma'am!",,Android voice combat mode,
+Combat,Combat,BleedOut,,,Power systems... failing.,,"Robot voice combat mode, ""dying""",
+Combat,Combat,BleedOut,,,Catastrophic systems failure detected.,,"Robot voice combat mode, ""dying""",
+Combat,Combat,BleedOut,,,Warning: Multiple malfunctions detected.,,"Robot voice combat mode, ""dying""",
+Combat,Combat,BleedOut,,,I require... extensive repairs...,,"Android voice combat mode - ""dying""",
+Combat,Combat,BleedOut,,,Don't... have much left in me...,,"Android voice combat mode - ""dying""",
+Combat,Combat,BleedOut,,,I'm afraid I don't have much left... sir.,,"Android voice combat mode - ""dying""",
+Combat,Combat,BleedOut,,,I'm afraid I don't have much left...ma'am.,,"Android voice combat mode - ""dying""",
+Combat,Combat,CrippledLimb,,,Warning: central chassis heavily damaged!,,Robot voice - damage from combat,
+Combat,Combat,CrippledLimb,,,Warning: direct hit to torso detected!,,Robot voice - damage from combat,
+Combat,Combat,CrippledLimb,,,Warning: primary gyro-stabilizer offline!,,Robot voice - damage from combat,
+Combat,Combat,CrippledLimb,,,Main chassis hit badly!,,Robot voice - damage from combat,
+Combat,Combat,CrippledLimb,,,"Engine compartment, damaged badly!",,Robot voice - damage from combat,
+Combat,Combat,CrippledLimb,,,"Took one directly to the chest, sir!",,Android voice - damage from combat,
+Combat,Combat,CrippledLimb,,,"Took one directly to the chest, ma'am!",,Android voice - damage from combat,
+Combat,Combat,Death,,,Systems... failing...,,Robot voice - death line,
+Combat,Combat,Death,,,Shutting... down...,,Robot voice - death line,
+Combat,Combat,Death,,,Shut down... imminent...,,Robot voice - death line,
+Combat,Combat,Death,,,Total... system shutdown...,,Android voice - death line,
+Combat,Combat,Death,,,Full... system... failure...,,Android voice - death line,
+Combat,Combat,Death,,,I'm... sorry... sir...,,Android voice - death line,
+Combat,Combat,Death,,,I'm... sorry... ma'am...,,Android voice - death line,
+Combat,Combat,Hit,,,,,"Robot hit sound, no voice",
+Combat,Combat,Hit,,,,,"Robot hit sound, no voice",
+Combat,Combat,Hit,,,,,"Android hit sound, no voice",
+Combat,Combat,Hit,,,,,"Android hit sound, no voice",
+Combat,Combat,Taunt,,,"I'll cover you, sir!",,Android voice,
+Combat,Combat,Taunt,,,"I'll cover you, ma'am!",,Android voice,
+Combat,Combat,Taunt,,,Time to end this!,,Android voice,
+Combat,Combat,Taunt,,,Resistance is futile!,,Android voice,
+Combat,Combat,Taunt,,,Violence protocols... engaged!,,Android voice,
+Combat,Combat,Taunt,,,Engaging hostile target!,,Android voice,
+Combat,Combat,Taunt,,,"Never fear, sir... we'll emerge victorious!",,Android voice,
+Combat,Combat,Taunt,,,"Never fear, ma'am... we'll emerge victorious!",,Android voice,
+Favors,Favor,Agree,,,Affirmative. Initiating guardian protocols.,,Robot Voice,
+Favors,Favor,Agree,,,Accompany mode activated.,,Robot Voice,
+Favors,Favor,Agree,,,Orders processed. Following as requested.,,Robot Voice,
+Favors,Favor,Agree,,,Understood. Lead the way.,,Android Voice,
+Favors,Favor,Agree,,,"No problem, I'll be right behind you.",,Android Voice,
+Favors,Favor,Agree,,,Excellent. Let's proceed.,,Android Voice,
+Favors,Favor,Agree,,,Affirmative. Guardian protocols rescinded.,,Robot Voice,
+Favors,Favor,Agree,,,Accompany mode deactivated.,,Robot Voice,
+Favors,Favor,Agree,,,Orders processed. Will remain at current position.,,Robot Voice,
+Favors,Favor,Agree,,,"Very well, I'll remain here.",,Android Voice,
+Favors,Favor,Agree,,,"I'd rather accompany you, but it's your decision.",,Android Voice,
+Favors,Favor,Agree,,,"Understood. Please be careful, sir.",,Android Voice,
+Favors,Favor,Agree,,,"Understood. Please be careful, ma'am.",,Android Voice,
+Favors,Favor,Agree,,,Affirmative.,,Robot Voice,
+Favors,Favor,Agree,,,By your command.,,Robot Voice,
+Favors,Favor,Agree,,,Confirmed.,,Robot Voice,
+Favors,Favor,Agree,,,Acknowledged.,,Robot Voice,
+Favors,Favor,Agree,,,Certainly.,,Android Voice,
+Favors,Favor,Agree,,,No problem.,,Android Voice,
+Favors,Favor,Agree,,,I'll get it done.,,Android Voice,
+Favors,Favor,Agree,,,I'll take care of it.,,Android Voice,
+Favors,Favor,MoralRefusal,,,"I'm sorry, but doing that is against my programming.",,Android voice,
+Favors,Favor,MoralRefusal,,,My morals subroutine won't allow me to do that.,,Android voice,
+Favors,Favor,MoralRefusal,,,I'm afraid I can't do that.,,Android voice,
+Favors,Favor,MoralRefusal,,,Negative. That request exceeds this unit's operating parameters.,,Robot voice,
+Favors,Favor,MoralRefusal,,,This unit is unwilling to engage in that activity.,,Robot voice,
+Favors,Favor,MoralRefusal,,,Error. This unit cannot comply with those orders.,,Robot voice,
+Favors,Favor,PathingRefusal,,,This unit is unable to reach that location.,,Robot voice,
+Favors,Favor,PathingRefusal,,,That destination is unavailable to this unit.,,Robot voice,
+Favors,Favor,PathingRefusal,,,Error. Suggested destination is impossible.,,Robot voice,
+Favors,Favor,PathingRefusal,,,I don't think I can make it there.,,Android voice,
+Favors,Favor,PathingRefusal,,,That's out of my reach.,,Android voice,
+Favors,Favor,PathingRefusal,,,There's no way I can reach that.,,Android voice,
+Favors,Favor,PathingRefusal,,,I don't see a way to get to that.,,Robot voice,
+Favors,Favor,PathingRefusal,,,"Sorry, I can't get there right now.",,Robot voice,
+Favors,Favor,Refuse,,,Negative.,,Robot voice,
+Favors,Favor,Refuse,,,Request denied.,,Robot voice,
+Favors,Favor,Refuse,,,Error. This unit can not comply.,,Robot voice,
+Favors,Favor,Refuse,,,Current instructions impossible.,,Robot voice,
+Favors,Favor,Refuse,,,"No, that's not possible.",,Android voice,
+Favors,Favor,Refuse,,,I can't do that.,,Android voice,
+Favors,Favor,Refuse,,,That's not going to happen.,,Android voice,
+Favors,Favor,Refuse,,,"Sorry, I can't do that.",,Android voice,
+Favors,Favor,Refuse,,,Can't be done.,,Android voice,
+Favors,Favor,Show,,,Awaiting instructions.,,Robot voice,
+Favors,Favor,Show,,,Command mode ready.,,Robot voice,
+Favors,Favor,Show,,,Standing by.,,Robot voice,
+Favors,Favor,Show,,,Ready.,,Robot voice,
+Favors,Favor,Show,,,Proceed.,,Robot voice,
+Favors,Favor,Show,,,Yes?,,Android Voice,
+Favors,Favor,Show,,,How may I be of service?,,Android Voice,
+Favors,Favor,Show,,,I'd be happy to help if I can.,,Android Voice,
+Favors,Favor,Show,,,What can I do for you?,,Android Voice,
+Favors,Favor,Show,,,"Yes, sir?",,Android Voice,
+Favors,Favor,Show,,,"Yes, ma'am?",,Android Voice,
+Favors,Favor,Trade,,,Inventory subroutine ready.,,Robot voice,
+Favors,Favor,Trade,,,You are authorized to access this unit's cargo.,,Robot voice,
+Favors,Favor,Trade,,,Deposit or withdrawal?,,Robot voice,
+Favors,Favor,Trade,,,"Sure, go ahead and take a look.",,,
+Favors,Favor,Trade,,,Glad to be of service.,,,
+Favors,Favor,Trade,,,Let's take a look at what you've got.,,,
+Favors,Favor,Trade,,,Looking to lighten your load?,,,
+Favors,Favor,Trade,,,Hope you find what you're looking for.,,,
+Detection,Detection,AlertIdle,,,Scanning for target.,,Robot voice,
+Detection,Detection,AlertIdle,,,Continuing area search.,,Robot voice,
+Detection,Detection,AlertIdle,,,Target tracking in progress.,,Robot voice,
+Detection,Detection,AlertIdle,,,Search mode... active.,,Robot voice,
+Detection,Detection,AlertIdle,,,I'm certain they're around here... somewhere.,,Android voice,
+Detection,Detection,AlertIdle,,,Picking up heat signatures... they're still near.,,Android voice,
+Detection,Detection,AlertIdle,,,"Don't worry, sir. We'll find them.",,Android voice,
+Detection,Detection,AlertIdle,,,"Don't worry, ma'am. We'll find them.",,Android voice,
+Detection,Detection,AlertToCombat,,,Target located! Engaging!,,Robot voice,
+Detection,Detection,AlertToCombat,,,Escape is impossible!,,Robot voice,
+Detection,Detection,AlertToCombat,,,Hostile reacquired!,,Robot voice,
+Detection,Detection,AlertToCombat,,,Proximity alert! Target exposed!,,Robot voice,
+Detection,Detection,AlertToCombat,,,Found you!,,Android voice,
+Detection,Detection,AlertToCombat,,,Here... over here!,,Android voice,
+Detection,Detection,AlertToCombat,,,No more hiding for you!,,Android voice,
+Detection,Detection,AlertToCombat,,,You're going to regret this!,,Android voice,
+Detection,Detection,AlertToCombat,,,"Found them, sir!",,Android voice,
+Detection,Detection,AlertToCombat,,,"Found them, ma'am!",,Android voice,
+Detection,Detection,AlertToNormal,,,Tracking failure... standing down.,,Robot voice,
+Detection,Detection,AlertToNormal,,,Potential target lost.,,Robot voice,
+Detection,Detection,AlertToNormal,,,Detecting zero targets. Alert canceled.,,Robot voice,
+Detection,Detection,AlertToNormal,,,No threats in range. Resuming normal operation.,,Robot voice,
+Detection,Detection,AlertToNormal,,,"If there was something here, it's gone now.",,Android voice,
+Detection,Detection,AlertToNormal,,,Perhaps I was mistaken...,,Android voice,
+Detection,Detection,AlertToNormal,,,Nothing? Perhaps I have a faulty sensor.,,Android voice,
+Detection,Detection,AlertToNormal,,,"Nothing there, sir.",,Android voice,
+Detection,Detection,AlertToNormal,,,"Nothing there, ma'am.",,Android voice,
+Detection,Detection,CombatToLost,,,Target lost! Attempting to reacquire!,,Robot voice,
+Detection,Detection,CombatToLost,,,Warning: lost visual on target!,,Robot voice,
+Detection,Detection,CombatToLost,,,Visual sensors recalibrating!,,Robot voice,
+Detection,Detection,CombatToLost,,,Warning: Enemy using visual countermeasures!,,Robot voice,
+Detection,Detection,CombatToLost,,,They're gone!,,Android voice,
+Detection,Detection,CombatToLost,,,I've lost sight of my target!,,Android voice,
+Detection,Detection,CombatToLost,,,They may be using stealth!,,Android voice,
+Detection,Detection,CombatToLost,,,"I've lost them, sir!",,Android voice,
+Detection,Detection,CombatToLost,,,"I've lost them, ma'am!",,Android voice,
+Detection,Detection,CombatToNormal,,,Target eliminated.,,Robot voice,
+Detection,Detection,CombatToNormal,,,Target destroyed.,,Robot voice,
+Detection,Detection,CombatToNormal,,,Hostile neutralized.,,Robot voice,
+Detection,Detection,CombatToNormal,,,Alert status: green.,,Robot voice,
+Detection,Detection,CombatToNormal,,,Adversary exterminated.,,Robot voice,
+Detection,Detection,CombatToNormal,,,Threat annihilated.,,Robot voice,
+Detection,Detection,CombatToNormal,,,"Threat level, zero.",,Robot voice,
+Detection,Detection,CombatToNormal,,,Powering down weapons.,,Robot voice,
+Detection,Detection,CombatToNormal,,,Hostility mode suspended.,,Robot voice,
+Detection,Detection,CombatToNormal,,,Combat systems returning to standby.,,Robot voice,
+Detection,Detection,CombatToNormal,,,Target down.,,Android voice,
+Detection,Detection,CombatToNormal,,,That takes care of that.,,Android voice,
+Detection,Detection,CombatToNormal,,,Not much of a threat after all.,,Android voice,
+Detection,Detection,CombatToNormal,,,That was amusingly simple.,,Android voice,
+Detection,Detection,CombatToNormal,,,"Hopefully, that's the last of them.",,Android voice,
+Detection,Detection,CombatToNormal,,,Good riddance.,,Android voice,
+Detection,Detection,CombatToNormal,,,"Are you injured, sir?",,Android voice,
+Detection,Detection,CombatToNormal,,,"Are you injured, ma'am?",,Android voice,
+Detection,Detection,CombatToNormal,,,"Powering down weapons, sir.",,Android voice,
+Detection,Detection,CombatToNormal,,,"Powering down weapons, ma'am.",,Android voice,
+Detection,Detection,CombatToNormal,,,"Well done, sir!",,Android voice,
+Detection,Detection,CombatToNormal,,,"Well done, ma'am!",,Android voice,
+Detection,Detection,LostToCombat,,,Target reacquired! Firing!,,Robot voice,
+Detection,Detection,LostToCombat,,,Located hostile! Re-engaging!,,Robot voice,
+Detection,Detection,LostToCombat,,,Locking target!,,Robot voice,
+Detection,Detection,LostToCombat,,,Threat reinstated! Opening fire!,,Robot voice,
+Detection,Detection,LostToCombat,,,Found the target again!,,Android voice,
+Detection,Detection,LostToCombat,,,Nice try!,,Android voice,
+Detection,Detection,LostToCombat,,,Enemy's over here!,,Android voice,
+Detection,Detection,LostToCombat,,,"Lost, but not forgotten!",,Android voice,
+Detection,Detection,LostToNormal,,,Scanners clear.,,Robot voice,
+Detection,Detection,LostToNormal,,,Target lost.,,Robot voice,
+Detection,Detection,LostToNormal,,,Recalibrating detection circuits.,,Robot voice,
+Detection,Detection,LostToNormal,,,Threat escaped.,,Robot voice,
+Detection,Detection,LostToNormal,,,I think they got away.,,Android voice,
+Detection,Detection,LostToNormal,,,I'm betting they'll be back.,,Android voice,
+Detection,Detection,LostToNormal,,,I've got nothing.,,Android voice,
+Detection,Detection,LostToNormal,,,That's it for now... they're gone.,,Android voice,
+Detection,Detection,LostToNormal,,,"We've lost them, sir.",,Android voice,
+Detection,Detection,LostToNormal,,,"We've lost them, ma'am.",,Android voice,
+Detection,Detection,NormalToAlert,,,Noise detected. Entering search mode.,,Robot voice,
+Detection,Detection,NormalToAlert,,,Sensor alert. Possible hostile in area.,,Robot voice,
+Detection,Detection,NormalToAlert,,,Perimeter warning detected. Scanning.,,Robot voice,
+Detection,Detection,NormalToAlert,,,Possible target in range.,,Robot voice,
+Detection,Detection,NormalToAlert,,,Did you hear that?,,Android voice,
+Detection,Detection,NormalToAlert,,,We may have an enemy nearby.,,Android voice,
+Detection,Detection,NormalToAlert,,,Picking up something...,,Android voice,
+Detection,Detection,NormalToAlert,,,We may have some trouble...,,Android voice,
+Detection,Detection,NormalToAlert,,,"Careful, ma'am. I don't think we're alone.",,Android voice,
+Detection,Detection,NormalToAlert,,,"Careful, sir. I don't think we're alone.",,Android voice,
+Detection,Detection,NormalToCombat,,,Engaging target!,,Robot voice,
+Detection,Detection,NormalToCombat,,,Weapons armed!,,Robot voice,
+Detection,Detection,NormalToCombat,,,Threat detected!,,Robot voice,
+Detection,Detection,NormalToCombat,,,Attack mode engaged!,,Robot voice,
+Detection,Detection,NormalToCombat,,,"Hostility mode, activated!",,Robot voice,
+Detection,Detection,NormalToCombat,,,Priority mission: destroy hostile!,,Robot voice,
+Detection,Detection,NormalToCombat,,,Powering up weapons!,,Robot voice,
+Detection,Detection,NormalToCombat,,,"Weapon systems, online!",,Robot voice,
+Detection,Detection,NormalToCombat,,,Hostile in range!,,Robot voice,
+Detection,Detection,NormalToCombat,,,Danger! Danger!,,Robot voice,
+Detection,Detection,NormalToCombat,,,Opening fire!,,Android voice,
+Detection,Detection,NormalToCombat,,,Let's get this done!,,Android voice,
+Detection,Detection,NormalToCombat,,,Target's in range!,,Android voice,
+Detection,Detection,NormalToCombat,,,We've got company!,,Android voice,
+Detection,Detection,NormalToCombat,,,Take them down!,,Android voice,
+Detection,Detection,NormalToCombat,,,Let me have this one!,,Android voice,
+Detection,Detection,NormalToCombat,,,Let's take them out!,,Android voice,
+Detection,Detection,NormalToCombat,,,Safety's off!,,Android voice,
+Detection,Detection,NormalToCombat,,,Powering weapons!,,Android voice,
+Detection,Detection,NormalToCombat,,,"Get 'em, sir!",,Android voice,
+Detection,Detection,NormalToCombat,,,"Get 'em, ma'am!",,Android voice,
+Detection,Detection,NormalToLost,,,Sensors clear.,,Robot voice,
+Detection,Detection,NormalToLost,,,Tracking lost.,,Robot voice,
+Detection,Detection,NormalToLost,,,Sensors recalibrating.,,Robot voice,
+Detection,Detection,NormalToLost,,,Danger: hostile may still be in area.,,Robot voice,
+Detection,Detection,NormalToLost,,,"My apologies, I think I've lost them.",,Android voice,
+Detection,Detection,NormalToLost,,,"If they're out there, we'll find them.",,Android voice,
+Detection,Detection,NormalToLost,,,Any idea where they went?,,Android voice,
+Detection,Detection,NormalToLost,,,"Can you see them, sir?",,Android voice,
+Detection,Detection,NormalToLost,,,"Can you see them, ma'am?",,Android voice,
+Miscellaneous,Miscellaneous,Greeting,,,Would you like me to go with you?,Player Default: Time to hit the road.,Ada: Intro line for pick up scene to become a follower. / Neutral,DLC01COMRobotCompanionPickupScene
+Miscellaneous,Miscellaneous,Greeting,,,"A pleasure to see you again, sir. Are you ready to depart?",Player Default: Time to hit the road.,Android voice,DLC01COMRobotCompanionPickupScene
+Miscellaneous,Miscellaneous,Greeting,,,"A pleasure to see you again, ma'am. Are you ready to depart?",Player Default: Time to hit the road.,Android voice,DLC01COMRobotCompanionPickupScene
+Miscellaneous,Miscellaneous,Greeting,,,Identity confirmed. This unit is ready to serve.,Player Default: Time to hit the road.,Robot voice,DLC01COMRobotCompanionPickupScene
+Miscellaneous,Miscellaneous,Hello,,,How may I be of service?,,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,How may I help you?,,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,What did you require?,,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,How may I assist you today?,,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,I'm pleased to see you again.,,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,"Hello, sir.",,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,"Hello, ma'am.",,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,"If there's anything I can do for you, please let me know.",,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,"If there's anything you need, I'd be happy to comply.",,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,"It would be my pleasure to assist you, sir.",,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,"It would be my pleasure to assist you, ma'am.",,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,"Is there something I can help you with, sir?",,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,"Is there something I can help you with, ma'am?",,Android Personality,
+Miscellaneous,Miscellaneous,Hello,,,Awaiting your command.,,Robot personality,
+Miscellaneous,Miscellaneous,Hello,,,All systems operating at normal capacity.,,Robot personality,
+Miscellaneous,Miscellaneous,Hello,,,Command mode ready.,,Robot personality,
+Miscellaneous,Miscellaneous,Hello,,,Standing by for further instructions.,,Robot personality,
+Miscellaneous,Miscellaneous,Hello,,,This unit is ready to serve.,,Robot personality,
+Miscellaneous,Miscellaneous,Hello,,,This unit is operating under normal parameters.,,Robot personality,
+Miscellaneous,Miscellaneous,Hello,,,"Authorization to interact with this unit, granted.",,Robot personality,
+Miscellaneous,Miscellaneous,Hello,,,Interface ready for next directive.,,Robot personality,
+Miscellaneous,Miscellaneous,Hello,,,This unit's systems are at your command.,,Robot personality,
+Miscellaneous,Miscellaneous,Hello,,,Identity confirmed. Awaiting input.,,Robot personality,
+Miscellaneous,Miscellaneous,Idle,,,I wonder what type of work the humans performed here?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,These office buildings tend to have terminals filled with useful information.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I wonder what the history lessons of today would be like.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,Why read a book when you can just plug into a terminal and learn ten times as much in a fraction of the time?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I sincerely hope any children that attended this institution found safety before the bombs fell.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I feel strangely at home here. After all, I was designed to accumulate knowledge.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"If you don't eat your meat, how can you have any pudding?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,We never spent too much time salvaging ships. Most pieces are too corroded to be of use.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,I've never understood the human fascination with exploring the sea.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I highly doubt this vessel will ever sail again.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It might be safer if we remained on dry land... this ship looks like a deathtrap.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Remember, sir... these hulks could be home to any number of hostile creatures.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Remember, ma'am... these hulks could be home to any number of hostile creatures.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,The top of this building will likely provide a better vantage point for us... if we can get there.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I hope the engineers that constructed this building took over 200 years of rust into account.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I'm not exactly well-equipped for climbing, so you'll forgive me if I take my time.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Watch your step. I can't vouch for the stability of this building.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"My mapping subroutine is active, but I'll be damned if I know where this takes us.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,The lighting down here is terrible... attempting to compensate.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Well, if you were searching for pipes and poor lighting, you've come to the right place.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Watch the shadows, otherwise we may fall prey to an ambush.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Not much down here. Hopefully we'll end up somewhere more interesting soon.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,So this is the pride of Vault-Tec. Remarkable use of technology.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Getting sealed underground for over 200 years would drive even a robot insane.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,There must be some useful supplies left over in this Vault... we just need to keep searching.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,My files say some of these Vaults held over a thousand people. That sounds uncomfortable.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I wonder what type of illicit experimentation Vault-Tec was performing here?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's sad that humans devoted more space to retail than education.,,Android voice.,
+Miscellaneous,Miscellaneous,Idle,,,It's sad that people devoted more space to retail than education.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"Looks like an appropriate place for what humans used to call ""a shopping spree.""",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I suppose we can take whatever we need. I'm certain the shopkeeper won't mind.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"With all this pre-war money lying around, why did humans decide to use caps for currency?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"With all this pre-war money lying around, I always wondered why people decided to use caps for currency.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"Oh look, everything's on sale... 100 percent off.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Whatever was stocked here, most of it appears to be gone.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I realize this facility appears empty, but I suggest we search it thoroughly.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I'm not certain what you're expecting to find in this warehouse, but I suppose it wouldn't hurt to take a look.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"If you want to explore this warehouse, I'm right behind you sir.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"If you want to explore this warehouse, I'm right behind you ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I'd almost appreciate the view here if I wasn't busy trying to scan for signs of mirelurks.,,Android,
+Miscellaneous,Miscellaneous,Idle,,,I don't suppose we'll be fishing anytime soon... not much can survive in that irradiated water.,,Android,
+Miscellaneous,Miscellaneous,Idle,,,"I don't mind getting a bit wet, but don't stray too far from the shore.",,Android,
+Miscellaneous,Miscellaneous,Idle,,,"Fancy going for a swim, sir? It's only about 3,700 miles to the coast of Spain.",,Android,
+Miscellaneous,Miscellaneous,Idle,,,"Fancy going for a swim, ma'am? It's only about 3,700 miles to the coast of Spain.",,Android,
+Miscellaneous,Miscellaneous,Idle,,,It will be awhile before the oceans are safe again.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,So this is the Glowing Sea. It's even more desolate than I'd imagined.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I hope you're properly insulated from all this radiation, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I hope you're properly insulated from all this radiation, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"According to my memory banks, this area suffered a direct hit from a salvo of nuclear missiles.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"My internal radiation sensors are off the scale here, sir. Do be careful.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"My internal radiation sensors are off the scale here, ma'am. Do be careful.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,What a surprisingly pleasant day. Perhaps it will lift our spirits.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"Looks like an appropriate place for what Zoe used to call ""a shopping spree.""",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"Should we get lost, my mapping subroutine is active.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,Ah yes... this is where humans would gather to accumulate knowledge.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"From a robot's perspective, mankind's learning process is extremely slow. What you learned in a lifetime, we can learn in seconds.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"The Mr. Gutsy in me says this feels like home, but perhaps it's just a faulty memory relay.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,The military used many of my own kind as front line opponents. I wonder how many were lost before the war was over?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"This location is certain to contain ammunition, explosives or weapons.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I'm surprised there's anything left in this facility. I would have expected it to be ransacked by now.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's amusing to think that humankind actually expected to have a winner emerge from the Great War.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Component samples ready for extraction.,,Robot Voice,
+Miscellaneous,Miscellaneous,Idle,,,This unit's component array is full. Suggest immediate purge.,,Robot Voice,
+Miscellaneous,Miscellaneous,Idle,,,Spare component output ready.,,Robot Voice,
+Miscellaneous,Miscellaneous,Idle,,,Immediate component extraction requested.,,Robot Voice,
+Miscellaneous,Miscellaneous,Idle,,,I have some spare components if you need them.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Need any components? I have some to spare.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Running low on components?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Sir, I have some components for you.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Ma'am, I have some components for you.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Those Robobrains explain how one person could maintain this facility alone. An impressive modification.,,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,Let's hope this beacon will be the only piece we need to track down the Mechanist.,,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"The robot workbench is a powerful tool, allowing even the simplest of minds to create complex robots.",,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,I've never lost anyone before. These feelings of grief are new to me... Tell me it gets better.,,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"We'd never been to this particular factory before, but once Jackson spotted the Mechanist robots, we turned around immediately.",,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,There's no question about the Mechanist's talent. My systems are 100% compatible with this beacon. Something not even Jackson ever achieved.,,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,The workbench seems to have no adversity to the addition of a foreign modification.,,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,Evening is drawing near. Perhaps we should seek shelter?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's almost sunrise. I trust you'll have another pleasant day.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"We've survived another night. A triumph, I think.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"It's a rather pleasant evening, wouldn't you say?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Don't worry, my ocular sensors are well suited for travel at night.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,What a surprisingly pleasant day. Perhaps it will lift your spirits.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Oh my, it's raining again. Fortunately, it won't effect my electronics.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,We have the entire Commonwealth to explore. Where should we go next?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,There's so much ground to cover in the Commonwealth. Where should we go next?,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"Whatever it is we're out here looking for, I'm certain we'll find it soon.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's astounding how much we still have to discover out here.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Lead on... there's so much ahead to discover.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I trust you're enjoying my company. You and I make quite an effective team.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,My systems are continuing to function at peak efficiency.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,My onboard functions are operating at full capacity.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Self-diagnostic complete. I'm happy to report I won't be falling apart on you anytime soon.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Traveling with you is proving to be quite... enlightening.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Traveling with you is proving to be quite... uplifting.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,The daily choices you humans need to make regarding life and death must be quite a burden.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Your emotions appear to be an anomaly in your programming. Perhaps you should have them purged?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I must apologize for the odd noises I'm currently emitting... a consequence of being mechanical in nature.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,We can keep traveling as much as you want... I don't require sleep or food in order to survive.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I appear to be well-built for travel... you should be commended for a job well done.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Greed, hate, anger... It's a shame that humans seem to rely on negative emotions in order to survive.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I wonder how long my systems will endure these rugged conditions?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Rust-proof, radiation-proof and a lifetime supply of power. I couldn't ask for more.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I wasn't aware that roaming the Commonwealth could prove so interesting.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,My databanks are continuing to accumulate vast amounts of data regarding the Commonwealth.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Monitoring the Commonwealth is proving to be quite rewarding... what a fascinating place.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"It's a pleasure to serve with you, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"It's a pleasure to serve with you, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Everything seems to be proceeding according to plan, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Everything seems to be proceeding according to plan, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"All systems are go, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"All systems are go, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Never fear, sir... I will ensure your safety to the best of my ability.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Never fear, ma'am... I will ensure your safety to the best of my ability.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"You lead the way and I'll follow, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"You lead the way and I'll follow, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Jackson ensured I was well-built for travel. His modifications will be adequate for quite some time.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,The Brotherhood collects technology. Jackson always made it a point to avoid them when possible.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,My past encounters with the Brotherhood of Steel were never good. Let's not provoke them.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,I find it strange that these soldiers traveled all this way just to start a war.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"Although my friends were adept with technology, Power Armor was never something they utilized.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,The Brotherhood is quite capable with laser technology. I recommend exercising caution.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,My files say the Brotherhood collects technology. I hope that doesn't make me a target.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I heartily suggest we don't provoke the humans with the largest guns.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I find it strange that these humans traveled all this way just to start a war.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Power Armor appears to be humankind's attempt at emulating one of my kind.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,The Brotherhood is quite capable with laser technology. Perhaps we can take advantage of their knowledge.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Insects truly are the vermin of the Commonwealth.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's a shame I'm not equipped with a pesticide component.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I find it ironic that the word ""bugs"" has completely different meanings to the both of us.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"In regards to these insects, I believe the word you're looking for is ""disgusting.""",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Be careful, sir. The toxins that these insects produce is quite lethal.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Be careful, ma'am. The toxins that these insects produce is quite lethal.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I fail to see the logic in worshipping something that is clearly hazardous to your health.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,These Children of Atom would certainly provide a fascinating subject for psychological research.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's astonishing that the Children of Atom possess an uncanny immunity to radiation.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I wonder if these people are misunderstood or simply out of their minds?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Sir, we may want to see if these people possess any useful gamma-based technology.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Ma'am, we may want to see if these people possess any useful gamma-based technology.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,How could the perfect killing machine rise from the chaos of an irradiated world?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It takes an astonishing amount of firepower to kill a Deathclaw.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Fair warning... my self-preservation subroutine is on high alert.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Aggressive, territorial and carnivorous... the very definition of a predatory species.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Sir, we shouldn't remain here much longer. I fear for your safety.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Ma'am, we shouldn't remain here much longer. I fear for your safety.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's difficult to fathom that these ferals were once human.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Be certain to check every feral corpse, they tend to carry items useful to humans.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Be certain to check every feral corpse, they tend to carry useful items.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"Radiation exposure can have an astonishing effect on human flesh.... oh, forgive me... I tend to forget the company I keep.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Perhaps one day you'll discover how to communicate with these feral ghouls.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Ferals feast on human flesh, yet leave each other alone. A bit overcooked perhaps?",,Android voice - an attempt at humor,
+Miscellaneous,Miscellaneous,Idle,,,Gunners carry serious military-grade hardware. We should gather whatever we can.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Gunners favor laser weaponry. Perhaps we can find fusion cells among the corpses?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Judging from the skull-like markings emblazoned everywhere, Gunners are exceedingly territorial.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,And here I thought that Raiders were the lowest form of humanity in the Commonwealth.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I trust you'll never associate yourself with these mercenaries, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I trust you'll never associate yourself with these mercenaries, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"If radiation hyper-evolved the horseshoe crab, I wonder how it's affected the rest of the ocean's inhabitants.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's fascinating that the Mirelurk's social order resembles a caste-like system.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Never aim for the Mirelurk's shell... it's a waste of ammunition.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"My olfactory sensors are catching the scent of rotten fish. Quite revolting for you, I'd imagine.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Gather all the Mirelurk meat that you can, it's actually rather nutritious... if you can get passed the slimy texture.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,There must be literally miles of mole rat warrens beneath the Commonwealth.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,The mole rat is a filthy species... I'm detecting high levels of bacteria in the area.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Humans actually ingest these beasts? Fortunately for us both, I lack a vomiting subroutine.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Since mole rats will chew on anything... including wires, may I suggest we move along?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Mole rats. Hardly worth our time, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Mole rats. Hardly worth our time, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Ridding the Commonwealth of Raiders is close to providing a public service.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Raiders are one of the lowest forms of humanity... an embarrassment to your species.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,We should be able to scavenge some useful items from these lowlife Raiders.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"According to my database, Raiders rank astonishingly low when it comes to common sense... and personal hygiene.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Be careful, sir. Raiders tend to plant mines near their encampments.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Be careful, ma'am. Raiders tend to plant mines near their encampments.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Most robots aren't self-aware. You can hardly blame them for carrying out their function until the end.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Don't worry, I have no problems assisting with the destruction of my own kind.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Perhaps if more robots possessed my mercy algorithm, we wouldn't be forced to destroy them.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Let's look around for robot components. I wouldn't mind an upgrade.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I'm afraid I'll be unable to extract any useful data from these robots, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I'm afraid I'll be unable to extract any useful data from these robots, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"If my memory banks are correct, Super Mutants were bio-engineered. Who would create such monstrosities?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Super Mutants are loud, brutish and violent... not so different from humankind, wouldn't you agree?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,We need to be careful. I hear Super Mutants like to... experiment on humans.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Super Mutant bloodlust holds no bounds. How else do you explain their Suiciders?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Beg your pardon, but you may have just trodden through Mutant Hound scat.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Watch it, sir. Super Mutants are renown for using heavy weapons against their foes.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Watch it, ma'am. Super Mutants are renown for using heavy weapons against their foes.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,The technology these synths utilize is quite sophisticated.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Advanced CPUs, streamlined power systems... why didn't you build me like this?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Advanced CPUs, streamlined power systems... I often wish their hardware was compatible with my own.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,Now I know what it feels like to be obsolete.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Synths have a way of making me feel obsolete.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"I'm detecting high levels of jealousy and envy... oh, wait... that's me.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's a shame you can't fit one or two of their limbs onto my chassis. It would make a wonderful upgrade.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Synths truly inspire me to be a better robot. Did that sound strange?,,Android voice - pause for effect between lines,
+Miscellaneous,Miscellaneous,Idle,,,So humans used to fly in those gigantic deathtraps? You're braver than I thought.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,There may be some baggage we can search for pre-war artifacts around here.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,This airport must have been impressive before the city was destroyed.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"We should be cautious near the aircraft wreckage, it could still be emitting radiation.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Is this where humans would go to ""take a vacation?""",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Shades often spoke of repairing an airplane, but we never stayed in one place long enough for him to try.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,This facility produced an alcoholic substance used as a depressant. Was society that restless?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,My friends would drink to celebrate. I often wished I could experience the appeal until I saw their condition the next morning.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"Barley, water, hops and yeast. Mixed together? I'm glad I can't ingest that.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,My olfactory sensors are picking up the smell of fermentation... still present after all these years.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Please clarify. Why would a human willfully ingest a substance that can make them sick?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Zoe used to tell me that beer was ""disgusting,"" but she'd still drink it regardless. I never did understand it.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"If you're planning on getting drunk, you should do it somewhere less dangerous.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"There isn't much to look at here, but at least it will provide us shelter.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Perhaps we should move along before something seeks to use this place as its new home.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Quite dreary in here, wouldn't you agree?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,This cave doesn't look particularly interesting.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Did you know caves are formed by the dissolution of limestone? Quite a fascinating process, really.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Perhaps we could utilize this spot to recharge our batteries?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I wouldn't advise building a campfire. It could attract unwanted attention.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"If this site was occupied, they may have left behind a few useful items for us to collect.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Why would anyone bother to camp? It's much safer with a roof over your head.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It may not be safe here if the previous travelers are planning on returning.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,There really isn't much here worth investigating.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,This would be a perfect opportunity for us to scavenge components for your workshops.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,This place is a testament to humankind's ingenuity and resourcefulness.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Whatever they assembled here, I'm certain we can put it to good use.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I wonder if some of my own parts were created here?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Watch your footing, sir. Buildings like this can be quite dangerous.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Watch your footing, ma'am. Buildings like this can be quite dangerous.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"If threats like Raiders and Super Mutants did not exist, perhaps facilities like this could be restored.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,The presence of beer always manages to attract the most unsavory types.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,Airplanes always made for good tech salvage.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,These facilities tend to be filled with medical supplies. We should gather all that we can.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Amazing... all this technology just to keep humans functioning.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's a shame that these houses of healing couldn't stand up to the rigors of nuclear war.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I certainly hope they didn't use Mr. Handy Robots to operate on patients... they tend to be a bit twitchy.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Don't worry, sir... I'll keep a watchful eye open for stimpaks.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Don't worry, ma'am... I'll keep a watchful eye open for stimpaks.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,A scientific research facility. Now this interests me.,,"Android voice - punch ""this""",
+Miscellaneous,Miscellaneous,Idle,,,Now what sort of scientific mayhem do you suspect this facility unleashed upon the world?,,"Android voice - punch ""this""",
+Miscellaneous,Miscellaneous,Idle,,,Humans. Just when they think they've bent science to their will it all falls apart.,,Android voice - shaking head,
+Miscellaneous,Miscellaneous,Idle,,,Please let me know if you locate any unusual chemicals or compounds.,,Android voice - shaking head,
+Miscellaneous,Miscellaneous,Idle,,,Some of these scientific gadgets may yield useful components when they're disassembled.,,Android voice - shaking head,
+Miscellaneous,Miscellaneous,Idle,,,I hope people didn't attempt to use these places as a fallout shelter.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"Ironic that people were ingenious enough to create a massive transit system, but couldn't even cure the common cold.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,So many accomplishments were lost to the war.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,I sincerely hope humans didn't attempt to use these places as a fallout shelter.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Ironic that humans were ingenious enough to create a massive transit system, but couldn't even cure the common cold.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,These stations often attract the worst the Commonwealth has to offer.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I'm adjusting my ocular sensors for lower light.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,It's a shame we can't utilize this station's trains to move about the Commonwealth.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Honoring the fallen seems strange. Wouldn't it make more sense to honor those that survived?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I don't suppose there is a memorial for fallen robots?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I recognize this place from my memory banks. Did you require a moment of silence?,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Writing on paper in an age of technology seems inefficient and wasteful. I wonder if the practice would have been phased out if not for the war.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,I wonder what type of work the people performed here?,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,I can't imagine why humans needed to write on paper. Seems incredibly inefficient to me.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"I doubt we'll find anything valuable in this building, but I'm game if you are.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Well this is a fascinating location you've brought us too, if you're eager to stock up on office supplies.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"This might be the ideal place to stop and rest, sir.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"This might be the ideal place to stop and rest, ma'am.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,This might be the ideal place to stop and rest.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"If humans created these places to get closer to nature, why didn't they do their part to preserve it as well?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"People came to these places to relax and get closer to nature. Now, nature holds its own dangers.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,This place almost looks pleasurable. It's a shame there aren't many humans left to enjoy the view.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,The chances of finding decent salvage here are low.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"If you ever wish to pass the time, I have highly-detailed files about strip mining.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Humans. If they weren't razing forests, they we're digging massive holes in the ground.",,Android voice - shaking head,
+Miscellaneous,Miscellaneous,Idle,,,"It will be awhile before mankind utilizes places like this again... for their intended purpose, that is.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"If it's all the same to you, I'd rather stay at the top of the quarry. Seems much safer.",,Android voice - shaking head,
+Miscellaneous,Miscellaneous,Idle,,,"Please be careful in this quarry, sir. One wrong step and it could be your last.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Please be careful in this quarry, ma'am. One wrong step and it could be your last.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I think it would be worth our time to check each building for useful supplies.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"This area wasn't as densely populated as the city itself. I believe you humans call that ""quaint?""",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,This must have been a nice neighborhood once.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Does this location remind you of home, sir?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Does this location remind you of home, ma'am?",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I wonder if anything of use may still be found here.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,This must have been quite the bustling metropolis before the bombs fell.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I'm amazed that the city survived the war without taking a direct hit.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,I'd recommend we stick close to the bases of the larger buildings to reduce our chance of being seen.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Each and every one of these buildings could contain a veritable fortune in supplies. This may take a while.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Watch the rooftops, sir. I doubt that we're alone.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"Watch the rooftops, ma'am. I doubt that we're alone.",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,My friends would spend days at a good salvage yard.,,Ada: somewhat nostalgic. / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"This area wasn't as densely populated as the city itself. I believe the term Liza used for places like this was ""quaint?""",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,I find it highly inadvisable to make your home within one of these quarries. The risk of instability would be too great.,,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"I wish Jackson had uploaded medical training within my database, although my extremities aren't well suited for caregiving.",,Ada / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,"What's the saying? ""One human's scrap is another robot's treasure?""",,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,Let's spend some time looking around. These locations tend to be filled with useful components.,,Android voice,
+Miscellaneous,Miscellaneous,Idle,,,"You see junk, I see the building blocks of life... mine in particular.",,Android voice,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Awaiting instructions.,,Robot personality,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,This unit cannot proceed without command input.,,Robot personality,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Assessing silence. Suggestion: state commands clearly for proper response.,,Robot personality,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,No input detected. Entering wait mode.,,Robot personality,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Running self-diagnostic on audio pickups. All systems green.,,Robot personality,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Is something amiss?,,Android personality,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"I'm sorry, were you waiting for me?",,Android personality,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,I hope I haven't said anything offensive.,,Android personality,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,I assume your silence means you're deep in thought. Take your time.,,Android personality,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Are you okay? Your silence is troubling.,,Android personality,
+Topic,PlayerDialogue,Custom,,,"Let me see... yes, I am picking up a signal.",,,
+Topic,PlayerDialogue,Custom,,,I have some good news.,,,
+Scene,SceneDialogue,Custom,,Player Default: Your personality defines you as an individual. Never let that go.,You're right.,,Surprised,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"All of the good memories I've experienced being ""Ada"" would be lost if my personality mode was shut down. I can't afford to lose them.",,Relieved,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,I really think I needed to hear that from someone else. Thank you.,DLC01MQ04Ada: Now I've distracted you for long enough.,Grateful,DLC01MQ04_Stage180_AdaReturnScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Your personality defines you as an individual. Never let that go.,"I appreciate what you're trying to do, but it's obvious that having my personality mode on is causing me to make mistakes.",,Sad,DLC01MQ04_Stage180_AdaReturnScene
+Miscellaneous,Miscellaneous,SharedInfo,,,I promise I'll do my best to make sure it doesn't happen again.,DLC01MQ04Ada: Now I've distracted you for long enough.,Apologetic,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,Player Default: I don't really have time for this right now.,"Yes... you're right of course. I'm sorry, I won't bring it up again.",DLC01MQ04Ada: Now I've distracted you for long enough.,Apologetic,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,Player Default: You shouldn't think that way. Your personality helps you think creatively.,"I always considered my personality to be a burden, but I suppose I've been looking at it incorrectly.",,Grateful,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,I really think I needed to hear that from someone else. Thank you.,DLC01MQ04Ada: Now I've distracted you for long enough.,Happy,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,Player Default: Your personality mode? What do you mean?,Most robots have a personality mode select available to them for their creator to utilize.,,Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"Turn it on, and we're designed to talk and act more like a human. Turn it off, and we're no better than a mindless automaton.",,Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,Jackson said he didn't think of me as a servitor robot... he treated me more like a friend.,,Sad,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"So he permanently set my personality mode to ""on."" He said I should never lose my identity.",,Sad,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,I suppose I'm starting to think he was wrong.,Player Default: Your personality defines you as an individual. Never let that go.,Sad,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,"PlayerVoiceFemale01: Here you go, Ada. One slightly dented but still functional Radar Beacon.",This will do nicely.,,Happy,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,"And, with any luck, it'll help us trace the Mechanist's signal.","DLC01MQ04Ada: I'm going to begin my decryption routine, but it could take a while.",Concerned,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,Player Default: I haven't come this far just to back down now.,"I understand that, but you should still proceed with caution.",DLC01MQ04Ada: My old caravan encountered them once while crossing the river into the city.,Worried,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,"Player Default: Rust Devils, huh? Oooo. Scary.",You shouldn't be so dismissive.,DLC01MQ04Ada: My old caravan encountered them once while crossing the river into the city.,Concerned,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,Player Default: Doesn't sound like anything a little lemon juice and some steel wool couldn't fix.,It's going to take something a bit... stronger to overcome these foes.,DLC01MQ04Ada: My old caravan encountered them once while crossing the river into the city.,a joke went right over your head / Concerned,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,"Player Default: Who or what are the ""Rust Devils?""",Allow me to explain.,DLC01MQ04Ada: My old caravan encountered them once while crossing the river into the city.,Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,"Player Default: I understand that, but you should still proceed with caution.",My old caravan encountered them once while crossing the river into the city.,,Concerned,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,The Rust Devils are a group of ruthless Raiders who utilize robots for their nefarious practices.,,Disgust,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,"They scour the Commonwealth looking for my kind. What they can't capture and reprogram, they strip for spare parts.",,Angry,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,I realize they pose a greater threat to me than you... I just want you to be well informed.,DLC01MQ04Ada: That being said...,Concerned,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,DLC01MQ04Ada: I realize they pose a greater threat to me than you... I just want you to be well informed.,That being said...,,Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,"Despite what lies ahead, I can easily continue to decrypt the signal as we proceed, so shall we be on our way?",DLC01MQ04Ada: That being said...,Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,Player Default: I certainly hope so.,"I'm going to begin my decryption routine, but it could take a while.",,Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,"In the meantime, I've picked up another Robobrain beacon signal. It should be the last one you'll need to collect.","Player Default: Good work, Ada.",Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,"Player Default: Don't worry, I'm sure it'll do the trick.",I certainly hope so.,"DLC01MQ04Ada: I'm going to begin my decryption routine, but it could take a while.",Concerned,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,Player Default: I hope getting it was worth the trouble.,I'm sorry if retrieving the component caused you any harm.,"DLC01MQ04Ada: I'm going to begin my decryption routine, but it could take a while.",Apologetic,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,"Player Default: Either that, or the Mechanist is smarter than you suspect and we're just wasting our time.",Let's hope that isn't the case.,"DLC01MQ04Ada: I'm going to begin my decryption routine, but it could take a while.",Concerned,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,Player Default: Remind me how this beacon will get us closer to tracing the Mechanist's signal?,Each Robobrain's Radar Beacon has unique encryption so that it can't be traced back to the source.,,Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,"However, acquiring two additional beacons should provide me with enough data to break the code.",,Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,"So, if my theory is correct, this beacon will help us trace the Mechanist's signal.","DLC01MQ04Ada: I'm going to begin my decryption routine, but it could take a while.",Concerned,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,"Player Default: Good work, Ada.",Thank you.,"DLC01MQ04Ada: If my calculations are correct, the signal is coming from...",Grateful,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,"Player Default: Get to the point, Ada. Where am I going?","Ah, yes. That would be helpful.","DLC01MQ04Ada: If my calculations are correct, the signal is coming from...",Apologetic,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,Player Default: Let me guess... this is going involve a lot of walking.,Your astuteness is impressive.,"DLC01MQ04Ada: If my calculations are correct, the signal is coming from...",joking back with Player / Amused,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,Player Default: So where exactly is the last Robobrain located?,"Yes, that would be helpful, wouldn't it?","DLC01MQ04Ada: If my calculations are correct, the signal is coming from...",rhetorical / Amused,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,Player Default: Thank you.,"If my calculations are correct, the signal is coming from...",,Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,"Oh, this isn't good. Location confirmed...",,Worried,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,"The Robobrain is at Fort Hagen Satellite Array, which means it's in the hands of the Rust Devils.",Player Default: I haven't come this far just to back down now.,Worried,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,"DLC01MQ04Ada: Despite what lies ahead, I can easily continue to decrypt the signal as we proceed, so shall we be on our way?",That being said...,,Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,"Despite what lies ahead, I'd be more than happy to accompany you... if you like.",,Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,"If not, then all that remains is to wish you good luck.",,Friendly,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,,Leaving so soon? Was it something I said?,,Concerned,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Scene,SceneDialogue,Custom,,"PlayerVoiceFemale01: Here you go, Ada. The final Radar Beacon. I'll need that head back when you're done.",Of course. Shouldn't take but a moment.,DLC01MQ04Ada: There you go... still in one piece.,Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,DLC01MQ04Ada: Of course. Shouldn't take but a moment.,There you go... still in one piece.,,Happy,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,I'm not sure why you want the head back. All we needed was its Radar Beacon.,,Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"Besides, Robobrains are notorious for being... well, a real pain in the neck.","Player Default: We still need it, Ada. I believe it can help us access the Mechanist's facility.",Amused,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,"Player Default: We still need it, Ada. I believe it can help us access the Mechanist's facility.",Of course.,"DLC01MQ04Ada: It makes perfect sense that the Mechanist would not only keep its location a closely guarded secret, but would secure it against intrusion as well.",Surprised,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,Player Default: We don't have a choice. It claims we need it to access the Mechanist's facility.,How foolish of me.,"DLC01MQ04Ada: It makes perfect sense that the Mechanist would not only keep its location a closely guarded secret, but would secure it against intrusion as well.",Irritated,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,"Player Default: Now that you have the final Radar Beacon, will it be enough to track down the Mechanist's location?",I certainly hope so. I've already started the calculations while we've been having this conversation.,,Concerned,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,That still doesn't explain why you need that head back.,"Player Default: We still need it, Ada. I believe it can help us access the Mechanist's facility.",Suspicious,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,"Player Default: What else do you know about them, Ada?","Quite simply, it's the first time General Atomics produced a successful union between organic matter and robotics.",,Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,The brain is used both as a control unit and a data storage unit which is far more efficient than using standard circuits.,,Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"Unfortunately, there were a lot of programming issues with these robots which caused them to be a bit... shall we say, unhinged?",,Concerned,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"Hopefully, this particular Robobrain will have some of the answers that we've been seeking.","Player Default: We still need it, Ada. I believe it can help us access the Mechanist's facility.",Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,"Player Default: What else do you know about them, Ada?",Not at all. The Robobrain was built with a very different design philosophy in mind.,,Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"General Atomics intent was to use the human brain to augment the robot's functions... primarily, to accelerate the decision-making process.",,Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,Free-thought and individuality was never intended. These were expressly built like soldiers... to follow orders without question.,,Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,The Robobrain's unfortunate tendency towards violence and aggression should be considered more of a malfunction than a calculated decision.,"Player Default: We still need it, Ada. I believe it can help us access the Mechanist's facility.",Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,Player Default: Of course.,"It makes perfect sense that the Mechanist would not only keep its location a closely guarded secret, but would secure it against intrusion as well.",,Apologetic,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"I'm terribly sorry, I hadn't considered that possibility at all.",,Apologetic,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"I'm afraid when it comes to assisting humans, I'm not doing very well lately.","Player Default: Don't be ridiculous. If it wasn't for you, we couldn't have gotten this far already.",Depressed,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,"Player Default: Don't be ridiculous. If it wasn't for you, we couldn't have gotten this far already.",That's kind of you to say.,"DLC01MQ04Ada: Ever since I let my friends die in that caravan, I feel like I've been failing in my duties.",Relieved,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,Player Default: I agree. We really don't have time for any more mistakes.,"You're right, and I'm sorry.","DLC01MQ04Ada: Ever since I let my friends die in that caravan, I feel like I've been failing in my duties.",Apologetic,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,Player Default: I don't understand.,Let me explain.,"DLC01MQ04Ada: Ever since I let my friends die in that caravan, I feel like I've been failing in my duties.",Apologetic,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,Player Default: Why would you say something like that?,Isn't it obvious?,"DLC01MQ04Ada: Ever since I let my friends die in that caravan, I feel like I've been failing in my duties.",Question,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,Player Default: That's kind of you to say.,"Ever since I let my friends die in that caravan, I feel like I've been failing in my duties.",,Depressed,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"I chose the route we took the day we were attacked. Perhaps if I had selected an alternate route, they'd still be alive.",,Depressed,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,Sometimes I wish that Jackson had programmed me with my personality mode set permanently to disabled so I wouldn't feel so upset.,Player Default: Your personality defines you as an individual. Never let that go.,Depressed,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,Player Default: I really think I needed to hear that from someone else. Thank you.,Now I've distracted you for long enough.,,snapping out of your funk / Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"I'll finish up my calculations while you deal with our new friend ""Jezebel.""",,Amused,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,"Hopefully, she'll be able to grant us access to the Mechanist's facility and we can put an end to this nonsense once and for all.",,Confident,DLC01MQ04_Stage180_AdaReturnScene
+Scene,SceneDialogue,Custom,,,Where are you going? Have I offended you in some way?,,Concerned,DLC01MQ04_Stage180_AdaReturnScene
+Miscellaneous,Miscellaneous,Greeting,,,"Well, with any luck, the beacon you gave me will help us trace the Mechanist's signal.","DLC01MQ04Ada: I'm going to begin my decryption routine, but it could take a while.",Confident,DLC01MQ04_Stage100_SecondBeaconDoneScene
+Topic,PlayerDialogue,Custom,,,"Let me see... yes, I'm picking up a signal. Sending you the location.",,Neutral,
+Miscellaneous,Miscellaneous,Greeting,,,I'm picking up the signal from another of the Mechanist's dangerous creations.,,,
+Topic,PlayerDialogue,Custom,,,"Good news. I'm not picking up any signals from the Mechanist's old robots at this time, but that doesn't mean we've eliminated them all.",,Neutral,
+Scene,SceneDialogue,Custom,,"PlayerVoiceFemale01: Ada, are you picking up a signal from any more of the rogue robots?",I'd be happy to scan for one if you like.,"Player Default: Yes, see if you can locate one.",,DLC01MQPostQuestRadiantParentAdaIntro
+Scene,SceneDialogue,Custom,,"PlayerVoiceFemale01: Ada, are you picking up a signal from any more of the rogue robots?","I can run another scan, if you'd like me to.","Player Default: Yes, see if you can locate one.",,DLC01MQPostQuestRadiantParentAdaIntro
+Scene,SceneDialogue,Custom,,"PlayerVoiceFemale01: Ada, are you picking up a signal from any more of the rogue robots?",It's possible. Would you like me to run another scan?,"Player Default: Yes, see if you can locate one.",,DLC01MQPostQuestRadiantParentAdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Never mind.,Of course. Just let me know if your curiosity gets the better of you again.,,,DLC01MQPostQuestRadiantParentAdaIntro
+Scene,SceneDialogue,Custom,,Player Default: Do you think there are any more out there?,"Sadly, the Mechanist did not keep very close track of the bots she released into the wild.",,,DLC01MQPostQuestRadiantParentAdaIntro
+Topic,PlayerDialogue,Custom,,,Tracking... tracking... signal locked in. Be careful. You never know what these robots might be capable of.,,,
+Miscellaneous,Miscellaneous,Greeting,,,I'm picking up the signal from another of the Mechanist's dangerous creations.,,,
+Topic,PlayerDialogue,Custom,,,"A moment... the signal is faint but... yes, robot located.",,,
+Miscellaneous,Miscellaneous,Greeting,,,Signal confirmed. I've located another one of the hostile robots.,,,
+Topic,PlayerDialogue,Custom,,,"Hold a moment... yes, I do have a signal. A single robot this time.",,,
+Miscellaneous,Miscellaneous,Greeting,,,I'm tracking another Mechanist robot.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Did you want me to go with you to General Atomics after all?,,Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,All systems running and optimal. Another successful modification.,,Confident about being modified. / Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,I miss my friends. Liza always knew what to say in times of trouble.,,Concerned but hopeful. / Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,General Atomics is the company that held the original robot workbench prototype.,,Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,I hope we can find some evidence of where the Mechanist is.,,Neutral,
+Miscellaneous,Miscellaneous,Idle,,,Do you think the Mechanist has managed to create all these robots alone? It's quite an undertaking.,,Impressed that there's a big robobrain research and development place below a small store. / Impressed,
+Miscellaneous,Miscellaneous,Idle,,,The final confrontation awaits. I only hope we both live to see it.,,Staying upbeat even though he's thinking morbidly. / Friendly,
+Miscellaneous,Miscellaneous,Idle,,,"I find myself intrigued by these doors. For a robot, it's like ""poetry in motion.""",,Loves the Mechanist Doors. / Impressed,
+Miscellaneous,Miscellaneous,Idle,,,Eyebots are not the most formidable messengers.,,Feeling sorry for the eyebot messengers because they're so easy to kill. / Neutral,
+Miscellaneous,Miscellaneous,Idle,,,An impressive display of survival tactics.,,Can't believe him and the player survived a huge onslaught of robots. / Surprised,
+Miscellaneous,Miscellaneous,Idle,,,Those Robobrains explain how one person could maintain this facility alone. An impressive modification.,,Impressed by all the robobrains working the computers. / Impressed,
+Miscellaneous,Miscellaneous,SharedInfo,,,"We'd never been to this particular factory before, but once Jackson spotted the Mechanist robots, he turned us around immediately.",,Musing / Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,I've never lost anyone before. This failure is new to me...,,Sad / Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,"The robot workbench is a powerful tool, allowing even the simplest of minds to create complex robots.",,A bit excited at the different things a robot workbench can do. / Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,Let's hope this beacon will be the only piece we need to track down the Mechanist.,,Concerned for the innocent people in the Commonwealth. / Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,The workbench seemed to have no adversity to the addition of a foreign modification.,,Cheerful mood. / Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,There's no question about the Mechanist's talent. My systems are 100% compatible with this Radar Beacon. Something not even Jackson ever achieved.,,Cheerful mood. / Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,RobCo Sales &amp; Service seems the perfect innocuous place for a military installation.,,Impressed that there's a big robobrain research and development place below a small store. / Impressed,
+Miscellaneous,Miscellaneous,SharedInfo,,,Let's hope the Mechanist hasn't mounted too large a force.,,Worried/concerned for safety. / Worried,
+Miscellaneous,Miscellaneous,SharedInfo,,,The robot workbench has enormous potential. Not even Jackson managed to discover all the possible permutations.,,Impressed at first. A little disgusted at the end. / Impressed,
+Scene,SceneDialogue,Custom,,Player Default: Sure.,Good.,,Happy,DLC01Dialogue_AdaOfferRadiants
+Scene,SceneDialogue,Custom,,Player Default: No way.,"Should you change your mind, let me know.",,Disappointed. / Neutral,DLC01Dialogue_AdaOfferRadiants
+Scene,SceneDialogue,Custom,,Player Default: Maybe later.,Of course.,,Giving advice. / Neutral,DLC01Dialogue_AdaOfferRadiants
+Scene,SceneDialogue,Custom,,Player Default: Seriously? How many robots are out there?,The signals suggest quite a few.,Player Default: Sure.,Concerned. / Concerned,DLC01Dialogue_AdaOfferRadiants
+Scene,SceneDialogue,Custom,,,There is one remaining matter to consider.,"Ada: The Mechanist is defeated, but my Radar Beacon is still picking up several signals.",Conversational. / Neutral,DLC01Dialogue_AdaOfferRadiants
+Scene,SceneDialogue,Custom,,Ada: There is one remaining matter to consider.,"The Mechanist is defeated, but my Radar Beacon is still picking up several signals.",,"Conversational, slight concern toward the end. / Neutral",DLC01Dialogue_AdaOfferRadiants
+Scene,SceneDialogue,Custom,,,I fear the Commonwealth is still littered with those rogue robots.,"Ada: Eliminating them would be ""tying up loose ends"" to use a common phrase.",Concerned. / Concerned,DLC01Dialogue_AdaOfferRadiants
+Scene,SceneDialogue,Custom,,Ada: I fear the Commonwealth is still littered with those rogue robots.,"Eliminating them would be ""tying up loose ends"" to use a common phrase.",Player Default: Sure.,Hopeful. / Neutral,DLC01Dialogue_AdaOfferRadiants
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Did I misinterpret?,,Waiting for input line. / Neutral,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,I hope I didn't offend you.,,Waiting for input line. / Neutral,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Are you all right? Your silence is troubling.,,Waiting for input line. / Neutral,
+Topic,PlayerDialogue,Custom,,,The signal is too strong for a single robot. Be prepared for multiple hostiles.,,,
+Miscellaneous,Miscellaneous,Greeting,,,The strength of the signal indicates the presence of more than one robot.,,,
+Topic,PlayerDialogue,Custom,,,I'll check now... I'm picking up multiple signals this time. Caution is advised.,,,
+Miscellaneous,Miscellaneous,Greeting,,,I believe I've located a group of those dangerous robots.,,,
+Topic,PlayerDialogue,Custom,,,I have something... It's too strong for a single robot. There will be multiple targets.,,,
+Miscellaneous,Miscellaneous,Greeting,,,I'm picking up signals from more of the Mechanist's remaining creations.,,,
+Topic,PlayerDialogue,Custom,,,Tracking... I've found the location of several targets.,,,
+Miscellaneous,Miscellaneous,Greeting,,,I've located an unusually large group of the old Mechanist robots.,,Neutral,
+Topic,PlayerDialogue,Custom,,,Signal locked in. Remember to exercise caution.,,,
+Miscellaneous,Miscellaneous,Greeting,,,I've pinpointed another signal from one of the robots.,,,
+Topic,PlayerDialogue,Custom,,,Affirmative.,,,
+Topic,PlayerDialogue,Custom,,,New work assignment confirmed.,,,
+Topic,PlayerDialogue,Custom,,,Returning to my duties.,,,
+Topic,PlayerDialogue,Custom,,,Affirmative.,,PERSONALITY MODE,
+Topic,PlayerDialogue,Custom,,,New work assignment confirmed.,,PERSONALITY MODE,
+Topic,PlayerDialogue,Custom,,,Returning to my duties.,,PERSONALITY MODE,
+Miscellaneous,Miscellaneous,Hello,,,Be advised: settlers lack minimum necessary supply of potable water.,,,
+Miscellaneous,Miscellaneous,Hello,,,Human settlers report shortages of potable water.,,,
+Miscellaneous,Miscellaneous,Hello,,,Be advised: Super Mutants continue to pose a major threat to this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: Super Mutant attack inflicted significant infrastructure damage.,,,
+Miscellaneous,Miscellaneous,Hello,,,Damage inflicted by Super Mutants falls within acceptable parameters.,,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: Super Mutant attack repulsed with minimal losses.,,,
+Miscellaneous,Miscellaneous,Hello,,,Be advised: settler nutrition level is lower than minimum necessary for optimal human health.,,,
+Miscellaneous,Miscellaneous,Hello,,,Human settlers report nutritional shortfalls.,,,
+Miscellaneous,Miscellaneous,Hello,,,Institute synths continue to pose a major threat to this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Be advised, Institute synths have done significant damage to our infrastructure.",,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: Institute synth attack inflicted significant damage to this settlement's infrastructure.,,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: Institute synth attack repulsed. Infrastructure damage within acceptable parameters.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,Institute synths were repulsed. Damage to our infrastructure falls within acceptable parameters.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,After action report: Institute synths decisively defeated.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,Be advised. Raiders inflicted major damage on this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,Raiders continue to pose a major threat to this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: significant infrastructure damage suffered from raider attack.,,,
+Miscellaneous,Miscellaneous,Hello,,,Raider attack repulsed. Collateral damage within acceptable parameters.,,,
+Miscellaneous,Miscellaneous,Hello,,,Raider attack repulsed with minimal infrastructure damage.,,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: raider attack was defeated with mimimal collateral damage.,,,
+Miscellaneous,Miscellaneous,Hello,,,The Brotherhood of Steel continues to pose a major threat to this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Be advised, the Brotherhood of Steel has done significant damage to our infrastructure.",,,
+Miscellaneous,Miscellaneous,Hello,,,The Brotherhood of Steel attack was defeated with minimal damage.,,,
+Miscellaneous,Miscellaneous,Hello,,,The Brotherhood of Steel threat was repulsed. Collateral damage within acceptable parameters.,,,
+Miscellaneous,Miscellaneous,Hello,,,Be advised. The Brotherhood of Steel continues to pose a threat to this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,Be advised: settlers lack minimum necessary supply of potable water.,,,
+Miscellaneous,Miscellaneous,Hello,,,Human settlers report shortages of potable water.,,,
+Miscellaneous,Miscellaneous,Hello,,,Be advised: Super Mutants continue to pose a major threat to this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: Super Mutant attack inflicted significant infrastructure damage.,,,
+Miscellaneous,Miscellaneous,Hello,,,Damage inflicted by Super Mutants falls within acceptable parameters.,,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: Super Mutant attack repulsed with minimal losses.,,,
+Miscellaneous,Miscellaneous,Hello,,,Be advised: settler nutrition level is lower than minimum necessary for optimal human health.,,,
+Miscellaneous,Miscellaneous,Hello,,,Human settlers report nutritional shortfalls.,,,
+Miscellaneous,Miscellaneous,Hello,,,Institute synths continue to pose a major threat to this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Be advised, Institute synths have done significant damage to our infrastructure.",,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: Institute synth attack inflicted significant damage to this settlement's infrastructure.,,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: Institute synth attack repulsed. Infrastructure damage within acceptable parameters.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,Institute synths were repulsed. Damage to our infrastructure falls within acceptable parameters.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,After action report: Institute synths decisively defeated.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,Be advised. Raiders inflicted major damage on this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,Raiders continue to pose a major threat to this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: significant infrastructure damage suffered from raider attack.,,,
+Miscellaneous,Miscellaneous,Hello,,,Raider attack repulsed. Collateral damage within acceptable parameters.,,,
+Miscellaneous,Miscellaneous,Hello,,,Raider attack repulsed with minimal infrastructure damage.,,,
+Miscellaneous,Miscellaneous,Hello,,,After action report: raider attack was defeated with mimimal collateral damage.,,,
+Miscellaneous,Miscellaneous,Hello,,,The Brotherhood of Steel continues to pose a major threat to this settlement.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Be advised, the Brotherhood of Steel has done significant damage to our",Miscellaneous,Miscellaneous,Hello
+Miscellaneous,Miscellaneous,Hello,,,The Brotherhood of Steel threat was repulsed. Collateral damage within acceptable parameters.,,,
+Miscellaneous,Miscellaneous,Hello,,,Be advised. The Brotherhood of Steel continues to pose a threat to this settlement.,,,
+Scene,SceneDialogue,Custom,,DLC01MQ01Transmitter: Ada! Loop this message!,"Yes, sir.",,"Elevated sense of danger, don't yell / Worried",DLC01MQ01RadioScene

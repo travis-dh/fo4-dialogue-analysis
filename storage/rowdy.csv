@@ -1,0 +1,63 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,,,,,DN054RowdyAtomCatsScene
+Scene,SceneDialogue,Custom,,,,,,DN054RowdyAtomCatsScene
+Scene,SceneDialogue,Custom,,,,,,DN054RowdyAtomCatsScene
+Scene,SceneDialogue,Custom,,,"I used to run with a raider gang a while back. Just didn't know any other way, ya know?",,Somber,DN054RowdyAtomCatsScene
+Scene,SceneDialogue,Custom,,,"Well, one time a raid went wrong and I was left for dead on a highway somewhere.",,Somber,DN054RowdyAtomCatsScene
+Scene,SceneDialogue,Custom,,,"Zeke and his boys found me while looking for spare parts. Took me in, fixed me up, and showed me I could make better use of my skills.",,Somber,DN054RowdyAtomCatsScene
+Scene,SceneDialogue,Custom,,,"Now I stay, cuz I know these knuckleheads wouldn't leave me like that.",Player Default: Let's see what you've got.,Amused,DN054RowdyAtomCatsScene
+Scene,SceneDialogue,Custom,,,,,,DN054RowdyGarageQuestionScene
+Scene,SceneDialogue,Custom,,,,,,DN054RowdyGarageQuestionScene
+Scene,SceneDialogue,Custom,,,,,,DN054RowdyGarageQuestionScene
+Scene,SceneDialogue,Custom,,,"The Atom Cats Garage, dummy. Its a haven for cats too cool to live anywhere else in the Commonwealth.",,"Dryly sracastic, but friendly",DN054RowdyGarageQuestionScene
+Scene,SceneDialogue,Custom,,,"We got a thing for custom power armor jobs, because what's cooler than power armor?",,,DN054RowdyGarageQuestionScene
+Scene,SceneDialogue,Custom,,,"Nothing, that's what.",Player Default: Let's see what you've got.,,DN054RowdyGarageQuestionScene
+Scene,SceneDialogue,Custom,,"Player Default: That June is a doll, and her mirelurk cakes are the most far out thing I have ever tasted.","Just so you know, I will be checking your work. The Cats won't take credit for shoddy craftsmanship.",DN054Zeke: So he had the skills to spiff up the Warwick pump. Should we rustle his jimmies with somethin' else?,Playful ribbing,DN054RepairReturn
+Scene,SceneDialogue,Custom,,Player Default: Here to help.,Tops.,"DN054Rowdy: From the looks of it, I'd say boss man thinks you have a little Atom Cat in ya.","Slang for ""good"". She is pleased.",DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: I don't even know.,I think I do.,"DN054Rowdy: From the looks of it, I'd say boss man thinks you have a little Atom Cat in ya.",,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: Something about bread hooks.,"Bread hooks, ya know?  Hands. What a square.","DN054Rowdy: From the looks of it, I'd say boss man thinks you have a little Atom Cat in ya.",Frustrated the player does not understand your slang,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: You have something for me to do?,"There's always something to soup up, strip down, or make shiny around here.","DN054Rowdy: From the looks of it, I'd say boss man thinks you have a little Atom Cat in ya.",,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: Tops.,"From the looks of it, I'd say boss man thinks you have a little Atom Cat in ya.",DN054Rowdy: Wants old Rowdy to see if you have what it takes to shack up with us.,Amused,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,"DN054Rowdy: From the looks of it, I'd say boss man thinks you have a little Atom Cat in ya.",Wants old Rowdy to see if you have what it takes to shack up with us.,Player Default: I have what it takes.,,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: We'll see.,"I've been putting off hauling myself over the pond to Warwick for this, but now you get to do it.","DN054Rowdy: This here's something I've been fixing up, part of the pump system at Warwick.",Happy to unload your work,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: I have what it takes.,We'll see.,"DN054Rowdy: I've been putting off hauling myself over the pond to Warwick for this, but now you get to do it.",,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: This won't be hard.,"Oh, a cocky one, eh?","DN054Rowdy: I've been putting off hauling myself over the pond to Warwick for this, but now you get to do it.",Amused,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: The only cat in me is the one I cooked up for dinner last night.,"Don't sell yourself short, buster.","DN054Rowdy: I've been putting off hauling myself over the pond to Warwick for this, but now you get to do it.",,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: What do you want me to do?,Nothing I can't do myself. Got this clunker I want to see you spiff up.,"DN054Rowdy: I've been putting off hauling myself over the pond to Warwick for this, but now you get to do it.",,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,"DN054Rowdy: I've been putting off hauling myself over the pond to Warwick for this, but now you get to do it.","This here's something I've been fixing up, part of the pump system at Warwick.",,,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,,Thing was clogged up like Zeke after one too many cans of cram.,,,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,,I want you to go to the pump shed there and install it.,Player Default: No problem.,,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: No problem.,"The Warwick folks might be squares, but they are nice enough. We help them with our skills, they give us food. Works out real nice.","DN054Rowdy: Oh, and make sure to let June Warwick know when you are done.",,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: Not the best use of my talents.,"You wanna be an Atom Cat, you gotta pay your dues. Just install the piece.","DN054Rowdy: Oh, and make sure to let June Warwick know when you are done.",Irritated,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: Might take me a while.,"Don't go turning on the sirens and flashing lights, Jack. The Warwick folks know the Cats have a busy schedule.","DN054Rowdy: Oh, and make sure to let June Warwick know when you are done.",,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: Warwick?,Warwick's an old water plant turned farm just East of here. Bunch of squares who spend all day digging in the dirt.,"DN054Rowdy: Oh, and make sure to let June Warwick know when you are done.",,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,"Player Default: The Warwick folks might be squares, but they are nice enough. We help them with our skills, they give us food. Works out real nice.","Oh, and make sure to let June Warwick know when you are done.",,,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,,She's the bird in charge around there.,,,DN054RowdyChallengeScene
+Scene,SceneDialogue,Custom,,Player Default: Yep. You're gonna have to give me something harder than that.,"That was just the first test, buster. Don't get big headed.","DN054Rowdy: Just so you know, I will be checking your work. The Cats won't take credit for shoddy craftsmanship.",,DN054RepairReturn
+Scene,SceneDialogue,Custom,,Player Default: I fixed the dumb pump.,"Sounds like the next thing we need to fix is your dumb attitude, buster.","DN054Rowdy: Just so you know, I will be checking your work. The Cats won't take credit for shoddy craftsmanship.",Irritated,DN054RepairReturn
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, and I better get something good for all this work.","I think you forgot how tests work, buster.","DN054Rowdy: Just so you know, I will be checking your work. The Cats won't take credit for shoddy craftsmanship.",,DN054RepairReturn
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, and did you know about the terrible smell over there? Sheesh.",Why you think I've been putting off going back over there?,,,DN054RepairReturn
+Scene,SceneDialogue,Custom,,,"Seriously, who builds a farm at a sewage treatment plant?","DN054Rowdy: Just so you know, I will be checking your work. The Cats won't take credit for shoddy craftsmanship.",,DN054RepairReturn
+Scene,SceneDialogue,Custom,,DN054JohnnyD: What a drag...,"That was a slick showing, boss.","DN054Roxy: You're the cat's meow, Zeke!",Genuine congratulations,DN054CatsGatherPostRaceScene
+Scene,SceneDialogue,Custom,,,,,,DN054RowdyJobQuestionScene
+Scene,SceneDialogue,Custom,,,,,,DN054RowdyJobQuestionScene
+Scene,SceneDialogue,Custom,,,,,,DN054RowdyJobQuestionScene
+Scene,SceneDialogue,Custom,,,Just install that thing at Warwick and tell June about it.,Player Default: Let's see what you've got.,,DN054RowdyJobQuestionScene
+Miscellaneous,Miscellaneous,Greeting,,,"You want to spiff up your power armor, you've come to the right place.",,,DN054RowdyVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,The Atom Cats have the most far out mods this side of the apocalypse.,Player Default: Let's see what you've got.,,DN054RowdyVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,Looking to spiff up your suit?,Player Default: Let's see what you've got.,,DN054RowdyVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"What's buzzin', cuzzin'? Here for an Atom Cats custom job?",Player Default: Let's see what you've got.,,DN054RowdyVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,You know what fires me up? A new piece for my suit. How bout it?,Player Default: Let's see what you've got.,,DN054RowdyVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"Don't let your suit get stale, Clyde. Get yourself a new mod.",Player Default: Let's see what you've got.,,DN054RowdyVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,Saw you over there gabbin' with Zeke. What's the story?,Player Default: Here to help.,,DN054RowdyChallengeScene
+Miscellaneous,Miscellaneous,Greeting,,,All done?,Player Default: Yep. You're gonna have to give me something harder than that.,,DN054RepairReturn
+Miscellaneous,Miscellaneous,Hello,,,We could use a few more suits around here...,,,
+Miscellaneous,Miscellaneous,Hello,,,"Set your peepers elsewhere, Jack. Least 'til the race is over.",,Dryly annoyed,
+Miscellaneous,Miscellaneous,Hello,,,"Get back to work, Jack.",,,
+Miscellaneous,Miscellaneous,Hello,,,"Just install that thing at Warwick. This is a test, remember?",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Get back to work, Jack.",,,
+Scene,SceneDialogue,Custom,,,"Um, so I'm Rowdy.",,"On stage, with stage fright.",DN054RowdyPoetryHolotape
+Scene,SceneDialogue,Custom,,,"And um, I wrote this poem.",Player Default: You're doin' fine. What's it called?,"On stage, with stage fright.",DN054RowdyPoetryHolotape
+Scene,SceneDialogue,Custom,,Player Default: You're doin' fine. What's it called?,"Um, it's called ""An ode to my hammer"".","Player Default: You got this, Rowdy.","Reading from your notes, shaking too much to read clearly.",DN054RowdyPoetryHolotape
+Scene,SceneDialogue,Custom,,"Player Default: You got this, Rowdy.","An ode to my hammer, so heavy and nice...",,"Reading a poem, shaking with stage fright. Trails off.",DN054RowdyPoetryHolotape
+Scene,SceneDialogue,Custom,,,I'm sorry. I can't do this.,"Player Default: Rowdy, come back!","A pause, then running off the stage, distraught.",DN054RowdyPoetryHolotape

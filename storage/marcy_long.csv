@@ -1,0 +1,45 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,PrestonGarveyAlias: We're heading for that place Mama Murphy knows about: Sanctuary. It's not far.,"She knows about it? You mean she had one of her ""visions"" while she was stoned out of her gourd.",,Disgust,011SurvivorLobbyScene2
+Scene,SceneDialogue,Custom,,,"And now you want us to just head out on another wild goosechase based on no better plan than ""Mama Murphy saw it""?",PrestonGarveyAlias: It can hardly turn out any worse than...,Disgust,011SurvivorLobbyScene2
+Scene,SceneDialogue,Custom,,"SturgesAlias: Well, then. Sanctuary it is. Let's just hope it lives up to its name.","Come on, Jun. It's time to go.","JunLongAlias: Oh, okay.",Concerned,011SurvivorLobbyScene2
+Combat,Combat,Hit,,,Are you insane?,,"friend just shot you, but you're already on the floor panicking",
+Miscellaneous,Miscellaneous,Hello,,,Can we leave now?,,,
+Miscellaneous,Miscellaneous,Hello,,,Garvey better get us out of here now that this is over with.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Some help the Minutemen were. If you hadn't shown up, we'd all be dead.",,,
+Miscellaneous,Miscellaneous,Hello,,,"We need help, and we get a Vault Dweller? What are you going to do in that stupid jumpsuit? Bleed to death?",,player is wearing a vault suit,
+Miscellaneous,Miscellaneous,Hello,,,What's going on? Are we getting out of here?,,,
+Miscellaneous,Miscellaneous,Hello,,,You're with the rescue team?,,,
+Miscellaneous,Miscellaneous,Hello,,,These are our lives you're playing with. Are you listening to me?,,,
+Miscellaneous,Miscellaneous,Hello,,,There are more of you. Right?,,,
+Miscellaneous,Miscellaneous,Hello,,,The Minutemen were supposed to protect us. Garvey promised. He promised.,,,
+Miscellaneous,Miscellaneous,Hello,,,We can't just stay trapped in here. This is ridiculous. Somebody do something.,,,
+Scene,SceneDialogue,Custom,,"JunLong: Where are we going, Marcy?","Don't worry, Jun. Just stay with me. It'll be fine.",JunLong: Oh... okay.,Concerned,Min01ConcordTravel01
+Scene,SceneDialogue,Custom,,"Sturges: What do you think, Marcy?",Well. It's better than Concord. Maybe we can at least rest for a while. Give Jun a chance to recover.,Preston: Let's find a place to settle in while we get the lay of the land.,Concerned,Min01ConcordTravelSanctuaryEntrance
+Miscellaneous,Miscellaneous,Hello,,,"I can't believe we're going to Sanctuary just because Mama Murphy had a ""vision"".",,"player just rescued you, and you're heading for Sanctuary / Disgust",
+Miscellaneous,Miscellaneous,Hello,,,We better not be walking into another trap.,,"player just rescued you, and you're heading for Sanctuary / Worried",
+Miscellaneous,Miscellaneous,Hello,,,Sanctuary. We'll see about that. Hmph.,,"player just rescued you, and you're heading for Sanctuary / Disgust",
+Miscellaneous,Miscellaneous,Greeting,,,Are you kidding me? What are we going to do without the Sight?,,Mama Murphy just died of chem overdose / Angry,
+Miscellaneous,Miscellaneous,Greeting,,,Everything always goes wrong. What are we even doing here?,,Mama Murphy just died of chem overdose / Angry,
+Miscellaneous,Miscellaneous,Hello,,,Can't believe you and Preston let Mama Murphy die like that. You should've stopped her.,,Mama Murphy died of an overdose a day or so ago,
+Miscellaneous,Miscellaneous,Hello,,,"I'll hand it to you, this place isn't awful. It's still a hole, but it could be worse.",,She has difficulty being friendly / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"Life still ain't perfect, but we're surviving.",,"Complaining, reluctantly positive / Irritated",
+Miscellaneous,Miscellaneous,Hello,,,You call this place Sanctuary? Cemetery seems a little more appropriate...,,"Distaste, Complaining / Disgust",
+Miscellaneous,Miscellaneous,Hello,,,"Just when you think you're safe, you're not. That's how they always get ya.",,"Paranoid, Cautionary / Conspiratorial",
+Miscellaneous,Miscellaneous,Hello,,,Help out or get lost.,,"Frustrated, Short / Stern",
+Miscellaneous,Miscellaneous,Hello,,,You want my two caps? We should keep moving. Don't want to be pinned down when the raiders come.,,"Paranoid, Worried / Worried",
+Miscellaneous,Miscellaneous,Hello,,,I'll stop complaining when there's nothing left to complain about.,,"Irritated, Complaining / Irritated",
+Miscellaneous,Miscellaneous,Hello,,,You'd better keep your mouth shut about this place. Can't trust anyone.,,"Threatening the player, then scared. / Worried",
+Miscellaneous,Miscellaneous,Hello,,,"Nothing I hate more than Raider scumbags. If you run into any, put a few down for me.",,Angry / Angry,
+Miscellaneous,Miscellaneous,Hello,,,What?,,Curt / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"Sure, let me just stop what I'm doing to talk to you... I'm being sarcastic, leave me alone.",,"Irritated, sarcastic / Irritated",
+Miscellaneous,Miscellaneous,Hello,,,Do I look like I want to chitchat?,,"Irritated, frustrated / Irritated",
+Miscellaneous,Miscellaneous,Hello,,,What gave you the idea we're friends?,,"Irritated, frustrated / Irritated",
+Scene,SceneDialogue,Custom,,,"Hey Mama, how are you getting along?",MamaMurphy: Just fine. It's nice to finally settle down after spending so much time moving around.,Neutral,DialogueSanctuaryMarcyMurphyScene1
+Scene,SceneDialogue,Custom,,MamaMurphy: Just fine. It's nice to finally settle down after spending so much time moving around.,Oh yeah? You spent a little time on the run when you were younger?,"MamaMurphy: Oh yes, you have to when there's a bounty on your head. A little elderly advice, don't double cross a raider. They hold long grudges.",Joking / Amused,DialogueSanctuaryMarcyMurphyScene1
+Scene,SceneDialogue,Custom,,"MamaMurphy: Oh yes, you have to when there's a bounty on your head. A little elderly advice, don't double cross a raider. They hold long grudges.","Yeah, that's good advice...Sounds like quite the adventure.",MamaMurphy: It was. Some day I'll tell you all about it.,"Shocked, disbelief / Disbelief",DialogueSanctuaryMarcyMurphyScene1
+Scene,SceneDialogue,Custom,,JunLong: You were screaming again last night.,Oh sorry...,JunLong: Do you want to talk about it?,"Sad, embarrassed / Sad",DialogueSanctuaryJunMarcyScene2
+Scene,SceneDialogue,Custom,,JunLong: Do you want to talk about it?,"No, I'm fine. I just...I don't want to think about it anymore.",JunLong: It's okay. I still think about him too.,"Irritated, uncomfortable / Depressed",DialogueSanctuaryJunMarcyScene2
+Scene,SceneDialogue,Custom,,JunLong: It's okay. I still think about him too.,I said I'm fine. Leave me alone Jun.,,"Angry, frustrated / Angry",DialogueSanctuaryJunMarcyScene2
+Scene,SceneDialogue,Custom,,JunLong: Oh...well maybe I can help.,"No, you won't do it right. I have to do it myself.","JunLong: Oh...yeah, okay.",Irritated  / Irritated,DialogueSanctuaryJunMarcyScene1
+Scene,SceneDialogue,Custom,,"JunLong: Hey Marcy, I was thinking, if you have time later, that maybe you want to go take a walk along the river.","I can't, I have to much to do.","MarcyLong: No, you won't do it right. I have to do it myself.",Irritated. / Irritated,DialogueSanctuaryJunMarcyScene1
+Scene,SceneDialogue,Custom,,"JunLong: Oh...yeah, okay.","*sigh* Jun I'm sorry. I'm just busy right now. Let me finish up, then we'll go for a walk.",,"Genuine, apologetic / Apologetic",DialogueSanctuaryJunMarcyScene1

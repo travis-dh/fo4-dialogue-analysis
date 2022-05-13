@@ -1,0 +1,267 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,SharedInfo,,,Let me check it out first.,,,MS16BobbiAndMelToTrainCar
+Scene,SceneDialogue,Custom,,Mel: Looks like a subway tunnel.,Then we're on the right track.,Mel: I see what you did there.,,MS16AmbientReachedSubway
+Scene,SceneDialogue,Custom,,Mel: I see what you did there.,What? No.,Bobbi: Just keep heading Southwest. We need to find a place to blast out of these tunnels.,"Confusion, then realizing you made an unintentional pun.",MS16AmbientReachedSubway
+Scene,SceneDialogue,Custom,,Bobbi: What? No.,Just keep heading Southwest. We need to find a place to blast out of these tunnels.,,Changing the subject,MS16AmbientReachedSubway
+Scene,SceneDialogue,Custom,,"Mel: How come it's been so long since we worked together, Bobbi?","I've been trying to keep a low profile on this one, Mel.",Bobbi: And I didn't want to get you wrapped up in it unless I had to.,,MS16AmbientBobbiMel01
+Scene,SceneDialogue,Custom,,"Bobbi: I've been trying to keep a low profile on this one, Mel.",And I didn't want to get you wrapped up in it unless I had to.,Mel: We've been through worse jobs than this...,,MS16AmbientBobbiMel01
+Scene,SceneDialogue,Custom,,Mel: We've been through worse jobs than this...,"We're not done yet, are we?",Mel: Encouraging.,,MS16AmbientBobbiMel01
+Scene,SceneDialogue,Custom,,Mel: Maybe I can fix one up and...,"I think the one robot is enough, Mel.",Mel: Alright. It wouldn't have taken long.,,MS16AmbientCommentaryRobotRoom
+Scene,SceneDialogue,Custom,,,"No flesh off my face, but you two might want to watch out for the radiation around here.",Mel: The thing on this one's wrist has a Geiger counter equipped. I'll just keep my ears open for clicks.,You are immune to radiation poisoning,MS16AmbientCommentaryRadiation
+Scene,SceneDialogue,Custom,,,We're getting really close.,"Bobbi: There is a brewery near our strongroom, this has to be the basement to that brewery.",Getting excited.,MS16AmbientReachedIndustrial
+Scene,SceneDialogue,Custom,,Bobbi: We're getting really close.,"There is a brewery near our strongroom, this has to be the basement to that brewery.","Mel: Brewery, you say?",Getting excited.,MS16AmbientReachedIndustrial
+Scene,SceneDialogue,Custom,,"Mel: Brewery, you say?","Mel, No.",Mel: Just kidding. Geez.,"Firm, but exasperated",MS16AmbientReachedIndustrial
+Scene,SceneDialogue,Custom,,"Mel: Oh, no. No. No. Sonya!","Pull yourself together, Mel.",,Irritated,MS16MelSonyaDead
+Scene,SceneDialogue,Custom,,,We don't need that thing anymore anyway.,Mel: But...,Irritated,MS16MelSonyaDead
+Scene,SceneDialogue,Custom,,Mel: But...,You can make another robot with the haul we get from the strongroom.,Bobbi: Keep your head in the game.,,MS16MelSonyaDead
+Scene,SceneDialogue,Custom,,Bobbi: You can make another robot with the haul we get from the strongroom.,Keep your head in the game.,,Scolding,MS16MelSonyaDead
+Scene,SceneDialogue,Custom,,Bobbi: Now let's use that robot to get us to the Strongroom.,"Lead the way, tough guy.",Mel: Give me a shout if you come to a dead end. I'll have Sonya give it a blast.,,MS16BobbiGiveDirectionsForDig
+Scene,SceneDialogue,Custom,,Bobbi: Now let's use that robot to get us to the Strongroom.,"Lead the way, tough gal.",Mel: Give me a shout if you come to a dead end. I'll have Sonya give it a blast.,,MS16BobbiGiveDirectionsForDig
+Scene,SceneDialogue,Custom,,Mel: We won't want to be in the room for this. Collapsing foundation and all.,Good thinking.,"Mel: Alright then, everybody clear out.",Sarcastic / Sarcastic,MS16SonyaFinalBlast
+Scene,SceneDialogue,Custom,,Player Default: You can count on me.,I'm counting on you to make sure nothing that wants to eat us gets its way.,,,MS16BobbiDigDialogue
+Scene,SceneDialogue,Custom,,,"Not getting us lost down here would be nice, too.",,,MS16BobbiDigDialogue
+Scene,SceneDialogue,Custom,,Player Default: You're not doing anything to help.,"I am paying you to do a job. You don't like it, you can leave.",,Irritated,MS16BobbiDigDialogue
+Scene,SceneDialogue,Custom,,Player Default: You don't seem to have a very good reputation.,"Look, I'm a ghoul woman with big ideas, there's no way I could get anything done without ruffling a few feathers.",,,MS16BobbiDigDialogue
+Scene,SceneDialogue,Custom,,"Player Default: Of all the ways to make caps, why this?",It may be more personal than I let on.,,,MS16BobbiDigDialogue
+Scene,SceneDialogue,Custom,,,Let's just say I have beef with the mayor.,,,MS16BobbiDigDialogue
+Scene,SceneDialogue,Custom,,,Thinks he can keep Bobbi No-Nose on the sidelines...,,"Getting angry, stopping yourself / Irritated",MS16BobbiDigDialogue
+Scene,SceneDialogue,Custom,,,"...But, uh, forget about all that. We have a job to do.",,"Taken aback by your outburst, composing self",MS16BobbiDigDialogue
+Scene,SceneDialogue,Custom,,,"Got yourself into trouble again, Mel?",Mel: What can I say? I learned from the best.,,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,Mel: What can I say? I learned from the best.,I'm flattered.,"Mel: So, what's the deal with the new guy?",Sarcastic,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,"Mel: So, what's the deal with the new guy?","Oh, I got lucky with this one. Came right up to my door and took the job.",Bobbi: He takes orders and he's useful in a fight. What more could I want?,,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,"Bobbi: Oh, I got lucky with this one. Came right up to my door and took the job.",He takes orders and he's useful in a fight. What more could I want?,"Mel: And he's not so bad to look at, either.",,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,"Bobbi: Oh, I got lucky with this one. Came right up to my door and took the job.",She takes orders and she's useful in a fight. What more could I want?,"Mel: And he's not so bad to look at, either.",,MS16BobbiMelPreDigScene
+Scene,SceneDialogue,Custom,,Bobbi: People like me aren't allowed around here.,Now let's get down to business.,Bobbi: That big wall of glass looming over Diamond City is the mayor's office.,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,"Mel: I don't know why I trusted you again, Bobbi, but that was the last time.",You'll get over it.,,,MS16TheGangSplitsTown
+Scene,SceneDialogue,Custom,,,Now let's split before the girl changes her mind.,Mel: What a waste of time.,,MS16TheGangSplitsTown
+Miscellaneous,Miscellaneous,SharedInfo,,,Nice work!,,,MS16BobbiAsksPlayerToOpenTrain
+Miscellaneous,Miscellaneous,SharedInfo,,,The loot must be in that closed train car. Let's open it up.,Mel: Fahrenheit probably had the key. See if you can find it.,,MS16BobbiAsksPlayerToOpenTrain
+Scene,SceneDialogue,Custom,,"Mel: Yeah, well I'm just glad we made it through all that alive.",And now you get paid for it. So quit your whining.,,,MS16JobDone
+Scene,SceneDialogue,Custom,,,"And you, I couldn't have pulled this off without your help.",Player Default: Thanks. Turned out to be fun.,,MS16JobDone
+Scene,SceneDialogue,Custom,,"Player Default: Relax, I'm joking.",Here is your share.,"Bobbi: You done good, kid. Enjoy.",,MS16JobDone
+Scene,SceneDialogue,Custom,,Mel: That didn't sound good. I hope Sonya's ok.,"Now let's get up into that strongroom, shall we?",,,MS16SonyaFinalBlast
+Scene,SceneDialogue,Custom,,"NPCFFahrenheit: Bobbi, what are you doing here?",Shit.,Fahrenheit: You seriously didn't think Hancock would catch wind of your scheme?,Nervous,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,Player Default: Hancock shouldn't care about us stealing from Diamond City.,"Yeah, about that...",Fahrenheit: I see the rest of you are in the dark about this.,Caught in a lie / Nervous,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,Player Default: Mel was right. This isn't Diamond City.,So what? This doesn't change anything. It is still the same job.,Fahrenheit: I see the rest of you are in the dark about this.,Nervous,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,Player Default: I don't understand what's going on.,"Don't worry about it. We are so close, here.",Fahrenheit: I see the rest of you are in the dark about this.,Nervous,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,Player Default: What does this have to do with Hancock?,"Yeah, about that. As Mel guessed, this isn't the Diamond City strongroom.",Fahrenheit: I see the rest of you are in the dark about this.,Nervous,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,"Mel: Dammit, Bobbi.","Listen guys, I know this isn't what you expected.",,"Under accusation, trying to convince the player / Nervous",MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,,But there are still a ton of caps on the line here.,,"Under accusation, trying to convince the player / Nervous",MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,,Help me take her out and all of it is ours.,Mel: This is Hancock we're ripping off here. The guy tends to hold grudges.,"Under accusation, trying to convince the player / Nervous",MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,"Player Default: I am going to see this through, Bobbi.",You won't regret this.,Mel: Might as well finish what we started.,,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,"Player Default: You lied to us, Bobbi. And you have to pay.",You can't do this to me. This isn't how this is supposed to go.,,Enraged and surprised / Angry,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,,Know what? Fine. More for me!,Mel: Might as well finish what we started.,"About to fly into a rage, starting combat / Angry",MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,"Player Default: Come on Bobbi, at least if we leave now we leave with our lives.",Well shit. You're right.,,"Devastated, you were working towards this and you lost it. / Depressed",MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,,"I'm not one to give up, but I know when I'm outmatched.",,Giving up on your dreams / Depressed,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,,Let's go.,Mel: Thank God.,Defeated / Depressed,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,"Player Default: Come on Bobbi, at least if we leave now we leave with our lives.",I haven't come this far to run away with my tail between my legs.,,Angry,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,,You are either with me or against me.,"Player Default: I am going to see this through, Bobbi.",Angry,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,"Player Default: What is this about, Bobbi? Why did you lie to us?",I knew no one in their right mind would help me rip off Hancock.,,You hold a grudge against Hancock and his power / Angry,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,,Everyone is so damn afraid of him or so damn in love with him.,,You hold a grudge against Hancock and his power / Angry,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,,He thinks he is invincible. I wanted to show him he wasn't.,"Player Default: I am going to see this through, Bobbi.",Getting angry. You hold a grudge against Hancock and his power. / Angry,MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,Mel: I've been mapping it out and I think Diamond City should be a little further North of here.,I don't have a doubt in my mind.,,Overcompensating for the fact you do have a doubt,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,,How about a little trust for the boss?,"Player Default: I trust you, Bobbi.",Scolding,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,"Player Default: I trust you, Bobbi.",That's why you are my favorite.,,,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,,There is a mountain of caps for the taking here. We just have to work together to get to it.,"Bobbi: We still need a way to get up there, though.",Convincing skeptical employees,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,"Player Default: Mel is right, this can't be Diamond City.",It won't be hard to prove me wrong.,,,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,,Let's go up there and you all will be thanking me while we count the caps.,"Bobbi: We still need a way to get up there, though.",,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,"Player Default: Well, we can find out the answer.",That's right. Let's just get up there.,,,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,,"If I'm wrong, oh well. We find another way.","Bobbi: We still need a way to get up there, though.",,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,"Player Default: Tell the truth Bobbi, where are we?",Under the Diamond City strongroom.,,Angry at having to repeat yourself,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,,And that is the last time I'm saying it.,"Bobbi: We still need a way to get up there, though.",Angry at having to repeat yourself,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,Player Default: There is a mountain of caps for the taking here. We just have to work together to get to it.,"We still need a way to get up there, though.",,,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,,"Mel, you think your robot will work here?",Mel: Look at this place. The foundation is already crumbling.,,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,Mel: One blast from Sonya and I bet the floor above would come right down.,"Well, then make it so.",Mel: We won't want to be in the room for this. Collapsing foundation and all.,,MS16TheGangEntersNHMBasement
+Scene,SceneDialogue,Custom,,,"That was loud. Thanks for that, Mel.",,Sarcastic thanks while you clean out your ringing ears,MS16BobbiGiveDirectionsForDig
+Scene,SceneDialogue,Custom,,,Now let's use that robot to get us to the Strongroom.,"Bobbi: Lead the way, tough guy.",,MS16BobbiGiveDirectionsForDig
+Scene,SceneDialogue,Custom,,Mel: Give me a shout if you come to a dead end. I'll have Sonya give it a blast.,"Our target is to the Southwest, but we may have to do some winding to get there.",,,MS16BobbiGiveDirectionsForDig
+Scene,SceneDialogue,Custom,,"Player Default: Trust me, this is the guy we need.","Pick a lock, find a key, bribe the guard. The usual stuff.",,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,,Just get him out of there.,,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,Player Default: If you really think we need this guy.,"Trust me, this is the guy we need.","Bobbi: Pick a lock, find a key, bribe the guard. The usual stuff.",,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,Player Default: I can't bust a guy out of jail.,Sure you can. This isn't some impenetrable fortress. It's a place to lock up pickpockets and rowdy drunks.,"Bobbi: Pick a lock, find a key, bribe the guard. The usual stuff.",,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,Player Default: I'm not sure this is a good idea.,All my ideas are good. This is the guy we need. Trust me.,"Bobbi: Pick a lock, find a key, bribe the guard. The usual stuff.",,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,Player Default: Tell me about this security office.,"It's built into some old locker rooms, and it smells the part.",,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,,"This isn't maximum security prison, and it isn't heavily guarded.",,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,,"No problem for someone like you, right?","Bobbi: Pick a lock, find a key, bribe the guard. The usual stuff.",,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,,Let's go inside. I'll give you the lowdown.,,,MS16BobbiOpensDoor
+Scene,SceneDialogue,Custom,,Player Default: Well aren't you an eager beaver?,"If you don't mind a little manual labor and don't ask too many questions, you're in.",,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,,I'll give you 50 caps to start.,,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,,Interested?,Player Default: I'm in.,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: I'm in.,That's what I like to hear.,Bobbi: Let's go inside. I'll give you the lowdown.,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: This isn't for me.,Your prerogative. No doubt I'll still need the help if you change your mind later.,,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: You can do better than that.,You're killing me here. 150 to start.,Player Default: I'm in.,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: You can do better than that.,"Trust me, there will be much more later on. Just take the 50 caps.",Player Default: I'm in.,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: You can do better than that.,"200, and that's as high as I go.",,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,,"Jeez, I gotta watch out for this one.",Player Default: I'm in.,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: You can do better than that.,That's the most I'm gonna give.,Player Default: I'm in.,Standing firm,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: You can do better than that.,"Fine, take 100 up front.",Player Default: I'm in.,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: I'm gonna need more to go on here.,"There's a project I'm working on, a big one. One that could get me in lots of trouble if the wrong person finds out.",,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,,So a little discretion is called for. I got a delicate house of cards goin' here. Ya know?,Player Default: I'm in.,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: I'm gonna need more to go on here.,You're just gonna have to trust me.,Player Default: I'm in.,,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: Let's get started.,I like your attitude.,Bobbi: So what do ya say we make this party a little bigger?,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,Player Default: That sounds impossible.,Not with the right people.,Bobbi: So what do ya say we make this party a little bigger?,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,Player Default: So this is all for a good cause.,"Don't get me wrong, the caps are my primary motivation.",,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,,"If I get to take them from a bigot, that's just icing.",Bobbi: So what do ya say we make this party a little bigger?,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,Player Default: What's inside?,Caps. Meds. Food. Enough to keep this city running.,,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,,"It's things we want. Things everyone wants. You get in on this, there's plenty for you. You got it?",Bobbi: So what do ya say we make this party a little bigger?,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,"NPCFBobbiNoNose: Alright, we're all here.","Mel, you wanna introduce your little friend?",Mel: Yup. Meet Sonya.,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,Mel: I modified her radio systems to emit sonic pulses at frequencies that can loosen any sediment around.,Mel says we'll be able to get to the strongroom ten times faster than just digging.,,,MS16MelDigStart
+Scene,SceneDialogue,Custom,,,And it's a helluva lot safer than loading the place up with dynamite.,"Mel: Alright guys, get ready. I'm not completely sure how the place will respond.",,MS16MelDigStart
+Scene,SceneDialogue,Custom,,Player Default: I'm your guy.,No one likes a brown noser.,"Bobbi: The other two are down there digging already. Go give 'em a hand, will ya?",,MS16BobbiWorkStart
+Scene,SceneDialogue,Custom,,Player Default: Digging? This is a waste of my talents.,"You want a better job, you gotta work your way up to it, buddy. Show me that can-do attitude.","Bobbi: The other two are down there digging already. Go give 'em a hand, will ya?",,MS16BobbiWorkStart
+Scene,SceneDialogue,Custom,,Player Default: I'll do whatever you need.,Good to know.,"Bobbi: The other two are down there digging already. Go give 'em a hand, will ya?",,MS16BobbiWorkStart
+Scene,SceneDialogue,Custom,,Player Default: What are we digging for? Buried treasure?,You could call it that.,,,MS16BobbiWorkStart
+Scene,SceneDialogue,Custom,,,"But seriously, lay off the questions.","Bobbi: The other two are down there digging already. Go give 'em a hand, will ya?",,MS16BobbiWorkStart
+Scene,SceneDialogue,Custom,,Player Default: No one likes a brown noser.,"The other two are down there digging already. Go give 'em a hand, will ya?",,,MS16BobbiWorkStart
+Scene,SceneDialogue,Custom,,"NPCFBobbiNoNose: So, here's the deal.",You are gonna be doing some digging.,Player Default: I'm your guy.,,MS16BobbiWorkStart
+Scene,SceneDialogue,Custom,,Player Default: That room was filled with Mirelurks.,At least you put up a better fight than those good for nothings.,"Bobbi: So, I guess you're promoted. You get to be my new gun.",Emphasis on 'those' while gesturing towards the door they ran out of.,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,Player Default: Your men ran off when they saw the Mirelurks in there.,"No, really? Thanks for the news report.","Bobbi: So, I guess you're promoted. You get to be my new gun.","Sarcastic, player telling you obvious information / Irritated",MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,Player Default: Looks like we are having crab for dinner tonight.,"You'd eat Mirelurk? Ugh, no.",,You can feel it in your mouth and it is grossing you out.  / Disgust,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,,"Disgusting. Tough, but somehow slimy at the same time.","Bobbi: So, I guess you're promoted. You get to be my new gun.",Disgust,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,Player Default: That room was filled with Mirelurks. Why didn't you plan for this?,"This was not expected, but that doesn't mean I don't have a plan.",,,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,,It's going to take a lot more than a couple Mirelurks to stop me.,"Bobbi: So, I guess you're promoted. You get to be my new gun.",,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,Player Default: At least you put up a better fight than those good for nothings.,Well you stuck around at least.,"Bobbi: So, I guess you're promoted. You get to be my new gun.",Referring to all the other workers that left / Sarcastic,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,Player Default: Just tell me where to go and who to talk to.,I knew I liked you.,"Bobbi: First, I think it's best if you actually see what we're after.",,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,Player Default: I'm not sure I trust you know what you're doing.,"I hired you, didn't I?",,,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,,Trust me. I'll do whatever it takes to pull this job.,"Bobbi: First, I think it's best if you actually see what we're after.",,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,Player Default: That means less caps for me.,"Yes, it does. There's still plenty to go around in that strongroom, don't you worry.","Bobbi: First, I think it's best if you actually see what we're after.","Said flatly, there is no other option.",MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,Player Default: Who is this guy?,He's just the guy we need to speed things along.,,,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,,"Likes gadgets, money, and not much else.","Bobbi: First, I think it's best if you actually see what we're after.",,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,Player Default: I knew I liked you.,"First, I think it's best if you actually see what we're after.",,,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,,I have some things to check on in Diamond City.,,,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,,Head over to the Noodle Shop there and I'll meet ya when I finish up my business.,,,MS16BobbiPromotesPlayer
+Miscellaneous,Miscellaneous,SharedInfo,,Bobbi: I managed to track down my tech guy. His name's Mel and he is right here in Diamond City.,The guy can make a gadget to solve any problem.,,,MS16BobbiInDiamondCity
+Miscellaneous,Miscellaneous,SharedInfo,,,"Thing is, he's a bit locked up right now.",,,MS16BobbiInDiamondCity
+Miscellaneous,Miscellaneous,SharedInfo,,,You have to get him out of there. I can't just stroll into Diamond City Security with this face. Covered or not.,Player Default: If you really think we need this guy.,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,"Fahrenheit: He took you in, Bobbi. And you're stealing from him?",Don't listen to her.,Player Default: Hancock shouldn't care about us stealing from Diamond City.,"Caught in a lie, laughing it off / Nervous",MS16FahrenheitScene
+Scene,SceneDialogue,Custom,,Bobbi: Well you stuck around at least.,"So, I guess you're promoted. You get to be my new gun.",,,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,,I think we just need one more guy.,,,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,,"An old friend. He'll want a fair cut, but we saw where being cheap got me.",Player Default: Just tell me where to go and who to talk to.,,MS16BobbiPromotesPlayer
+Scene,SceneDialogue,Custom,,Bobbi: Here is your share.,"You done good, kid. Enjoy.",,Impressed,MS16JobDone
+Scene,SceneDialogue,Custom,,Player Default: Just tell me what I need to do.,"Its a simple job, really.",Player Default: I'm your guy.,,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,Player Default: Not just yet.,"Great, someone else who can't commit to an honest days work.",,Irritated,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,,Come back when you're done with whatever is so important.,Player Default: Sounds ambitious.,Irritated,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,"Player Default: No, I followed you down here for the exercise.","Funny. Well, you'll get plenty of exercise here.",Player Default: I'm your guy.,Not impressed with the player's joke,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,Player Default: Are you going to tell me what we're actually doing?,"Look, we're pulling a job here. Big payoff. Taking some things that aren't technically ours yet.",Player Default: Sounds ambitious.,,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,NPCFBobbiNoNose: There you are. Was wondering if you were going to show up.,"Yes, it's me. I have to hide my face in these parts.",,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,,People like me aren't allowed around here.,Bobbi: That big wall of glass looming over Diamond City is the mayor's office.,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,Player Default: I like your attitude.,So what do ya say we make this party a little bigger?,,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,,I managed to track down my tech guy. His name's Mel and he is right here in Diamond City.,Bobbi: The guy can make a gadget to solve any problem.,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,Bobbi: Now let's get down to business.,That big wall of glass looming over Diamond City is the mayor's office.,,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,,"Most people don't know it, but there's a strongroom buried beneath. Mayor's just sitting on top of it. And that's our target.",,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,,"The guy has it coming if you ask me. With how he treats my kind, maybe he deserves worse.",Player Default: Let's get started.,,MS16BobbiInDiamondCity
+Scene,SceneDialogue,Custom,,Player Default: Sounds ambitious.,"It is, and that's why we need some help.",Player Default: I'm your guy.,,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,Player Default: That's just asking for trouble.,"It's not going to be easy, but that's why we only hire the best sort around here.",Player Default: I'm your guy.,,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,"Player Default: I guess it's not really any of my business, so long as I get paid.","I like people who don't ask too many questions. Which means so far, I like you. Hopefully I'll keep liking you.",Player Default: I'm your guy.,,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,"Player Default: If you expect me to work for you, I'm going to need more information than that.","Curious type, eh? Alright, I'll spell it out for ya.",,,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,,I'm digging a tunnel in my basement.,,,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,,I'm hoping it'll get me past an impenetrable security system and into a big stinking pile of loot.,Player Default: I'm your guy.,,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,"Player Default: If you expect me to work for you, I'm going to need more information than that.",I'll tell you what you need to know when you need to know it.,,,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,,"Right now all you need to know is that I will give you an assignment, and you'll do it.",Player Default: I'm your guy.,,MS16BobbiMeetOutsideTunnel
+Scene,SceneDialogue,Custom,,Player Default: Thanks. Turned out to be fun.,So you enjoyed yourself? Maybe we don't need to give you your cut then.,,,MS16JobDone
+Scene,SceneDialogue,Custom,,,"Relax, I'm joking.",Bobbi: Here is your share.,,MS16JobDone
+Scene,SceneDialogue,Custom,,Player Default: No thanks to you.,"I'm a supervisor, kid. I decide what information is need-to-know and what isn't.",,Irritated,MS16JobDone
+Scene,SceneDialogue,Custom,,,You want to complain or you want your caps?,Bobbi: Here is your share.,Irritated,MS16JobDone
+Scene,SceneDialogue,Custom,,Player Default: I think I deserve a bigger cut for my role in all this.,"I may be a lowlife, kid, but I'm not a welcher. Of course you deserve more. You were the linchpin of this operation.",Bobbi: Here is your share.,,MS16JobDone
+Scene,SceneDialogue,Custom,,Player Default: I think I deserve a bigger cut for my role in all this.,We all did our part here. You will get what is owed to you and no more.,Bobbi: Here is your share.,,MS16JobDone
+Scene,SceneDialogue,Custom,,Player Default: What's next for you?,"Well, I can't really really go back to Goodneighbor now, can I?",,,MS16JobDone
+Scene,SceneDialogue,Custom,,,"I've been thinking of starting a settlement in Southie, and now that I have the caps I'm gonna do it.",,,MS16JobDone
+Scene,SceneDialogue,Custom,,,It's gonna be big.,Player Default: Thanks. Turned out to be fun.,,MS16JobDone
+Scene,SceneDialogue,Custom,,Player Default: Yeah. When can I start?,Well aren't you an eager beaver?,"Bobbi: If you don't mind a little manual labor and don't ask too many questions, you're in.",,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: I haven't heard about any job.,Well now you have.,"Bobbi: If you don't mind a little manual labor and don't ask too many questions, you're in.",,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: Depends on the work.,You'll never find a more fair and honest job.,"Bobbi: If you don't mind a little manual labor and don't ask too many questions, you're in.",Lying through your teeth,MS16BobbiIntroThroughDoor
+Scene,SceneDialogue,Custom,,Player Default: What kind of work?,Its good work. Under the supervision of the best boss you'll ever have.,"Bobbi: If you don't mind a little manual labor and don't ask too many questions, you're in.",Pitching,MS16BobbiIntroThroughDoor
+Combat,Combat,CoverMe,,,Get your ass over here and help me.,,In combat under duress. Angry.,
+Combat,Combat,CoverMe,,,The boss is in trouble!,,"Yelling for help, angry they aren't coming faster",
+Combat,Combat,Taunt,,,No one betrays Bobbi No-Nose!,,,
+Combat,Combat,Taunt,,,You're fired!,,,
+Detection,Detection,NormalToCombat,,,What are you waiting for?,,"Starting combat, ordering the player to fight",
+Detection,Detection,NormalToCombat,,,Make yourselves useful!,,"Starting combat, ordering the player to fight",
+Detection,Detection,NormalToCombat,,,Kill them!,,"Starting combat, ordering the player to fight",
+Detection,Detection,CombatToNormal,,,Keep moving.,,"After killing enemies, to player",
+Detection,Detection,CombatToNormal,,,Let's go.,,"After killing enemies, cleaning hands off",
+Detection,Detection,CombatToNormal,,,"C'mon, pull your weight guys.",,"After killing enemies, annoyed the player didn't help more.",
+Detection,Detection,CombatToNormal,,,That's all you got?,,After killing enemies,
+Miscellaneous,Miscellaneous,Greeting,,,Hey you. Looking for work?,Player Default: Yeah. When can I start?,,MS16BobbiIntroThroughDoor
+Miscellaneous,Miscellaneous,Greeting,,,There you are. Was wondering if you were going to show up.,"Bobbi: Yes, it's me. I have to hide my face in these parts.",,MS16BobbiInDiamondCity
+Miscellaneous,Miscellaneous,Greeting,,,Ready to get to work?,Player Default: Just tell me what I need to do.,,MS16BobbiMeetOutsideTunnel
+Miscellaneous,Miscellaneous,Greeting,,,"Dammit. Well, we don't have a way to get through a wall like that.",,Exasperated.,
+Miscellaneous,Miscellaneous,Greeting,,,That's what I'm talking about.,,Impressed,MS16JobDone
+Miscellaneous,Miscellaneous,Greeting,,,Gotta be tons of dirt on Hancock in here...,"Mel: Yeah, well I'm just glad we made it through all that alive.",To yourself / Impressed,MS16JobDone
+Miscellaneous,Miscellaneous,Greeting,,,Well there's good news and bad news.,,,
+Miscellaneous,Miscellaneous,Greeting,,,What is going on in my tunnel?,Player Default: That room was filled with Mirelurks.,"Annoyed, checking on loud noises / Irritated",MS16BobbiPromotesPlayer
+Miscellaneous,Miscellaneous,Greeting,,,"So, here's the deal.",Bobbi: You are gonna be doing some digging.,,MS16BobbiWorkStart
+Miscellaneous,Miscellaneous,Greeting,,,"Alright, we're all here.","Bobbi: Mel, you wanna introduce your little friend?",,MS16MelDigStart
+Miscellaneous,Miscellaneous,Greeting,,,The coast clear?,,,
+Miscellaneous,Miscellaneous,Greeting,,,Back again? Looking for work this time?,Player Default: I'm in.,,MS16BobbiIntroThroughDoor
+Miscellaneous,Miscellaneous,Greeting,,,"Great, now my socks are wet.",,"To yourself, sarcastic",MS16TheGangEntersNHMBasement
+Miscellaneous,Miscellaneous,Greeting,,,"Well guys, we're right under the Diamond City strongroom.",Mel: You sure this is the right place?,"Rallying the team, excited",MS16TheGangEntersNHMBasement
+Miscellaneous,Miscellaneous,Greeting,,,"Just find a way for us to move forward. Remember, Southwest is best.",Player Default: You can count on me.,,MS16BobbiDigDialogue
+Miscellaneous,Miscellaneous,Greeting,,,"Almost there, guys. Just keep thinking of the caps.",Player Default: You can count on me.,,MS16BobbiDigDialogue
+Miscellaneous,Miscellaneous,Greeting,,,Getting closer...,Player Default: You can count on me.,"Anticipation, closer finishing the job",MS16BobbiDigDialogue
+Miscellaneous,Miscellaneous,Hello,,,I'll catch up to ya. Order yourself a bowl of noodles if I get held up.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Hold your horses, buddy. We'll talk downstairs.",,,
+Miscellaneous,Miscellaneous,Hello,,,"Well, what are you waiting for? Get digging.",,,
+Miscellaneous,Miscellaneous,Hello,,,Mel isn't any good to us locked up in Diamond City Security.,,,
+Miscellaneous,Miscellaneous,Hello,,,Get him out of there.,,,
+Miscellaneous,Miscellaneous,Hello,,,Keep moving. The Diamond City strongroom is to the Southwest.,,,
+Miscellaneous,Miscellaneous,Hello,,,Thanks again for your help. We couldn't have done it without ya.,,,
+Miscellaneous,Miscellaneous,Hello,,,I don't want to talk about it.,,Angry and humiliated,
+Miscellaneous,Miscellaneous,Hello,,,What are you doing talking to me? Do something!,,"Annoyed at the player, Impatient",
+Miscellaneous,Miscellaneous,Hello,,,Looks like this could be it. Let's meet up in that chamber.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,I know that you've got the guts to wander outside of the walls. And the fact that you're alive means you're at least borderline competent.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"You should get moving, then.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Yep. Have a seat. Let's talk.,,,
+Combat,Combat,Hit,,,Ugh!,,"In pain, got hit",
+Combat,Combat,Hit,,,You'll pay for that!,,"In combat, angry and in pain, just got hit",
+Combat,Combat,Hit,,,Ergh.,,"In combat, angry and in pain, just got hit / InPain",
+Combat,Combat,Taunt,,,Die already.,,,
+Combat,Combat,Taunt,,,This'll be easy.,,"In combat, confident",
+Combat,Combat,Taunt,,,I'm not afraid of you!,,"In combat, cocky.",
+Combat,Combat,Death,,,Agh!,,You've died. / Neutral,
+Detection,Detection,NormalToCombat,,,To hell with you!,,Entering combat. / Stern,
+Detection,Detection,NormalToCombat,,,Oh no. This ain't how I go!,,Entering combat. / Stern,
+Detection,Detection,NormalToAlert,,,The hell was that?,,Concerned you might've heard an enemy. / Concerned,
+Detection,Detection,NormalToAlert,,,Who's there?,,Concerned you might've heard an enemy. / Concerned,
+Detection,Detection,AlertToCombat,,,What the...,,Surprised to find an enemy nearby. / Surprised,
+Detection,Detection,AlertToCombat,,,Knew someone was there!,,Surprised to find an enemy nearby. / Surprised,
+Detection,Detection,CombatToLost,,,"Where, where'd you go?",,Just lost track of an enemy. / Question,
+Detection,Detection,CombatToLost,,,Hope you stay gone...,,Just lost track of an enemy. / Concerned,
+Detection,Detection,LostToCombat,,,"Back again, huh?",,Entering combat again with an enemy you'd lost track of. / Neutral,
+Detection,Detection,LostToCombat,,,You again.,,Entering combat again with an enemy you'd lost track of. / Neutral,
+Detection,Detection,AlertToNormal,,,"Just your imagination, Bobbi...",,Convincing yourself you didn't see an enemy nearby. / Neutral,
+Detection,Detection,AlertToNormal,,,Hmm. Probably nothing...,,Convincing yourself you didn't see an enemy nearby. / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,I'm gonna enjoy spending all this.,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,Might be best if we weren't seen together for a while. Wouldn't want to draw any undue attention.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Hey.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Hancock's dead and we've got his money. Talk about living the life.,,Amused,
+Miscellaneous,Miscellaneous,Hello,,,"So, I heard someone finally took care of Hancock. Weight off my shoulders, that's for damn sure.",,Implying the person you're speaking to took care of Hancock. / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Never thought we'd get the best of 'ol Hancock.,,Amused,
+Scene,SceneDialogue,Custom,,"Bobbi: Makes a Ghoul a bit nervous, though, you showing up here unannounced.","So, who hired you to track me down? It was Hancock, wasn't it?","Player Default: He wants me to kill you and bring back his caps, plus damages.",Somewhat skeptical about seeing the player after completing the job together. / Irritated,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,"Bobbi: Makes a Ghoul a bit nervous, though, you showing up here unannounced.","Makes me think someone's putting you up to this. It was Hancock, wasn't it?","Player Default: He wants me to kill you and bring back his caps, plus damages.",Somewhat skeptical about seeing the player after completing the job together. / Irritated,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,"NPCFBobbiNoNose: Well, look who it is?","Makes a Ghoul a bit nervous, though, you showing up here unannounced.","Bobbi: So, who hired you to track me down? It was Hancock, wasn't it?",Somewhat skeptical about seeing the player after completing the job together. / Neutral,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,"NPCFBobbiNoNose: Well, look who it is?","You know, not that I don't love these little visits, but it gets a Ghoul wondering why you keep popping by.","Bobbi: So, who hired you to track me down? It was Hancock, wasn't it?",Somewhat skeptical about seeing the player after completing the job together. / Suspicious,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,"Player Default: He wants me to kill you and bring back his caps, plus damages.",Aren't you the little mercenary. And what exactly are you planning to do?,Player Default: You don't have to worry. I'll figure out some way to make things right with Hancock.,Question,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,Player Default: That job really pissed him off. He wants me to take you out.,That so? And what exactly are you planning to do about it?,Player Default: You don't have to worry. I'll figure out some way to make things right with Hancock.,Question,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,Player Default: It doesn't matter who sent me. I'm just here to take back what you stole.,"You mean ""we"" stole.",,Conspiratorial,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,,And you got your caps.,,Irritated,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,,Which makes this your problem. Not mine. So how are you planning to fix it?,Player Default: You don't have to worry. I'll figure out some way to make things right with Hancock.,Irritated,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,Player Default: Who do you think sent me?,"I assume you're here on behalf of that violent, old Ghoul. But I want to hear it from your lips.","Player Default: He wants me to kill you and bring back his caps, plus damages.",Neutral,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,Player Default: You don't have to worry. I'll figure out some way to make things right with Hancock.,Good. No need to resort to something stupid.,,Neutral,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,,"But if I got found out this quick, I can't exactly stick around, now can I? And that means I need these caps more than you.",,Worried,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,,But you can take whatever you want from this place. Don't expect I'll be able to bring any of it with... wherever I'm goin'.,,Worried,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,"Player Default: Make your peace, Bobbi. I'm taking those caps back.",You're gonna try.,,Neutral,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,"Player Default: If you leave your caps and run, I'll take them to Hancock and say I put you down. No one has to die.","Alright, fine, take it. Guess there's no point in hanging onto them if they're just going to get me killed.",,Neutral,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,,"I already spent a chunk of it, so you're going to have to make up the difference. You're welcome to hock whatever you can carry out of here.",,Neutral,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,,And listen. I appreciate you doing this the civilized way. I won't forget it. Wherever the hell I end up...,,Grateful,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,"Player Default: If you leave your caps and run, I'll take them to Hancock and say I put you down. No one has to die.","Sorry, partner. You got your caps. You're not getting these ones without a fight.",Player Default: You don't have to worry. I'll figure out some way to make things right with Hancock.,Defiant,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,"Player Default: If you leave your caps and run, I'll take them to Hancock and say I put you down. No one has to die.","Sorry, partner, but I ain't got no caps to give. So you're just going to have to figure out some other way to appease Hancock.",Player Default: You don't have to worry. I'll figure out some way to make things right with Hancock.,Defiant,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,Player Default: What would you do in a situation like this?,"Me? Well, I tried hiring someone with my newfound wealth to put a bullet in that tricorn-wearing clown.",,Neutral,FFGoodneighbor07_02_ConfrontBobbi
+Scene,SceneDialogue,Custom,,,"But every guy I spoke with was either on his take or just laughed in my face. At this point, though, all I wanna know is what you're planning to do.",Player Default: You don't have to worry. I'll figure out some way to make things right with Hancock.,Neutral,FFGoodneighbor07_02_ConfrontBobbi
+Miscellaneous,Miscellaneous,SharedInfo,,,"Dumb move, kid.",,Stern,
+Miscellaneous,Miscellaneous,Greeting,,,"Well, look who it is?","Bobbi: Makes a Ghoul a bit nervous, though, you showing up here unannounced.",Somewhat skeptical about seeing the player after completing the job together. / Neutral,FFGoodneighbor07_02_ConfrontBobbi
+Miscellaneous,Miscellaneous,Greeting,,,Look who's back.,"Bobbi: Makes a Ghoul a bit nervous, though, you showing up here unannounced.",Somewhat skeptical about seeing the player after completing the job together. / Neutral,FFGoodneighbor07_02_ConfrontBobbi
+Miscellaneous,Miscellaneous,Greeting,,,"Back again, huh? You finally gonna share what you're doing down here? Did Hancock send ya?","Player Default: He wants me to kill you and bring back his caps, plus damages.",Somewhat skeptical about seeing the player after completing the job together. / Question,FFGoodneighbor07_02_ConfrontBobbi
+Miscellaneous,Miscellaneous,Hello,,,"Huh. Hadn't thought about where I might go. I heard the Capitol Wastes are... well, they aren't here.",,Puzzled,
+Miscellaneous,Miscellaneous,Hello,,,Take whatever ya want. Someone else'll make off with it if you don't.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,"Just starting to get comfy, too.",,Irritated,

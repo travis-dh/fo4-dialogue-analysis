@@ -1,0 +1,141 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,Hello,,,Now here is where you want to be. Anyone who's anyone drinks here.,,"flirtatious, outgoing",
+Miscellaneous,Miscellaneous,Hello,,,Don't be shy. Sit down and have a drink.,,"flirtatious, outgoing",
+Miscellaneous,Miscellaneous,Hello,,,Isn't it fabulous? Sitting up here in the Stands? You'll get addicted to it.,,"flirtatious, outgoing",
+Miscellaneous,Miscellaneous,Hello,,,You're in the only spot worth going to around here.,,"flirtatious, outgoing",
+Miscellaneous,Miscellaneous,Hello,,,I wanted so much more from my life than this. *sigh*,,,
+Miscellaneous,Miscellaneous,Hello,,,Don't let my husband drag you into any of his nonsense.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Paul and I have a child. I regret a lot of things, but not my little Pete.",,,
+Miscellaneous,Miscellaneous,Hello,,,I'm busy. Excuse me.,,,
+Scene,SceneDialogue,Custom,,PaulPembroke: You son of a bitch!,"Don't hurt him, Henry!",,"concerned about Paul getting really hurt, but also kind of excited that Paul and Henry are fighting over you / Concerned",MS13IntroFightScene
+Scene,SceneDialogue,Custom,,DarcyPembroke: Shut up. I don't come here to talk about Paul.,You there. I haven't seen you in here before.,DarcyPembroke: Why don't you make yourself useful and buy me a drink or something?,appraisingly / Friendly,MS13CookeIntro
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: What were you arguing about?,"It's really none of your business, is it?","HenryCooke: Darcy, don't be rude to my customers.",Irritated,MS13DarcyIntro
+Scene,SceneDialogue,Custom,,"HenryCooke: He's not a bad guy, really. Just a little uptight. Too bad he can't learn to relax, eh, Darcy?",Shut up. I don't come here to talk about Paul.,DarcyPembroke: You there. I haven't seen you in here before.,petulantly / Irritated,MS13CookeIntro
+Scene,SceneDialogue,Custom,,DarcyPembroke: You there. I haven't seen you in here before.,Why don't you make yourself useful and buy me a drink or something?,Player Default: Sure. Get the lady another of whatever she's having.,Flirting,MS13CookeIntro
+Scene,SceneDialogue,Custom,,Player Default: Sure. Get the lady another of whatever she's having.,That's more like it. I hope you stick around. I think we might become good friends.,HenryCooke: Free booze. The fastest way to your heart.,Flirting,MS13CookeIntro
+Scene,SceneDialogue,Custom,,Player Default: Sure. Get the lady another of whatever she's having.,Well thank you very much. I think you and I are going to get along just fine.,HenryCooke: Free booze. The fastest way to your heart.,Happy,MS13CookeIntro
+Scene,SceneDialogue,Custom,,Player Default: You don't look like you need another drink.,"Aren't you all high and mighty, then? Why don't you get lost so I can drink in peace.","HenryCooke: Lighten up, Darcy. This isn't your own private bar, no matter what you might think.",Disgust,MS13CookeIntro
+Scene,SceneDialogue,Custom,,"Player Default: If you insist. Set the lady up with another drink, Cooke.","You heard the man, Henry. Give me more of what I like.",HenryCooke: Let's see if I can remember...,salaciously / Flirting,MS13CookeIntro
+Scene,SceneDialogue,Custom,,"Player Default: If you insist. Set the lady up with another drink, Cooke.","You heard the lady, Henry. Give me more of what I like.",HenryCooke: Let's see if I can remember...,salaciously / Flirting,MS13CookeIntro
+Scene,SceneDialogue,Custom,,Player Default: You come here often?,As often as I can. Henry is so good at listening to my troubles.,HenryCooke: Troubles? What would you know about that?,Flirting,MS13CookeIntro
+Scene,SceneDialogue,Custom,,PaulPembroke: Why don't you mind your own damn business for once?,"God, Paul, why do you always have to make a scene?","DarcyPembroke: Pour me another drink, Henry.",Disgust,MS13IntroScene
+Scene,SceneDialogue,Custom,,"DarcyPembroke: God, Paul, why do you always have to make a scene?","Pour me another drink, Henry.","PaulPembroke: Dammit, Darcy, I just want you to come home.","smiling at Henry, pointedly ignoring your husband / Flirting",MS13IntroScene
+Scene,SceneDialogue,Custom,,"PaulPembroke: Dammit, Darcy, I just want you to come home.",I'll be home. Later.,"PaulPembroke: I can't believe you'd do this to me, Cooke.",dismissively / Amused,MS13IntroScene
+Miscellaneous,Miscellaneous,Hello,,,Henry won't let me in the Taphouse any more. So here I am.,,Irritated,
+Miscellaneous,Miscellaneous,Hello,,,Look at this place. What a dive.,,Disgust,
+Miscellaneous,Miscellaneous,Hello,,,"I don't know what Paul did, but Henry won't even let me in his bar any more.",,Angry,
+Miscellaneous,Miscellaneous,Hello,,,You treated me right. I won't forget that.,,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,At least I got something out of this whole mess.,,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,What do you want? I don't have anything else left to steal.,,Disgust,
+Miscellaneous,Miscellaneous,Hello,,,I was stupid to trust you. Seems to be a pattern in my life.,,Disgust,
+Miscellaneous,Miscellaneous,Hello,,,I didn't deserve Paul. He was so much braver than I ever gave him credit for.,,Sad,
+Miscellaneous,Miscellaneous,Hello,,,It's all my fault. I never thought... I just wish I could go back and do it all over again.,,Sad,
+Miscellaneous,Miscellaneous,Hello,,,Who would want to kill Paul? He never hurt anybody in his life.,,Sad,
+Miscellaneous,Miscellaneous,Hello,,,I didn't treat him right. I know that.,,Depressed,
+Miscellaneous,Miscellaneous,Hello,,,I just... miss him so much sometimes.,,Sad,
+Miscellaneous,Miscellaneous,Hello,,,I'm getting worried about Paul. Nobody's seen him in days.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,"I know Paul was mad, but it's not like him to just disappear like this.",,Worried,
+Scene,SceneDialogue,Custom,,,"Paul, where are you going?",Paul: Nowhere you need to worry about.,Suspicious,MS13DarcyPaulHelloScene
+Scene,SceneDialogue,Custom,,Paul: Nowhere you need to worry about.,Whatever. I'll see you at home.,,Irritated,MS13DarcyPaulHelloScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,What are you waiting for?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Come on already.,,,
+Scene,SceneDialogue,Custom,,DarcyPembroke: This is my golden ticket. I've got to support my son somehow.,"I figure you get the best deal you can from one of them, and we split the take.",Player Default: You've got a deal.,Conspiratorial,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,DarcyPembroke: This is my golden ticket. I've got to support my son somehow.,"I figure you get the best deal you can from Marowski, and we split the take.",Player Default: You've got a deal.,Conspiratorial,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,"Player Default: Yes, I sold it to Marowski. Here's your share.",Oh. So you spent my money? I hope you have a plan to make it back somehow.,,Angry,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,,"It's not easy supporting a family without Paul, you know.",,Depressed,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,"Player Default: Yes, I sold it to Marowski. Here's your share.",Oh my god. Thank you!,,Grateful,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,,You really are something. I can't imagine Paul ever pulling off something like this.,,Impressed,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,"Player Default: Yes, I sold it to Marowski. Here's your share.",You came through after all. Although... I thought you would have gotten more than this. Oh well. A lot better than nothing.,,Grateful,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,"Player Default: Yes, I sold it to Marowski. Here's your share.","Is that it? You're either the worst blackmailer in the world, or you're holding out on me.",,Disbelief,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,,I guess I should be happy for anything. It's still more than Paul ever did for me.,,Depressed,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,"Player Default: I did all the work, so I'm keeping everything I got.",I guess I misjudged you after all. So far I'm two for two. Three for three if you count Henry.,,Disgust,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,,Why did you even come back? You could have at least left me with some hope.,,Disgust,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,Player Default: Not yet.,I hope you get to it soon. It isn't easy supporting my family all on my own like this.,,Depressed,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,Player Default: What photo?,"What are you, hitting the chems? The photo of Paul, Henry, and Malcolm Latimer. The Marowski Heist, remember?",,Irritated,MS13PaulDiesFoundPhotoResolution
+Scene,SceneDialogue,Custom,,,So what about it? Did you get anybody to pay you for it?,"Player Default: Yes, I sold it to Marowski. Here's your share.",Question,MS13PaulDiesFoundPhotoResolution
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Cooke confessed to killing Paul. He said Paul pulled a gun on him.,"Oh, god! No! Then it's my fault!",,Disbelief,MS13PaulDiesDarcyCookeConfessed
+Miscellaneous,Miscellaneous,SharedInfo,,,"Paul can be... could be... so damn irritating. Sometimes I just wanted to run away, or...",,Sad,MS13PaulDiesDarcyCookeConfessed
+Miscellaneous,Miscellaneous,SharedInfo,,,I'm sorry. Thank you for telling me. I have to go now.,,Sad,MS13PaulDiesDarcyCookeConfessed
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Not yet.,"Oh, okay. Bye.",,Depressed,MS13PaulDiesDarcyCookeConfessed
+Scene,SceneDialogue,Custom,,Player Default: What do you think happened to him?,"I don't know. I'm trying to keep hoping, but... I don't know.",,Worried,MS13PaulDiesDarcyCookeConfessed
+Scene,SceneDialogue,Custom,,Player Default: Yep. And Henry and Malcolm Latimer would like to make sure he doesn't.,This is my golden ticket. I've got to support my son somehow.,"DarcyPembroke: I figure you get the best deal you can from one of them, and we split the take.",Defiant,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: You've got a deal.,I knew when I first met you that this was your kind of thing. I'm good at reading people that way.,,Friendly,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,"Player Default: Now that I have the photo, I could just keep everything.",I guess you could. But I don't think you will. It's a risk I'm willing to take.,,Friendly,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: I'm not sure blackmail is really my thing.,Keep the photo and think about it. I bet you'll come around.,,Friendly,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: Aren't you worried what Marowski would do to Cooke if I sell him this photo?,Whatever Marowski does to Henry is too good for that bastard.,Player Default: You've got a deal.,"mixed anger and tears, thinking about your poor murdered husband / Angry",MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: Aren't you worried what Marowski would do to Cooke if I sell him this photo?,Henry can take of himself. But he's also probably smart enough to give you a good price for the picture.,Player Default: You've got a deal.,Confident,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: Aren't you worried what Marowski would do to Cooke if I sell him this photo?,No. I'm just looking for a payday.,Player Default: You've got a deal.,Defiant,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: I killed him.,My god. You...,,"stunned, shocked / Surprised",MS13PaulDiesTellDarcy
+Scene,SceneDialogue,Custom,,,Why? Why did you do it? Can you at least tell me that?,"Player Default: For what it's worth, I'm sorry. I wish it hadn't happened.",Angry,MS13PaulDiesTellDarcy
+Scene,SceneDialogue,Custom,,Player Default: I killed him.,"Oh, okay... I appreciate you telling me. I... I need to go now. Good-bye.",,Sad,MS13PaulDiesTellDarcy
+Scene,SceneDialogue,Custom,,Player Default: I killed him.,"Oh, my god. He always had some new scheme to get rich. But I never thought he would do something like that.",,Worried,MS13PaulDiesTellDarcy
+Scene,SceneDialogue,Custom,,,Thank you for telling me what you know. I... I have to go now. Good-bye.,,Sad,MS13PaulDiesTellDarcy
+Scene,SceneDialogue,Custom,,Player Default: No. I just heard that he was dead.,"Oh. I can't believe it... I'll never see him again. I'm so sorry, I have to go now.",,grief-stricken / Sad,MS13PaulDiesTellDarcy
+Scene,SceneDialogue,Custom,,Player Default: It doesn't matter.,"You're right. It doesn't matter at all now. I'm sorry, I have to go.",,Sad,MS13PaulDiesTellDarcy
+Scene,SceneDialogue,Custom,,Player Default: Is there anything I can do to help?,"No, no... I'm sorry, I have to go.",,Sad,MS13PaulDiesTellDarcy
+Scene,SceneDialogue,Custom,,"Player Default: For what it's worth, I'm sorry. I wish it hadn't happened.","That isn't worth a damn thing. Get away from me, murderer!",,Angry,MS13PaulDiesWhyKill
+Scene,SceneDialogue,Custom,,Player Default: I didn't think twice about it.,Get away from me you filthy murderer!,,Angry,MS13PaulDiesWhyKill
+Scene,SceneDialogue,Custom,,Player Default: It's just something that happened.,"Well, you've ruined my life. I hope you can live with that!",,Angry,MS13PaulDiesWhyKill
+Scene,SceneDialogue,Custom,,"Player Default: If you cared about Paul so much, why were you fooling around with Cooke?",You have a lot of nerve. You murdered him! You have no right to judge me!,,Angry,MS13PaulDiesWhyKill
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I'm glad to help if I can.,Look at this old photograph that Paul had hidden away.,Player Default: That's Paul with Henry Cooke and Malcolm Latimer when they were younger.,Impressed,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: Stop bothering me.,"Okay, fine. I just thought you might want in on something. I'll find someone else.",Player Default: That's Paul with Henry Cooke and Malcolm Latimer when they were younger.,Irritated,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: What did you find?,"This old photograph. Here, take a look.",Player Default: That's Paul with Henry Cooke and Malcolm Latimer when they were younger.,Impressed,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: That's Paul with Henry Cooke and Malcolm Latimer when they were younger.,Exactly. And do you know what they're standing in front of?,Player Default: Why don't you tell me what's so interesting about this.,Impressed,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: That's Paul with Henry Cooke and Malcolm Latimer when they were younger.,Right. Malcolm Latimer is the third guy. Do you know what they're standing in front of?,Player Default: Why don't you tell me what's so interesting about this.,Impressed,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: An old photo of Paul. Big deal.,"An old photo of Paul, Henry Cooke, and Malcolm Latimer... and do you know what they're standing in front of?",Player Default: Why don't you tell me what's so interesting about this.,Impressed,MS13PaulDiesFoundPhoto
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I don't get it.,"It's Paul, 20 years younger, with Henry Cooke and Malcolm Latimer.",,Thinking,MS13PaulDiesFoundPhoto
+Miscellaneous,Miscellaneous,SharedInfo,,,"I knew they were friends growing up together, but I never knew they pulled something like this.",Player Default: Why don't you tell me what's so interesting about this.,Impressed,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: Why don't you tell me what's so interesting about this.,"Oh my god. You really don't know. You're not from around here, are you?",,Surprised,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,,That's Marowski's old chem warehouse in Quincy. Back when he was the biggest gangster around... 20 years ago.,,Thinking,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,,"Somebody knocked over his warehouse and took everything. Marowski put out a huge bounty on whoever did it, but never caught them.",,Concerned,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,,I had no idea that Paul was in on the Marowski heist. My Paul! I can't believe it.,Player Default: I bet Marowski would love to see this picture.,Impressed,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: I bet Marowski would love to see this picture.,Yep. And Henry and Malcolm Latimer would like to make sure he doesn't.,DarcyPembroke: This is my golden ticket. I've got to support my son somehow.,SinisterSmile,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: I bet Marowski would love to see this picture.,Yep. And Henry would like to make sure he doesn't.,DarcyPembroke: This is my golden ticket. I've got to support my son somehow.,SinisterSmile,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: I bet Marowski would love to see this picture.,Yep. And Malcolm Latimer would like to make sure he doesn't.,DarcyPembroke: This is my golden ticket. I've got to support my son somehow.,SinisterSmile,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: I bet Marowski would love to see this picture.,"Oh, yes he would.",DarcyPembroke: This is my golden ticket. I've got to support my son somehow.,SinisterSmile,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: I guess Cooke and Latimer would hate for Marowski to see this picture.,Mm hmm.,DarcyPembroke: This is my golden ticket. I've got to support my son somehow.,SinisterSmile,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: I guess Cooke and Latimer would hate for Marowski to see this picture.,Yeah... but Marowski doesn't know it's too late to get his revenge. Not until he pays to see that photo.,DarcyPembroke: This is my golden ticket. I've got to support my son somehow.,SinisterSmile,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: You must have showed this to me for a reason.,Any of them would pay a lot for this picture.,DarcyPembroke: This is my golden ticket. I've got to support my son somehow.,SinisterSmile,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,Player Default: Why would they take an incriminating picture of themselves?,"I don't know. Maybe... insurance? If they all had the picture, none of them could turn the others in to Marowski.",DarcyPembroke: This is my golden ticket. I've got to support my son somehow.,Thinking,MS13PaulDiesFoundPhoto
+Scene,SceneDialogue,Custom,,"Player Default: Darcy Pembroke, right?",Yeah. You were at the Taphouse when Paul made a fool of himself.,"DarcyPembroke: Now he's missing. Paul, I mean. It's not like him and I'm worried something's happened to him.",Apologetic,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,"Player Default: Darcy Pembroke, right?","Well, I remember you from the Taphouse. That time Paul made such a fool of himself fighting with Henry...","DarcyPembroke: Now he's missing. Paul, I mean. It's not like him and I'm worried something's happened to him.",Concerned,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,"Player Default: Oh, great, the lush from the Taphouse.","So you're still an asshole. Never mind, then.","DarcyPembroke: Now he's missing. Paul, I mean. It's not like him and I'm worried something's happened to him.",Disgust,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,"Player Default: Oh, great, the lush from the Taphouse.",Don't you remember me? From the Taphouse... when Paul made such a fool of himself trying to fight Henry?,"DarcyPembroke: Now he's missing. Paul, I mean. It's not like him and I'm worried something's happened to him.",Puzzled,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: I guess so.,"Do you remember me? You were in the Taphouse, that time Paul made such a fool of himself trying to fight Henry...","DarcyPembroke: Now he's missing. Paul, I mean. It's not like him and I'm worried something's happened to him.",Pleading,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: What do you want?,"Well... you were in the Taphouse the other day, when Paul made such a fool of himself trying to fight Henry...","DarcyPembroke: Now he's missing. Paul, I mean. It's not like him and I'm worried something's happened to him.",Apologetic,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: Yeah. You were at the Taphouse when Paul made a fool of himself.,"Now he's missing. Paul, I mean. It's not like him and I'm worried something's happened to him.",Player Default: I'll keep an eye out for him.,Worried,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: I'll keep an eye out for him.,"Really? Thank you so much. I'm sure he's fine, but... I really appreciate it.",,Grateful,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: I'll keep an eye out for him.,Oh my god. How do you... do you know what happened?,Player Default: I killed him.,Surprised,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: I don't know anything about it.,Okay. Sorry to bother you.,,a little bitterly / Suspicious,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: I don't know anything about it.,"I'm just asking everyone, okay? I'm worried about him is all.",,a little bitterly / Disgust,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: Why are you asking me? I barely know him.,"I know Paul talked to you, after, you know, he was so upset. I thought maybe you might know something.",,Apologetic,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: Why are you asking me? I barely know him.,Paul... he doesn't have any friends. Not anymore. He kind of drives people away.,,Apologetic,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,,"So, I thought... maybe you could help.",,Pleading,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: Have you asked Cooke about it?,"Oh, you haven't heard? Henry's dead.",,Surprised,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,,Now I'm afraid... I just want to find out what happened to Paul.,,Worried,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: Have you asked Cooke about it?,"Well, that's the thing. Henry's missing, too. Which is what makes me really worried about Paul.",,Worried,MS13PaulDiesMissingScene
+Scene,SceneDialogue,Custom,,Player Default: Have you asked Cooke about it?,I already did. He says he hasn't seen Paul. So now I don't know what to do.,,Worried,MS13PaulDiesMissingScene
+Miscellaneous,Miscellaneous,Greeting,,,So did you have any luck with that photo?,"Player Default: Yes, I sold it to Marowski. Here's your share.",Question,MS13PaulDiesFoundPhotoResolution
+Miscellaneous,Miscellaneous,Greeting,,,Hi. I found something when I was going through Paul's things. See what you make of it.,Player Default: I'm glad to help if I can.,Conspiratorial,MS13PaulDiesFoundPhoto
+Miscellaneous,Miscellaneous,Greeting,,,What is it? Did you find something out about Paul?,Player Default: Cooke confessed to killing Paul. He said Paul pulled a gun on him.,Worried,MS13PaulDiesDarcyCookeConfessed
+Miscellaneous,Miscellaneous,Greeting,,,Excuse me. Can I talk to you a minute?,"Player Default: Darcy Pembroke, right?",Apologetic,MS13PaulDiesMissingScene
+Miscellaneous,Miscellaneous,Greeting,,,"You haven't found out anything about Paul yet, have you?",Player Default: I'll keep an eye out for him.,Worried,MS13PaulDiesMissingScene
+Miscellaneous,Miscellaneous,Hello,,,"I hope you're working on what we talked about before. The photo of Paul, remember?",,Concerned,
+Miscellaneous,Miscellaneous,NoticeCorpse,,,Oh my god! Paul!,,Disbelief,
+Scene,SceneDialogue,Custom,,,Hi Sheffield. I'm looking for Paul. Have you seen him?,"Sheffield: Paul's finally run off, eh? Not surprising, married to the likes of you.",,ConvDiamondCityMS13PaulDiesDarcy02Scene
+Scene,SceneDialogue,Custom,,"Sheffield: Paul's finally run off, eh? Not surprising, married to the likes of you.",What a horrible thing to say.,"Sheffield: He's probably better off, wherever he is.",,ConvDiamondCityMS13PaulDiesDarcy02Scene
+Scene,SceneDialogue,Custom,,"Sheffield: He's probably better off, wherever he is.",What would you know. You're nothing but a no-good drunk.,"Sheffield: Takes one to know one, ha ha ha. See you around, Darcy!",,ConvDiamondCityMS13PaulDiesDarcy02Scene
+Scene,SceneDialogue,Custom,,"Sheffield: Takes one to know one, ha ha ha. See you around, Darcy!",Every time I talk to you I regret it.,,,ConvDiamondCityMS13PaulDiesDarcy02Scene
+Scene,SceneDialogue,Custom,,,I'm wondering... have you seen Paul recently?,GenericNPC: Paul? Come to think of it I haven't seen him around in a while.,,ConvDiamondCityMS13PaulDiesDarcyScene
+Scene,SceneDialogue,Custom,,,Excuse me. I'm looking for Paul. Have you seen him?,GenericNPC: Paul? Come to think of it I haven't seen him around in a while.,,ConvDiamondCityMS13PaulDiesDarcyScene
+Scene,SceneDialogue,Custom,,,"Sorry to bother you, but Paul is missing, and I'm wondering if you know where he might be.",GenericNPC: Paul? Come to think of it I haven't seen him around in a while.,,ConvDiamondCityMS13PaulDiesDarcyScene
+Scene,SceneDialogue,Custom,,GenericNPC: Paul? Come to think of it I haven't seen him around in a while.,"Oh, okay. Sorry to bother you.",,,ConvDiamondCityMS13PaulDiesDarcyScene
+Scene,SceneDialogue,Custom,,GenericNPC: Paul? Come to think of it I haven't seen him around in a while.,"Well, if you do hear anything, please let me know, okay? I'm worried something's happened to him.",,,ConvDiamondCityMS13PaulDiesDarcyScene
+Scene,SceneDialogue,Custom,,GenericNPC: Paul? Come to think of it I haven't seen him around in a while.,Okay. Thanks.,,,ConvDiamondCityMS13PaulDiesDarcyScene
+Scene,SceneDialogue,Custom,,,"Cathy, have you seen Paul around? He's... well, he's missing, and I'm getting worried about him.",Cathy: You're worried? I thought that would be a wish come true for you.,,ConvDiamondCityMS13PaulDiesDarcy03Scene
+Scene,SceneDialogue,Custom,,Cathy: You're worried? I thought that would be a wish come true for you.,Why would you say that? I love Paul!,Cathy: At least you loved his money. When he had any.,,ConvDiamondCityMS13PaulDiesDarcy03Scene
+Scene,SceneDialogue,Custom,,Cathy: At least you loved his money. When he had any.,I don't have to stand here and listen to this.,,,ConvDiamondCityMS13PaulDiesDarcy03Scene
+Scene,SceneDialogue,Custom,,Player Default: That was probably Henry Cooke's daughter. She may have thought that Paul killed him.,What? That doesn't make any sense. Paul never hurt anybody in his life.,,Sad,MS13ColetteRevengePaulScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Nothing to do with me.,"My god, it's all so senseless. Now what will I do?",,Sad,MS13ColetteRevengePaulScene
+Scene,SceneDialogue,Custom,,Player Default: Did she say anything before she shot him?,"Something about ""I know you killed him""... it doesn't make any sense. Paul never hurt anybody in his life.",,Sad,MS13ColetteRevengePaulScene
+Miscellaneous,Miscellaneous,Greeting,,,Paul's dead! Some woman showed up and just shot him! Why would anyone want to kill Paul?,Player Default: That was probably Henry Cooke's daughter. She may have thought that Paul killed him.,Afraid,MS13ColetteRevengePaulScene

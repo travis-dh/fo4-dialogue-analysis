@@ -1,0 +1,39 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,Greeting,,,What was all that commotion?,,,
+Miscellaneous,Miscellaneous,Greeting,,,I can't believe it.,,,
+Scene,SceneDialogue,Custom,,,"Was there something else, Detective?",Player Default: Tell me about yourself.,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,Julianna: Hello Mr. Whiskers. Who's a pretty kitty?,"Julianna... Mr. Whiskers died last month. This is Scruffy, remember?",Julianna: Oh... of course. Silly me.,,DLC03_V118_QuestIntroJuliannaBertWait
+Scene,SceneDialogue,Custom,,Julianna: Oh... of course. Silly me.,Just let me have a look at the neural interface matrix and I'm sure I can clear that-,"Julianna: No! No it's not that, I've just caught another cold. Probably something that got in when they sent Pearl out.",,DLC03_V118_QuestIntroJuliannaBertWait
+Scene,SceneDialogue,Custom,,"Julianna: No! No it's not that, I've just caught another cold. Probably something that got in when they sent Pearl out.","Oh god, not this again. Last month you were convinced you had the measles...","Julianna: You're not a doctor, what would you even know about it. And besides, I think it may be malaria.",,DLC03_V118_QuestIntroJuliannaBertWait
+Scene,SceneDialogue,Custom,,"Julianna: You're not a doctor, what would you even know about it. And besides, I think it may be malaria.","First of all, I am a doctor.","Julianna: Yes, but not a real doctor. Robotics isn't an actual medical degree.",,DLC03_V118_QuestIntroJuliannaBertWait
+Scene,SceneDialogue,Custom,,"Julianna: Yes, but not a real doctor. Robotics isn't an actual medical degree.","Secondly, I've told you time and again, you can't get sick inside the suit. It's not physically possible.","Julianna: I know when I'm getting sick, Bert. Now why don't you just wander off and play in your lab.",,DLC03_V118_QuestIntroJuliannaBertWait
+Scene,SceneDialogue,Custom,,"Julianna: Have fun, dear!","Oh, god Julianna. Whatever. I'm going to the lab.",,,DLC03_V118_QuestIntroJuliannaBertWait
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Tell me about yourself.,I don't want to talk about this any more. Please just go.,,"hurried, you are worried you said something that will get you killed",DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,Player Default: Tell me about yourself.,"Oh uh... well, I'm a scientist. You've probably met my wife, Julianna, already. Not sure what else to say really.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,Player Default: Tell me about yourself.,"Well, I was one of the leads on the team that created the first robobrains, the precursors to our model.",,"eager, chipper.",DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,"Most people don't find it all that interesting, and I'd rather not bore you..",,"slightly embarrassed, you know most people find you strange",DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,Player Default: Tell me about yourself.,Oh wonderful! No one else here really wants to talk about it.,,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,"Functionally this model is more or less the same as the previous versions I worked on, but without the neural inhibitor and reconditioning.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,"The voice modulator seems to have some minor issues interfacing with the neural matrix, which can add some moodiness.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,But that's easily solved with regular tune ups.,,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,Player Default: Tell me about yourself.,"I'm afraid that's really all I should say about it. I mean it IS still classified, but I wanted to help with the investigation.",,earnest. You are being totally honest.,DLC03_V118_QuestBertMain
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Never mind.,"Very well, I'll just get back to my work then.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,Player Default: I heard that Julianna and Ezra had an argument a few days before he was found dead. Tell me about that.,"Well, I was in my lab at the time so I didn't hear it, but Julianna has always been rather critical of Mr. Parker.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,I think she found something in the overseer's office... I wasn't listening when she told me about it. I kind of had my head in my research.,,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,I don't know really. I try to let her handle all the money stuff.,,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,Player Default: I heard that Julianna and Ezra had an argument a few days before he was found dead. Tell me about that.,"That's what allows us to recreate our original voices. They can mimic any normal human voice, actually.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,I've speculated for some time that the issues we had with our hm... recruited subjects are due to the brain attempting to preserve a sense of self.,,"Thinking back on your old research, pause at ""hm"" to find the correct term. The subjects you were using were not willing, they were convicts.",DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,"Maintaining our original voices helps reinforce the neural network, sort of like playing music for an Alzheimer's patient.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,"Player Default: What do you mean, Julianna's not the same person?","My wife has always been a very harsh woman, Detective. I don't know who it is  in our room, but that is not my wife, Detective.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,"Player Default: What do you mean, Julianna's not the same person?",I'm sure that's just a glitch in the neurochemical regulator. I'm still working out the kinks that were introduced by the voice modulator interface.,,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,If she would just let me give the regulator a tune up I'm sure she would be back to normal.,,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,"Player Default: What do you mean, Julianna's not the same person?","Oh, well I'm probably just being paranoid, but... She's been so much more pleasant lately. I mean it's been nice, but also a bit unnerving.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,"Most people don't really understand us, but I always appreciated how she can just take charge of a situation.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,,It's what allowed me to focus on my research. I'm worried something has happened to her. She doesn't seem like the same person.,,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,"Player Default: What do you mean, Julianna's not the same person?","Oh, well... that's not really my field of expertise, but I'm sure there are probably some clues at the crime scene.",,,DLC03_V118_QuestBertMain
+Scene,SceneDialogue,Custom,,"Player Default: What do you mean, Julianna's not the same person?","I'm sure it's nothing. She's just feeling stressed like the rest of us. I mean, there's still a murderer out there, Detective.",,,DLC03_V118_QuestBertMain
+Miscellaneous,Miscellaneous,Greeting,,,Hello Detective. Did you need something?,Player Default: Tell me about yourself.,,DLC03_V118_QuestBertMain
+Miscellaneous,Miscellaneous,Greeting,,,Hello again. Did you need something?,Player Default: Tell me about yourself.,,DLC03_V118_QuestBertMain
+Miscellaneous,Miscellaneous,SharedInfo,,,I supposed that would be alright.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Fine. Ask your questions.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"I don't think I should answer any more of your questions, Detective.",,,

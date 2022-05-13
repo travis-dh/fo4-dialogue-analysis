@@ -1,0 +1,65 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,Hello,,,Are you lost?,,arrogant,
+Miscellaneous,Miscellaneous,Hello,,,"If I wanted to talk to you, you'd know it.",,arrogant,
+Miscellaneous,Miscellaneous,Hello,,,I'm an important man. You better not be trying to waste my time.,,arrogant,
+Miscellaneous,Miscellaneous,Hello,,,"You're bothering me. You don't want to bother a man like me, okay?",,arrogant,
+Miscellaneous,Miscellaneous,Hello,,,"You want something? Listen up, everyone wants something from me, so don't make a fool of yourself.",,arrogant,
+Scene,SceneDialogue,Custom,,NPCFGibson: Who the hell are you?,Let me deal with this fool.,Player Default: Cooke sent me. He has a message for you.,SinisterSmile,MS13CAmbushNelsonIntro
+Miscellaneous,Miscellaneous,SharedInfo,,NelsonLatimer: Let me deal with this fool.,You better get the fuck out of here if you know what's good for you.,Player Default: Cooke sent me. He has a message for you.,Angry,MS13CAmbushNelsonIntro
+Scene,SceneDialogue,Custom,,,"I'll meet you there, then. Don't be late.",HenryCooke: I'll be there. I just have to close up.,Conspiratorial,MS13BConfrontCookeNelsonIntro
+Scene,SceneDialogue,Custom,,Player Default: Cooke sent me. He has a message for you.,Cooke told you about this? Where the hell is Cooke anyway?,"Trish: What is this, Nelson?",Suspicious,MS13CAmbushNelsonIntro
+Scene,SceneDialogue,Custom,,"Player Default: I'm here for the chems and the money. Oh, and to kill you all.",What? Shit!,"Player Default: Cooke couldn't make it, so he sent me instead.",Surprised,MS13CAmbushNelsonIntro
+Scene,SceneDialogue,Custom,,Player Default: I'm just passing through.,"Well, then you better keep right on walking, asshole. Now.",Trish: We don't want any trouble. Just get out of here.,Angry,MS13CAmbushNelsonIntro
+Scene,SceneDialogue,Custom,,Player Default: What's going on here?,"Nothing to do with you, unless you want your face blown off. Got it, asshole?","Player Default: Cooke couldn't make it, so he sent me instead.",SinisterSmile,MS13CAmbushNelsonIntro
+Scene,SceneDialogue,Custom,,"Player Default: Cooke couldn't make it, so he sent me instead.","The fuck he did. Trish, kill this asshole!",,Angry,MS13CAmbushNelsonIntro
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: This is a hold up. Drop your guns.,Are you serious? Kill this asshole!,,Angry,MS13CAmbushNelsonIntro
+Scene,SceneDialogue,Custom,,Trish: Where the hell is Cooke? We can't sit here much longer.,Relax. I'm sure he'll be here any minute.,"Trish: Yeah, well he better be. This is bullshit.",Confident,MS13CAmbushLooping
+Scene,SceneDialogue,Custom,,Trish: Where the hell is Cooke? We can't sit here much longer.,"Why do we need Cooke, anyway? I've got the money right here.","Trish: Yeah, well he better be. This is bullshit.",Conspiratorial,MS13CAmbushLooping
+Scene,SceneDialogue,Custom,,Trish: Where the hell is Cooke? We can't sit here much longer.,"Cooke's the one jerking you around. I'm here, right on time. Make sure to tell Marowski that.","Trish: Yeah, well he better be. This is bullshit.",Friendly,MS13CAmbushLooping
+Scene,SceneDialogue,Custom,,Trish: Where the hell is Cooke? We can't sit here much longer.,"Maybe you're in the wrong line of business, if this makes you so nervous.","Trish: Yeah, well he better be. This is bullshit.",mocking / Amused,MS13CAmbushLooping
+Scene,SceneDialogue,Custom,,Trish: Where the hell is Cooke? We can't sit here much longer.,Don't blame me.,"Trish: Yeah, well he better be. This is bullshit.",Confident,MS13CAmbushLooping
+Scene,SceneDialogue,Custom,,Trish: Where the hell is Cooke? We can't sit here much longer.,"Don't worry, Trish. I'll keep you safe.","Trish: Yeah, well he better be. This is bullshit.",mocking Trish's cowardice / Amused,MS13CAmbushLooping
+Scene,SceneDialogue,Custom,,Trish: Where the hell is Cooke? We can't sit here much longer.,Not my fault. I'm ready to deal.,"Trish: Yeah, well he better be. This is bullshit.",Confident,MS13CAmbushLooping
+Scene,SceneDialogue,Custom,,Trish: Where the hell is Cooke? We can't sit here much longer.,Didn't think you'd be such an old hen.,"Trish: Yeah, well he better be. This is bullshit.",mocking / Amused,MS13CAmbushLooping
+Miscellaneous,Miscellaneous,Greeting,,,What are you still doing here?,Player Default: Cooke sent me. He has a message for you.,Angry,MS13CAmbushNelsonIntro
+Miscellaneous,Miscellaneous,Hello,,,You'd better believe I told Marowski who stole his chems.,,Angry,
+Miscellaneous,Miscellaneous,Hello,,,You'd better get lost before I lose my cool and kick your ass.,,Angry,
+Miscellaneous,Miscellaneous,Hello,,,Do you know who I am? My father practically runs Diamond City.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,"You took me by surprise last time. But one day maybe I'll take you by surprise. Watch your back, asshole.",,SinisterSmile,
+Combat,Combat,Attack,,,Grrargh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Aggghh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Nyyarrggh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Rrarggh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Yearrgh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Hyargh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Bash,,,Hunh!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Gah!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Yah!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Rargh!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,BleedOut,,,*heavy breathing* *cough cough*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,BleedOut,,,Oof! *heavy breathing*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,BleedOut,,,Agh! *cough* *wheeze*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,Block,,,Gah!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Nargh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Unf!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Grrh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Nnh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Death,,,Agh.,,InPain,
+Combat,Combat,Flee,,,"Shit, I'm getting out of here.",,Afraid,
+Combat,Combat,Hit,,,Shit.,,InPain,
+Combat,Combat,Hit,,,They got me!,,InPain,
+Combat,Combat,Hit,,,I'm hit!,,InPain,
+Combat,Combat,Hit,,,Argh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Weergh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Yeagh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Nargh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Oof!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Agh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,PowerAttack,,,Aaaayyyaarrrrgghh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,PowerAttack,,,Yyyaaaarrgghh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,PowerAttack,,,Rrrraaaaarrggghhhh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,Taunt,,,Get those assholes!,,Worried,
+Combat,Combat,Taunt,,,You don't know who you're messing with.,,Angry,
+Combat,Combat,Taunt,,,"Come on, kill them!",,Worried,
+Combat,Combat,Taunt,,,Dammit. What do we do?,,Afraid,
+Combat,Combat,Taunt,,,"I'm going to kill you, asshole!",,Angry,

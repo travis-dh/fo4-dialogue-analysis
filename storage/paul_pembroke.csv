@@ -1,0 +1,275 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Bottoms up...,,selling drinks,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Here's the menu...,,selling drinks,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Cheers...,,selling drinks,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Plenty on tap.,,selling drinks,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Here's what we got.,,selling drinks,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"All right, then.",,,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Well, we're always open...",,,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Gotcha.,,,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Let me know if that changes.,,,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Some other time.,,,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Take as much time as you need.,,,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Not a problem.,,,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Later, then.",,,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,All right.,,,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Okay. Let me know.,,,PaulVendorScene
+Scene,SceneDialogue,Custom,,Player Default: You look good Paul. How are you?,"Let me tell ya, it's like I finally woke up, you know? You helping me out. It turned everything around.",,"chipper, upbeat",PaulVendorScene
+Scene,SceneDialogue,Custom,,,Now how about a drink?,"PaulPembroke: Let me tell ya, it's like I finally woke up, you know? You helping me out. It turned everything around.",,PaulVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,Feels good to be here. Like I'm finally where I belong. Now what'll it be?,Player Default: Let's see what you've got.,"now owner of the Colonial Taphouse, chipper, upbeat",PaulVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"You drinking, friend?",Player Default: Let's see what you've got.,"now owner of the Colonial Taphouse, chipper, upbeat",PaulVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,What's your poison?,Player Default: Let's see what you've got.,"now owner of the Colonial Taphouse, chipper, upbeat",PaulVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,You're always welcome here. What'll it be?,Player Default: Let's see what you've got.,"now owner of the Colonial Taphouse, chipper, upbeat",PaulVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,Let me pour you a glass.,Player Default: Let's see what you've got.,"now owner of the Colonial Taphouse, chipper, upbeat",PaulVendorScene
+Miscellaneous,Miscellaneous,Hello,,,Come to laugh at a man down on his luck? Huh?,,"private, quiet, glum",
+Miscellaneous,Miscellaneous,Hello,,,Leave me alone. Not looking to make friends.,,"private, quiet, glum",
+Miscellaneous,Miscellaneous,Hello,,,"Get a long day of work ahead of me, if I'm lucky, so beat it.",,"private, quiet, glum",
+Miscellaneous,Miscellaneous,Hello,,,You're bothering me.,,"private, quiet, glum",
+Miscellaneous,Miscellaneous,Hello,,,Got my own problems.,,"private, quiet, glum",
+Scene,SceneDialogue,Custom,,,You son of a bitch!,"DarcyPembroke: Don't hurt him, Henry!",taking a swing at your wife's lover / Angry,MS13IntroFightScene
+Scene,SceneDialogue,Custom,,"HenryCooke: There's no plausible way I could explain to Marowski how I wasn't involved in this - unless I ""die"" here along with everyone else.",Just like that? You're leaving town and never coming back?,HenryCooke: Yeah. You won't be able to blame me for all your problems any more.,Surprised,MS13DivideSpoilsCooke
+Scene,SceneDialogue,Custom,,"HenryCooke: Trust me, Paul. This is all going to work out for the best.",We'll see. You better not be trying to screw me over again.,"HenryCooke: Jesus, Paul. Why would you think that?",Suspicious,MS13CTravelChatterCookePaul
+Scene,SceneDialogue,Custom,,"HenryCooke: Jesus, Paul. Why would you think that?","I know you and Malcolm have been laughing at me for years. ""Poor Paul, why's he such a screw up at everything.""",HenryCooke: What? No. Of course not. I thought we were friends.,Disgust,MS13CTravelChatterCookePaul
+Scene,SceneDialogue,Custom,,HenryCooke: What? No. Of course not. I thought we were friends.,"Yeah, so did I.","HenryCooke: Okay, I deserve that. But you've got it all wrong. This whole thing with Darcy... like I said... it just happened. It wasn't about you, Paul.",bitterly / Depressed,MS13CTravelChatterCookePaul
+Scene,SceneDialogue,Custom,,"HenryCooke: Okay, I deserve that. But you've got it all wrong. This whole thing with Darcy... like I said... it just happened. It wasn't about you, Paul.",I don't want to talk about it any more.,HenryCooke: Whatever you want.,bitterly / Depressed,MS13CTravelChatterCookePaul
+Scene,SceneDialogue,Custom,,,We need to talk.,"PaulPembroke: It's time for you to shut up and listen, Cooke.",Angry,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,,This looks like it. That's Nelson Latimer talking to that ghoul.,"PaulPembroke: Why don't you work your way around these buildings to get a good angle on them. I'll wait for the shooting to start, then join in from here.",quietly - you don't want your voice to carry / Nervous,MS13CAmbushPaul
+Scene,SceneDialogue,Custom,,PaulPembroke: This looks like it. That's Nelson Latimer talking to that ghoul.,"Why don't you work your way around these buildings to get a good angle on them. I'll wait for the shooting to start, then join in from here.",Player Default: Sounds good.,Nervous,MS13CAmbushPaul
+Scene,SceneDialogue,Custom,,Player Default: You first. I'll back you up.,"God dammit, really? Fine. But you better back me up or this isn't going to be much of an ambush.",,quietly - you don't want your voice to carry / Worried,MS13CAmbushPaul
+Scene,SceneDialogue,Custom,,Player Default: You first. I'll back you up.,"No way. There's too many of them for me to take on alone. When you're ready, start shooting and I'll back you up.",,quietly - you don't want your voice to carry / Worried,MS13CAmbushPaul
+Scene,SceneDialogue,Custom,,Player Default: What about Nelson?,If he's smart he'll get the hell out of here when the shooting starts. If he's not... too bad for him.,,with a shrug - you don't care what happens to Nelson / Neutral,MS13CAmbushPaul
+Scene,SceneDialogue,Custom,,,"Now, are we all set?",Player Default: Sounds good.,Question,MS13CAmbushPaul
+Miscellaneous,Miscellaneous,SharedInfo,,,"Great. Then you take the money from Nelson, I'll take the chems and we'll call it even.",,Happy,MS13EDivideSpoils
+Miscellaneous,Miscellaneous,SharedInfo,,,Great. Then we'll each take half the chems.,,Happy,MS13EDivideSpoils
+Miscellaneous,Miscellaneous,SharedInfo,,PaulPembroke: You may as well check Cooke's body. He's probably got money. More than I could pay you.,"Hell, I've got to get out of here. You should too. Before someone walks in here and pins this on us.",,suddenly snapping back to reality from your shock at Cooke's death / Worried,MS13BAfterConfrontationPaul
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: Cooke won't be bothering Darcy any more.,Good! I knew you could handle him.,"PaulPembroke: Oh, and I managed to scrape together what I promised. Here. It was worth it to get Darcy back.",Grateful,MS13BPaulAlone
+Scene,SceneDialogue,Custom,,Player Default: Yeah. I ended up having to kill him.,"Oh. Wow. Well... I guess he had it coming, right?",,Worried,MS13BPaulAlone
+Scene,SceneDialogue,Custom,,,Bastard should have thought of that before he started messing around with my wife.,"PaulPembroke: Anyway... thanks for your help. I'll uh, see you around.",Angry,MS13BPaulAlone
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Yeah. I ended up having to kill him.,Okay. I don't care what you had to do. Just as long as he leaves Darcy alone from now on.,"PaulPembroke: Anyway... thanks for your help. I'll uh, see you around.",Defiant,MS13BPaulAlone
+Scene,SceneDialogue,Custom,,Player Default: What are you going to do now?,Well... start trying to win Darcy back. This was only step one.,"PaulPembroke: Anyway... thanks for your help. I'll uh, see you around.",Concerned,MS13BPaulAlone
+Scene,SceneDialogue,Custom,,PaulPembroke: Good! I knew you could handle him.,"Oh, and I managed to scrape together what I promised. Here. It was worth it to get Darcy back.",PaulPembroke: So... what happened? Did he give you any trouble?,Concerned,MS13BPaulAlone
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Bastard should have thought of that before he started messing around with my wife.,"Anyway... thanks for your help. I'll uh, see you around.",Player Default: Good luck. I hope it all works out.,Nervous,MS13BPaulAlone
+Scene,SceneDialogue,Custom,,"PaulPembroke: Oh, and I managed to scrape together what I promised. Here. It was worth it to get Darcy back.",So... what happened? Did he give you any trouble?,Player Default: Yeah. I ended up having to kill him.,Worried,MS13BPaulAlone
+Scene,SceneDialogue,Custom,,Player Default: Good luck. I hope it all works out.,Thanks.,,Grateful,MS13BPaulAlone
+Scene,SceneDialogue,Custom,,Player Default: Not likely.,Okay. Bye.,,Puzzled,MS13BPaulAlone
+Scene,SceneDialogue,Custom,,Player Default: Bye.,"Yeah, good-bye.",,Grateful,MS13BPaulAlone
+Scene,SceneDialogue,Custom,,Player Default: Good luck. I hope it all works out.,Thanks.,Player Default: Good. I could use some backup for this. The meet is near the Back Street Apparel building.,Grateful,MS13BPaulAloneChemsDeal
+Scene,SceneDialogue,Custom,,Player Default: Nothing.,Okay. Bye.,Player Default: Good. I could use some backup for this. The meet is near the Back Street Apparel building.,Puzzled,MS13BPaulAloneChemsDeal
+Scene,SceneDialogue,Custom,,Player Default: Bye.,"Uh, okay. Bye.",Player Default: Good. I could use some backup for this. The meet is near the Back Street Apparel building.,Puzzled,MS13BPaulAloneChemsDeal
+Scene,SceneDialogue,Custom,,Player Default: Good. I could use some backup for this. The meet is near the Back Street Apparel building.,I know where that is. Let's go.,,Confident,MS13BPaulAloneChemsDeal
+Scene,SceneDialogue,Custom,,Player Default: I just hope you don't screw this up. The meet is near the Back Street Apparel building. Let's go.,Don't worry. This isn't my first rodeo.,,Irritated,MS13BPaulAloneChemsDeal
+Scene,SceneDialogue,Custom,,Player Default: The meet is near the Back Street Apparel building.,"Right, down along the river. Let's do this.",,Confident,MS13BPaulAloneChemsDeal
+Scene,SceneDialogue,Custom,,Player Default: Note says the meet is near the Back Street Apparel building. You know where that is?,"Oh yeah, down along the river. Come on, let's do this.",,Confident,MS13BPaulAloneChemsDeal
+Scene,SceneDialogue,Custom,,,Holy shit.,PaulPembroke: I can't believe it. He's dead.,Suspicious,MS13BAfterConfrontationPaul
+Scene,SceneDialogue,Custom,,PaulPembroke: Holy shit.,I can't believe it. He's dead.,PaulPembroke: You may as well check Cooke's body. He's probably got money. More than I could pay you.,Disbelief,MS13BAfterConfrontationPaul
+Scene,SceneDialogue,Custom,,PaulPembroke: I can't believe it. He's dead.,You may as well check Cooke's body. He's probably got money. More than I could pay you.,"PaulPembroke: Hell, I've got to get out of here. You should too. Before someone walks in here and pins this on us.",Worried,MS13BAfterConfrontationPaul
+Scene,SceneDialogue,Custom,,,Too late.,HenryCooke: Damn fool.,Angry,MS13BConfrontCookeCombat
+Miscellaneous,Miscellaneous,SharedInfo,,HenryCooke: Now that is a very bad idea. You don't want to pull a gun on me unless you intend to use it.,"You think I won't use it? Do I just need to kill you, is that what you're saying?",HenryCooke: Think about what you're doing.,losing control in fury / Angry,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,"Player Default: Let's go. You do the talking, I'll be the intimidating presence.",All right. Come on.,,Confident,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: Let's get this over with.,Okay. Come on.,,Confident,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: This will work better if I talk to Cooke by myself.,"You're probably right. I'm so angry at Cooke, I might lose control.",Player Default: I'll make sure Cooke gets the message.,Angry,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: This will work better if I talk to Cooke by myself.,"I don't think so. Cooke might try to talk his way out of it, and you don't know him like I do.",,Defiant,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,,Let's get this over with. Come on.,,Confident,MS13PaulIntroScene
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: If you're just going to talk to him, why do you need me along?","I don't want to hurt Cooke, but if he doesn't listen to me... I don't know what I might do.",,Angry,MS13PaulIntroScene
+Miscellaneous,Miscellaneous,SharedInfo,,,He won't dare act so smug when he sees you at my back. And then nobody has to get hurt.,,Confident,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,,Let's get this over with. Come on.,,determined / Defiant,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,"Player Default: Paul, put the gun away. Nobody needs to get shot here.",Screw that.,HenryCooke: Hold on. I'm sure we can work this out.,Angry,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,Player Default: Put the guns away before this gets out of hand.,Too late.,"HenryCooke: Wait. I can make this right, Paul.",Angry,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,Player Default: Why don't you see if Cooke is going to listen?,He never listens.,"HenryCooke: I get it, Paul. You've got every right to be pissed off at me. But we can work this out.",Disgust,MS13BConfrontCooke
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: And we're going to relieve Mr. Latimer of some of his money.,"Holy shit, Cooke. Does Malcolm know about this?","HenryCooke: What do you think? No, of course not. Anyway, that's between him and Nelson.",Disbelief,MS13BAfterConfrontation
+Scene,SceneDialogue,Custom,,"HenryCooke: Now you're talking. I promise, you won't regret it. In a few hours we're both going to be sitting pretty.",Good? Hardly. But I don't mind you helping me get rich.,,Suspicious,MS13BAfterConfrontation
+Scene,SceneDialogue,Custom,,Player Default: No. I'm taking all of it as the rest of my payment.,That was never part of the deal!,Player Default: You're right. We'll split it 50-50.,Angry,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: 70-30 seems more like it.,"Yeah, whatever. Screw me over one more time. I guess I should be used to it by now.",,bitterly / Disgust,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,,You can deal with selling the chems then. Give me half of Nelson's money and I guess that's the best I can expect.,Player Default: Works for me. Good luck.,Disgust,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: 70-30 seems more like it.,"Yeah, whatever. Screw me over one more time. I guess I should be used to it by now.",,bitterly / Disgust,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,,"You take four of the crates, I'll take the other two. Then we're done.",Player Default: Works for me. Good luck.,Disgust,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: 70-30 seems more like it.,"No, not this time. 50-50 is fair and that's what we're doing.",,bitterly / Defiant,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,,"You take the money from Nelson, and I'll take the chems.",Player Default: Works for me. Good luck.,Confident,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: 70-30 seems more like it.,"No, not this time. 50-50 is fair and that's what we're doing. We'll each take half the chems.",Player Default: Works for me. Good luck.,bitterly / Defiant,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: What are you going to do with the money?,Now that Cooke is gone... I can buy his house. Darcy can finally be an Upper like she's always wanted.,,Happy,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,,"So, you're fine with 50-50, right?",Player Default: That works for me.,Concerned,MS13EDivideSpoils
+Miscellaneous,Miscellaneous,SharedInfo,,,So it's just the two of us. 50-50 seems fair to me.,Player Default: That works for me.,Friendly,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: Works for me. Good luck.,"Yeah, maybe my luck is finally starting to turn.",,Grateful,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: Works for me. Good luck.,"""Good luck""?... you're a real piece of work. I'm done here.",,Disbelief,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: Works for me. Good luck.,"""Good luck""?... you're a real piece of work. Just make sure you get me the money you owe me and we'll be done with each other.",,Disbelief,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: That doesn't seem fair.,"Sure it is. I have to pay the mayor's cut to bring it in to Diamond City, plus the hassle of getting it there in the first place.",,Defiant,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: That doesn't seem fair.,"Hey, I'm not hassling with the chems for a lousy 30% cut. You got what you wanted, deal with it.",,Defiant,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: That doesn't seem fair.,Now you know what my whole life has felt like.,,Disgust,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: Whatever you want to do.,"Well, good luck. Maybe I'll see you around Diamond City.",,Friendly,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: Whatever you want to do.,I want my money. I know you're good for it.,Player Default: Works for me. Good luck.,Stern,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: Aren't the chems worth more than the money?,"Sure, if you owned a chems shop right here. But I'll have to pay the mayor his cut plus move all this back to town.",,Concerned,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,Player Default: Aren't the chems worth more than the money?,"Screw that. You wanted the bigger cut, so you can deal with the hassle of transporting and selling the chems.",Player Default: Works for me. Good luck.,Defiant,MS13EDivideSpoils
+Scene,SceneDialogue,Custom,,,This was supposed to be Cooke's way of paying for what he'd done to me!,Player Default: You're right. We'll split it 50-50.,Angry,MS13EDivideSpoilsPaulFight
+Scene,SceneDialogue,Custom,,Player Default: You know I'll kill you if you try and stop me.,This has how it's gone all my life. I've been screwed every time I had a chance to make it big.,,Disgust,MS13EDivideSpoilsPaulFight
+Scene,SceneDialogue,Custom,,,I hope you choke on all your damn money.,,Angry,MS13EDivideSpoilsPaulFight
+Scene,SceneDialogue,Custom,,Player Default: You know I'll kill you if you try and stop me.,No. Not again. I've been getting screwed over all my life and this time... fuck it.,,Defiant,MS13EDivideSpoilsPaulFight
+Scene,SceneDialogue,Custom,,Player Default: Why do you need the money so bad?,It's Darcy. I've been nothing but a disappointment to her.,,Depressed,MS13EDivideSpoilsPaulFight
+Scene,SceneDialogue,Custom,,,"When we got married I was rich, young and handsome. Since then... nothing has gone my way.",,Depressed,MS13EDivideSpoilsPaulFight
+Scene,SceneDialogue,Custom,,,"This is my chance to make a new start. With Cooke gone, I can buy his house and we can finally live in the Stands like Darcy's always wanted.",Player Default: You're right. We'll split it 50-50.,Grateful,MS13EDivideSpoilsPaulFight
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I'll make sure Cooke gets the message.,"Good. Don't kill him if you don't have to, but otherwise... I don't care what you do to him. He deserves to suffer for what he's done.",,Angry,MS13PaulIntroAlone
+Scene,SceneDialogue,Custom,,Player Default: Don't worry. I'll make him suffer.,"Good. I hope you don't have to kill him, but you can make it as painful as you want. He deserves whatever he gets.",,Angry,MS13PaulIntroAlone
+Scene,SceneDialogue,Custom,,Player Default: How far do you want me to go?,"As far as you need to. I don't want him dead, but otherwise... He deserves to suffer for what he's done.",,Angry,MS13PaulIntroAlone
+Scene,SceneDialogue,Custom,,,Just get him to leave Darcy alone.,Player Default: I'll make sure Cooke gets the message.,Angry,MS13PaulIntroAlone
+Scene,SceneDialogue,Custom,,,"Come on, Darcy! Let's go!",HenryCooke: Take it easy. I don't think she wants to leave just yet.,angry and agitated / Angry,MS13IntroScene
+Scene,SceneDialogue,Custom,,HenryCooke: Hold on. I'm sure we can work this out.,Keep talking.,Companion: This is borin'... somebody do somethin' already!,Suspicious,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,"HenryCooke: Look, I'll, uh, I'll stay away from Darcy from now on. It's over. You have my word on that.","Your word? What's your fucking word worth, huh?",HenryCooke: I'll make it up to you! I know a way to get a lot of money. Right now.,Angry,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,"HenryCooke: If you were flush again, everything would be different. Besides, I owe you. For what I've done.",Well... what do you think?,Player Default: Sounds like a win-win to me.,asking the player for her opinion / Thinking,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,"HenryCooke: Jesus, Paul, what now?","It's time for you to shut up and listen, Cooke.",HenryCooke: What the hell is this? And what are you doing here?,Defiant,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,Player Default: I'm not with him. Just looking for a drink.,What?!,,shocked surprise / Disbelief,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,,Well thanks for nothing. Should have known better than to trust you.,HenryCooke: Good answer.,Disgust,MS13BConfrontCooke
+Scene,SceneDialogue,Custom,,"HenryCooke: Well, I'm listening Paul. What do you have to say this time?","Just this. You leave Darcy alone, starting now. Or else.",HenryCooke: Now that is a very bad idea. You don't want to pull a gun on me unless you intend to use it.,Angry,MS13BConfrontCooke
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: Go ahead, I'm listening.","You were in the Taphouse before, when...",Player Default: You and the bartender got in a fight.,stop talking - embarrassed to go on / Depressed,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Wait, just hear me out. I'll make it worth your while.",,Pleading,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,,"You were in the Taphouse before, when...",Player Default: You and the bartender got in a fight.,stop talking - embarrassed to go on / Depressed,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: You and the bartender got in a fight.,Nice of you to call it a fight. But we both know what really happened. Cooke kicked my ass.,PaulPembroke: I'm supposed to pretend I don't know he's sleeping with my wife.,bitterly / Disgust,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: You got your ass kicked by your wife's lover.,"Yeah. Pretty pathetic, right?","PaulPembroke: Guy's sleeping with my wife, and I can't even do anything about it.",Disgust,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: You got beaten up by the bartender.,"Yeah. Good old Henry Cooke, everybody's best pal. Especially Darcy's.",PaulPembroke: I'm supposed to pretend I don't know he's sleeping with her. Until he decides he's bored with her and she comes crawling back home to me.,Disgust,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: You tried to punch out the bartender. What was that all about?,I thought it was dead obvious. Cooke is sleeping with my wife.,,Depressed,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,,And I'm supposed to just pretend I don't know. Until Cooke decides he's bored with her and she comes crawling back home to me.,Player Default: Sounds like a tough situation.,Disgust,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: Nice of you to call it a fight. But we both know what really happened. Cooke kicked my ass.,I'm supposed to pretend I don't know he's sleeping with my wife.,,Disgust,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,,Until he decides he's bored with her and she comes crawling back home to me.,Player Default: Sounds like a tough situation.,Disgust,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,"Player Default: Yeah. Pretty pathetic, right?","Guy's sleeping with my wife, and I can't even do anything about it.",Player Default: Sounds like a tough situation.,Disgust,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,"Player Default: Yeah. Good old Henry Cooke, everybody's best pal. Especially Darcy's.",I'm supposed to pretend I don't know he's sleeping with her. Until he decides he's bored with her and she comes crawling back home to me.,Player Default: Sounds like a tough situation.,Disgust,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: Sounds like a tough situation.,You don't know the half of it. But I'm not just going to sit here and let Cooke steal my wife and destroy my family.,PaulPembroke: I'm going to go back and talk to him. And I want you to come with me.,Angry,MS13PaulIntroScene
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: Everybody's got their problems, pal.","No, I need your help. I'll... I'll pay you. I've got some money, and I can get more.",PaulPembroke: I'm going to go back and talk to him. And I want you to come with me.,Pleading,MS13PaulIntroScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: So where do I come in?,I'm going to go back and talk to him. And I want you to come with me.,,Defiant,MS13PaulIntroScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"You saw, he won't take me seriously otherwise. I don't want to have to really hurt him, I just want him to leave Darcy alone.",Player Default: Okay. I'll help you.,Angry,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: Okay. I'll help you.,"Okay, good. Good. I'm sure Cooke will back down once he sees you're with me.","Player Default: Let's go. You do the talking, I'll be the intimidating presence.",relieved / Grateful,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: Still not interested.,I don't know why I expected you to help me.,"Player Default: Let's go. You do the talking, I'll be the intimidating presence.",Depressed,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: You're going to have to make it worth my while.,"Uh. Well... okay. I can only pay you 80 caps right now, but I'll scrape together more after we take care of Cooke.","Player Default: Let's go. You do the talking, I'll be the intimidating presence.",Worried,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,Player Default: You're going to have to make it worth my while.,"I mean, I can pay you, but I've only got 80 caps. Sorry, I hope it's enough.",Player Default: Okay. I'll help you.,Worried,MS13PaulIntroScene
+Scene,SceneDialogue,Custom,,HenryCooke: Take it easy. I don't think she wants to leave just yet.,This is between me and my wife!,,"heatedly - ""my wife"" is pointed reminder to Cooke / Angry",MS13IntroScene
+Scene,SceneDialogue,Custom,,,Why don't you mind your own damn business for once?,"DarcyPembroke: God, Paul, why do you always have to make a scene?",Angry,MS13IntroScene
+Scene,SceneDialogue,Custom,,"DarcyPembroke: Pour me another drink, Henry.","Dammit, Darcy, I just want you to come home.",DarcyPembroke: I'll be home. Later.,Pleading,MS13IntroScene
+Scene,SceneDialogue,Custom,,DarcyPembroke: I'll be home. Later.,"I can't believe you'd do this to me, Cooke.","HenryCooke: Do what to you, Paul?",with barely contained anger / Angry,MS13IntroScene
+Scene,SceneDialogue,Custom,,HenryCooke: Go on. Get out of here.,"I'll be at home, Darcy. Taking care of our son.",,completely humiliated after being beaten up by your wife's lover / Depressed,MS13IntroAfterFight
+Scene,SceneDialogue,Custom,,"HenryCooke: Do what to you, Paul?","You smug bastard. You keep away from my wife, godammit!",HenryCooke: You'd better get out of here. Before you do something stupid.,Angry,MS13IntroScene
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, here you go.",Least you could do. You already screwed me out of what was rightfully mine.,,Irritated,MS13EDivideSpoilsPayPaul
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, here you go.",I'm getting tired of your excuses.,,Irritated,MS13EDivideSpoilsPayPaul
+Scene,SceneDialogue,Custom,,Player Default: Not yet.,Unbelievable.,,Disgust,MS13EDivideSpoilsPayPaul
+Scene,SceneDialogue,Custom,,Player Default: I need more time.,I'm getting tired of waiting for what's rightfully mine.,,Irritated,MS13EDivideSpoilsPayPaul
+Scene,SceneDialogue,Custom,,Player Default: What do I owe you again?,"You're something else. 500 caps, remember? The crumbs you left me from the Latimer ambush.","Player Default: Yeah, here you go.",rolling your eyes in disgust / Disbelief,MS13EDivideSpoilsPayPaul
+Combat,Combat,Taunt,,,"Come on, Cooke! Now you can kill me and say it was my fault!",,Angry,
+Combat,Combat,Taunt,,,"This is what you deserve, Cooke!",,Angry,
+Combat,Combat,Taunt,,,You backstabbing bastard!,,Angry,
+Combat,Combat,Taunt,,,"You had to rub my face in it, didn't you?",,Angry,
+Combat,Combat,Taunt,,,I'm not going to be pushed around any more!,,Angry,
+Detection,Detection,CombatToNormal,,,Is it over?,,,
+Miscellaneous,Miscellaneous,Greeting,,,Have you got my money yet?,"Player Default: Yeah, here you go.",Suspicious,MS13EDivideSpoilsPayPaul
+Miscellaneous,Miscellaneous,Greeting,,,What is it?,Player Default: Good luck. I hope it all works out.,hopefully / Question,MS13BPaulAloneChemsDeal
+Miscellaneous,Miscellaneous,Greeting,,,"Did you change your mind? I swear, I'll pay you for your help.",Player Default: Okay. I'll help you.,hopefully / Pleading,MS13PaulIntroScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey. You there. I, uh... I have a question for you.","Player Default: Go ahead, I'm listening.",tentatively / Nervous,MS13PaulIntroScene
+Miscellaneous,Miscellaneous,Greeting,,,I still need to ask you something.,"Player Default: Go ahead, I'm listening.",tentatively / Pleading,MS13PaulIntroScene
+Miscellaneous,Miscellaneous,Greeting,,,Will you help me talk to Cooke? Get him to leave my wife alone?,Player Default: Okay. I'll help you.,hopefully / Pleading,MS13PaulIntroScene
+Miscellaneous,Miscellaneous,SceneChoice,,,"If you think it's a good idea, I'm in. Cooke owes me, big time.",,Defiant,
+Miscellaneous,Miscellaneous,SceneChoice,,,Oh yeah. I'm in. It's about time my luck started turning around.,,Grateful,
+Miscellaneous,Miscellaneous,SceneChoice,,,I don't know. Things just got... crazy. I can't believe he's actually dead.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,Did you... talk to Cooke?,,hopefully / Nervous,
+Miscellaneous,Miscellaneous,Hello,,,Let's do this.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,"I'll, uh, back you up. Don't worry.",,the player should be worried - you're not inspiring a lot of confidence / Worried,
+Miscellaneous,Miscellaneous,Hello,,,I know where we're headed. Just follow me.,,Confident,
+Miscellaneous,Miscellaneous,Hello,,,It's not too far. Come on.,,Confident,
+Miscellaneous,Miscellaneous,Hello,,,It wasn't supposed to happen this way.,,Somber,
+Miscellaneous,Miscellaneous,Hello,,,Come on. I want to get this over with.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,Leave me alone!,,Depressed,
+Miscellaneous,Miscellaneous,Hello,,,"Oh, great. It's you.",,Depressed,
+Miscellaneous,Miscellaneous,Hello,,,Here to find a new way to ruin my life?,,Angry,
+Miscellaneous,Miscellaneous,Hello,,,What do you want?,,Angry,
+Miscellaneous,Miscellaneous,Hello,,,"It's a shame about... you know. But, he had it coming I guess.",,Somber,
+Miscellaneous,Miscellaneous,Hello,,,My life's really turned around since our little adventure.,,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,"Everything worked out for the best, didn't it?",,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,"Hey, how are you doing?",,Happy,
+Miscellaneous,Miscellaneous,Hello,,,Luck's a fickle thing. Gotta hold onto to it when it comes.,,,
+Miscellaneous,Miscellaneous,Hello,,,Man has to fight for what's his. Only rule I ever stuck by.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Eh, I think you've listened to me drone on enough.",,,
+Scene,SceneDialogue,Custom,,"Darcy: Paul, where are you going?",Nowhere you need to worry about.,Darcy: Whatever. I'll see you at home.,Defiant,MS13DarcyPaulHelloScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Yes? Are you still thinking about it?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,It's fine. I'm not busy.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Uh...,,,
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, Colette. I talked to her.",What did you tell her?,Player Default: I told her he left town.,Worried,MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,Player Default: I don't know what you're talking about.,"I'm sure she'll track you down eventually. Her name is Colette. Says she's Cooke's daughter, for god's sake.","PaulPembroke: The question is, what are we going to do about her?",Worried,MS13CookeDiesPaulIntro
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I can't remember.,"You can't be serious. She's asking everybody in town about Cooke. Says she's his daughter, for god's sake.","PaulPembroke: The question is, what are we going to do about her?",Disbelief,MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,Player Default: What woman?,"Colette. Says she's Cooke's daughter. I didn't even know he had a daughter, but I guess it's not surprising.","Player Default: Yeah, Colette. I talked to her.",Worried,MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,"Player Default: I'm sure she'll track you down eventually. Her name is Colette. Says she's Cooke's daughter, for god's sake.","The question is, what are we going to do about her?",Player Default: Stay calm. There's no need to panic.,"in half a whisper, afraid of being overheard / Worried",MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,Player Default: I told her he left town.,Good. I hope she believed you. She seemed pretty dangerous.,,Relieved,MS13CookeDiesPaulTalkedToColette
+Scene,SceneDialogue,Custom,,Player Default: I told her he left town.,"Oh. Well, I, uh... I guess that means I don't have to worry about her coming after me, one way or another.",,Relieved,MS13CookeDiesPaulTalkedToColette
+Scene,SceneDialogue,Custom,,Player Default: I told her he left town.,What did you do that for? Now she'll really be riled up.,,Disbelief,MS13CookeDiesPaulTalkedToColette
+Scene,SceneDialogue,Custom,,Player Default: I told her he left town.,What did you do that for? Now she'll really be riled up. How do you know she won't just come and kill us both?,Player Default: She's not going to come kill us.,Afraid,MS13CookeDiesPaulTalkedToColette
+Scene,SceneDialogue,Custom,,Player Default: I told her he left town.,"Well, okay. I'm not sure what to do. Seems like she thinks I had something to do with it. I don't like it. She seems pretty dangerous.",,Worried,MS13CookeDiesPaulTalkedToColette
+Scene,SceneDialogue,Custom,,"Player Default: Don't worry, I didn't tell her anything.","That's good for now. But, what if she keeps digging? She might eventually decide one of us is to blame.",,Worried,MS13CookeDiesPaulTalkedToColette
+Scene,SceneDialogue,Custom,,Player Default: She's not going to come kill us.,I hope you're right. I really do.,,Concerned,MS13CookeDiesPaulScared
+Scene,SceneDialogue,Custom,,Player Default: She's not going to come kill us.,I'd like to believe that. But what if you're wrong? I have my family to protect.,,Worried,MS13CookeDiesPaulScared
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Maybe we should kill her first.,My god... that seems... drastic.,,Afraid,MS13CookeDiesPaulScared
+Miscellaneous,Miscellaneous,SharedInfo,,,I don't want to say you should... but if you felt you had to... I'd support your decision.,,Nervous,MS13CookeDiesPaulScared
+Miscellaneous,Miscellaneous,SharedInfo,,,You do what you think is best. I trust you'll make the right call.,,Nervous,MS13CookeDiesPaulScared
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Maybe we should kill her first.,"No, no. We can't do that. She hasn't actually done anything. I just think we should be on our guard.",,Afraid,MS13CookeDiesPaulScared
+Miscellaneous,Miscellaneous,SharedInfo,,,"She'll eventually give up and leave, and then everything will be back to normal.",,Worried,MS13CookeDiesPaulScared
+Scene,SceneDialogue,Custom,,"Player Default: You worry too much, Paul.",I don't think so. She seems like a very dangerous person. Possibly irrational.,,Worried,MS13CookeDiesPaulScared
+Scene,SceneDialogue,Custom,,Player Default: Why do you think she wants to kill us?,Cooke was her father! We killed him! If she finds out... she seems like a very dangerous person.,,Afraid,MS13CookeDiesPaulScared
+Scene,SceneDialogue,Custom,,Player Default: Why do you think she wants to kill us?,"Cooke was her father! If she gets it into her head that you or I was somehow responsible for his death, who knows what she'll do?",,Worried,MS13CookeDiesPaulScared
+Scene,SceneDialogue,Custom,,Player Default: Stay calm. There's no need to panic.,Easy for you to say. I have my family to think about. I'll just to have to deal with her myself.,,Worried,MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,Player Default: Stay calm. There's no need to panic.,"You're probably right. Nothing to worry about yet. She'll give up, leave town, and everything will be fine.",,Relieved,MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,Player Default: The simple solution is just to kill her.,You're right. It's the only way to protect ourselves. Who should do it - you or me?,Player Default: I'll do it.,Worried,MS13CookeDiesPaulIntro
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I don't care what you do.,You're no help. I'll have to take care of this myself. I have to protect my family.,,Defiant,MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,Player Default: I don't care what you do.,"If you won't help, then... well, I have to protect my family.",,Worried,MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,Player Default: I don't care what you do.,You're no help at all.,,Disgust,MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,Player Default: What do you think we should do?,"I don't think we have much of a choice at this point. It's her or us. The only question is, who should do it?",Player Default: I'll do it.,Worried,MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,Player Default: What do you think we should do?,I don't know. That's why I came to you. I thought you might know what to do.,Player Default: Stay calm. There's no need to panic.,Worried,MS13CookeDiesPaulIntro
+Scene,SceneDialogue,Custom,,Player Default: I'll do it.,"Good. I mean... that's probably the best idea. I, uh... good luck.",,stumbling with relief that you don't have to kill someone / Relieved,MS13CookeDiesPaulWhoShouldKill
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I'm not doing it. You do whatever you want.,"Okay, if you won't help, I will do it. I'm not afraid anymore.",,Defiant,MS13CookeDiesPaulWhoShouldKill
+Scene,SceneDialogue,Custom,,Player Default: Who do you think should do it?,"I mean, I not a violent person. So... just from the standpoint of who's more likely to succeed... I think it should be you.",Player Default: I'll do it.,Nervous,MS13CookeDiesPaulWhoShouldKill
+Miscellaneous,Miscellaneous,Greeting,,,Have you run into that woman looking for Cooke?,"Player Default: Yeah, Colette. I talked to her.",Worried,MS13CookeDiesPaulIntro
+Combat,Combat,Attack,,,Grrargh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Aggghh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Nyyarrggh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Rrarggh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Yearrgh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Hyargh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Bash,,,Hunh!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Gah!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Yah!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Rargh!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,BleedOut,,,*heavy breathing* *cough cough*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,BleedOut,,,Oof! *heavy breathing*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,BleedOut,,,Agh! *cough* *wheeze*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,Block,,,Gah!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Nargh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Unf!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Grrh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Nnh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Death,,,Agh.,,InPain,
+Combat,Combat,Hit,,,Argh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Weergh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Yeagh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Nargh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Oof!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Agh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,PowerAttack,,,Aaaayyyaarrrrgghh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,PowerAttack,,,Yyyaaaarrgghh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,PowerAttack,,,Rrrraaaaarrggghhhh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,Taunt,,,A little help over here!,,Worried,
+Combat,Combat,Taunt,,,I'm not going down without a fight.,,Angry,
+Combat,Combat,Taunt,,,I think I hit one of them.,,Impressed,
+Combat,Combat,Taunt,,,"Oh, hell. I don't think we can win this.",,Afraid,
+Combat,Combat,Taunt,,,There's too many of them.,,Afraid,
+Detection,Detection,AlertToCombat,,,I thought so.,,Angry,
+Detection,Detection,AlertToCombat,,,Over here!,,Worried,
+Detection,Detection,AlertToCombat,,,Found you.,,Angry,
+Detection,Detection,AlertToNormal,,,Hmm. Oh well.,,Puzzled,
+Detection,Detection,AlertToNormal,,,I guess it was nothing.,,Relieved,
+Detection,Detection,AlertToNormal,,,Maybe I was imagining things.,,Worried,
+Detection,Detection,CombatToLost,,,I lost 'em.,,Worried,
+Detection,Detection,CombatToLost,,,Where'd they go?,,Worried,
+Detection,Detection,CombatToLost,,,Does anybody see them?,,Worried,
+Detection,Detection,CombatToNormal,,,Is it over?,,Relieved,
+Detection,Detection,CombatToNormal,,,I'm glad that's over.,,Relieved,
+Detection,Detection,CombatToNormal,,,I think I'm okay.,,reassuring yourself / Relieved,
+Detection,Detection,LostToCombat,,,Oh shit.,,Worried,
+Detection,Detection,LostToCombat,,,Found 'em.,,Worried,
+Detection,Detection,LostToCombat,,,You could have just run for it.,,Worried,
+Detection,Detection,NormalToAlert,,,I think I heard something.,,Concerned,
+Detection,Detection,NormalToAlert,,,Did you see that?,,Worried,
+Detection,Detection,NormalToAlert,,,What was that?,,Concerned,
+Detection,Detection,NormalToCombat,,,I can do this.,,Worried,
+Detection,Detection,NormalToCombat,,,"Oh shit, look out.",,Worried,
+Detection,Detection,NormalToCombat,,,Get them!,,Angry,

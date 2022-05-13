@@ -1,0 +1,34 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Combat,Combat,Death,,,Aaahh...,,"Player just killed you, but you're at peace with your death, being united with the dark entity you believe in. / InPain",
+Combat,Combat,Hit,,,I'll give you that one.,,Player hit you in combat. / SinisterSmile,
+Combat,Combat,Hit,,,Lucky shot.,,Player hit you in combat. / SinisterSmile,
+Combat,Combat,Hit,,,Shit.,,Player hit you in combat. / InPain,
+Combat,Combat,Taunt,,,I'm going to make a nice wall hanging out of you.,,Taunting the player in combat. / SinisterSmile,
+Combat,Combat,Taunt,,,It's better up close and personal.,,Taunting the player in combat. / SinisterSmile,
+Combat,Combat,Taunt,,,Killing you is going to make my day.,,Taunting the player in combat. / SinisterSmile,
+Detection,Detection,NormalToCombat,,,Right then.,,Starting combat. Eager. / SinisterSmile,
+Detection,Detection,NormalToCombat,,,This won't take long.,,Starting combat. Eager. / SinisterSmile,
+Detection,Detection,NormalToCombat,,,This is going to be good.,,Starting combat. Eager. / SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,Heh. Don't look like much to me. You want to talk? Talk to Nisha.,,Concerned,
+Miscellaneous,Miscellaneous,Hello,,,I guess you're all right.,,Grumbling. Hates being nice to the player. / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,You pulled it off. Don't let it go to your head.,,Grumbling. Hates being nice to the player. / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"Yeah, yeah. Good job and whatever.",,Grumbling. Hates being nice to the player. / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"Disciples on top, huh? Better not be some trick.",,"Player is favoring them, but he doesn't trust the player. / Irritated",
+Miscellaneous,Miscellaneous,Hello,,,Trying to butter up Nisha? It won't work.,,"Player is favoring them, but he doesn't trust the player. / Irritated",
+Miscellaneous,Miscellaneous,Hello,,,Just because you throw us some scraps doesn't mean I have to like you.,,"Player is favoring them, but he doesn't trust the player. / Irritated",
+Miscellaneous,Miscellaneous,Hello,,,Still trying to figure you out.,,Suspicious,
+Miscellaneous,Miscellaneous,Hello,,,I'm watching you.,,Suspicious,
+Miscellaneous,Miscellaneous,Hello,,,One. Wrong. Move. Just try me.,,Suspicious,
+Miscellaneous,Miscellaneous,Hello,,,The only thing keeping me from ripping your throat out is Nisha.,,Hates the player. / Angry,
+Miscellaneous,Miscellaneous,Hello,,,Walk away.,,Hates the player. / Angry,
+Miscellaneous,Miscellaneous,Hello,,,"Next time I see you, I hope I'm gouging those eyes out.",,Hates the player. / Angry,
+Miscellaneous,Miscellaneous,Hello,,,Goddamn Operator scumbags.,,Grumbling to himself. / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"Those Pack-holes even look at me wrong, they're dead.",,Grumbling to himself. / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,I could really go for killing someone right about now.,,Grumbling to himself. / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,So sick of Nuka-Cola.,,Grumbling to himself. / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"Swear to God, I'll kill them all.",,Grumbling to himself. / Irritated,
+Scene,SceneDialogue,Custom,,,No way. Too many things I don't trust around here right now.,"Disciple: Damn, you're right. Might get more action just sticking around here.",Concerned,DLC04ConvDiscipleSavoyScene
+Scene,SceneDialogue,Custom,,,Why? You screw something up?,"Disciple: Damn, you're right. Might get more action just sticking around here.",Suspicious,DLC04ConvDiscipleSavoyScene
+Scene,SceneDialogue,Custom,,,"Good, this is just what I wanted.","Disciple: Damn, you're right. Might get more action just sticking around here.",Slightly grateful. / Neutral,DLC04ConvDiscipleSavoyScene
+Scene,SceneDialogue,Custom,,Dixie: What about you big guy? Nothing to say on the matter?,As long as he doesn't get in my way... don't much care.,"Dixie: Yeah, figured as much.",Neutral,DLC04DialogueRaiderDiscipleScenes_Intro
+Scene,SceneDialogue,Custom,,Dixie: What about you big guy? Nothing to say on the matter?,As long as she doesn't get in my way... don't much care.,"Dixie: Yeah, figured as much.",Neutral,DLC04DialogueRaiderDiscipleScenes_Intro

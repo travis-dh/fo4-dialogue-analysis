@@ -1,0 +1,72 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,No worries.,,,SolomonGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,That's cool.,,,SolomonGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,You do your thing.,,,SolomonGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Cool cool.,,,SolomonGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Lemme know if that changes.,,,SolomonGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Actually, I think I have something already.","Well, all right! Here's your payment. This plant's gonna be great to cook with.",,Happy,SolomonQuestScene
+Scene,SceneDialogue,Custom,,"Player Default: Actually, I think I have something already.",Cool.,,,SolomonQuestScene
+Scene,SceneDialogue,Custom,,Player Default: Fern collecting? No thanks.,Ah... that's too bad. Oh well.,,,SolomonQuestScene
+Scene,SceneDialogue,Custom,,"Player Default: Sweeten the deal with some money, and I might be interested.","All right, how about 125 caps?","Player Default: Actually, I think I have something already.",,SolomonQuestScene
+Scene,SceneDialogue,Custom,,"Player Default: Sweeten the deal with some money, and I might be interested.",You are one righteous talker. 150 caps.,"Player Default: Actually, I think I have something already.",,SolomonQuestScene
+Scene,SceneDialogue,Custom,,"Player Default: Sweeten the deal with some money, and I might be interested.",200. That's all I can pay. I swear.,"Player Default: Actually, I think I have something already.",negotiating price,SolomonQuestScene
+Scene,SceneDialogue,Custom,,"Player Default: Sweeten the deal with some money, and I might be interested.",You strong-arming me? That ain't cool. 100 caps. That's all you'll get.,"Player Default: Actually, I think I have something already.",Stern,SolomonQuestScene
+Scene,SceneDialogue,Custom,,Player Default: What did you need again?,Mutated Fern. Hear it's dynamite for making radiation meds. You interested?,"Player Default: Actually, I think I have something already.",,SolomonQuestScene
+Scene,SceneDialogue,Custom,,Player Default: Can I put this on my charge card?,"Hey, I know money's kind of an imaginary thing anyway, but that card is like... way more imaginary than I'm comfortable with.","Solomon: Hey, I know money's kind of an imaginary thing anyway, but that card is like... way more imaginary than I'm comfortable with.","player is trying to pay with a ""charge card"" - it looks like a worthless piece of plastic / Puzzled",SolomonGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Did you say something about drugs?,That's right. All the chems you need to fill out your lifestyle. Balance you out.,,slightly stoned,SolomonGreetScene
+Scene,SceneDialogue,Custom,,,"Everyone here buys from me. Sometimes security needs a little Psycho, or an engineer needs some Mentats. And heck, Rad-X is plain universal.","Solomon: Hey, I know money's kind of an imaginary thing anyway, but that card is like... way more imaginary than I'm comfortable with.",slightly stoned,SolomonGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Got your fix.,,showing your wares,SolomonGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Self-served medicine.,,showing your wares,SolomonGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Every chem for every need.,,showing your wares,SolomonGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Chems for a balanced lifestyle.,,showing your wares,SolomonGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Check it out.,,showing your wares,SolomonGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: Looking for a job, if you got one.","Yeah, I got something. Looking for a Mutated Fern if you find any.",,player asks if you have any work,SolomonGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,I hear some grows out near Forest Grove Marsh. Natural radiation sucker. Be great for cooking RadX or RadAway.,"Player Default: Actually, I think I have something already.",slightly stoned,SolomonGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Looking for a job, if you got one.",You reconsider getting that Mutated Fern for me?,"Player Default: Actually, I think I have something already.",,SolomonGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Looking for a job, if you got one.",Sounds good.,,,SolomonGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Looking for a job, if you got one.",That's right. Take it slow.,,,SolomonGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Looking for a job, if you got one.",Cool. I'll be here.,,,SolomonGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Looking for a job, if you got one.",Sure. Hit me up later.,,,SolomonGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Looking for a job, if you got one.",That's fine.,,,SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Now, I don't mean to be a drag, but I got a business here.",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Anyway, I got a store to run. Let's talk shop.",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Back to the matter at hand, though. Chems.",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Thanks again for the fern. Plants like that are hard to come by. Now, you here to pickup some chems?",,,
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, it's the fern collector. Thanks again. You buyin'?",Player Default: Let's see what you've got.,Happy,SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Got chems, right here for you, sister.",Player Default: Let's see what you've got.,slightly stoned,SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Got chems right here for you, brother.",Player Default: Let's see what you've got.,slightly stoned,SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Hey man. Got a lot of chems here if you need something to help you relax.,Player Default: Let's see what you've got.,slightly stoned,SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Prescriptions filled, right here. Anything you need.",Player Default: Let's see what you've got.,slightly stoned,SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Got everything you could need. Med-X, Mentats, whatever.",Player Default: Let's see what you've got.,slightly stoned,SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,You look like you need a prescription filled. Something to settle your nerves. Let you chill.,Player Default: Let's see what you've got.,slightly stoned,SolomonGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Got a pick-me-up if you're feeling glum.,Player Default: Let's see what you've got.,slightly stoned,SolomonGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,That's right. Just relax. Chill out.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Take all the time you need, brother.",,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Take all the time you need, sister.",,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Yeah. Just breathe in and breathe out...,,,
+Miscellaneous,Miscellaneous,Idle,,,Prescriptions filled! High-quality chems right here!,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Chem-I-Care cares about you! All your medicinal needs.,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,"Mentats, Buffout, Stimpaks, Jet! Everything to even you out.",,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Don't let the stress of life kill ya! Relax with some chems.,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,"Self-prescribed chems! As recommended by me, myself, and I.",,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Hello,,,"Everyone in this city's always jumping at shadows. Chill out, is what I say.",,"off work, hanging out",
+Miscellaneous,Miscellaneous,Hello,,,"You gotta accept life on its terms, you know? Something bad happens, just say ""yes"" to it.",,"off work, hanging out",
+Miscellaneous,Miscellaneous,Hello,,,I believe in the Chem lifestyle. We all got problems. Why not balance that out with some prescriptions?,,"off work, hanging out",
+Miscellaneous,Miscellaneous,Hello,,,Stay cool.,,"off work, hanging out",
+Scene,SceneDialogue,Custom,,Player Default: Found the plant. Here you go.,"All right. Here's your payment, plus some samples from the pharmacy. Don't take 'em all at once, now. Moderation.",,Happy,FFDiamondCity03ReturnScene
+Scene,SceneDialogue,Custom,,"Player Default: Haven't gotten to it yet, Solomon.",That's too bad. Oh well.,,Depressed,FFDiamondCity03ReturnScene
+Scene,SceneDialogue,Custom,,Player Default: I'll get back to you.,All right.,,,FFDiamondCity03ReturnScene
+Scene,SceneDialogue,Custom,,Player Default: What did you need again?,Mutated Fern. Hear it's dynamite for making radiation meds. Did you find some?,Player Default: Found the plant. Here you go.,,FFDiamondCity03ReturnScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, you find any Mutated Fern for me? Got a lot of plans for that plant.",Player Default: Found the plant. Here you go.,,FFDiamondCity03ReturnScene
+Miscellaneous,Miscellaneous,Greeting,,,You find that fern? Should be easy to spot.,Player Default: Found the plant. Here you go.,,FFDiamondCity03ReturnScene
+Miscellaneous,Miscellaneous,Greeting,,,"Got something green for me, man? And by green, I mean, mutated and glowing.",Player Default: Found the plant. Here you go.,,FFDiamondCity03ReturnScene
+Miscellaneous,Miscellaneous,Hello,,,"Good luck finding that Mutated Fern, man.",,,
+Scene,SceneDialogue,Custom,,"GenericNPC: Hey, Solomon, you got anything to help me, you know, impress someone?","Trying your hand at the game of love, maybe? Ah, don't answer that. Your business.",,,ConvDiamondCityGenericSolomon02Scene
+Scene,SceneDialogue,Custom,,,"You crush some Mentats in with your coffee in the morning, it'll help loosen the language centers in your brain. Lower anxiety.",,,ConvDiamondCityGenericSolomon02Scene
+Scene,SceneDialogue,Custom,,,"Whoever you're trying to win over, a good regimen of those little red pills will keep your prepared when the time comes.",GenericNPC: Huh. Interesting.,,ConvDiamondCityGenericSolomon02Scene
+Scene,SceneDialogue,Custom,,,"Hey, you're looking a little sluggish today. You feeling all right?","GenericNPC: Yeah, I don't know what it is, but I just can't seem to get going today.",,ConvDiamondCityGenericSolomon01Scene
+Scene,SceneDialogue,Custom,,"GenericNPC: Yeah, I don't know what it is, but I just can't seem to get going today.","You gotta balance out the chemistry in your life. You work too hard, for example, that causes the whole body to slow down.",GenericNPC: Really?,,ConvDiamondCityGenericSolomon01Scene
+Scene,SceneDialogue,Custom,,GenericNPC: Really?,Oh yeah. Work's a real downer. You need to add a little pick-me-up in your diet to even it out.,,,ConvDiamondCityGenericSolomon01Scene
+Scene,SceneDialogue,Custom,,,"You mix a little Jet into your meals every day, your whole body will feel lifted right up.",GenericNPC: Thanks.,,ConvDiamondCityGenericSolomon01Scene
+Miscellaneous,Miscellaneous,Greeting,,,Whoa. Something heavy is going down...,,"a man has another man at gunpoint, you're in the crowd watching / Nervous",
+Miscellaneous,Miscellaneous,Greeting,,,Can't believe that happened. It's totally ruined the mood out here...,,"the police just shot a crazed gunman, you're closing your store / Nervous",

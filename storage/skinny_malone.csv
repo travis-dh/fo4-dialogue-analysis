@@ -1,0 +1,59 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,Hello,,,You got till I count 10. Now beat it.,,you've decided to let Nick Valentine and the player go / Angry,
+Miscellaneous,Miscellaneous,Hello,,,Don't push your luck! Go!,,you've decided to let Nick Valentine and the player go / Angry,
+Miscellaneous,Miscellaneous,Hello,,,You get out of here. Now.,,you've decided to let Nick Valentine and the player go / Angry,
+Miscellaneous,Miscellaneous,Hello,,,Better leave before I forget my generous nature.,,you've decided to let Nick Valentine and the player go / Angry,
+Miscellaneous,Miscellaneous,Hello,,,Get lost!,,you've decided to let Nick Valentine and the player go / Angry,
+Miscellaneous,Miscellaneous,Hello,,,"If I were you, I'd run. Fast.",,Skinny Malone has given the player 10 seconds to leave before he starts shooting,
+Miscellaneous,Miscellaneous,Hello,,,What are you doin'? Get goin' before the boss changes his mind!,,Skinny Malone has given the player 10 seconds to leave before he starts shooting,
+Miscellaneous,Miscellaneous,Hello,,,You heard the boss. Get lost!,,Skinny Malone has given the player 10 seconds to leave before he starts shooting,
+Scene,SceneDialogue,Custom,,,How the hell did you know about that?,,player knows a part of your past you've never told anyone / Surprised,007_MQ104_NickSkinny03
+Scene,SceneDialogue,Custom,,,Okay. You two can go. You got until the count of ten. Then I don't care what happened back in the old days. You're dead.,"MobsterGirl: What are you doin', Skinny? Kill 'em!",Stern,007_MQ104_NickSkinny03
+Scene,SceneDialogue,Custom,,,One...,,"angry, counting down before you open fire",009_MQ104_SkinnyMaloneCountdown
+Scene,SceneDialogue,Custom,,,Two...,,"angry, counting down before you open fire",009_MQ104_SkinnyMaloneCountdown
+Scene,SceneDialogue,Custom,,,Three...,,"angry, counting down before you open fire",009_MQ104_SkinnyMaloneCountdown
+Scene,SceneDialogue,Custom,,,Four...,,"angry, counting down before you open fire",009_MQ104_SkinnyMaloneCountdown
+Scene,SceneDialogue,Custom,,,Five...,,"angry, counting down before you open fire",009_MQ104_SkinnyMaloneCountdown
+Scene,SceneDialogue,Custom,,,Six...,,"angry, counting down before you open fire",009_MQ104_SkinnyMaloneCountdown
+Scene,SceneDialogue,Custom,,,Seven...,,"angry, counting down before you open fire",009_MQ104_SkinnyMaloneCountdown
+Scene,SceneDialogue,Custom,,,Eight...,,"angry, counting down before you open fire",009_MQ104_SkinnyMaloneCountdown
+Scene,SceneDialogue,Custom,,,Nine...,,"angry, counting down before you open fire",009_MQ104_SkinnyMaloneCountdown
+Scene,SceneDialogue,Custom,,,Ten!,,"angry, counting down before you open fire",009_MQ104_SkinnyMaloneCountdown
+Scene,SceneDialogue,Custom,,"MobsterGirl: Awww... poor little, Valentine. Ashamed you got beat up by a girl? I'll just run back home to daddy, shall I?","Should've left it alone, Nicky. This ain't the old neighborhood. In this Vault, I'm king of the castle, you hear me?",,Angry,006_MQ104_NickTalk03
+Scene,SceneDialogue,Custom,,,And I ain't lettin' some private dick shut us down now that I finally got a good thing goin'!,"MobsterGirl: I told you we should've just killed him, but then you had to get all sentimental! All that stupid crap about the ""old times.""",Angry,006_MQ104_NickTalk03
+Scene,SceneDialogue,Custom,,Nick: Never thought he'd manage to scrape together a big enough crew to take over a Vault. Guess life's full of surprises.,"Hey, who's running this show, here? You got something to say, say it to me.","Player Default: This is all just a misunderstanding, Skinny. You know that. You let us walk and we won't come back.","player, Nick, and Darla are all talking, you step in to take back control of the conversation / Angry",007_MQ104_NickSkinny01
+Scene,SceneDialogue,Custom,,"MobsterGirl: I told you we should've just killed him, but then you had to get all sentimental! All that stupid crap about the ""old times.""","Darla, I'm handling this! Skinny Malone's always got things under control!",,you snap in anger. Darla's always pushing your buttons / Angry,006_MQ104_NickTalk03
+Scene,SceneDialogue,Custom,,,Nicky? What're you doin'? You come into my house. Shoot up my guys. You have any idea how much this is gonna set me back?,"Nick: I wouldn't be here if it weren't for your two-timing dame, Skinny. You ought to tell her to write home more often.","You and Nick go way back. He was snooping around your headquarters when you captured him, and now he's broken out. / Angry",006_MQ104_NickTalk03
+Scene,SceneDialogue,Custom,,,Don't you walk away from me! Ice 'em!,,player just walked off / Angry,007_MQ104_NickSkinny02
+Scene,SceneDialogue,Custom,,,Darla? Wh-where are you goin'?,"MobsterGirl: Home, Skinny! Where I should have been all this time. This is goodbye for us.",Darla has been convinced by the player to break up with you and leave / Surprised,008_MQ104_DarlaLeaves
+Scene,SceneDialogue,Custom,,"MobsterGirl: Home, Skinny! Where I should have been all this time. This is goodbye for us.","Oh, come on, Nicky! You cost me my men, now you and your friend cost me my girl?","Nick: My friend here just did you a favor, Skinny. You always did have bad taste in women.",Puzzled,008_MQ104_DarlaLeaves
+Scene,SceneDialogue,Custom,,"Nick: Now that she's not around to feed that temper of yours, maybe you'll see sense and let us walk? You still owe me for two weeks in the hole.","You smug, overconfident ass... Agh!",,yelling at the end in frustration between wanting to let Nick go and wanting to kill him / Angry,008_MQ104_DarlaLeaves
+Scene,SceneDialogue,Custom,,,"All right, you get to the count of ten! I still see your face after that, I'm gunning both of you down!",,Angry,008_MQ104_DarlaLeaves
+Scene,SceneDialogue,Custom,,"Player Default: This is all just a misunderstanding, Skinny. You know that. You let us walk and we won't come back.","You and Nick shot all of my crew and you expect to just...Agh! All right, you're lucky I still owe him for that time back in the Quarry.",,Angry,007_MQ104_NickSkinny02
+Scene,SceneDialogue,Custom,,,"I'm gonna give you two until the count of ten before I forget my good manners, and just start shooting up the place!","MobsterGirl: What are you doin', Skinny? Kill 'em!",Angry,007_MQ104_NickSkinny02
+Scene,SceneDialogue,Custom,,"Player Default: This is all just a misunderstanding, Skinny. You know that. You let us walk and we won't come back.","Like hell, you won't! Don't you get it? All the other crews  in the area will see this as weakness. Then, they'll come for me.",,Stern,007_MQ104_NickSkinny02
+Scene,SceneDialogue,Custom,,,Sorry. Time to give you both the hard goodbye.,,Stern,007_MQ104_NickSkinny02
+Scene,SceneDialogue,Custom,,Player Default: Look at yourself. Darla is playing you for a sap. You're better than this. You're better than her.,You're...you're right. Things have gone nothin' but south since she walked into my life.,MobsterGirl: What are you talkin' about Skinny?,Sad,007_MQ104_NickSkinny02
+Scene,SceneDialogue,Custom,,Player Default: Look at yourself. Darla is playing you for a sap. You're better than this. You're better than her.,No one tells Skinny Malone how to run his affairs! I've had enough of this. Time for the hard goodbye!,,Angry,007_MQ104_NickSkinny02
+Scene,SceneDialogue,Custom,,Player Default: You and Nick know each other?,*chuckle* This troublemaker here used to be a real headache back in the day. Before we got kicked out of the old neighborhood.,,fondly remembering the past / Amused,007_MQ104_NickSkinny02
+Scene,SceneDialogue,Custom,,,Must have done this dance a hundred times. Enemies are kind of the closest thing you get to friends in these parts.,,Amused,007_MQ104_NickSkinny02
+Scene,SceneDialogue,Custom,,,Now quit stallin'. You gonna talk? Talk.,"Player Default: This is all just a misunderstanding, Skinny. You know that. You let us walk and we won't come back.",Stern,007_MQ104_NickSkinny02
+Scene,SceneDialogue,Custom,,"Player Default: That wasn't the plan originally, but hey, tempting.","Hey, I'm the one in charge here. You got something to say? Say it to me.","Player Default: This is all just a misunderstanding, Skinny. You know that. You let us walk and we won't come back.","player, Nick, and Darla are all talking, you step in to take back control of the conversation / Angry",007_MQ104_NickSkinny01
+Scene,SceneDialogue,Custom,,"MobsterGirl: Sorry, babe, but this is the end for us. And for you...","You double-crossing, moll! Teach me to fall for a great set of legs.",,Angry,008_MQ104_DarlaTurns
+Scene,SceneDialogue,Custom,,"MobsterGirl: What are you doin', Skinny? Kill 'em!","No, Darla. They get one chance to leave. Skinny Malone's puttin' his foot down.",MobsterGirl: My mother was right. You mobsters are all just talk.,player convinced you to let him and Nick go / Stern,008_MQ104_SkinnyLeaves
+Scene,SceneDialogue,Custom,,MobsterGirl: What are you talkin' about Skinny?,"I'm sayin' you're draggin' me and this whole operation down a bad road, toots. We're through.","MobsterGirl: Well, fine then! I'm going back home. I don't need you, you fat ass!",player convinced you that Darla is a bad influence / Angry,008_MQ104_SkinnyTurns
+Scene,SceneDialogue,Custom,,"MobsterGirl: Well, fine then! I'm going back home. I don't need you, you fat ass!",They always gotta hit you where it hurts...,SkinnyMalone: Now what am I gonna do about you two? I know. I'm gonna give you until the count of ten.,to yourself / Depressed,008_MQ104_SkinnyTurns
+Scene,SceneDialogue,Custom,,SkinnyMalone: They always gotta hit you where it hurts...,Now what am I gonna do about you two? I know. I'm gonna give you until the count of ten.,,Stern,008_MQ104_SkinnyTurns
+Scene,SceneDialogue,Custom,,,"I still see your ugly faces after that, I'm gonna start shooting until there ain't no more bullets left in this whole Vault!",,Stern,008_MQ104_SkinnyTurns
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"You gonna say somethin', or what?",,"waiting for the player to say something, confrontational / Stern",
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,You better talk fast...,,"waiting for the player to say something, confrontational / Stern",
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,You stallin' on me? I said talk.,,"waiting for the player to say something, confrontational / Stern",
+Combat,Combat,Taunt,,,He's here for the detective. Ice him!,,"in combat, referring to the detective you captured",
+Combat,Combat,Taunt,,,She's here for the detective. Ice her!,,"in combat, referring to the detective you captured",
+Combat,Combat,Taunt,,,Malone's gonna have your guts for garters!,,"in combat, referring to how your boss is going to kill the player",
+Combat,Combat,Taunt,,,You and Valentine are both dead!,,"in combat, referring to the detective you've taken as prisoner",
+Miscellaneous,Miscellaneous,Hello,,,You. My life really hit the bottom when you showed up.,,this happens after the player breaks Nick out of Vault 114. Skinny Malone eventually gets kicked out of the Vault by his crew / Disgust,
+Miscellaneous,Miscellaneous,Hello,,,My crew threw me outta the Vault. Me! Skinny Malone.,,Surprised,
+Miscellaneous,Miscellaneous,Hello,,,What? You and Valentine gonna ruin the rest of my life?,,Sad,
+Miscellaneous,Miscellaneous,Hello,,,"I'll be back. One day, Skinny Malone's gonna be king of the castle again.",,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,You're lucky I'm so compassionate. Else I'd punch ya in the face for all the trouble you caused.,,Defiant,

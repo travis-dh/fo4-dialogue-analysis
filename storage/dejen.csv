@@ -1,0 +1,76 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,"It's not much, but it's the best I can do.",,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,"Don't touch everything, okay?",,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,"All right, yeah. Take a look.",,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"One less thing for me to worry about, then.",,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Fine.,,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Sure, fine. Whatever.",,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Your call.,,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,Player Default: What can you tell me about Acadia?,"It's smaller than I'd like it to be, but then... we don't exactly have the numbers to fill someplace larger.",,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,,"Makes it easier to defend, anyway. Forget it. Did you want something, or not?",Player Default: Let's see what you've got.,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,Player Default: What can you tell me about Acadia?,"I guess there's no harm in talking about it. I escaped the Institute, found the Railroad. They agreed to help get me out of the Commonwealth.",,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,,"Institute tracked them down, and slaughtered them all. Far as I know, I'm the only one who got away.",,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,,"So, I'm here to make sure it wasn't all for nothing.",,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,Player Default: What can you tell me about Acadia?,"I... I don't like talking about it. I made it to Acadia, that's what matters. Now that I'm here I'm going to make sure nothing happens to it.",,,DLC03AcadiaDialogueDejenBaseScene
+Scene,SceneDialogue,Custom,,Player Default: I'll probably be leaving soon.,That's for the best.,"Dejen: Acadia is only as secure as we make it. We take unnecessary risks, we get careless, and things can go bad. Fast.",,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: That's a little rude, don't you think? Treat all your guests like this?","No. We don't have ""guests.""","Dejen: Acadia is only as secure as we make it. We take unnecessary risks, we get careless, and things can go bad. Fast.",,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: Gosh, after a weclome this warm, who wouldn't want to just stay forever?",This place isn't for you.,"Dejen: Acadia is only as secure as we make it. We take unnecessary risks, we get careless, and things can go bad. Fast.",,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,Player Default: Is there a problem with my being here?,"Maybe, maybe not.","Dejen: Acadia is only as secure as we make it. We take unnecessary risks, we get careless, and things can go bad. Fast.",,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,Player Default: That's for the best.,"Acadia is only as secure as we make it. We take unnecessary risks, we get careless, and things can go bad. Fast.","Dejen: If there's a synth who needs a safe place, then we take them in. Let them live as a synth, without fear. You don't fit that description.",,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,"Dejen: Acadia is only as secure as we make it. We take unnecessary risks, we get careless, and things can go bad. Fast.","If there's a synth who needs a safe place, then we take them in. Let them live as a synth, without fear. You don't fit that description.",,,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,,That makes you an unnecessary risk.,,,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,,It's nothing personal. Minimizing our contact with outsiders is just practical.,Player Default: You can relax. I'm not a threat.,,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,Player Default: You can relax. I'm not a threat.,Just don't cause any trouble.,,,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,"Player Default: Too bad it's not your call to make, isn't it?","You're right. DiMA says you can stay, so you can stay. Doesn't mean I have to like it.",,,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,Player Default: You must have tons of friends with this attitude.,I don't need friends.,,,DLC03AcadiaDialogueDejenInitialScene
+Scene,SceneDialogue,Custom,,Player Default: Is there anything I can say or do to change your mind?,Just don't cause any problems.,,,DLC03AcadiaDialogueDejenInitialScene
+Combat,Combat,Taunt,,,Come on!,,,
+Combat,Combat,Taunt,,,You're not takin' me!,,,
+Combat,Combat,Death,,,Ugh.,,,
+Combat,Combat,Hit,,,Agh.,,,
+Combat,Combat,Hit,,,Ungh.,,,
+Combat,Combat,Hit,,,Oof.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Look, if there's nothing else...",,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,I really don't have time to just stand around like this.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,....Well?,,,
+Miscellaneous,Miscellaneous,Greeting,,,Your business is with DiMA. Talk to him.,,brusque,
+Miscellaneous,Miscellaneous,Greeting,,,I assume you're not planning on staying long.,Player Default: I'll probably be leaving soon.,,DLC03AcadiaDialogueDejenInitialScene
+Miscellaneous,Miscellaneous,Greeting,,,"You want to buy something, or what?",Player Default: Let's see what you've got.,,DLC03AcadiaDialogueDejenBaseScene
+Miscellaneous,Miscellaneous,Hello,,,"It's regrettable, but if it came down to choosing between synths and Far Harbor, I'd side with synths every time.",,Depressed,
+Miscellaneous,Miscellaneous,Hello,,,"Supplies will be harder to acquire now, with Far Harbor gone... but at least they can't turn on us.",,Depressed,
+Miscellaneous,Miscellaneous,Hello,,,"I don't care what anyone says - the Children of Atom were a threat to all of us, and I'm glad they're gone.",,,
+Miscellaneous,Miscellaneous,Hello,,,Keep to yourself. We don't need any more trouble.,,,
+Miscellaneous,Miscellaneous,Hello,,,I'm trying to get something done here.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Just because DiMA trusts you, doesn't mean the rest of us do.",,,
+Miscellaneous,Miscellaneous,Hello,,,Acadia is all we've got. Don't ruin that.,,,
+Miscellaneous,Miscellaneous,Hello,,,Just because things have calmed down doesn't mean it won't start all over again. I still don't trust the Children or Far Harbor.,,,
+Miscellaneous,Miscellaneous,Hello,,,DiMA surrendered to Far Harbor. And they murdered him for it.,,,
+Scene,SceneDialogue,Custom,,,Just wanted to report that the perimeter is all clear.,"Chase: I appreciate that, Dejen, but we've talked about this. You don't need to worry.",,DLC03Acadia_Conv_ChaseDejen01Scene
+Scene,SceneDialogue,Custom,,"Chase: I appreciate that, Dejen, but we've talked about this. You don't need to worry.","With all due respect, we can never be too safe.",Chase: I suppose not. Thank you.,,DLC03Acadia_Conv_ChaseDejen01Scene
+Scene,SceneDialogue,Custom,,"Chase: Your trips to Far Harbor have been uneventful, I hope?","No incidents to report, ma'am.","Chase: You don't have to call me ""ma'am,"" Dejen. We're all friends here.",,DLC03Acadia_Conv_ChaseDejen02Scene
+Scene,SceneDialogue,Custom,,"Chase: You don't have to call me ""ma'am,"" Dejen. We're all friends here.",Yes. Right. Sorry.,Chase: It's all right. You don't have to be sorry either. Just stay safe on your trips.,,DLC03Acadia_Conv_ChaseDejen02Scene
+Scene,SceneDialogue,Custom,,Chase: It's all right. You don't have to be sorry either. Just stay safe on your trips.,"Of course, ma'am. Dammit, sorry.",,,DLC03Acadia_Conv_ChaseDejen02Scene
+Scene,SceneDialogue,Custom,,DLC03MaleDejen: I need to talk to you.,"Look, it's no secret that I don't exactly trust outsiders. Anyone. But... I need help. The kind of help that stays quiet.","Dejen: I have my own set of contacts, folks that warn me when things are about to go bad. And they're telling me that Chase screwed up.",,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,"Dejen: Look, it's no secret that I don't exactly trust outsiders. Anyone. But... I need help. The kind of help that stays quiet.","I have my own set of contacts, folks that warn me when things are about to go bad. And they're telling me that Chase screwed up.","Dejen: Somethin' she did the last time she was in the Commonwealth got the Institute's attention, and they're on her trail.",,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,"Dejen: I have my own set of contacts, folks that warn me when things are about to go bad. And they're telling me that Chase screwed up.","Somethin' she did the last time she was in the Commonwealth got the Institute's attention, and they're on her trail.","Dejen: There's a Courser sniffing around, and it won't be long before he finds Acadia. Can't let that happen.",,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,"Dejen: Somethin' she did the last time she was in the Commonwealth got the Institute's attention, and they're on her trail.","There's a Courser sniffing around, and it won't be long before he finds Acadia. Can't let that happen.",Dejen: You've proven you can handle yourself. Can you stop him?,,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,"Dejen: There's a Courser sniffing around, and it won't be long before he finds Acadia. Can't let that happen.",You've proven you can handle yourself. Can you stop him?,Player Default: I'll find him before he finds you. Don't worry.,,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,Player Default: I'll find him before he finds you. Don't worry.,I know this means you putting your life in danger for me... for us. I want you to know that it's not for nothing.,,,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,"Player Default: Sorry, this isn't my fight.","Yeah, that's about what I expected. Thanks for nothing.",,,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,Player Default: Coursers? Wouldn't be the first time I've taken one down.,"Shit. Should've guessed it, I suppose. All right, so you're the real deal.",,,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,,"That means you're in, yeah?",Player Default: I'll find him before he finds you. Don't worry.,,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,Player Default: Chase is a Courser. Why not let them fight it out?,"If he so much as sees Chase, he knows he's on the right trail. Someone who's not a synth, nothing to do with Acadia, can't give us up.",,,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,,"So, are you in?",Player Default: I'll find him before he finds you. Don't worry.,,DLC03AcadiaM02DejenStartScene
+Scene,SceneDialogue,Custom,,"PlayerVoiceFemale01: Hey, Dejen.",Tell me you've got good news.,Player Default: Don't worry. The Courser's dead; you're safe.,anxious / Concerned,DLC03AcadiaM02DejenFinishScene
+Scene,SceneDialogue,Custom,,Player Default: Don't worry. The Courser's dead; you're safe.,That is good news.,"Dejen: Look, you've fought one. You know how tough they are. Most of the synths here, they wouldn't have stood a chance.",,DLC03AcadiaM02DejenFinishScene
+Scene,SceneDialogue,Custom,,"Player Default: Relax, pal. I got rid of the Courser, and saved your asses.","Yeah, yeah. You're a real hero.","Dejen: Look, you've fought one. You know how tough they are. Most of the synths here, they wouldn't have stood a chance.",Disgust,DLC03AcadiaM02DejenFinishScene
+Scene,SceneDialogue,Custom,,"Player Default: Good news? No, terrible news. He got me. I'm dead, and now my ghost will haunt you forever. OoooooOOOooooo!",Don't be an asshole.,Player Default: Don't worry. The Courser's dead; you're safe.,,DLC03AcadiaM02DejenFinishScene
+Scene,SceneDialogue,Custom,,"Player Default: Sorry, news about what?","The Courser! Come on, don't play games with me.",Player Default: Don't worry. The Courser's dead; you're safe.,,DLC03AcadiaM02DejenFinishScene
+Scene,SceneDialogue,Custom,,Player Default: That is good news.,"Look, you've fought one. You know how tough they are. Most of the synths here, they wouldn't have stood a chance.",,,DLC03AcadiaM02DejenFinishScene
+Scene,SceneDialogue,Custom,,,"Couldn't risk having him take any of us in, or even report our location.","Dejen: I know it was asking a lot. And I won't forget that you did it. If nothing else, you've earned yourself a discount. Thanks, friend.",,DLC03AcadiaM02DejenFinishScene
+Scene,SceneDialogue,Custom,,Player Default: That is good news.,"Even if it's true, and the Institute really is gone, there are still Coursers out there trying to complete their mission.",,,DLC03AcadiaM02DejenFinishScene
+Scene,SceneDialogue,Custom,,,Most of the synths here wouldn't be able to hold their own in a fight.,"Dejen: I know it was asking a lot. And I won't forget that you did it. If nothing else, you've earned yourself a discount. Thanks, friend.",,DLC03AcadiaM02DejenFinishScene
+Scene,SceneDialogue,Custom,,"Dejen: Couldn't risk having him take any of us in, or even report our location.","I know it was asking a lot. And I won't forget that you did it. If nothing else, you've earned yourself a discount. Thanks, friend.",,,DLC03AcadiaM02DejenFinishScene
+Miscellaneous,Miscellaneous,Greeting,,,"That Courser's out there... If he finds us, we're dead.",,,
+Miscellaneous,Miscellaneous,Greeting,,,None of us are safe if the Institute is hunting us.,,,
+Miscellaneous,Miscellaneous,Greeting,,,I need to talk to you.,"Dejen: Look, it's no secret that I don't exactly trust outsiders. Anyone. But... I need help. The kind of help that stays quiet.",,DLC03AcadiaM02DejenStartScene

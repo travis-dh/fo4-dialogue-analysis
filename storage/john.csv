@@ -1,0 +1,92 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,,You seriously going to take the opinion of some random stranger over your own son?,"Cathy: If someone off the street can tell Geneva is one of those machine people, then so should you.","you and your mother were arguing, then she grabbed a random person off the street to back up her opinion / Irritated",CathyGreetSceneTrailoff01
+Scene,SceneDialogue,Custom,,"Cathy: If someone off the street can tell Geneva is one of those machine people, then so should you.","You JUST said no one could TELL the difference, Ma. Now will you leave my customers alone?",,Angry,CathyGreetSceneTrailoff01
+Scene,SceneDialogue,Custom,,,We're idiots? Just because we disagree with you?,"Cathy: She's a synth, Johnny. Anyone with a brain in their head can figure that out.",your mother just called you and one of your customers idiots for disagreeing with her / Irritated,CathyGreetSceneTrailoff02
+Scene,SceneDialogue,Custom,,"Cathy: She's a synth, Johnny. Anyone with a brain in their head can figure that out.","You were JUST saying no one could TELL the difference, Ma. You wanna lay off?",,Angry,CathyGreetSceneTrailoff02
+Scene,SceneDialogue,Custom,,,"You JUST said no one could tell the difference, Ma. He don't know if Geneva's a synth, and neither do you, so could you lay off?","Cathy: Don't you talk to your mother that way, Johnny.",Irritated,CathyGreetSceneTrailoff03
+Scene,SceneDialogue,Custom,,,"You JUST said no one could tell the difference, Ma. She don't know if Geneva's a synth, and neither do you, so could you lay off?","Cathy: Don't you talk to your mother that way, Johnny.",Irritated,CathyGreetSceneTrailoff03
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Some other time?,,,JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Okay. You take care.,,,JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Later, then.",,,JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Did I come on too strong?,,joking,JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Sure. Some other time.,,,JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Thanks for you help.,"You be careful, okay? Institute's out there.",,Concerned,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: I don't appreciate people telling me what to do.,"Hey, hey, easy. I gave you directions. Everything's cool now, okay?",,Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: Ah yes. Gossip. My one weakness.,"Hey, it was just some friendly advice, okay?",,slightly annoyed / Irritated,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: People don't like the detective agency? Why?,"Look, if you ask me, Valentine is a good guy. Saved a lot of lives. But other people think he's just going to bring the Institute's attention.",Player Default: Thanks for you help.,Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,,"Hey I-I just cut hair, all right?",,"player asks about finding a missing child, you're suddenly very nervous, afraid the Institute is listening in / Nervous",JohnMQ103Scene
+Scene,SceneDialogue,Custom,,,"Talk is one thing, but if the paper's right about the Institute, then getting involved in missing people is something I don't want.",Player Default: I'm not asking you to stick your neck out. Just point me in a direction.,Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: I'm not asking you to stick your neck out. Just point me in a direction.,Yeah... all right. I can do that.,John: You want Valentine's Detective Agency. It's in the back alley. Lot of bright signs.,"persuaded to help, still a bit nervous / Nervous",JohnMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: *sigh* Never mind.,"You have a good day, now.",John: You want Valentine's Detective Agency. It's in the back alley. Lot of bright signs.,still a bit nervous / Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: I'm more than happy to pay for your time. Just talk to me.,"Well, I guess it can't hurt to just point you somewhere.",John: You want Valentine's Detective Agency. It's in the back alley. Lot of bright signs.,still a bit nervous / Thinking,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: I'm more than happy to pay for your time. Just talk to me.,Looks like you're broke. I'm sorry. I have to get back to work.,John: You want Valentine's Detective Agency. It's in the back alley. Lot of bright signs.,"player doesn't have enough money, still a bit nervous from before / Puzzled",JohnMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: What's wrong? What's the Institute?,You serious? They're the ones that make the synths. The machine people?,,Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,,"If they don't like you, boom. You get... replaced. Or maybe someone you know is the one who gets replaced instead, and they send him to kill you.",,Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,,"So, I'm sorry, but I ain't risking the Institute being involved in whatever mess you're in.",Player Default: I'm not asking you to stick your neck out. Just point me in a direction.,Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: What's wrong? What's the Institute?,"They say some of them look so human, you'd never be able to tell the difference. Not sure I believe that but... who knows?",,Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,,"A lot of them are definitely machines, though, and they're murderous. Kill off whole towns, and take all the remains to... somewhere.",,Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,,University Point used to be a nice little settlement. Now it's all synths. Just standing guard. Like a damn warning message or something.,Player Default: I'm not asking you to stick your neck out. Just point me in a direction.,Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: Yeah... all right. I can do that.,You want Valentine's Detective Agency. It's in the back alley. Lot of bright signs.,,Nervous,JohnMQ103Scene
+Scene,SceneDialogue,Custom,,,"Just don't tell anyone you're going there, all right? People don't like that place. Talk about shutting it down all the time.",Player Default: Thanks for you help.,"people don't like to talk about the detective agency, it's a business no one admits going to / Nervous",JohnMQ103Scene
+Scene,SceneDialogue,Custom,,,Let's get to it. Just sit in the chair.,,about to cut hair,JohnGreetScene
+Scene,SceneDialogue,Custom,,,All right! Take a seat.,,about to cut hair,JohnGreetScene
+Scene,SceneDialogue,Custom,,,You're gonna look great. Sit down.,,about to cut hair,JohnGreetScene
+Scene,SceneDialogue,Custom,,,"Maybe a new color, huh? Sit down, and let's take a look.",,about to cut hair,JohnGreetScene
+Scene,SceneDialogue,Custom,,,"Just sit down, relax, and let the magic happen.",,about to cut hair,JohnGreetScene
+Scene,SceneDialogue,Custom,,,"Ain't got the caps? Some other time, then.",,player doesn't have enough money,JohnGreetScene
+Scene,SceneDialogue,Custom,,,"Hey, I get it. Money's tight. You take care.",,player doesn't have enough money,JohnGreetScene
+Scene,SceneDialogue,Custom,,,"No problem. You come back some other time, huh?",,player doesn't have enough money,JohnGreetScene
+Scene,SceneDialogue,Custom,,,"Well, whenever your fortunes turn around, we'll be here.",,player doesn't have enough money,JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Hey, no rush.",,,JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Sure. Whenever.,,,JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,I gotcha. No problem.,,,JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Feel free to come back anytime.,,,JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Do you take this charge card?,"Uh, caps only, I'm afraid.",,"player is trying to pay with a ""charge card"" - it looks like a worthless piece of plastic / Puzzled",JohnGreetScene
+Scene,SceneDialogue,Custom,,Player Default: What are my options?,"You name it. Shaves, long cuts, short cuts, braids, layering.",,player asks what kind of haircuts he could get,JohnGreetScene
+Scene,SceneDialogue,Custom,,,"Eh, it'll be easier to just show you. Got an empty chair right here.",,,JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"If you don't mind, I should get back to work. Let's talk about that hair.",,"generic ""coming from another conversation and getting back to business"" line",JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Now, let's talk business. I could work magic with your hair.",,"generic ""coming from another conversation and getting back to business"" line",JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Look, can we get back to business? I got a clean pair of scissors and an empty chair right here.",,"generic ""coming from another conversation and getting back to business"" line",JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Just sit in the chair, and let the magic happen.",,player just bought a haircut,
+Miscellaneous,Miscellaneous,Greeting,,,Let's make you look beautiful. Just sit down in the chair.,,player just bought a haircut,
+Miscellaneous,Miscellaneous,Greeting,,,"Sit in the chair, and let's cut that hair!",,player just bought a haircut,
+Miscellaneous,Miscellaneous,Greeting,,,"Around here we call your haircut the ""Scav Special."" Little flicks of blood give it the personal touch. You should think about getting a trim.",,"player walks into your Hair Salon for the first time, you're making a friendly joke about his hair / Friendly",JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"McDonough was a synth! He was a regular, and I didn't know. Can you believe it? Ah, anyway, uh, did you need a haircut?",,Mayor McDonough revealed to be a Synth and is dead or gone / Puzzled,JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Don't mind my ma. She's always a bit cranky. Let's just focus on you and that lovely head of hair.,,,JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"For your hair, I'm thinking highlights. Or we could try a short shave on the sides, or maybe some braids. Hmm...",,,JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Eh, maybe we just shave all your hair off? I'm kidding, I'm kidding! Unless that's what you want of course. Customer's always right.",,,JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Haircuts right here.,,,JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Snip snip and bam, you're beautiful.",,,JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey there, I got an empty chair here just waiting for some beautiful customer to get a haircut.",,,JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"We got hairstyles for days. Weeks, even.",,,JohnGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,I think you would look great with juuuust a quick trim.,,,JohnGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Don't be shy now.,,player is just standing there not saying anything / Puzzled,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Hey, I don't mind people staring, but, uh...",,player is just standing there not saying anything / Puzzled,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Distracted by my hair? This could be yours...,,"player isn't saying anything, emphasize ""yours"", charming, joking / Puzzled",
+Miscellaneous,Miscellaneous,Idle,,,Who needs a haircut? Everyone needs a haircut! Step up!,,shouting sales pitches in Diamond City's open market,
+Miscellaneous,Miscellaneous,Idle,,,The latest hairstyles from the Upper Stands!,,shouting sales pitches in Diamond City's open market,
+Miscellaneous,Miscellaneous,Idle,,,Got too much dirt in that hair? Get a trim! You won't regret it.,,shouting sales pitches in Diamond City's open market,
+Miscellaneous,Miscellaneous,Idle,,,Who wants to look beautiful? Hair styles from across the Commonwealth!,,shouting sales pitches in Diamond City's open market,
+Miscellaneous,Miscellaneous,Idle,,,The Super Salon can give you the hair style of your dreams!,,shouting sales pitches in Diamond City's open market,
+Miscellaneous,Miscellaneous,Hello,,,"If you're looking for a haircut, the salon's open in morning.",,"general hellos to the player, the salon is closed for the evening",
+Miscellaneous,Miscellaneous,Hello,,,"What? Sorry. Thanks to ma's yelling, I'm practically deaf in this ear.",,"joking, general hello to the player",
+Miscellaneous,Miscellaneous,Hello,,,"Hey, stop my salon in the morning. I got a haircut that'd look great on you.",,general hello to the player,
+Miscellaneous,Miscellaneous,Hello,,,Hey there. Keeping straight?,,general hello to the player,
+Miscellaneous,Miscellaneous,Hello,,,Looking good there.,,general hello to the player,
+Miscellaneous,Miscellaneous,Hello,,,"You need something? Sorry, a bit busy.",,general hello to the player,
+Miscellaneous,Miscellaneous,Hello,,,Keep smiling. Makes the hair look better.,,general hello to the player,
+Scene,SceneDialogue,Custom,,Ann: Mmmhmm.,"The mayor's secretary? Come on, ma, I cut her hair myself, and I know human hair.","Cathy: That's just it, Johnny. You wouldn't be able to tell the difference.","at the hair salon, you and your mother are gossiping loudly while you work. She thinks the mayor's secretary is a Synth, a synthetic person / Disbelief",SalonIntroScene
+Scene,SceneDialogue,Custom,,"GenericNPC: John, my man. How's it going?","Ah, depends on who you ask. You ask me, I'm doing great. You ask my ma, I'm a no-good layabout.",GenericNPC: You two are going at it more than usual. Why don't you take a night off? We'll hit the Dugout?,"laughing, joking / Happy",ConvDiamondCityGenericJohn01Scene
+Scene,SceneDialogue,Custom,,GenericNPC: You two are going at it more than usual. Why don't you take a night off? We'll hit the Dugout?,"And risk my ma throwing ""drunken oaf"" on top of her list of insults? I ain't fuelin' that fire.",,"laughing, joking",ConvDiamondCityGenericJohn01Scene
+Scene,SceneDialogue,Custom,,GenericNPC: I'm really liking this haircut you gave me John. How do you do it?,You just gotta read people. It ain't all about the hair. It's the face. The way the person carries themselves.,,,ConvDiamondCityGenericJohn02Scene
+Scene,SceneDialogue,Custom,,,"You keep the whole frame in mind, and the portrait will look good wherever it hangs. My pa taught me that.",GenericNPC: Your pa? Was he a barber too?,proud of yourself and your dad (who died several years ago),ConvDiamondCityGenericJohn02Scene
+Scene,SceneDialogue,Custom,,GenericNPC: Your pa? Was he a barber too?,"Nah, he was a painter. Gave it up when the Salon opened, but he was always going on about color and composition and all that.",,,ConvDiamondCityGenericJohn02Scene
+Scene,SceneDialogue,Custom,,"Cathy: And why is that so hard for you, huh? Is it so wrong that I want you to be the best?","I ain't havin' this conversation again, Ma. Just let me work, okay?",,"sigh at the beginning, not as angry as before, but still putting your foot down / Stern",ConvDiamondCityJohnCathy02Scene
+Scene,SceneDialogue,Custom,,"Cathy: John, have I told you today how much your father would be disappointed in you?","No Ma. You haven't. And for the record, me and Pa got on great.","Cathy: Your father was a real hair stylist, John. He never resorted to the cheap tricks and shortcuts you always pull.","your mother is bothering you while you're working, like she always does. you've had this conversation many times / Irritated",ConvDiamondCityJohnCathy02Scene
+Scene,SceneDialogue,Custom,,"Cathy: Your father was a real hair stylist, John. He never resorted to the cheap tricks and shortcuts you always pull.","Maybe that was because he just wanted to paint, Ma!",,"you suddenly snap, can't handle your mother's criticism right now / Angry",ConvDiamondCityJohnCathy02Scene
+Scene,SceneDialogue,Custom,,,"Maybe he thought if he did everything perfect, you'd get off his back, and he'd have time to be himself.","Cathy: And why is that so hard for you, huh? Is it so wrong that I want you to be the best?",Angry,ConvDiamondCityJohnCathy02Scene
+Scene,SceneDialogue,Custom,,"Cathy: And all of those were better than the half-assed job you did on me. You don't practice enough, Johnny. I keep telling you, but you don't listen.","Oh, I listen. All I friggin' do is listen...",,Irritated,ConvDiamondCityJohnCathy01Scene
+Scene,SceneDialogue,Custom,,,Hey Ma. I was thinking of trying out a new look. Wanna be my guinea pig?,Cathy: Not if it's going to be like the last mess you tried on me.,you want to try a new hairstyle out / Friendly,ConvDiamondCityJohnCathy01Scene
+Scene,SceneDialogue,Custom,,Cathy: Not if it's going to be like the last mess you tried on me.,"The top bun? Ma, that was the most popular haircut in town for weeks! All the ladies in the Upper Stands wanted one.","Cathy: And all of those were better than the half-assed job you did on me. You don't practice enough, Johnny. I keep telling you, but you don't listen.",defensive / Surprised,ConvDiamondCityJohnCathy01Scene
+Miscellaneous,Miscellaneous,Greeting,,,Holy moley. What's going on?,,"a man has another man at gunpoint, you're in the crowd watching / Nervous",
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, uh, come back later huh? What a mess...",,"the police just shot a crazed gunman, you're closing your store / Nervous",

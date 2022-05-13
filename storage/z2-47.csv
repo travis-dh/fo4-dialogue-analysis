@@ -1,0 +1,24 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Courser: I'm going to get in there. It's just a matter of time...,Tell me the password.,"GunnerBoss: Look, I already told you I don't have it.",Angry,DN009_MQ205_CourserGunnerBoss01
+Scene,SceneDialogue,Custom,,"GunnerBoss: I'll help you find a way in, but listen, we took the girl fair and square. All we want is a little compensation in return.",You are in no position to negotiate.,"GunnerBoss: Okay, okay, let me think...",Angry,DN009_MQ205_CourserGunnerBoss01
+Scene,SceneDialogue,Custom,,"GunnerBoss: Okay, okay, let me think...",Time's running out.,"GunnerBoss: No please, wait. You can have the girl, just let me go.",Angry,DN009_MQ205_CourserGunnerBoss01
+Scene,SceneDialogue,Custom,,,I'm going to get in there. It's just a matter of time...,Courser: Tell me the password.,Angry,DN009_MQ205_CourserGunnerBoss01
+Scene,SceneDialogue,Custom,,Player Default: How... did you...,"If you're not here for the synth, then you're here for me. What do you want?",Player Default: I need what's in your head.,Stern,DN009_MQ205_CourserLastStand02
+Scene,SceneDialogue,Custom,,Player Default: I need what's in your head.,That you cannot have.,,Stern,DN009_MQ205_CourserLastStand02
+Scene,SceneDialogue,Custom,,Player Default: I'm here to kill you and take what's inside your head.,That you cannot have.,,Stern,DN009_MQ205_CourserLastStand02
+Scene,SceneDialogue,Custom,,"Player Default: We're on a need to know basis, here. And you don't need to know.",Suit yourself. You'll die like the rest of them.,,Stern,DN009_MQ205_CourserLastStand02
+Scene,SceneDialogue,Custom,,"Player Default: And just who is this synth, anyway?","A fugitive. Runaway Institute property. I'm shutting her down and bringing her back. You, on the other hand, will die like the rest of them.",,Stern,DN009_MQ205_CourserLastStand02
+Scene,SceneDialogue,Custom,,GunnerPrisoner01: I don't know the password. I'm telling the truth!,I don't believe you are.,"GunnerPrisoner02: Oh God...please, no.",Angry,DN009_MQ205_CourserKillPrisoner01
+Scene,SceneDialogue,Custom,,,"All he had to do was tell me the password. Now, are you going to cooperate?","GunnerPrisoner02: Oh God, oh God...",Disgust,DN009_MQ205_CourserKillPrisoner02
+Scene,SceneDialogue,Custom,,"Courser: All he had to do was tell me the password. Now, are you going to cooperate?",Tell me.,GunnerPrisoner02: Okay okay! Just don't shoot. Let me think.,Angry,DN009_MQ205_CourserKillPrisoner02
+Scene,SceneDialogue,Custom,,GunnerPrisoner02: Okay okay! Just don't shoot. Let me think.,You obviously don't know.,,Angry,DN009_MQ205_CourserKillPrisoner02
+Scene,SceneDialogue,Custom,,Courser: Thank you. Now if you could give me just a moment?,K1-98. Your little adventure is over. It's time to go home.,"Synth: No, please, you don't have to do this.",SinisterSmile,DN009_MQ205_PlayerOpensSynthDoor
+Scene,SceneDialogue,Custom,,"Synth: No, please, you don't have to do this.","Relax, you won't feel a thing.",Courser: K1-98 Recall Code Stratus.,SinisterSmile,DN009_MQ205_PlayerOpensSynthDoor
+Scene,SceneDialogue,Custom,,Synth: Stop! I'm begging you. Don't do this.,K1-98 Recall Code Stratus.,,Confident,DN009_MQ205_PlayerOpensSynthDoor
+Scene,SceneDialogue,Custom,,,You! Come here.,,Stern,DN009_MQ205_CourserLastStand01
+Scene,SceneDialogue,Custom,,,You've been following me.,,Stern,DN009_MQ205_CourserLastStand01
+Scene,SceneDialogue,Custom,,,Get over here.,,Stern,DN009_MQ205_CourserLastStand01
+Scene,SceneDialogue,Custom,,"Player Default: Z2-47, initialize factory reset. Authorization code Zeta-5-3-Kilo.",How... did you...,"Courser: If you're not here for the synth, then you're here for me. What do you want?","player somehow knew your reset code, shutting down / Surprised",DN009_MQ205_CourserLastStand02
+Scene,SceneDialogue,Custom,,"Player Default: Z2-47, initialize factory reset. Authorization code Zeta-5-3-Kilo.",And you think I'll just hand her over? To you. You've been tracking me. What do you really want?,Player Default: I need what's in your head.,Concerned,DN009_MQ205_CourserLastStand02
+Miscellaneous,Miscellaneous,Greeting,,,Are you here for the synth?,"Player Default: Z2-47, initialize factory reset. Authorization code Zeta-5-3-Kilo.",Stern,DN009_MQ205_CourserLastStand02
+Miscellaneous,Miscellaneous,Greeting,,,Your assistance is no longer needed.,,SinisterSmile,DN009_MQ205_CourserEnd

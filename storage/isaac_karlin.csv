@@ -1,0 +1,110 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Player Default: Sorry to bother you, then.",Mm hm. Goodbye.,"Player Default: I'll let you get back to work, then.",,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,"Player Default: If you're busy, that's one thing, but I don't care for your tone.",My tone?,,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,,"There's no need to take offense. As you can clearly see, I'm deeply involved in some rather complicated mental equations.",,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,,"Now, how about I get back to those and you get back to whatever it is you're doing.","Player Default: I'll let you get back to work, then.",,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: Someone's a little full of himself.,Hardly. There is no place for ego in science.,,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,,"I am simply trying to tell you, in as polite as manner as possible, that I am busy.",,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,,"Now, goodbye.","Player Default: I'll let you get back to work, then.",,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: Working on something important?,*Sigh* All of my work is important.,,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,,"Now, if you're quite finished, I'd very much like to get back to these mental equations.",,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,,They're difficult enough without the distractions.,"Player Default: I'll let you get back to work, then.",,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,"Player Default: I'll let you get back to work, then.",Good.,,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: Those mental equations will get a lot tougher after I sock you in the jaw.,"Er, what? Now just a moment. There's no need to get angry.",,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,,"If an apology will suffice to stem your anger, then I'll offer it.",,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,,So nice talking to you. Goodbye!,,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: What a charmer.,"If that was an attempt at humor, I'm afraid it's lost on me. I'm much too preoccupied with my equations.",,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,,"And now, if we're quite finished here, I'll return to them.",,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,Player Default: Equations for what?,"*Sigh* Honestly, you wouldn't understand them.",,,DialogueInstituteIsaacFirstGreeting
+Scene,SceneDialogue,Custom,,,"Now I'm afraid I must end this little chat, although it's been so very diverting.",,,DialogueInstituteIsaacFirstGreeting
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Well?,,Awaiting an answer. Wondering why the player has stopped talking.,
+Miscellaneous,Miscellaneous,Greeting,,,"Yes, yes, I'm sure that whatever you have to say is very interesting, but now simply isn't a good time.","Player Default: Sorry to bother you, then.","Dismissive, condescending",DialogueInstituteIsaacFirstGreeting
+Miscellaneous,Miscellaneous,Hello,,,Months of my life's work wasted because you couldn't take your job seriously.,,"Accusing, angry / Angry",
+Miscellaneous,Miscellaneous,Hello,,,"You're not here to sabotage more of our work, I hope?",,"Sarcastic, angry / Stern",
+Miscellaneous,Miscellaneous,Hello,,,I'm still angry about Warwick Homestead. I see no point in hiding it.,,"Stern, lecturing / Stern",
+Miscellaneous,Miscellaneous,Hello,,,"I'm sorry, but I'm too preoccupied for chit-chat.",,"Annoyed, dismissive",
+Miscellaneous,Miscellaneous,Hello,,,Director Holdren seems very taken with you.,,"Petty, envious",
+Miscellaneous,Miscellaneous,Hello,,,Please resist any urge you might feel to eat the specimens in the hydroponic garden.,,"Nagging, almost scolding",
+Miscellaneous,Miscellaneous,Hello,,,Most men lack the patience to observe and document plant growth.,,"Snobbish, arrogant",
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: I delivered the seeds.,"Good, good. I trust everything went smoothly?","Player Default: Yeah, pretty much.",Confident / Question,InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,NPCMIsaacKarlin: You made a real mess of things at Warwick Homestead.,"Oh yes, we know all about what happened.",,"Angry, stern / Stern",InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,,I told you to be discreet and you blatantly disregarded that directive.,,"Angry, stern / Stern",InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,,Now what do you have to say for yourself?,Player Default: I'm sorry. I guess I just lost control.,"Stern, angry / Stern",InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,Player Default: I'm sorry. I guess I just lost control.,That's hardly a satisfactory explanation.,Isaac: Your carelessness has jeopardized months of research.,Angry / Angry,InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,"Player Default: I don't owe you an explanation, doctor. You have no authority over me.","Yes, well... You should know that I'll be reporting this to Father and the rest of the Directorate.",Isaac: Your carelessness has jeopardized months of research.,"You've been thwarted, but you're still angry and vindictive / Stern",InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,"Player Default: Look, sometimes things don't go the way you planned. That's life.",Is that supposed to excuse your behavior?,,Stern / Stern,InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,,How disappointing. I hoped you would at least have the sense to take responsibility for your actions.,Isaac: Your carelessness has jeopardized months of research.,"Stern, disappointed / Stern",InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,Player Default: How did you know what happened up there?,We monitor our surface operations carefully.,,Stern / Stern,InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,,"If you think you can sabotage our efforts and get away with it, you're very mistaken.",Isaac: Your carelessness has jeopardized months of research.,Stern / Stern,InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,Player Default: That's hardly a satisfactory explanation.,Your carelessness has jeopardized months of research.,,"Stern, lecturing / Stern",InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,,"The entire project will have to be suspended indefinitely, at best.",,"Angry, disgusted / Angry",InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,,"In the meantime, I suggest that you think very carefully about whether you truly belong here.",,Stern / Stern,InstM01IsaacSceneFailed
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, pretty much.","Splendid, splendid.","Isaac: Here you are then, something to aid in your future missions, courtesy of the BioScience Division.",Friendly,InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,Player Default: Hardly.,"Don't tell me the simple act of carrying a packet of seeds from point A to point B proved difficult for you, hm?",,Irritated,InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,,"On second thought, don't answer that. You'll just discourage me.",,Irritated,InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,,I have little enough faith in people as it is. I'd prefer not to lose any more.,"Isaac: Here you are then, something to aid in your future missions, courtesy of the BioScience Division.",Irritated,InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,"Player Default: Not sure I'd call it smooth, but it's taken care of.","Good enough, I suppose.","Isaac: Here you are then, something to aid in your future missions, courtesy of the BioScience Division.",Neutral,InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,Player Default: Does it really matter how smoothly it went?,Being a member of the Institute means holding yourself to a higher standard.,,A stern lecture / Stern,InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,,"It means efficiency and diligence, attention to detail and an exacting thoroughness.",,A stern lecture / Stern,InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,,It's not enough just to do a job. It must be done well.,,A stern lecture / Stern,InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,,"At any rate, I'm sure you did the best you could.","Isaac: Here you are then, something to aid in your future missions, courtesy of the BioScience Division.","Dismissive, almost disrespectful / Neutral",InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,"Player Default: Splendid, splendid.","Here you are then, something to aid in your future missions, courtesy of the BioScience Division.",,Neutral,InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,,"That will be all, thank you very much. Goodbye.",,"Hurried, impatient / Neutral",InstM01IsaacSceneComplete
+Scene,SceneDialogue,Custom,,Player Default: It won't be a problem.,I trust that it won't.,"Isaac: Now listen closely, because this next part is vitally important.",Condescending / Confident,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,"Player Default: Don't patronize me, pencilneck.","I... I meant no offense. Just, uh... well, let's move on.","Isaac: Now listen closely, because this next part is vitally important.",Nervous,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,Player Default: Just give me the seeds.,"Patience, man! Rushed work is shoddy work, and we do not do shoddy work here.","Isaac: Now listen closely, because this next part is vitally important.","Very annoyed, bordering on angry / Angry",InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,Player Default: Seeds for what?,"A melon plant that will, if my calculations are correct, be able to grow even in heavily irradiated soil.",,Confident,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,,The fruit it bears will be perfectly healthy and edible. Or so I hope.,"Isaac: Now listen closely, because this next part is vitally important.",Neutral,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,Isaac: I trust that it won't.,"Now listen closely, because this next part is vitally important.",,"Emphasize ""vitally"" / Neutral",InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,,"When Roger asks how your trip was, tell him some Bloodbugs chased you halfway across the Commonwealth.",,Neutral,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,,That code phrase will identify you as an agent of the Institute.,,Neutral,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,,"Also, you must be discrete! Do nothing to draw attention to yourself or raise suspicion.",Player Default: I understand.,"Emphasize ""must"". Be insistent, urging caution, this is important.",InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,Player Default: A code phrase? What a joke.,"No, sir, it is no joke. You had better start taking our work more seriously if you intend to have a future here.",Isaac: Now hurry on to Warwick Homestead so we can begin the experiment.,Irritated,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,"Player Default: Maybe I should get a secret decoder ring, too.",A secret decoder ring? What a fascinating suggestion. I'll have to look into that.,Isaac: Now hurry on to Warwick Homestead so we can begin the experiment.,Puzzled,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,Player Default: And if your synth has been compromised?,"Then you'll have to improvise. You seem clever, I'm sure you'll manage.",Isaac: Now hurry on to Warwick Homestead so we can begin the experiment.,Condescending / Neutral,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,"Player Default: No, sir, it is no joke. You had better start taking our work more seriously if you intend to have a future here.",Now hurry on to Warwick Homestead so we can begin the experiment.,,Dismissive / Neutral,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,NPCMIsaacKarlin: I need your assistance with a simple errand on the surface. Allow me to explain.,"Some time ago, we covertly replaced the family patriarch at Warwick Homestead with a synth.",,Exposition / Neutral,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,,He's been field-testing a variety of genetically-modified seeds that I created.,Isaac: Take this packet of seeds to the Roger Warwick synth.,Neutral,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,Isaac: He's been field-testing a variety of genetically-modified seeds that I created.,Take this packet of seeds to the Roger Warwick synth.,,,InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,,Be careful with these! They represent years of genetic manipulation and enhancement.,,"""Don't screw this up"" / Irritated",InstM01IsaacSceneIntro
+Scene,SceneDialogue,Custom,,,Hopefully you can manage such a simple task.,Player Default: It won't be a problem.,Snarky / Sarcastic,InstM01IsaacSceneIntro
+Miscellaneous,Miscellaneous,Greeting,,,"Good day, director.",,"Curt, professional / Neutral",InstM01IsaacSceneIntro
+Miscellaneous,Miscellaneous,Greeting,,,I need your assistance with a simple errand on the surface. Allow me to explain.,"Isaac: Some time ago, we covertly replaced the family patriarch at Warwick Homestead with a synth.",Neutral,InstM01IsaacSceneIntro
+Miscellaneous,Miscellaneous,Greeting,,,"Well well, if it isn't our visitor from the past.",,"Aloof, impatient / Irritated",InstM01IsaacSceneIntro
+Miscellaneous,Miscellaneous,Greeting,,,I need your assistance with a simple errand on the surface. Allow me to explain.,"Isaac: Some time ago, we covertly replaced the family patriarch at Warwick Homestead with a synth.",Neutral,InstM01IsaacSceneIntro
+Miscellaneous,Miscellaneous,Greeting,,,You made a real mess of things at Warwick Homestead.,"Isaac: Oh yes, we know all about what happened.","Angry, stern / Stern",InstM01IsaacSceneFailed
+Miscellaneous,Miscellaneous,Hello,,,"Remember, use discretion! We don't want to blow our synth's cover.",,,
+Miscellaneous,Miscellaneous,Hello,,,Warwick Homestead is on Nut island. Just look for the old waste treatment plant.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Bit of a blunt instrument, aren't you? Kellogg was much the same. Very well then, down to brass tacks.",,Surprised,
+Miscellaneous,Miscellaneous,SharedInfo,,,*Sigh* How unsurprising.,,Depressed,
+Miscellaneous,Miscellaneous,SharedInfo,,,No doubt Doctor Holdren preferred to boast about the importance of the BioScience division rather than tell you the details of my situation.,,Depressed,
+Miscellaneous,Miscellaneous,SharedInfo,,,"The man is useless, I tell you. Very well, I suppose it falls to me.",,Irritated,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Frankly, I resent Doctor Holdren claiming that I ""need help"". There's a subtle insinuation there that I don't care for.",,Irritated,
+Miscellaneous,Miscellaneous,SharedInfo,,,I simply require your services to make a delivery to one of our operatives on the surface.,,,
+Scene,SceneDialogue,Custom,,"Clayton: Well, that's a question best left to our colleagues in the Robotics division.","Yes, well... I suppose you're right.",,,DialogueInstituteClaytonIsaac1Scene
+Scene,SceneDialogue,Custom,,,Have you had time to examine my latest reports on batch two-seven-four?,Clayton: Not yet. I've been reviewing Father's plans to expand our operations at Warwick.,,DialogueInstituteClaytonIsaac1Scene
+Scene,SceneDialogue,Custom,,"Clayton: He's eager to get that going, so I've had to put everything else to one side.",I wonder how the Warwick family is doing. Young Wally must be close to ten years old by now.,,,DialogueInstituteClaytonIsaac1Scene
+Scene,SceneDialogue,Custom,,,It's remarkable that any child can survive for so long up there.,Clayton: I... try not to think too much about it. We have more than enough to occupy ourselves here.,,DialogueInstituteClaytonIsaac1Scene
+Scene,SceneDialogue,Custom,,Clayton: Those people are the last remnants of a dying past. It's best not to dwell on the subject.,"They're still people, and they're suffering. We can at least admit that it's regrettable.",,,DialogueInstituteClaytonIsaac1Scene
+Scene,SceneDialogue,Custom,,,"After all, how can we hope to redefine mankind if we can't even hold on to our own humanity?","Clayton: Well, that's a question best left to our colleagues in the Robotics division.",,DialogueInstituteClaytonIsaac1Scene
+Scene,SceneDialogue,Custom,,Clayton: Did you add those new strains of triacanthos we discovered to the database?,"Yes, Doctor Holdren, it's taken care of.","Clayton: Good man, good man.","Snippy, annoyed",DialogueInstituteHydroponics4Scene
+Scene,SceneDialogue,Custom,,Clayton: Did you add those new strains of triacanthos we discovered to the database?,"I told you that I would. Well, unsurprisingly, I have.","Clayton: Good man, good man.","Snippy, annoyed",DialogueInstituteHydroponics4Scene
+Scene,SceneDialogue,Custom,,"Clayton: Good man, good man.","The compliment is quite unnecessary, Doctor Holdren.",,"Snippy, annoyed",DialogueInstituteHydroponics4Scene
+Scene,SceneDialogue,Custom,,"Clayton: Good man, good man.",Thanking a man for doing his duty is like thanking a dog for barking.,,"Snippy, annoyed",DialogueInstituteHydroponics4Scene
+Scene,SceneDialogue,Custom,,,"Doctor Volkert, one of my valeriana officinalis specimens is missing. Do you know anything about it?","Dean: Doctor Li's been having trouble sleeping, so I used it to make a remedy.","Annoyed, confrontational... you assume Volkert's guilty",DialogueInstituteHydroponics3Scene
+Scene,SceneDialogue,Custom,,,One of the ginger plants is gone. Was this another of your medical emergencies?,"Dean: Doctor Li's been having trouble sleeping, so I used it to make a remedy.","Annoyed, even petulant",DialogueInstituteHydroponics3Scene
+Scene,SceneDialogue,Custom,,"Dean: Doctor Li's been having trouble sleeping, so I used it to make a remedy.",You had no right!,"Dean: Save it, Isaac. You know I have full access to the garden when it comes to medicinal matters.","Haughty, annoyed, how dare you",DialogueInstituteHydroponics3Scene
+Scene,SceneDialogue,Custom,,"Dean: Doctor Li's been having trouble sleeping, so I used it to make a remedy.",This is unacceptable. I had plans for that root!,"Dean: Save it, Isaac. You know I have full access to the garden when it comes to medicinal matters.",Angry / Irritated,DialogueInstituteHydroponics3Scene
+Miscellaneous,Miscellaneous,SharedInfo,,,"My condolences on the loss of your son, director.",,Sympathetic / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,I trust we won't be seeing the Brotherhood of Steel again anytime soon.,,Confident / Confident,
+Miscellaneous,Miscellaneous,Hello,,,"My condolences on the loss of your son, director.",,Sympathetic / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,"My condolences on the loss of your son, director.",,Sympathetic / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,I trust we won't be seeing the Brotherhood of Steel again anytime soon.,,Confident / Confident,
+Miscellaneous,Miscellaneous,Hello,,,"I admit it, you've been more of a help to us than I expected.",,Begrudging admission / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,I'm sure the Facilities division is relieved to have the new reactor online.,,"You're saying ""Good job"" in a roundabout way. / Neutral",
+Miscellaneous,Miscellaneous,Hello,,,"I hope that when the time comes, you'll take your responsibilities as director seriously.",,"Measured, uncertain",
+Miscellaneous,Miscellaneous,Hello,,,"I was surprised when Father named you as his successor, but I'm sure he knows what he's doing.",,"Measured, uncertain",
+Scene,SceneDialogue,Custom,,"InstituteScientist: Doctor Karlin, a retrieval team just sent back preliminary test results from one of our surface crops.",Go on.,"InstituteScientist: The specimens are showing an abnormal growth rate. They were designed to thrive in a radiated environment, but we didn't expect these results.",Interested / Neutral,DialogueInstituteHydroponicsScene5
+Scene,SceneDialogue,Custom,,"InstituteScientist: The specimens are showing an abnormal growth rate. They were designed to thrive in a radiated environment, but we didn't expect these results.",What a peculiar result...I'd like it brought back to the lab so I can test the rate of cellular degeneration.,InstituteScientist: I'll let them know immediately.,Curious / Neutral,DialogueInstituteHydroponicsScene5
+Miscellaneous,Miscellaneous,Hello,,,We're already seeing remarkable results from the new specimen at Warwick.,,Excited / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,The early results from those new seeds you delivered are remarkable.,,Excited / Friendly,

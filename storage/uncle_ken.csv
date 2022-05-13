@@ -1,0 +1,69 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Mitch: My uncle's safe and alive. The stranger's always steered us right.,What? The mainlander threatened me. Chased me from my home. Allen's a good boy. Listen to him.,Mariner: Everyone hear about Machete Mike? He was found dead. I don't have proof...,,DLC03MQ05_0500c_SpareAvery
+Scene,SceneDialogue,Custom,,Mitch: My uncle's safe and alive. The stranger's always steered us right.,What? The mainlander took away my home. Drug me here. Listen to Allen!,Mariner: Everyone hear about Machete Mike? He was found dead. I don't have proof...,,DLC03MQ05_0500c_SpareAvery
+Combat,Combat,Taunt,,,You're getting beaten by an old man. Ha!,,,
+Detection,Detection,NormalToCombat,,,This is my home! Go away!,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Hello? You there? Hello?,,,
+Miscellaneous,Miscellaneous,Hello,,,Oh thank you sooo much for putting me on this rickety dock.,,,
+Miscellaneous,Miscellaneous,Hello,,,Tell them this is my farm. Stop fiddling with everything!,,,
+Miscellaneous,Miscellaneous,Hello,,,Mitch sent men to help. They won't let me do anything any more. Bah!,,,
+Miscellaneous,Miscellaneous,Hello,,,Old Longfellow. Bah! He is a small child next to me.,,,
+Miscellaneous,Miscellaneous,Hello,,,Everyone moaning about the Fog. This Fog is nothing. Much worse when I was young.,,,
+Miscellaneous,Miscellaneous,Hello,,,You took me away from my home. Bah!,,,
+Miscellaneous,Miscellaneous,Hello,,,Mainlanders think the island's easy. We'll see. Haha.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Yes, yes. I am doing well. Goodbye, goodbye.",,,
+Miscellaneous,Miscellaneous,Hello,,,Cassie Dalton says she's the oldest on the island? Bah! It's me. I will live forever.,,,
+Miscellaneous,Miscellaneous,Hello,,,Haha! Those Children of Atom always saying the Fog would get me. Look who is still alive!,,,
+Miscellaneous,Miscellaneous,Hello,,,"The Children of Atom can have their ""peace."" As long as its not on my land.",,,
+Miscellaneous,Miscellaneous,Hello,,,"If you gonna die, DiMA did it right. Head tall. Face your crimes. Good.",,,
+Miscellaneous,Miscellaneous,Hello,,,"In my day, Captains get killed all the time. And now everyone moans - poor Avery, so sad. Bah!",,,
+Miscellaneous,Miscellaneous,Hello,,,"Oh, everyone in Far Harbor is sooo merciful. Spare the poor little machine. Weak!",,,
+Miscellaneous,Miscellaneous,Hello,,,"In my day, everyone does the Captain Dance. Maybe two, three times a year. So don't get no ideas.",,,
+Miscellaneous,Miscellaneous,Hello,,,"You chased off those people at Acadia? Hmph. Had no business on this island, I say.",,Mild approval,
+Scene,SceneDialogue,Custom,,"Player Default: Yes, big hero.",Your thug threatened me. Said he'd drag me from my home!,"Mitch: Uncle, I'm sure it didn't go down that way.","Poor old me, this PC monster! / Angry",DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,"Player Default: Yes, big hero.",Your thug threatened me. Said she'd drag me from my home!,"Mitch: Uncle, I'm sure it didn't go down that way.",Angry,DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,DLC03MaleUncleKen: Go away!,You see? You see those corpses? They're from me!,UncleKen: Unless you're ready for the Long Walk - go away!,"Impressed with himself, comical threat from this wizened old man / SinisterSmile",DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,UncleKen: You see? You see those corpses? They're from me!,Unless you're ready for the Long Walk - go away!,"Player Default: Take it easy, Uncle Ken. Mitch sent me.","Blustery, threatening / SinisterSmile",DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,Player Default: You killed them all? By yourself?,What? Just because I'm an old man you don't think I can protect myself. Wrong!,"Player Default: Take it easy, Uncle Ken. Mitch sent me.","Proud, defiant / Defiant",DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,"Player Default: Take it easy, Uncle Ken. Mitch sent me.",Mitch. My boy Mitch sent you?,UncleKen: He was always a smart one. He sent me the Fog Condensers. Made it safe to breathe here.,"Very abrupt tone shift, he loves his nephew - softens / Surprised",DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,UncleKen: Mitch. My boy Mitch sent you?,He was always a smart one. He sent me the Fog Condensers. Made it safe to breathe here.,UncleKen: Glad to hear he still cares about his old uncle. But you-,"So proud of his boy, appreciative / Grateful",DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,UncleKen: He was always a smart one. He sent me the Fog Condensers. Made it safe to breathe here.,Glad to hear he still cares about his old uncle. But you-,UncleKen: What? What have you done?,"Effusing about his nephew then... FULL STOP, he heard an alarming noise / Friendly",DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,UncleKen: Glad to hear he still cares about his old uncle. But you-,What? What have you done?,UncleKen: They're coming. They're coming!,Horror! / Irritated,DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,UncleKen: What? What have you done?,They're coming. They're coming!,Player Default: Then let's work together.,Deeply worried / Worried,DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,Player Default: Then let's work together.,*groan* Fine.,"UncleKen: I haven't reset my traps, or repaired the defenses.",Irritated,DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,Player Default: What the? This isn't my fault.,"You tromping around, making noise. There's a whole ecosystem here, and you've kicked it.","UncleKen: I haven't reset my traps, or repaired the defenses.","Clipped, ranting - should be amusing / Irritated",DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,"Player Default: What's the plan, Uncle Ken?",*quick exhale* Let me think...,"UncleKen: I haven't reset my traps, or repaired the defenses.",,DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,Player Default: What? What's coming?,Who knows this time.,"UncleKen: I haven't reset my traps, or repaired the defenses.","Quick, time is of the essence / Irritated",DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,Player Default: *groan* Fine.,"I haven't reset my traps, or repaired the defenses.","UncleKen: Quick, do what you can with the workbench supplies. They'll be here, soon!",A bit angry / Angry,DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,"UncleKen: I haven't reset my traps, or repaired the defenses.","Quick, do what you can with the workbench supplies. They'll be here, soon!",,URGENT! / Irritated,DLC03FarHarborS01_200_FoundUncleKen
+Scene,SceneDialogue,Custom,,DLC03MaleUncleKen: Not bad...,"Mitch was a good boy to send you. But still, time to go. Good bye. Good bye.",UncleKen: Before you attract more of them.,"Now trying to bum rush the player out the door, please be comical / Friendly",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,"UncleKen: Mitch was a good boy to send you. But still, time to go. Good bye. Good bye.",Before you attract more of them.,"Player Default: Stay safe, Uncle Ken.",This bit said under the breath / Irritated,DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,"Player Default: Stay safe, Uncle Ken.","Yes, very safe. Now leave.","Player Default: Just consider this a vacation. You'll come back later, when it's safe.","Barely paying attention, just trying to get the player to leave / Irritated",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,"Player Default: Stay here and you're going to be taking that ""Long Walk"" yourself.","Yes, walking's good for you. Now go.","Player Default: Just consider this a vacation. You'll come back later, when it's safe.","Comically not paying attention, shooing the player away / Irritated",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,Player Default: Mitch sent me to bring you home. Safely. Please go to Far Harbor.,This is my home. And what? You want me to huddle like a beggar in Far Harbor.,,"Uproar, affronted / Irritated",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,,I... I can't just leave.,"Player Default: Just consider this a vacation. You'll come back later, when it's safe.",But then gets unsteady / Nervous,DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,Player Default: Mitch sent me to bring you home. Safely. Please go to Far Harbor.,"Mitch worries too much. I'll be fine. Now go, show yourself out.","Player Default: Just consider this a vacation. You'll come back later, when it's safe.","Brushes off concern, then shoos player / Irritated",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,Player Default: Why would you possibly stay here? It's dangerous.,My family's lived here for seven generations. I will not disrespect their memory.,,"Proud, defiant! / Defiant",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,,Now go.,"Player Default: Stay safe, Uncle Ken.",Now back to shooing the player away / Irritated,DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,Waitress: She actually did it.,Did what? Chase me from my home? We should dump her in the Harbor.,Player Default: I probably saved your life.,Bitter (should be funny) / Irritated,DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,Waitress: She actually did it.,Did what? Chase me from my home? We should dump him in the Harbor.,Player Default: I probably saved your life.,Irritated,DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,Player Default: I probably saved your life.,"Yes, big hero.",UncleKen: Your thug threatened me. Said he'd drag me from my home!,Mocking the player (humor) / Irritated,DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,Player Default: You're a pain in the ass.,"You're no snowflake, either, mainlander.",UncleKen: Your thug threatened me. Said he'd drag me from my home!,Mocking the player (humor) / Irritated,DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,"Player Default: Well, the job's done.","Oh goodie, now I can live as a capless beggar. Thank you very much.",UncleKen: Your thug threatened me. Said he'd drag me from my home!,False comical gratitude / Irritated,DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,Player Default: You're really not grateful? You get to see your boy again.,*sigh* It is good to see family again. He never visits or writes.,,"Grudgingly admits he's happy, then goes straight to bitching / Irritated",DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,Player Default: You're really not grateful? You get to see your boy again.,Ha. The only thing I'm grateful for is you didn't burn down my house.,UncleKen: Your thug threatened me. Said he'd drag me from my home!,Comically still ranting / Irritated,DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,"Player Default: Just consider this a vacation. You'll come back later, when it's safe.",You are so... persistent. Fine. You happy? You've chased me from my home.,,"Bitter, should be amusingly read / Irritated",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,,I'll pack my things.,,"Resigned, irritated / Irritated",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,"Player Default: Just consider this a vacation. You'll come back later, when it's safe.",You won't fool me. I'm staying. Now get off my land.,,Heels firmly dug in / Defiant,DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,"Player Default: It's your funeral, then.",Good. I'll be the only one in attendance. Now go!,,"Shooing the player off, unphased / Irritated",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,"Player Default: How about this. I'm not asking you, old man. I'm dragging you back.","Oh fine, threaten an old man, big shot. I'll go back. You have my word.",,"Comical, overplaying the threat and ""Woe is me!"" / Irritated",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,"Player Default: How about this. I'm not asking you, old man. I'm dragging you back.",Ha! See all the bodies? I've survived worse than you. Now go away!,,"Not impressed, heels firmly dug in / Defiant",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,Player Default: You have living family that cares about you. Are you just going to turn your back on him?,I am an old man. I just want to live out my days on my land.,,"Not afraid of death, defiant / Defiant",DLC03FarHarborS01_400_PostDefense
+Scene,SceneDialogue,Custom,,,You wouldn't understand.,"Player Default: Just consider this a vacation. You'll come back later, when it's safe.",Irritated,DLC03FarHarborS01_400_PostDefense
+Miscellaneous,Miscellaneous,Greeting,,,My boy!,Waitress: She actually did it.,Genuinely happy / Happy,DLC03FarHarborS01_500a_KenReunion
+Miscellaneous,Miscellaneous,Greeting,,,Not bad...,"UncleKen: Mitch was a good boy to send you. But still, time to go. Good bye. Good bye.",Impressed... / Impressed,DLC03FarHarborS01_400_PostDefense
+Miscellaneous,Miscellaneous,Greeting,,,Go away!,UncleKen: You see? You see those corpses? They're from me!,Raised voice / Irritated,DLC03FarHarborS01_200_FoundUncleKen
+Miscellaneous,Miscellaneous,Hello,,,Far Harbor is just terrible. It's noisy and crowded.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Yes, you've been very helpful. Now leave me alone.",,,
+Miscellaneous,Miscellaneous,Hello,,,They'll be here any time now!,,,
+Miscellaneous,Miscellaneous,Hello,,,Tromping around my home. Hmm.,,,

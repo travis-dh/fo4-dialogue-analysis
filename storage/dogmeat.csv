@@ -1,0 +1,43 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,SharedInfo,,,(alert bark),Dogmeat: (alert bark),,002DogmeatIntroScene
+Scene,SceneDialogue,Custom,,"NickValentine: Ready to get to work, Dogmeat?",*Bark!*,,,MQ105_019_DogmeatScene
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: Dogmeat. Get the scent boy...,,"Player Default: Take me to him, boy. Take me to Shaun...",,MQ105_021_DogmeatScene
+Scene,SceneDialogue,Custom,,"Player Default: Take me to him, boy. Take me to Shaun...",,,,MQ105_021_DogmeatScene
+Scene,SceneDialogue,Custom,,"Player Default: Get Kellogg, boy. Take me to that son of a bitch...",,,,MQ105_021_DogmeatScene
+Scene,SceneDialogue,Custom,,Player Default: I'm trusting my family's future to a dog. That's it. I'm officially crazy.,,,,MQ105_021_DogmeatScene
+Scene,SceneDialogue,Custom,,"Player Default: Got something, boy?",,,,MQ105_021_DogmeatScene
+Scene,SceneDialogue,Custom,,"Player Default: Say, that's not a bad idea. Some dogs out there in the Commonwealth can track a man for miles.",*Bark!*,"NickValentine: Well, Dogmeat seems eager for the job. Why don't you let him have a whiff? See if he picks up on the trail.",,MQ105_017_NickScene
+Miscellaneous,Miscellaneous,SharedInfo,,,(attention-getting whimper),,"not sad - this is a sound a dog makes that wants something, like food or to be let out.",MQ106_DogmeatRunstoDoorScene
+Miscellaneous,Miscellaneous,SharedInfo,,,(playful bark),,,MQ106_DogmeatRunstoDoorScene
+Miscellaneous,Miscellaneous,SharedInfo,,,(playful howl),,,MQ106_DogmeatRunstoDoorScene
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,
+Scene,SceneDialogue,Custom,,BoS201Maxson: Ad victoriam!,(barking),BoS201Speech01: Ad victoriam!,,BoS201_06_MaxsonStage130
+Miscellaneous,Miscellaneous,SharedInfo,,,(mournful howl),,,
+Miscellaneous,Miscellaneous,SharedInfo,,,(sad whimper),,,
+Miscellaneous,Miscellaneous,SharedInfo,,,(pained whimper),,,
+Miscellaneous,Miscellaneous,SharedInfo,,,(angry bark),,,
+Miscellaneous,Miscellaneous,SharedInfo,,,(warning growl),,,
+Miscellaneous,Miscellaneous,SharedInfo,,,(vicious snarl),,,
+Combat,Combat,Hit,,,,,,
+Combat,Combat,Death,,,,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,(curious sound),,,
+Miscellaneous,Miscellaneous,SharedInfo,,,(yawn),,,
+Miscellaneous,Miscellaneous,SharedInfo,,,(playful growl),,,
+Miscellaneous,Miscellaneous,Idle,,,,,,
+Miscellaneous,Miscellaneous,Idle,,,,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,,myActor:,intentionally left blank,AO_Dogmeat_FindContainer_Scene
+Scene,SceneDialogue,Custom,,myActor:,,myActor:,intentially left blank,AO_Dogmeat_FindContainer_Scene
+Scene,SceneDialogue,Custom,,myActor:,,,intentionally left blank,AO_Dogmeat_FindContainer_Scene
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,AO_Dogmeat_FindHostile_Scene
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,AO_Dogmeat_FindHostile_Scene
+Miscellaneous,Miscellaneous,SharedInfo,,,,,intentionally left blank,DogmeatGotoPlayerScene
+Scene,SceneDialogue,Custom,,,(friendly bark),NPC: What a mangy mutt.,,DogDistasteSCN01
+Scene,SceneDialogue,Custom,,,(Friendly bark),"NPC: Well hey there, pup.",,DogInt02SCN

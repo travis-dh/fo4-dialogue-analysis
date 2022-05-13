@@ -1,0 +1,45 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you have.,Certainly.,,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you have.,We got what you need.,,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you have.,You got my attention.,,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you have.,"If you got caps, we got the goods.",,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,"Player Default: No, thanks.","Well, if you change your mind.",,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,"Player Default: No, thanks.",I get you.,,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,"Player Default: No, thanks.","Well, don't loiter too long, then.",,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,"Player Default: No, thanks.","Well, maybe later, then.",,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,Player Default: I'm thinking about it.,Just flag me over if you need me.,,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,Player Default: I'm thinking about it.,Well take a load off until you decide.,,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,Player Default: I'm thinking about it.,Grab me if you need me later.,,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,Player Default: I'm thinking about it.,Take your time.,,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,Player Default: What do you have to drink?,"All sorts of Old World booze. We carry Vim!, too.",,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,,"And before you ask, Vim! is an islander favorite. But it may pack more punch than the stuff you're used to.",Player Default: Let's see what you have.,,DLC03DialogueFarHarbor_DebbyVendor
+Miscellaneous,Miscellaneous,Hello,,,I... uh... You're kind of a big deal. Wow.,,,
+Miscellaneous,Miscellaneous,Greeting,,,"What's your order, sweety?",Player Default: Let's see what you have.,,DLC03DialogueFarHarbor_DebbyVendor
+Miscellaneous,Miscellaneous,Greeting,,,You want a drink?,Player Default: Let's see what you have.,,DLC03DialogueFarHarbor_DebbyVendor
+Miscellaneous,Miscellaneous,Greeting,,,"The Plank's the only bar in town. So if you need a drink, don't be shy.",Player Default: Let's see what you have.,,DLC03DialogueFarHarbor_DebbyVendor
+Miscellaneous,Miscellaneous,Greeting,,,I hope mainlanders tip better than my regulars. Whatcha need?,Player Default: Let's see what you have.,,DLC03DialogueFarHarbor_DebbyVendor
+Scene,SceneDialogue,Custom,,Mitch: Your damned cat knocked something over. Again.,"Aw, Tink don't mean anything by it, Mitch.","Mitch: I swear, her tail's a menace. Does she even know it's attached to her bleeding hide?",Defiant,DLC03ConvFarHarborMitchCat_01
+Scene,SceneDialogue,Custom,,"Mitch: I swear, her tail's a menace. Does she even know it's attached to her bleeding hide?","If you want me to work in this flea-ridden bar of yours, you'll watch your tone.",Mitch: Fine.,Firm / Stern,DLC03ConvFarHarborMitchCat_01
+Miscellaneous,Miscellaneous,Hello,,,"You want a bite, either Mitch or I can take your order.",,,
+Miscellaneous,Miscellaneous,Hello,,,"If you need a room, see Mitch.",,,
+Miscellaneous,Miscellaneous,Hello,,,"If you don't like the service, there's the door.",,,
+Miscellaneous,Miscellaneous,Hello,,,We're the only bar in town.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Oh, I think Tink likes you. Here, kitty.",,,
+Miscellaneous,Miscellaneous,Hello,,,Mitch won't say it but: thank you.,,,
+Scene,SceneDialogue,Custom,,DLC03MaleMitch: Everyone! Make way.,Did you really kill the Queen? The Mariner said you did.,"Mitch: Don't pester her, Debby. Of course she did. Now this is what a bad ass looks like.",In awe / Awed,DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,Mitch: I fear we had you all wrong.,"Well, Captain Avery didn't.","Mitch: Right, holier than thou Avery got the right of it. And thanks for reminding me. *sigh*",Smart alec / Irritated,DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,Player Default: And the others we find floating face down in the harbor. But not you!,Mitch. I mean. Since she did the Captain's Dance. Maybe... your uncle?,Mitch: That's my own family business.,"Unsteady, but this is important / Nervous",DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,Player Default: And the others we find floating face down in the harbor. But not you!,Mitch. I mean. Since he did the Captain's Dance. Maybe... your uncle?,Mitch: That's my own family business.,Nervous,DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,Mitch: That's my own family business.,Ma'am. Mitch's too damned proud. But we're worried about Uncle Ken.,"Player Default: If my family was in trouble, I'd do anything to help them.","Ignores Mitch's warning tone, Pleading to PC / Pleading",DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,Mitch: That's my own family business.,Sir. Mitch's too damned proud. But we're worried about Uncle Ken.,"Player Default: If my family was in trouble, I'd do anything to help them.",Pleading,DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,"Player Default: If my family was in trouble, I'd do anything to help them.","You hear that, Mitch? Even someone like her would ask for help.",Waitress: Uncle Ken's the last one still living on the island. The last hold out.,"Grateful, takes strength from the PC / Confident",DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,"Player Default: If my family was in trouble, I'd do anything to help them.","You hear that, Mitch? Even someone like him would ask for help.",Waitress: Uncle Ken's the last one still living on the island. The last hold out.,,DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,"Player Default: For Pete's sake, pride is going to be the death of you lot.",Captain's been saying that for years. Certainly his uncle's in need.,Waitress: Uncle Ken's the last one still living on the island. The last hold out.,Agrees with PC / Friendly,DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,Player Default: I don't want to intrude on anything personal.,Don't believe any of that family business garbage. Mitch needs you.,Waitress: Uncle Ken's the last one still living on the island. The last hold out.,Trying to butter up the PC / Pleading,DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,"Player Default: You hear that, Mitch? Even someone like her would ask for help.",Uncle Ken's the last one still living on the island. The last hold out.,"Mitch: Crazier than a bag full of starved Mole Rats, he is.","Explaining, genuine concern / Concerned",DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,"Mitch: Crazier than a bag full of starved Mole Rats, he is.",Mitch sent him some of the... Fog Condensers? So he might still be alive; he's safe from the Fog.,Mitch: But the campground's got to be swarming with god knows what.,"concerned, hoping / Concerned",DLC03FarHarborS01_100_QuestIntro
+Scene,SceneDialogue,Custom,,DLC03MaleUncleKen: My boy!,She actually did it.,UncleKen: Did what? Chase me from my home? We should dump her in the Harbor.,Impressed,DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,DLC03MaleUncleKen: My boy!,He actually did it.,UncleKen: Did what? Chase me from my home? We should dump her in the Harbor.,Impressed,DLC03FarHarborS01_500a_KenReunion
+Scene,SceneDialogue,Custom,,Mitch: That... That's cause for celebration.,We were worried about him.,Mitch: He really is all right? Do you think he's safe?,Relieved,DLC03FarHarborS01_500b_WithoutKen
+Scene,SceneDialogue,Custom,,Mitch: Here. I... I...,Mitch's at a loss for words.,Mitch: Hush now. I owe you one.,"Gentle, teasing / Amused",DLC03FarHarborS01_500c_Ending
+Miscellaneous,Miscellaneous,Hello,,,Thanks for helping Mitch.,,,

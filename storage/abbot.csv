@@ -1,0 +1,53 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"This ain't no show. You wanna talk, talk.",,player isn't saying anything,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,*sigh* Something wrong with this one...,,"player isn't saying anything, muttering to yourself",
+Miscellaneous,Miscellaneous,Hello,,,Just because Diamond City's lost its mayor don't make the Wall any less the Wall.,,Mayor McDonough revealed to be a Synth and is dead or gone,
+Miscellaneous,Miscellaneous,Hello,,,"Means a lot to this city, you helping keep the Wall pristine.",,,
+Miscellaneous,Miscellaneous,Hello,,,You made the Wall blue. Don't know if I should thank ya or punch ya.,,,
+Miscellaneous,Miscellaneous,Hello,,,"A yellow Wall. *sigh* Well, thanks anyhow.",,,
+Miscellaneous,Miscellaneous,Hello,,,Busy.,,,
+Miscellaneous,Miscellaneous,Hello,,,Don't need to be bothered.,,,
+Miscellaneous,Miscellaneous,Hello,,,Got work to do.,,,
+Scene,SceneDialogue,Custom,,Player Default: It's nice to work with someone who knows how to show respect.,Here's your payment and a little bonus for getting the right shade of green. Don't do anything with it I wouldn't do.,Companion: Yes. Green is best.,,FFDiamondCity01WallGreenScene
+Scene,SceneDialogue,Custom,,"Player Default: Well, let's hope so. I guess it's better than her going into disrepair, but... damn. That's over 200 years of tradition we're moving away from.",Here's your payment. Now get going. I got work to do.,"Companion: If anyone asks, I'm blaming you.",,FFDiamondCity01WallNotGreenScene
+Scene,SceneDialogue,Custom,,Player Default: Don't worry. I won't.,"Good. The Wall keeps out the bad guys, so I appreciate you not messing her up none.","Abbot: Thinking you need a little education. Maybe a bit of community service, what do you say?",,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,"Player Default: Forget you, pal.","Mind your manners. This isn't just some shack I'm painting. This is the Wall, and the great green guardian ain't to be touched.","Abbot: Thinking you need a little education. Maybe a bit of community service, what do you say?",,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,Player Default: What? Why?,"This is the Wall. The great, green guardian that keeps out the bad guys.",,,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,,No one's broken through the Wall. Never. Least we can do for her in return is keep her looking pristine.,"Abbot: Thinking you need a little education. Maybe a bit of community service, what do you say?",,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,Player Default: Whatever.,"""Whatever?"" You don't know what this is, do you? This is the Wall, the great ""green"" guardian.","Abbot: Thinking you need a little education. Maybe a bit of community service, what do you say?",,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,"Abbot: Good. The Wall keeps out the bad guys, so I appreciate you not messing her up none.","Thinking you need a little education. Maybe a bit of community service, what do you say?",Player Default: Happy to help out.,,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,Player Default: Happy to help out.,You see this paint I'm using? Only one place left in the whole Commonwealth you can get it.,,,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,,"Hardware Town. Ruined store close by to the west. Bring back a can of paint, and it'll be 100 caps in your pocket. How's that sound?","Player Default: Actually, I already have some paint right here.",,FFDiamondCity01QuestScene
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: Actually, I already have some paint right here.","Well, ain't that the end-all, be-all. Why don't you go ahead and put a little of that paint on the Wall? See what I got to work with.",,,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,"Player Default: Actually, I already have some paint right here.",Much obliged.,,,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,Player Default: What can you tell me about Hardware Town?,Raiders moved in a ways back. Security says they can't handle them. That's why I'm running low.,,,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,,"So, you still up for it?","Player Default: Actually, I already have some paint right here.",,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,Player Default: Only if you throw in some more money.,Fine. Pay you 125 caps.,"Player Default: Actually, I already have some paint right here.",,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,Player Default: Only if you throw in some more money.,Driving a hard bargain. 150 caps.,"Player Default: Actually, I already have some paint right here.",,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,Player Default: Only if you throw in some more money.,"Got me by the short hairs, here. 200 caps, but that's all I have.","Player Default: Actually, I already have some paint right here.",,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,Player Default: Only if you throw in some more money.,A good samaritan does the work without nit-picking the details. 100 caps. No more.,"Player Default: Actually, I already have some paint right here.",,FFDiamondCity01QuestScene
+Scene,SceneDialogue,Custom,,"Player Default: Wasn't easy, but I found some, yeah.",Now that's damn fine news. Why don't you go ahead and paint the first stroke? Let's see how the shade matches up.,,,FFDiamondCity01ReturnScene
+Scene,SceneDialogue,Custom,,Player Default: Not yet.,*grumbles*,,,FFDiamondCity01ReturnScene
+Scene,SceneDialogue,Custom,,Player Default: What if I couldn't find any green paint? What happens?,"Hmm... people wouldn't be happy. It's the great, """"green"""" guardian, after all. Tradition and such.",,,FFDiamondCity01ReturnScene
+Scene,SceneDialogue,Custom,,,"But if it's between a new color and letting the Wall go into disrepair, I know what I'd choose.",,,FFDiamondCity01ReturnScene
+Scene,SceneDialogue,Custom,,,"So, did you find anything?","Player Default: Wasn't easy, but I found some, yeah.",,FFDiamondCity01ReturnScene
+Scene,SceneDialogue,Custom,,Player Default: I'm working on it.,Well work faster.,,,FFDiamondCity01ReturnScene
+Scene,SceneDialogue,Custom,,Player Default: Happy to help. It's been an honor.,It's nice to work with someone who knows how to show respect.,Abbot: Here's your payment and a little bonus for getting the right shade of green. Don't do anything with it I wouldn't do.,Friendly,FFDiamondCity01WallGreenScene
+Scene,SceneDialogue,Custom,,"Player Default: ""The Wall seems happy with it?"" Oh god.","Yeah, yeah, make with the jokes, but you still helped.",Abbot: Here's your payment and a little bonus for getting the right shade of green. Don't do anything with it I wouldn't do.,Irritated,FFDiamondCity01WallGreenScene
+Scene,SceneDialogue,Custom,,Player Default: You think that's enough paint to last you?,Should be enough for a good coat or two. That'll have to do for now.,Abbot: Here's your payment and a little bonus for getting the right shade of green. Don't do anything with it I wouldn't do.,Thinking,FFDiamondCity01WallGreenScene
+Scene,SceneDialogue,Custom,,Player Default: This is the part where I get paid.,Right you are.,Abbot: Here's your payment and a little bonus for getting the right shade of green. Don't do anything with it I wouldn't do.,,FFDiamondCity01WallGreenScene
+Scene,SceneDialogue,Custom,,Player Default: I think it'll look good.,"Well, let's hope so. I guess it's better than her going into disrepair, but... damn. That's over 200 years of tradition we're moving away from.",Abbot: Here's your payment. Now get going. I got work to do.,,FFDiamondCity01WallNotGreenScene
+Scene,SceneDialogue,Custom,,"Player Default: People don't like it, too bad.","Well, I can't begrudge the person who did the actual work, but you're flying in the face of over 200 years of tradition here. There's gonna be talk.",,,FFDiamondCity01WallNotGreenScene
+Scene,SceneDialogue,Custom,,,Oh well... beats seeing her in disrepair...,Abbot: Here's your payment. Now get going. I got work to do.,Depressed,FFDiamondCity01WallNotGreenScene
+Scene,SceneDialogue,Custom,,Player Default: You think people are going to be upset?,The Wall's been green for over 200 years. That kind of tradition ain't somethin' that folks want changed.,,Irritated,FFDiamondCity01WallNotGreenScene
+Scene,SceneDialogue,Custom,,,"But we gotta make do with what we got, don't we? And I ain't letting her fall into disrepair on account of the color.",Abbot: Here's your payment. Now get going. I got work to do.,Depressed,FFDiamondCity01WallNotGreenScene
+Scene,SceneDialogue,Custom,,"Player Default: You asked for paint, you got it.",The Wall's been green for over 200 years. Folks aren't gonna like this.,,Depressed,FFDiamondCity01WallNotGreenScene
+Scene,SceneDialogue,Custom,,,"Oh well, better than seeing her in disrepair.",Abbot: Here's your payment. Now get going. I got work to do.,Depressed,FFDiamondCity01WallNotGreenScene
+Miscellaneous,Miscellaneous,Greeting,,,Mmmhmm. That's a good shade of green. The Wall sure seems happy with it.,Player Default: Happy to help. It's been an honor.,Friendly,FFDiamondCity01WallGreenScene
+Miscellaneous,Miscellaneous,Greeting,,,Blue? You know what you're doing there? The Wall ain't blue.,Player Default: I think it'll look good.,player just showed you he brought back blue paint instead of green / Puzzled,FFDiamondCity01WallNotGreenScene
+Miscellaneous,Miscellaneous,Greeting,,,Yellow? You know what you're doing there? The Wall ain't yellow.,Player Default: I think it'll look good.,player just showed you he brought back blue paint instead of green / Puzzled,FFDiamondCity01WallNotGreenScene
+Miscellaneous,Miscellaneous,Greeting,,,"You ready to help out, now? Get that paint from Hardware Town.","Player Default: Actually, I already have some paint right here.",,FFDiamondCity01QuestScene
+Miscellaneous,Miscellaneous,Greeting,,,Don't touch the paint.,Player Default: Don't worry. I won't.,,FFDiamondCity01QuestScene
+Miscellaneous,Miscellaneous,Greeting,,,You're back. You find that paint?,"Player Default: Wasn't easy, but I found some, yeah.",,FFDiamondCity01ReturnScene
+Miscellaneous,Miscellaneous,Hello,,,Go ahead and put some paint on the Wall. Honor is yours and all that.,,,
+Miscellaneous,Miscellaneous,Hello,,,Good luck getting that paint.,,,

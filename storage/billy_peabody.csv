@@ -1,0 +1,157 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,NPCMBilly: Thank you! Thank you so much.,Everything's so different.,,Surprised,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,I guess I was in there for a really long time.,,Sad,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,What do I do now?,Player Default: I'll take you some place safe.,Worried,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Billy: Ugh. My legs are so stiff.,It's really bright out. I haven't seen the sun in so long.,,light hurts his eyes / InPain,MS01BillyGetOut
+Scene,SceneDialogue,Custom,,Billy: Ugh. My legs are so stiff.,"Whoa, it's night time and it's still kinda bright! It was always pitch black in the fridge.",,Surprised,MS01BillyGetOut
+Scene,SceneDialogue,Custom,,"Bullet: You can give them up peaceful like, or die trying to save them.",That's the man that tried to buy me.,CarolPeabody: Oh my god! They want Billy!,Afraid,MS01BulletSurround
+Scene,SceneDialogue,Custom,,"Bullet: You can give them up peaceful like, or die trying to save them.",Why does he want me?,CarolPeabody: Oh my god! They want Billy!,Puzzled,MS01BulletSurround
+Scene,SceneDialogue,Custom,,Player Default: I felt bad for selling you. I had to make it right.,You should feel bad. That was a rotten thing to do.,,"sullen, accusatory / Irritated",MS01BillyRescued
+Scene,SceneDialogue,Custom,,,At least you came back for me. Thanks.,,relieved / Irritated,MS01BillyRescued
+Scene,SceneDialogue,Custom,,,Can we go to my house now? I want to find out what happened to my Mom and Dad.,,Worried,MS01BillyRescued
+Scene,SceneDialogue,Custom,,Player Default: You're going to show me where you lived so I can loot it.,You want to steal my baseball cards or something?,,Suspicious,MS01BillyRescued
+Scene,SceneDialogue,Custom,,,We weren't rich. You aren't going to find anything to steal there.,,Suspicious,MS01BillyRescued
+Scene,SceneDialogue,Custom,,Player Default: I did it to trick Bullet into giving me the money.,Maybe you could have told me that. I thought you really sold me.,,Irritated,MS01BillyRescued
+Scene,SceneDialogue,Custom,,Player Default: Do you want to go home?,"Don't want to tell me, huh?",,Irritated,MS01BillyRescued
+Scene,SceneDialogue,Custom,,,Fine. Let's go home and find out what happened to my Mom and Dad.,,Irritated,MS01BillyRescued
+Scene,SceneDialogue,Custom,,Player Default: Let me open the door for you.,Yes! It's been so long.,,"The ""yes"" is triumphant. / Grateful",MS01BillyStart
+Scene,SceneDialogue,Custom,,,The door is stuck. You're going to have to shoot it off.,"Player Default: Okay, okay. I'll let you out.",,MS01BillyStart
+Scene,SceneDialogue,Custom,,Player Default: I'm not falling for that trick.,You bastard! You can't do this! Let me out!,"Player Default: Okay, okay. I'll let you out.",Angry,MS01BillyStart
+Scene,SceneDialogue,Custom,,"Player Default: Okay, okay. I'll let you out.",Yes! I've been stuck in here for so long.,,"The ""yes"" is triumphant / Grateful",MS01BillyStart
+Scene,SceneDialogue,Custom,,,Hurry up. Shoot the door off.,,,MS01BillyStart
+Scene,SceneDialogue,Custom,,Player Default: No way. You're lying.,You son of a bitch! You can't do this! Don't leave me here!,,Angry,MS01BillyStart
+Scene,SceneDialogue,Custom,,Player Default: Let me think about it.,You're just going to leave me in here?,,Disbelief,MS01BillyStart
+Scene,SceneDialogue,Custom,,,Don't go! Come back!,,Afraid,MS01BillyStart
+Scene,SceneDialogue,Custom,,Billy: You son of bitch! I'll get you for this!,Thanks mister. You're all right.,,Grateful,MS01BulletsOffer
+Scene,SceneDialogue,Custom,,Billy: You son of bitch! I'll get you for this!,Thanks lady. You're all right.,,Grateful,MS01BulletsOffer
+Scene,SceneDialogue,Custom,,,Is someone there?,,,MS01PCnearFridge
+Scene,SceneDialogue,Custom,,,I can hear you.,,,MS01PCnearFridge
+Scene,SceneDialogue,Custom,,,Get me out of this thing!,,,MS01PCnearFridge
+Scene,SceneDialogue,Custom,,Player Default: Why should I trust you?,I'm really tired and lonely.,,Depressed,MS01BillyStart
+Scene,SceneDialogue,Custom,,,Can't you just open the door?,"Player Default: Okay, okay. I'll let you out.",pleading / Pleading,MS01BillyStart
+Scene,SceneDialogue,Custom,,,Ugh. My legs are so stiff.,Billy: It's really bright out. I haven't seen the sun in so long.,InPain,MS01BillyGetOut
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: Is someone in there?,Let me out!,Player Default: I'll open the door for you.,demanding / Afraid,MS01BillyStart
+Scene,SceneDialogue,Custom,,,Mom? Dad? Are you in there?,CarolPeabody: Billy? Billy!,He thinks they might be dead / Worried,MS01PeabodyReunite
+Scene,SceneDialogue,Custom,,MattPeabody: Son? Is that really you?,It's me. It's really me.,CarolPeabody: Oh my god!,Happy,MS01PeabodyReunite
+Scene,SceneDialogue,Custom,,CarolPeabody: We thought you were dead.,What happened to you? You're all burned up like me.,"MattPeabody: We're ghouls, Billy.",Puzzled,MS01PeabodyReunite
+Scene,SceneDialogue,Custom,,CarolPeabody: Your dad and I don't care what you look like. We still love you.,"I love you too, mom.",,"reunited, thought he never see her again. / Happy",MS01PeabodyReunite
+Scene,SceneDialogue,Custom,,,I've missed you guys. It's been so long.,,"reunited, thought he never see them again / Happy",MS01PeabodyReunite
+Scene,SceneDialogue,Custom,,MattPeabody: I guess we were some of the lucky ones. Most folks die instead of becoming ghouls. Must be something in both our genes.,So that's why you guys look like me.,"MattPeabody: Yes, Billy that's why.",Surprised,MS01ThankPlayer
+Scene,SceneDialogue,Custom,,"Player Default: You're on your own now, kid.",You... you're just going to leave me here?,,Disbelief,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,You're an... an asshole. I hate you!,"Player Default: Yes, I do. They've been gone for hundreds of years now.",Angry,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,"Player Default: For the right price, yeah.",Please. Don't sell me to this guy!,Bullet: I'll give you 200 caps right now.,begging for his life / Afraid,MS01BulletsOffer
+Scene,SceneDialogue,Custom,,Player Default: What!? Never!,Yeah!,"Bullet: Your loss. If you change your mind, bring him to my camp.",Chiming in with his protector against someone that want to hurt him. / Angry,MS01BulletsOffer
+Scene,SceneDialogue,Custom,,Player Default: What's a ghoul child worth?,Hey! You can't sell me!,Bullet: Plenty. I'll give you 200 caps.,shocked and angry / Disbelief,MS01BulletsOffer
+Scene,SceneDialogue,Custom,,"Player Default: Come on, kid. I've got some holes that need diggin'.",You son of bitch! I'll get you for this!,Billy: Thanks mister. You're all right.,Angry,MS01BulletsOffer
+Scene,SceneDialogue,Custom,,Player Default: Suit yourself.,Figures. You think I'm just something you can sell.,Billy: Thanks mister. You're all right.,sullen / Disgust,MS01BulletsOffer
+Scene,SceneDialogue,Custom,,Player Default: Damn you drive a hard bargain. Here's 350. I'm taking the kid.,I can't believe you tried to sell me.,,indignant / Surprised,MS01BulletsOffer
+Scene,SceneDialogue,Custom,,,You're a real asshole.,Billy: Thanks mister. You're all right.,Angry,MS01BulletsOffer
+Scene,SceneDialogue,Custom,,Player Default: Damn you drive a hard bargain. Here's 350. I'm taking the kid.,You... you sold me! You asshole!,Billy: Thanks mister. You're all right.,Angry,MS01BulletsOffer
+Scene,SceneDialogue,Custom,,Player Default: I'll open the door for you.,Yes! I can't wait to get out.,,"The ""yes"" is triumphant. / Grateful",MS01BillyStart
+Scene,SceneDialogue,Custom,,,I think it's stuck. You might have to shoot it off.,Player Default: Let me open the door for you.,,MS01BillyStart
+Scene,SceneDialogue,Custom,,Player Default: No way. You might be dangerous.,"No, I'm not! I don't have any weapons or anything.",,Pleading,MS01BillyStart
+Scene,SceneDialogue,Custom,,,I've been trapped in here for so long.,,very sad and lonely / Depressed,MS01BillyStart
+Scene,SceneDialogue,Custom,,,Let me out!,Player Default: Let me open the door for you.,demanding / Angry,MS01BillyStart
+Scene,SceneDialogue,Custom,,"Player Default: I'm just looking for the mayonnaise. Maybe you could grab it for me. Second shelf, right next to the pudding.",That's not funny! That's not funny at all! What kind of horrible person would say that to a kid stuck in a refrigerator?,,Afraid,MS01BillyStart
+Scene,SceneDialogue,Custom,,,Besides... I ate the pudding a long time ago.,Player Default: Let me open the door for you.,pleading / Pleading,MS01BillyStart
+Scene,SceneDialogue,Custom,,Player Default: Who are you?,"My name is Billy. Please, I've been trapped in here for so long.",Player Default: Let me open the door for you.,pleading / Pleading,MS01BillyStart
+Scene,SceneDialogue,Custom,,Player Default: Who are you?,What does that matter? Just let me out.,Player Default: Let me open the door for you.,pleading / Pleading,MS01BillyStart
+Scene,SceneDialogue,Custom,,Player Default: How did you end up in there?,I hid in here to get away from the bombs.,,explaining why he did something stupid / Sad,MS01BillyStart
+Scene,SceneDialogue,Custom,,,But there isn't a handle on the inside. And it's really dark in here.,Player Default: Let me open the door for you.,explaining why he did something stupid / Sad,MS01BillyStart
+Scene,SceneDialogue,Custom,,Player Default: How did you end up in there?,I don't know how long I've been in here.,,Depressed,MS01BillyStart
+Scene,SceneDialogue,Custom,,,A long time though. A really long time.,,Depressed,MS01BillyStart
+Scene,SceneDialogue,Custom,,,Please. I don't want to die in here.,"Player Default: Okay, okay. I'll let you out.",pleading / Pleading,MS01BillyStart
+Scene,SceneDialogue,Custom,,Player Default: You might be lying.,I'm not. I swear!,,Pleading,MS01BillyStart
+Scene,SceneDialogue,Custom,,,I got inside to be safe. Now I can't get out.,,"defensive, explaining his stupid act / Concerned",MS01BillyStart
+Scene,SceneDialogue,Custom,,,"If I try something, you can shoot me.","Player Default: Okay, okay. I'll let you out.",pleading / Worried,MS01BillyStart
+Scene,SceneDialogue,Custom,,Player Default: So what's the story with you and that fridge?,It happened so long ago. Back before everything got wrecked.,,wistful / Sad,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,"When I heard the sirens, I tried to find someplace safe.",,remembering a bad time / Worried,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,"When everything started to shake and fall apart, I just crawled inside.",,Afraid,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,"When it got quiet again, I tried to get out, but there isn't a handle on the inside.",,Embarrassed / Apologetic,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,I just want to go home. Can you help me? Please?,Player Default: Then let's go find your home.,pleading / Pleading,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,"Player Default: Well, you're out. See ya later, kid.","Hey, you can't just leave me here!",,shocked and angry / Disbelief,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,Can't ya find someplace for me to live?,Player Default: Then let's go find your home.,pleading / Pleading,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Player Default: I'll take you some place safe.,I just want to go home. I wanna find my mom and dad.,Player Default: Then let's go find your home.,relieved / Relieved,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Player Default: You look like something that was left in the fridge too long.,Oh yeah? Well... well... nevermind.,,Trying to think of a come back and failing. / Defiant,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,Can you help me get back home?,Player Default: Then let's go find your home.,pleading / Pleading,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Player Default: Then let's go find your home.,Thanks. I live in Quincy. Or at least I used to. But I don't know how to get there.,,Grateful,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,Everything's so different. It's all blown up.,Player Default: I suppose it won't hurt to see your old home. Whatever's left of it.,Surprised,MS01BillyOutOfFridge
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: You'll have to figure out your own life.,I guess I'll just sit here until some monster comes and eats me.,,Depressed,MS01BillyOutOfFridge
+Miscellaneous,Miscellaneous,SharedInfo,,,Thanks for nothin'.,Player Default: I suppose it won't hurt to see your old home. Whatever's left of it.,pouting / Angry,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,"Player Default: I hate to tell you this, but your parents are probably dead.",Dead? You really think so?,,Worried,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,Then I'm all alone. Who's going to take care of me? You?,Player Default: I suppose it won't hurt to see your old home. Whatever's left of it.,Trying not to cry / Depressed,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,"Player Default: I hate to tell you this, but your parents are probably dead.",I don't believe you. They're alive and looking for me.,,denying the truth. sullen and defensive. / Defiant,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,Can't you please take me to them? Or at least to my old house?,Player Default: I suppose it won't hurt to see your old home. Whatever's left of it.,pleading / Pleading,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Player Default: Where did you live?,Quincy. But I don't know how to get there.,,Nervous,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,Everything's so different. It's all blown up.,,a little sad as well as surprised / Nervous,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,I just wanna find out what happened to my Mom and Dad.,Player Default: Then let's go find your home.,Worried,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Player Default: Were your parents good to you?,Yeah. My dad was the best. And my mom always took care of me.,"Player Default: Yes, I do. They've been gone for hundreds of years now.",Impressed,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Player Default: I suppose it won't hurt to see your old home. Whatever's left of it.,I hope it's still there. I had some great baseball cards.,"Player Default: Yes, I do. They've been gone for hundreds of years now.",Worried,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Player Default: You could come live with me.,So you think I should give up trying to find my parents?,"Player Default: Yes, I do. They've been gone for hundreds of years now.",Disbelief,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,"Player Default: Yes, I do. They've been gone for hundreds of years now.",You're right. There's no way they're still alive.,,really sad / Depressed,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,I guess I'll come live with you.,,"""better than nothing"" / Depressed",MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,"Player Default: Yes, I do. They've been gone for hundreds of years now.",No. I don't believe you. They have to be alive.,,Defiant,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,And we're going to find them.,,Confident,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,Or at least find out what happened to them.,,Worried,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,"Player Default: No, you should look for your parents.",Then let's go to Quincy.,,Nervous,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,I gotta find out what happened to my Mom and Dad.,,Worried,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Player Default: It's either that or go live by yourself. Your choice.,That's a scary idea. I want to look for my Mom and Dad.,,Afraid,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,,At least we can find out what happened to them.,,Sad,MS01BillyOutOfFridge
+Scene,SceneDialogue,Custom,,Player Default: What does your heart say?,They're still alive. They have to be. I want to go home.,,Worried,MS01BillyOutOfFridge
+Combat,Combat,Flee,,,Don't let the fishmen get me!,,Afraid,
+Combat,Combat,Flee,,,Giant crabmen! Run!,,Afraid,
+Combat,Combat,Flee,,,Ah! Giant lobsters!,,Afraid,
+Combat,Combat,Flee,,,They have guns! Run!,,Afraid,
+Combat,Combat,Flee,,,They're going to shoot us!,,Afraid,
+Combat,Combat,Flee,,,These guys want to kill us!,,Afraid,
+Combat,Combat,Flee,,,Ah! Don't let them hurt me!,,Afraid,
+Miscellaneous,Miscellaneous,SharedInfo,,,You're right. There's no way they're still alive.,,Depressed,
+Miscellaneous,Miscellaneous,SharedInfo,,,I guess I can wander around with you for a while.,,Depressed,
+Miscellaneous,Miscellaneous,Idle,,,I want out!,,a bit muffled with echo. he's inside a refrigerator. / Angry,
+Miscellaneous,Miscellaneous,Idle,,,Get me out of here!,,a bit muffled with echo. he's inside a refrigerator. / Afraid,
+Miscellaneous,Miscellaneous,Idle,,,Let me out.,,monotone. He's been saying this for a long time with no reply. a bit muffled with echo. he's inside a refrigerator.,
+Miscellaneous,Miscellaneous,Idle,,,At least the stars look the same.,,Relieved,
+Miscellaneous,Miscellaneous,Idle,,,That highway is totally wrecked.,,Surprised,
+Miscellaneous,Miscellaneous,Idle,,,I forgot how pretty the sky is.,,Surprised,
+Miscellaneous,Miscellaneous,Idle,,,"Man, those buildings are totally wrecked.",,Surprised,
+Miscellaneous,Miscellaneous,Idle,,,Cindy's dad always told her to stay away from old refrigerators. Told her they were dangerous. Boy was he right.,,Surprised,
+Miscellaneous,Miscellaneous,Idle,,,I miss my Mom.,,Sad,
+Miscellaneous,Miscellaneous,Idle,,,It's so quiet without all the cars.,,Sad,
+Miscellaneous,Miscellaneous,Idle,,,My Dad's gonna kill me for locking myself in that fridge.,,Sad,
+Miscellaneous,Miscellaneous,Idle,,,I wonder if anyone even plays baseball anymore.,,Sad,
+Miscellaneous,Miscellaneous,Idle,,,Even the air smells different.,,Sad,
+Miscellaneous,Miscellaneous,Idle,,,Geez. It seems like everything wants to kill us.,,Sad,
+Miscellaneous,Miscellaneous,Idle,,,That's my home! Or what's left of it.,,Surprised,
+Miscellaneous,Miscellaneous,Idle,,,You made me think they were dead.,,accusatory / Angry,
+Miscellaneous,Miscellaneous,Idle,,,Are you sure this is the right way?,,,
+Miscellaneous,Miscellaneous,Idle,,,"We're going the wrong way. You aren't taking me home, are you.",,Angry,
+Miscellaneous,Miscellaneous,Idle,,,Can we go back outside?,,Surprised,
+Miscellaneous,Miscellaneous,Greeting,,,Who's there?,Billy: Let me out!,Worried,MS01BillyStart
+Miscellaneous,Miscellaneous,Greeting,,,Thank you! Thank you so much.,Billy: Everything's so different.,Grateful,MS01BillyOutOfFridge
+Miscellaneous,Miscellaneous,Greeting,,,At least you got me out of that fridge.,Player Default: I'll take you some place safe.,reluctantly / Grateful,MS01BillyOutOfFridge
+Miscellaneous,Miscellaneous,Greeting,,,"You sold me, then you rescue me? Why?",Player Default: I felt bad for selling you. I had to make it right.,Puzzled,MS01BillyRescued
+Miscellaneous,Miscellaneous,NoticeCorpse,,,Damn. That thing is ugly.,,,
+Miscellaneous,Miscellaneous,Hello,,,Don't leave me in here!,,a bit muffled with echo. he's inside a refrigerator. / Afraid,
+Miscellaneous,Miscellaneous,Hello,,,Asshole.,,Angry,
+Miscellaneous,Miscellaneous,Hello,,,"Hey, this looks like my home town. This is Quincy!",,Surprised,
+Miscellaneous,Miscellaneous,Hello,,,Bullet... he's dead!,,Surprised,
+Miscellaneous,Miscellaneous,Hello,,,I hope we find out what happened to my Mom and Dad.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,"Hey, you have a dog. I like dogs.",,Happy,
+Miscellaneous,Miscellaneous,Hello,,,I guess I was in that fridge for a really long time.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,Are you sure this is the right way?,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,I hope it doesn't take too long to get to my house.,,Concerned,
+Miscellaneous,Miscellaneous,Hello,,,I feel kinda stupid getting locked inside that fridge.,,Concerned,
+Miscellaneous,Miscellaneous,Hello,,,I guess Cindy is probably dead too. She lived on my block. She was a year older than me.,,Sad,
+Miscellaneous,Miscellaneous,Hello,,,Everything is so different out here. It's like a big war happened.,,Disbelief,
+Miscellaneous,Miscellaneous,Hello,,,What do people eat now? There aren't any grocery stores left.,,Disbelief,
+Miscellaneous,Miscellaneous,Hello,,,I'm glad you're helping me.,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,Yeah?,,Happy,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Aren't you gonna say something?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Why you just starin' at me?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Well?,,,
+Miscellaneous,Miscellaneous,Hello,,,I never thought I'd see my mom and dad again. Thanks.,,,
+Miscellaneous,Miscellaneous,Hello,,,I miss my mom. Why did she have to die like that?,,,
+Miscellaneous,Miscellaneous,Hello,,,My dad gets killed just after I find him. It's not fair.,,,
+Miscellaneous,Miscellaneous,Hello,,,I don't care what happens to me any more. My mod and dad are both dead.,,,
+Miscellaneous,Miscellaneous,Idle,,,Can't go outside and play. All my friends are dead.,,Angry,
+Miscellaneous,Miscellaneous,Idle,,,It's almost like being back in that fridge.,,Disgust,

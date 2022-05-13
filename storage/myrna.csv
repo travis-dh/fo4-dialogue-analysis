@@ -1,0 +1,69 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,A bit of everything...,,about to show your wares,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Here's what we got.,,about to show your wares,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Odds and ends...,,about to show your wares,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Everything you need.,,about to show your wares,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Just don't call it junk.,,about to show your wares,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Fine. Leave.,,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,All right.,,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Remember. We don't serve synths.,,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Probably a synth anyway...,,"under your breath, to yourself",MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,That's something a synth would say...,,"under your breath, to yourself",MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Pft. Of course.,,Irritated,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Yeah, sure.",,Irritated,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Fine.,,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Suit yourself.,,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,NPCFMyrna: Oh no. You're not allowed to shop here. No synths.,"Fine. As long as the SYNTH doesn't touch anything, we can do business.",Player Default: Let's see what you've got.,talking to the player / Stern,MyrnaNickScene
+Scene,SceneDialogue,Custom,,Player Default: Keep calm. I'm standing still.,That's exactly what a synth would say. But... I don't know. Are you really... human?,Player Default: Human as the day I was born.,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: You're acting all kinds of crazy.,"I am not crazy! I read the paper! I know the synths are here, walking among us.",,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,,So wait... are you telling me you're human?,Player Default: Human as the day I was born.,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: One statue of David impression, coming up.",Good. Good... Now just answer me one simple question: are you human?,,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,,Because I will not serve a synth...,Player Default: Human as the day I was born.,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Why?,"Because I don't know you, and I will not serve a synth pretending to be... human.",,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,,So are you? Human?,Player Default: Human as the day I was born.,,MyrnaGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Human as the day I was born.,"Well, you do look human enough, but I'll be watching you. I have eyes like a.... well, they're good eyes, got it?",,,MyrnaGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,All right. We can do business. But no funny stuff.,Player Default: Let's see what you've got.,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: No. Not human at all.,"I knew it! Get away from my stall, you synth. We don't serve you... things here.",Player Default: Let's see what you've got.,"paranoid, hates Synths / Angry",MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: No. I'm Jangles. The Moon Monkey!,That's just what a synth would do! Ducking the question. We don't serve your kind here!,Player Default: Let's see what you've got.,Angry,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Why would you think I'm a synth?,"Why wouldn't I? A synth looks just like a person. With hair, and sweat, and blood and... everything.",,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,,So are you human or not?,Player Default: Human as the day I was born.,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Why would you think I'm a synth?,"A synth. As in, ""synthetic person""? Those... things the Institute makes?",,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,,"Look real. With hair, and sweat, and blood and... everything.",,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,,So are you human or not?,Player Default: Human as the day I was born.,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Can I use this charge card here?,This something synths use to pay for things? We don't take filthy synth money here!,Player Default: Let's see what you've got.,"player is trying to pay with a ""charge card"" - it looks like a worthless piece of plastic",MyrnaGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: What kind of business you running here, anyway?",We buy and sell anything and everything. Seven days a week. Twenty-four hours a day.,,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,,The robot takes care of customers at night. Only one I trust to do it. Least I know he's a machine.,Player Default: Let's see what you've got.,,MyrnaGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Why would you think I'm a synth?,"We buy and sell anything and everything. Seven days a week. Whenever I'm out here. And if I'm not out here, leave me alone.",Player Default: Let's see what you've got.,,MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Oh no. You're not allowed to shop here. No synths.,"Companion: Good to see you too, Myrna. And I'm not the one shopping here. My friend is.",player has Nick Valentine with him. Nick is a Synth. / Stern,MyrnaNickScene
+Miscellaneous,Miscellaneous,Greeting,,,"I said we don't serve your kind here you... synth. Trying to tell me you're human, now?",Player Default: Human as the day I was born.,paranoid / Angry,MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,You. I don't know you. Just keep your distance.,Player Default: Keep calm. I'm standing still.,paranoid,MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Keep away from my stall. I don't know you.,Player Default: Keep calm. I'm standing still.,paranoid,MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Anyway, let's talk business.",Player Default: Keep calm. I'm standing still.,"generic ""coming from another conversation and getting back to business"" line",MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Let's get back to trading. We buy and sell everything.,Player Default: Keep calm. I'm standing still.,"generic ""coming from another conversation and getting back to business"" line",MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Now look, I'm running a store here. Buy something.",Player Default: Keep calm. I'm standing still.,"generic ""coming from another conversation and getting back to business"" line",MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Did you hear? McDonough was a synth! I hope he's rotting somewhere in the ground. If those things can rot... They can, right?",Player Default: Let's see what you've got.,Mayor McDonough revealed to be a Synth and is dead or gone,MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You. Well, I suppose we can do business.",Player Default: Let's see what you've got.,,MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Remember, I don't serve synths. Supplies are just for humans.",Player Default: Let's see what you've got.,,MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"I may sell just about everything, but none of it's scrap.",Player Default: Let's see what you've got.,,MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Every piece in here is worth what I charge for it. No arguments.,Player Default: Let's see what you've got.,,MyrnaGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You again. All right, got plenty of supplies.",Player Default: Let's see what you've got.,,MyrnaGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Not saying anything? Seems like something a synth would do...,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,No sudden moves.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Don't even think of trying anything...,,"paranoid, emphasize ""think""",
+Miscellaneous,Miscellaneous,Idle,,,Diamond City Surplus! Everything you need.,,barking sales pitches,
+Miscellaneous,Miscellaneous,Idle,,,Synth-free shopping! Right here!,,barking sales pitches,
+Miscellaneous,Miscellaneous,Idle,,,Shop in safety. No synths allowed at the Surplus!,,barking sales pitches,
+Miscellaneous,Miscellaneous,Idle,,,The hub of trade for all of Diamond City right here!,,barking sales pitches,
+Miscellaneous,Miscellaneous,Idle,,,"We buy and sell everything, to everyone! Except synths! No synths allowed here.",,barking sales pitches,
+Miscellaneous,Miscellaneous,Hello,,,The robot handles the store at night. Bother him.,,you're off work for the evening,
+Miscellaneous,Miscellaneous,Hello,,,Leave me alone.,,you're off work for the evening,
+Miscellaneous,Miscellaneous,Hello,,,Go away.,,you're off work for the evening,
+Miscellaneous,Miscellaneous,Hello,,,Are you stalking me? Are you... one of them?,,"you're off work for the evening, slightly paranoid, but not yelling",
+Scene,SceneDialogue,Custom,,GenericNPC: Myrna. Got any Fusion Cells in stock?,Why would you need those?,GenericNPC: I was just tinkerin' with some stuff at home. Thought I'd fix up one of those prewar appliances.,"paranoid, suspicious / Suspicious",ConvDiamondCityGenericMyrna01Scene
+Scene,SceneDialogue,Custom,,GenericNPC: I was just tinkerin' with some stuff at home. Thought I'd fix up one of those prewar appliances.,Or maybe you need it to recharge yourself? That's what you things do right?,GenericNPC: What? What are you...,accusing the person of being a Synth,ConvDiamondCityGenericMyrna01Scene
+Scene,SceneDialogue,Custom,,"GenericNPC: Dammit Myrna, I ain't a synth! I was shopping here just yesterday, for crying out loud.",That would've given the Institute an entire evening to snatch you up and replace you!,GenericNPC: I'm not taking this. I'm gone.,,ConvDiamondCityGenericMyrna01Scene
+Scene,SceneDialogue,Custom,,,You. You can't shop here. Diamond City Surplus does not serve Synths.,GenericNPC: Myrna. I keep telling you. I'm human!,,ConvDiamondCityGenericMyrna02Scene
+Scene,SceneDialogue,Custom,,GenericNPC: Myrna. I keep telling you. I'm human!,"Oh sure. You might THINK you're human, but that's just because the Institute has programmed you that way.",,,ConvDiamondCityGenericMyrna02Scene
+Scene,SceneDialogue,Custom,,,Look at that nose of yours. That's not a human nose.,GenericNPC: You know what? I'm just gonna shop somewhere else.,,ConvDiamondCityGenericMyrna02Scene
+Miscellaneous,Miscellaneous,Greeting,,,Oh my god. Some synth is about to shoot someone!,,"a man has another man at gunpoint, you're in the crowd watching / Nervous",
+Miscellaneous,Miscellaneous,Greeting,,,The synth is dead right? That's what happened?,,the police just shot a crazed gunman / Nervous,

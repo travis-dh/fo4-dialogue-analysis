@@ -1,0 +1,268 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Topic,PlayerDialogue,Rumors,,,We've got to do something about these damn raiders.,,,
+Scene,SceneDialogue,Custom,,Player Default: I was glad to help out.,I can't argue with your timing. Who knows what would have happened to us if you hadn't been here?,,Grateful,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,Player Default: I hate raiders. I kill them every chance I get.,I'm glad you're on our side.,,Impressed,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,Player Default: I hate raiders. I kill them every chance I get.,That makes you one of the good guys in my book.,,Grateful,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,Player Default: I didn't want you to have all the fun.,"If that's what you call fun, I'm glad you're on our side.",,Impressed,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,Player Default: I didn't want you to have all the fun.,"Well, I don't know what would have happened if you hadn't been here.",,Grateful,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,Player Default: What did they want?,"They were raiders. What do you think they wanted? Everything we've got, at a minimum. Maybe also kill us all or worse.",,Disgust,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,Player Default: What did they want?,I don't think ferals want anything except to kill whatever they run across.,,Worried,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,Player Default: What did they want?,"Damn Gunners, they're just raiders with fancier weapons. They'll attack anyone they think is too weak to defend themselves.",,Disgust,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,Player Default: What did they want?,"Ever seen a Super Mutant camp? God, I wish I hadn't. Food is what they're after - meaning us.",,Disgust,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,Player Default: What did they want?,Who knows? I've never understood why the damn Institute couldn't just leave us alone.,,Disgust,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,Player Default: What did they want?,I'm sure killing us was pretty high on their list.,,Disgust,WorkshopRaiderAttackGratitudeScene
+Scene,SceneDialogue,Custom,,"Player Default: Not right now, thanks.","Alright, just let me know.",,,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,"Player Default: Not right now, thanks.",Alright then.,,Friendly,WorkshopNewSettlerShort
+Miscellaneous,Miscellaneous,SharedInfo,,,Sure thing.,,Friendly,WorkshopNewSettlerShort
+Miscellaneous,Miscellaneous,SharedInfo,,,Of course.,,Friendly,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,"If there's anything you can do to stop these raider attacks, I'd sure sleep easier.",,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,I wish there was something we could do about these damn raiders. They just won't leave us alone.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,These raider attacks are the biggest problem right now.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,"We're doing what we can, but if you could see about repairing some of the damage, we could get back to normal quicker.",,Concerned,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,"We're fixing things up as fast as we can, but maybe you can help repair some of the damage.",,Concerned,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,We could sure use some help fixing some of the damage.,,Concerned,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,"Well... to be honest, we're a bit short of food. Anything you can do would be appreciated.",,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,Food's been a bit short lately. It's making it tough on everyone.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,We could use more food. Everyone's hungry all the time.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,The water situation's not good. We're short on clean water and people are getting sick.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,There's not enough clean water to go around. It's been causing problems.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,Things would be easier if we had enough clean water to go around.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,Well... we could probably use some more defenses. I don't know what we'd do if raiders attacked.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,I'd sleep a lot easier if we had some more defenses set up.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,Maybe some better defenses. We'd be in deep trouble if raiders showed up.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,Some more beds would help. People are having to sleep in shifts.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,"Well, we don't have enough beds to go around. It's causing hard feelings.",,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,This would feel a lot more like a home if everyone had their own bed.,,Worried,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,Not right now. We're pretty well set for the moment.,,Happy,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,"Thanks, but I really can't think of anything we need.",,Happy,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,Player Default: Did you need anything?,I don't think so. Things are actually going pretty good.,,Happy,WorkshopNewSettlerShort
+Scene,SceneDialogue,Custom,,"MaleOld: Hey, I just wanted to introduce myself.","We heard your radio beacon, so we thought we'd come give it a try.",,,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,"MaleOld: Hey, I just wanted to introduce myself.","We heard people talking about your radio beacon, so we figured we'd give it a try.",,Friendly,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,"MaleOld: Hey, I just wanted to introduce myself.","We were looking for someplace to make a new life, so here we are.",,Friendly,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,"MaleOld: Hey, I just wanted to introduce myself.","I heard your radio beacon, so I figured, why not?",,,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,"Anyway, I just wanted to thank you. I think we can make a go of it here.",,Grateful,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,"This looks like a decent enough place. So, you know, thanks for giving us the chance.",,Grateful,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,We just wanted to say how grateful we are for the opportunity.,,Grateful,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,"Anyway, I just wanted to say thanks for the opportunity.",,Grateful,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,I wanted to personally thank you for giving us this opportunity.,,Grateful,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,"I'm hoping if we put our minds to it, we can help turn this place around.",,Worried,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,"It's not perfect, of course, but I think with some work we can make a go of it.",,Worried,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,"It's not everything we expected, but we're willing to work hard to make this a home we can be proud of.",,Worried,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,"It's not exactly paradise, but what is, right? With some hard work, I think this could be a decent place to live.",,Worried,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,I just wanted you to know that I'm ready to do whatever it takes to make this into a real home.,,Worried,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,Anything specific you want me to do? I'm willing to pitch in anywhere you need.,,Question,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,"So, is there anything you need me to get started on?",,Question,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,Anyplace you want me to pitch in?,,Question,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,I'm ready to help with whatever you need. Just say the word.,,Friendly,WorkshopNewSettlerIntro
+Scene,SceneDialogue,Custom,,,"So, let me know if you have anything you need me to do.",,"Do not re-record, fixed a missing word / Friendly",WorkshopNewSettlerIntro
+Miscellaneous,Miscellaneous,SharedInfo,,,If you're asking - food's been short around here lately. It's hard to think about anything else when you're hungry all the time.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Well... people have been complaining about the water situation. You might want to look into that.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Well, people have been complaining about the bed situation. Not enough to go around. Causes hard feelings, you know.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Same old, same old.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Nothing, really. Pretty quiet.",,Puzzled,
+Miscellaneous,Miscellaneous,SharedInfo,,,Can't say anything comes to mind.,,Puzzled,
+Miscellaneous,Miscellaneous,SharedInfo,,,Go ahead.,,Friendly,
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, I just wanted to introduce myself.",,,WorkshopNewSettlerIntro
+Miscellaneous,Miscellaneous,Greeting,,,I don't think we've met yet.,,Friendly,WorkshopNewSettlerIntro
+Miscellaneous,Miscellaneous,Greeting,,,I'm new around here. I wanted to introduce myself.,,Friendly,WorkshopNewSettlerIntro
+Miscellaneous,Miscellaneous,Greeting,,,I'm new here. Did you have anything you wanted me to do?,"Player Default: Yeah, let me show you.",Friendly,WorkshopNewSettlerShort
+Miscellaneous,Miscellaneous,Greeting,,,I don't think we've met. What can I do to help out?,"Player Default: Yeah, let me show you.",Friendly,WorkshopNewSettlerShort
+Miscellaneous,Miscellaneous,Greeting,,,Anything I can do to help out around here?,"Player Default: Yeah, let me show you.",Friendly,WorkshopNewSettlerShort
+Miscellaneous,Miscellaneous,Greeting,,,Thanks for your help fighting them off.,Player Default: I was glad to help out.,Grateful,WorkshopRaiderAttackGratitudeScene
+Miscellaneous,Miscellaneous,Greeting,,,You showed up just in the nick of time.,Player Default: I was glad to help out.,Grateful,WorkshopRaiderAttackGratitudeScene
+Miscellaneous,Miscellaneous,Greeting,,,"Thanks for your help, pal.",Player Default: I was glad to help out.,Grateful,WorkshopRaiderAttackGratitudeScene
+Miscellaneous,Miscellaneous,Greeting,,,"Thanks for your help, friend.",Player Default: I was glad to help out.,Grateful,WorkshopRaiderAttackGratitudeScene
+Miscellaneous,Miscellaneous,Hello,,,I'll be back on my feet soon.,,,
+Miscellaneous,Miscellaneous,Hello,,,I never even saw what hit me.,,,
+Miscellaneous,Miscellaneous,Hello,,,The pain isn't usually too bad.,,,
+Miscellaneous,Miscellaneous,Hello,,,Might be better just to give the Brotherhood what they want.,,,
+Miscellaneous,Miscellaneous,Hello,,,Something's got to be done about these Brotherhood bastards.,,,
+Miscellaneous,Miscellaneous,Hello,,,We sure taught the Brotherhood a lesson. They'll think twice before they mess with us again.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Brotherhood got a bloody nose here, no doubt about it.",,,
+Miscellaneous,Miscellaneous,Hello,,,Damn Brotherhood. Why don't they just leave us alone?,,,
+Miscellaneous,Miscellaneous,Hello,,,"As if the raiders weren't enough, now we've got the Brotherhood to deal with.",,,
+Miscellaneous,Miscellaneous,Hello,,,Damn raiders hit us hard.,,,
+Miscellaneous,Miscellaneous,Hello,,,We've got to do something to stop these raider attacks.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,We've got a lot of rebuilding to do from this last attack.,,,
+Miscellaneous,Miscellaneous,Hello,,,We taught those raiders a lesson. We'll teach 'em again if they come back.,,,
+Miscellaneous,Miscellaneous,Hello,,,Raiders thought we were easy pickings. We showed 'em different.,,,
+Miscellaneous,Miscellaneous,Hello,,,I'm starting to think we're finally safe from those damn raiders.,,,
+Miscellaneous,Miscellaneous,Hello,,,You should have seen it. We cut those raiders to pieces. I doubt they'll be back.,,,
+Miscellaneous,Miscellaneous,Hello,,,Those Institute bastards got us good this time.,,Angry,
+Miscellaneous,Miscellaneous,Hello,,,Why won't the Institute just leave us alone? What did we ever do to them?,,Angry,
+Miscellaneous,Miscellaneous,Hello,,,The Institute may think twice before messing with us again.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,"If the Institute sends more synths, we'll kill those, too.",,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,We showed the Institute we're not afraid of them any more.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,Institute think they can keep us down with their damn synths. We taught them different.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,Those big ugly bastards sure hit us hard.,,Depressed,
+Miscellaneous,Miscellaneous,Hello,,,"I used to be scared of Super Mutants, but we taught them a lesson this time.",,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,Those uglies will think twice before messing with us again.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,We're in some real trouble here. I hope you can help.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,I don't know what we're going to do.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,I hope you're here to help.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,I hope we can count on the Minutemen to help us.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,Did the Minutemen send you to help us?,,Relieved,
+Miscellaneous,Miscellaneous,Hello,,,I hope you realize how much you did for us.,,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,I knew you'd help us.,,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,You came through for us. We won't forget what you did.,,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,It's good to know we can count on the Minutemen.,,Grateful,
+Miscellaneous,Miscellaneous,SharedInfo,,,I knew the Minutemen would stand by us.,,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,I knew you would help us.,,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,Thanks for agreeing to help.,,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,Not many people would offer help to strangers.,,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,I didn't know what we were going to do.,,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,Now I don't know what we're going to do.,,Worried,
+Miscellaneous,Miscellaneous,SharedInfo,,,I was hoping you could help us.,,Depressed,
+Miscellaneous,Miscellaneous,Hello,,,I guess we're on our own now.,,Depressed,
+Miscellaneous,Miscellaneous,SharedInfo,,,So much for the Minutemen.,,Disgust,
+Miscellaneous,Miscellaneous,SharedInfo,,,Should have known better than to trust the Minutemen to help us.,,Disgust,
+Miscellaneous,Miscellaneous,Hello,,,I knew it would end this way.,,Depressed,
+Miscellaneous,Miscellaneous,Hello,,,I should never have gotten my hopes up.,,Depressed,
+Miscellaneous,Miscellaneous,Hello,,,I'm just so hungry all the time.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,Nobody has enough to eat. Can't you do something to help?,,Pleading,
+Miscellaneous,Miscellaneous,Hello,,,"I hate to complain, but food's a bit short lately.",,,
+Miscellaneous,Miscellaneous,Hello,,,"If we had a good supply of clean water, things would be pretty good.",,,
+Miscellaneous,Miscellaneous,Hello,,,I just wish I had some clean water to drink for once.,,Pleading,
+Miscellaneous,Miscellaneous,Hello,,,We need more water. Even another water pump would help.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,Not enough clean water to go around. People are getting tired of it.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,"You should know, people have been complaining a bit about the bed situation.",,,
+Miscellaneous,Miscellaneous,Hello,,,People are having to sleep in shifts. It's making everyone a bit cranky.,,Disgust,
+Miscellaneous,Miscellaneous,Hello,,,Things are a bit crowded. A few more beds would lift everyone's spirits.,,Worried,
+Topic,PlayerDialogue,Custom,,,Okay!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Woo! Yeah now.,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,I'm going to be rich!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Yeah! Haha!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,More!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,I want blood!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,You go!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Sweep the leg!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Kill!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Finish it!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Spill his guts!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Spill her guts!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Hack him apart!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Hack her apart!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Kill him!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,Kill her!,,"(in crowd) shouting approval - guy you bet on is winning, guy gets his arm chopped off, announcer said something you agree with.",
+Topic,PlayerDialogue,Custom,,,*Shouting approval*,,"(in crowd) shouting approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity. Non-verbals: ""yeeeeah!"" ""haha!""]",
+Topic,PlayerDialogue,Custom,,,*Shouting approval*,,"(in crowd) shouting approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity. Non-verbals: ""yeeeeah!"" ""haha!""]",
+Topic,PlayerDialogue,Custom,,,*Shouting approval*,,"(in crowd) shouting approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity. Non-verbals: ""yeeeeah!"" ""haha!""]",
+Topic,PlayerDialogue,Custom,,,*Shouting approval*,,"(in crowd) shouting approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity. Non-verbals: ""yeeeeah!"" ""haha!""]",
+Topic,PlayerDialogue,Custom,,,*Shouting approval*,,"(in crowd) shouting approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity. Non-verbals: ""yeeeeah!"" ""haha!""]",
+Topic,PlayerDialogue,Custom,,,*Shouting approval*,,"(in crowd) shouting approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity. Non-verbals: ""yeeeeah!"" ""haha!""]",
+Topic,PlayerDialogue,Custom,,,*Shouting approval*,,"(in crowd) shouting approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity. Non-verbals: ""yeeeeah!"" ""haha!""]",
+Topic,PlayerDialogue,Custom,,,*Shouting approval*,,"(in crowd) shouting approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity. Non-verbals: ""yeeeeah!"" ""haha!""]",
+Topic,PlayerDialogue,Custom,,,*Shouting approval*,,"(in crowd) shouting approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity. Non-verbals: ""yeeeeah!"" ""haha!""]",
+Topic,PlayerDialogue,Custom,,,*Shouting approval*,,"(in crowd) shouting approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity. Non-verbals: ""yeeeeah!"" ""haha!""]",
+Topic,PlayerDialogue,Custom,,,*Whistling*,,"(in crowd) whistling approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity.]",
+Topic,PlayerDialogue,Custom,,,*Whistling*,,"(in crowd) whistling approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity.]",
+Topic,PlayerDialogue,Custom,,,*Whistling*,,"(in crowd) whistling approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity.]",
+Topic,PlayerDialogue,Custom,,,*Whistling*,,"(in crowd) whistling approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity.]",
+Topic,PlayerDialogue,Custom,,,*Whistling*,,"(in crowd) whistling approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity.]",
+Topic,PlayerDialogue,Custom,,,*Whistling*,,"(in crowd) whistling approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity.]",
+Topic,PlayerDialogue,Custom,,,*Whistling*,,"(in crowd) whistling approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity.]",
+Topic,PlayerDialogue,Custom,,,*Whistling*,,"(in crowd) whistling approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity.]",
+Topic,PlayerDialogue,Custom,,,*Whistling*,,"(in crowd) whistling approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity.]",
+Topic,PlayerDialogue,Custom,,,*Whistling*,,"(in crowd) whistling approval. Your fighter is winning, blood spurt, etc.[Director: various lengths and intensity.]",
+Topic,PlayerDialogue,Custom,,,*Booing*,,"(in crowd) hearty booing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Booing*,,"(in crowd) hearty booing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Booing*,,"(in crowd) hearty booing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Booing*,,"(in crowd) hearty booing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Booing*,,"(in crowd) hearty booing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Booing*,,"(in crowd) hearty booing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Booing*,,"(in crowd) hearty booing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Booing*,,"(in crowd) hearty booing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Booing*,,"(in crowd) hearty booing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Booing*,,"(in crowd) hearty booing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Hissing*,,"(in crowd) hearty hissing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Hissing*,,"(in crowd) hearty hissing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Hissing*,,"(in crowd) hearty hissing - guy you bet on is losing, announcer said something you don't like, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,For real?!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,What are you doing?,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,This is a joke!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,You gonna start fighting or what?!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,You're losing my money up there!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,Try to keep some of your blood on the inside!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,You're not worth a damn!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,Quit wussing out!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,Hurry up and start winning!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,Weak!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,You better die!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,Hold out just a little longer!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,He's winning!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,She's winning!,,"(in crowd) shouting disapproval - guy you bet on is losing, announcer said something you don't like, etc.",
+Topic,PlayerDialogue,Custom,,,*Laughing*,,"(in crowd) hearty laughter - funny joke, that guy got his arm chopped off, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Laughing*,,"(in crowd) hearty laughter - funny joke, that guy got his arm chopped off, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Laughing*,,"(in crowd) hearty laughter - funny joke, that guy got his arm chopped off, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Laughing*,,"(in crowd) hearty laughter - funny joke, that guy got his arm chopped off, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Laughing*,,"(in crowd) hearty laughter - funny joke, that guy got his arm chopped off, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Laughing*,,"(in crowd) hearty laughter - funny joke, that guy got his arm chopped off, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Laughing*,,"(in crowd) hearty laughter - funny joke, that guy got his arm chopped off, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Laughing*,,"(in crowd) hearty laughter - funny joke, that guy got his arm chopped off, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Laughing*,,"(in crowd) hearty laughter - funny joke, that guy got his arm chopped off, etc. [Director: we need a mix of intensity and length]",
+Topic,PlayerDialogue,Custom,,,*Laughing*,,"(in crowd) hearty laughter - funny joke, that guy got his arm chopped off, etc. [Director: we need a mix of intensity and length]",
+Scene,SceneDialogue,Custom,,,The hell?,RaiderAttacker: Looks like someone got lost!,You're stunned at this turn of events. / Question,CZ_Scene_RaidersAttack
+Miscellaneous,Miscellaneous,Hello,,,Piss off--- the hell? How'd you get in here! We got company!,,You're initially irritated by this person but then realize they're a trespasser who needs to die. The final line is shouted to your allies. / Surprised,
+Combat,Combat,Bash,,,Hunh!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Gah!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Yah!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Bash,,,Rargh!,,"Quick and violent shove, a sharp, short exertion!",
+Combat,Combat,Block,,,Gah!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Nargh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Unf!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Grrh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Block,,,Nnh!,,"A quick grunt or exertion, blocking a heavy blow from your opponent",
+Combat,Combat,Flee,,,Aaaiiee!,,"A qiuck shriek or scream, you throw down your weapon and run for your life!",
+Combat,Combat,Flee,,,Agghh!,,"A qiuck shriek or scream, you throw down your weapon and run for your life!",
+Combat,Combat,BleedOut,,,*heavy breathing* *cough cough*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,BleedOut,,,Oof! *heavy breathing*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,BleedOut,,,Agh! *cough* *wheeze*,,"Heavy breathing and coughing, clutching a mortal wound and struggling to stay alive",
+Combat,Combat,Attack,,,Grrargh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Aggghh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Nyyarrggh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Rrarggh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Yearrgh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,Attack,,,Hyargh!,,Quick noise of physical exertion while swinging a weapon. Short and sweet.,
+Combat,Combat,PowerAttack,,,Aaaayyyaarrrrgghh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,PowerAttack,,,Nnyyyaarrgghh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,PowerAttack,,,Yyyaaaarrgghh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,PowerAttack,,,Rrrraaaaarrggghhhh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,PowerAttack,,,Hhyyaarargghhhh!,,"Powerfully swinging a weapon, up over your head and bringing it down hard on your opponent. Quick and violent, not drawn out.",
+Combat,Combat,Death,,,Gah.,,"A quick impact and death rattle, short and violent.",
+Combat,Combat,Death,,,Nuh.,,"A quick impact and death rattle, short and violent.",
+Combat,Combat,Death,,,Hunh.,,"A quick impact and death rattle, short and violent.",
+Combat,Combat,Death,,,Ugh.,,"A quick impact and death rattle, short and violent.",
+Combat,Combat,Death,,,Agh.,,"A quick impact and death rattle, short and violent.",
+Combat,Combat,Hit,,,Argh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Weergh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Yeagh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Nargh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Oof!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Combat,Combat,Hit,,,Agh!,,"Struck by a weapon or bullet, a short, violent grunt of pain.",
+Detection,Detection,NormalToAlert,,,Hmm?,,"You hear a noise somewhere out in the darkness, mildly alerted.",
+Detection,Detection,NormalToAlert,,,Who's there?,,"You hear a noise somewhere out in the darkness, and you call out.",
+Detection,Detection,NormalToAlert,,,Hmm...,,"You hear a noise somewhere out in the darkness, rubbing your chin.",
+Detection,Detection,NormalToAlert,,,Who?,,"You hear a noise somewhere out in the darkness, startled.",
+Detection,Detection,NormalToAlert,,,What the?,,"You hear a noise somewhere out in the darkness, startled.",
+Detection,Detection,NormalToAlert,,,Hey...,,"You hear a noise somewhere out in the darkness, startled.",
+Detection,Detection,NormalToAlert,,,What?,,"You hear a noise somewhere out in the darkness, startled.",
+Detection,Detection,NormalToAlert,,,Wha?,,"You hear a noise somewhere out in the darkness, startled.",
+Detection,Detection,NormalToAlert,,,Huh?,,"You hear a noise somewhere out in the darkness, startled.",
+Miscellaneous,Miscellaneous,Idle,,,,,One or two short coughs,
+Miscellaneous,Miscellaneous,Idle,,,,,A quick clearing of the throat,
+Miscellaneous,Miscellaneous,Idle,,,,,"Humming softly to yourself for a moment, maybe 6 to 10 seconds or so.",
+Miscellaneous,Miscellaneous,Idle,,,,,One or two short coughs,
+Miscellaneous,Miscellaneous,Idle,,,,,A short yawn,
+Miscellaneous,Miscellaneous,Idle,,,,,One or two quick sniffles,
+Scene,SceneDialogue,Custom,,"Abraham: I saw something down by the waterline. Looked big, too.",Mirelurk. Got to be.,,Contempt,DialogueFinchAbrahamDanielScene
+Scene,SceneDialogue,Custom,,,They've been getting closer lately. Probably scoping us out.,"Abraham: Well, they get too close, they're going to get a taste of hot lead.",Concern,DialogueFinchAbrahamDanielScene
+Scene,SceneDialogue,Custom,,"Abraham: Well, they get too close, they're going to get a taste of hot lead.",Yes sir.,,Confident,DialogueFinchAbrahamDanielScene
+Scene,SceneDialogue,Custom,,,We got enough caps to get me a new pair of boots?,Abigail: Why? The ones you got on don't look so bad.,,DialogueFinchAbigailDanielScene
+Scene,SceneDialogue,Custom,,Abigail: I'm sure they've got another couple of months on 'em at least.,"Easy for you to say, you ain't wearin' 'em.",,Annoyed,DialogueFinchAbigailDanielScene
+Scene,SceneDialogue,Custom,,,"The soles are coming off. Sometimes they flap so bad when I walk, it sounds like someone's clapping at me.",Abigail: Well maybe they're just showin' their appreciation for all the hard work you do.,Annoyed,DialogueFinchAbigailDanielScene
+Scene,SceneDialogue,Custom,,Abigail: Well maybe they're just showin' their appreciation for all the hard work you do.,"That's very funny, but I'm being serious here. I might as well go barefoot for all the trouble these things cause me.","Abigail: Well, I'll see what we've got. It ain't much, but it might be enough.",Unamused,DialogueFinchAbigailDanielScene
+Scene,SceneDialogue,Custom,,"Abigail: Well, I'll see what we've got. It ain't much, but it might be enough.",That's all I need to hear.,,Relieved,DialogueFinchAbigailDanielScene
+Scene,SceneDialogue,Custom,,,There's something I've been wanting to ask you.,"Jake: Yeah, well, I've kind of been expecting that.",Tentative,DialogueFinchDanielJakeScene
+Scene,SceneDialogue,Custom,,"Jake: Go on, then.",Why'd you do it? Why'd you turn your back on us. on your family?,Jake: I guess it was because I was angry.,"Angry, betrayed",DialogueFinchDanielJakeScene
+Scene,SceneDialogue,Custom,,"Jake: It was wrong. I know that now, and I'm sorry.","Yeah, well, don't expect everything to be the same as it was. I can't forget what you did. None of us can.","Jake: I know. One way or another, I'll earn your trust again. I swear it.",Angry,DialogueFinchDanielJakeScene
+Scene,SceneDialogue,Custom,,"Jake: I know. One way or another, I'll earn your trust again. I swear it.","Yeah, well... we'll see.",,Angry but coming out of it,DialogueFinchDanielJakeScene

@@ -1,0 +1,35 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: I'm a fellow Vault dweller.,I don't care where you're from. It's not here.,,Rude. / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,"Player Default: Back off, lady.",Yeah? That attitude's exactly why you don't belong here.,,Rude / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,"Player Default: Well, aren't you a ray of sunshine?",You think you're funny? That's exactly why outsiders don't belong here.,,Rude. / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,Player Default: What do you have against outsiders?,All outsiders do is take advantage of you. You're nothing but selfish animals.,Player Default: I'm a fellow Vault dweller.,Rude / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,Player Default: What do you have against outsiders?,"Yeah, you could say that. I met a girl, from the outside. Said she was going to take me away from all this.",,Angrily recounting her love story of betrayal. First of a series of 4 lines. / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,,I gave her all my money so she could find us a place to live out there.,,Angrily recounting her love story of betrayal. 2nd of a series of 4 lines. Previous line: Said she was going to take me away from all this. / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,,"I don't hear from her in months, till a passing trader mentions she saw her with some man in Diamond City.",,Angrily recounting her love story of betrayal. 3rd of a series of 4. Previous: I gave her all my money so she could find us a place to live out there / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,,"You outsiders are nothing but liars, only looking out for yourselves.",,Calm anger. Last of a series of 4 lines. Previous line: ...till a passing trader mentions she saw her with some man in Diamond City. / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,Player Default: What do you have against outsiders?,Let's just say I learned my lesson the hard way.,,Rude / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,Player Default: Just taking a look around.,"Heh, is the Overseer just letting anyone in these days?",Player Default: I'm a fellow Vault dweller.,"Rude, condescending toward the player / Friendly",Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,Player Default: None of your concern.,"Hey, I live here. Of course it's my concern. And you're a prime example of why outsiders should be kept outside.",Player Default: I'm a fellow Vault dweller.,"Rude. Emphasis on ""my concern"" and ""OUTside"". Doesn't like the player. / Irritated",Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,Player Default: Here to do a little trading.,"Well, make it quick. We don't need your kind lingering around here.",Player Default: I'm a fellow Vault dweller.,Rude. Dislikes outsiders (the player). / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,Player Default: What's with the attitude?,"I don't trust outsiders. We didn't need your help before, we don't need it now.",,Rude. First of a series of 2 lines.  / Irritated,Vault81MirandaGreet
+Scene,SceneDialogue,Custom,,,The Overseer never should have opened up the Vault to your kind.,Player Default: I'm a fellow Vault dweller.,"Rude. ""Overseer"" with sneering disrespect. Doesn't approve of Overseer or player. Last of a series of 2 lines. ""We don't need your help."" / Irritated",Vault81MirandaGreet
+Miscellaneous,Miscellaneous,Greeting,,,Another outsider? What'd they let you in for?,Player Default: Just taking a look around.,"Suspicious, with attitude. Doesn't like outsiders. Emphasis on ""you"" / Suspicious",Vault81MirandaGreet
+Miscellaneous,Miscellaneous,Hello,,,Leave me alone. I've got work to do.,,A bit rude. Doesn't like outsiders (the player). / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,I got nothing to say to you.,,A bit rude. Doesn't like outsiders (the player). / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,"If you're looking for friendly conversation, you won't find it here.",,A bit rude. Doesn't like outsiders (the player). / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,Don't you have someone else you can bother?,,A bit rude. Doesn't like outsiders (the player). / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,Seriously? I don't want to talk.,,A bit rude. Doesn't like outsiders (the player). / Irritated,
+Miscellaneous,Miscellaneous,Hello,,,Typical outsider. Letting a child die like that. I can't believe you can even show your face here.,,Very rude. Hates the player even more now for letting a child die. / Disgust,
+Miscellaneous,Miscellaneous,Hello,,,I heard about what you did for Austin. And... yeah... thanks.,,Apologetic and grateful. Was mean to the player before. / Grateful,
+Miscellaneous,Miscellaneous,Hello,,,"Look, I'm sorry for being so harsh before. I'm not beyond admitting when I'm wrong.",,Apologetic and grateful. Was mean to the player before. / Apologetic,
+Miscellaneous,Miscellaneous,Hello,,,It's good to see that kid back on his feet.,,Relieved. / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Things sure are going to change around here.,,Reflective. More to herself than the player. Unsure if things will change for the better or worse. / Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Finding a whole new section to the Vault? It's so... disturbing.,,Reflective and distrubed. / Neutral,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Nothing to say for yourself?,,Player isn't responding / Irritated,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Sure, just pretend I'm not here.",,Player isn't responding / Irritated,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Something wrong with you?,,Player isn't responding / Irritated,
+Scene,SceneDialogue,Custom,,CitizenMale: Nothing I can't handle.,Nice to know it wasn't another migraine kicking in.,"CitizenMale: Tell me about it. Cal, would bust my ass if I called out again, too.",Friendly. / Friendly,V81_Conv_Entry_01_Scene
+Scene,SceneDialogue,Custom,,,How's your head feeling today?,"CitizenMale: Still a little pounding, but getting better.",Conversational question / Question,V81_Conv_Entry_01_Scene
+Scene,SceneDialogue,Custom,,CitizenMale: How's it looking?,"Eh, same old, same old.",,Bored / Neutral,V81_Conv_Entry_02_Scene
+Scene,SceneDialogue,Custom,,,"Another day, another double shift.",CitizenMale: I hear ya. Maybe you could see about working in Doctor Penske's lab again?,Tired / Neutral,V81_Conv_Entry_02_Scene
+Scene,SceneDialogue,Custom,,CitizenMale: I hear ya. Maybe you could see about working in Doctor Penske's lab again?,"Yeah, maybe, but no way I'm sampling anymore of her creations.",,Friendly,V81_Conv_Entry_02_Scene

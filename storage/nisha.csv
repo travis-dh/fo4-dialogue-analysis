@@ -1,0 +1,299 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,DLC04Mason_TA: This guy? Are you sure Gage?,You better know what the hell you're doing.,"DLC04Gage: Hey, we talked about this!",Projected. Loudly complaining. / Angry,DLC04MQ01_800_GagePostFightAddress
+Scene,SceneDialogue,Custom,,"Player Default: Good. You're either smart or you value your life. Either way, that's exactly what I wanted to hear.","Now, if you're really looking to get on my good side...","DisciplesLeader: There's no shortage of work around here, so if you're looking to prove you've got what it takes... you know where to find me.",Amused,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: Looks like you're already a step above Colter. I'll see how this plays out... for now.,"But, if you change your tune and decide to play nice...","DisciplesLeader: There's no shortage of work around here, so if you're looking to prove you've got what it takes... you know where to find me.",Amused,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: Of course. Just remember to think about it like this: how much do you value your life?,"Then, when you realize just how much...","DisciplesLeader: There's no shortage of work around here, so if you're looking to prove you've got what it takes... you know where to find me.",Amused,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"DisciplesLeader: Now, if you're really looking to get on my good side...","There's no shortage of work around here, so if you're looking to prove you've got what it takes... you know where to find me.",,Amused,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"Player Default: Last I checked, I'm the Overboss.","You survived the Gauntlet, you killed Colter, with Gage's help, of course.",,Thinking,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"So sure, you're the ""Overboss,"" but that title hasn't meant anything for a long time now.",,Overboss said with disrespect. / Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"If Gage thinks that'll change overnight, he's dead wrong.","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Disgust,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"Player Default: Watch it, lady. I'm no one's pet.","Really? Gage made Colter, and now here you are. I'm just calling it as I see it.","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",SinisterSmile,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: And what are you? His grandma?,"Heh. If I was, I would've slit that little suckup's throat a long time ago.",,Disgust,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,Gage will never be one of us. He's a failure. He's lucky we're giving him a second chance.,"DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Disgust,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: Pet Project? What's that supposed to mean?,Gage didn't say anything?,,Mock surprise/sarcastic. / SinisterSmile,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"Apparently, we're not good enough to run this place ourselves. Gage wanted to bring in his own little puppy to replace Colter.",,"Calm, but with disgust. / SinisterSmile",DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,But I guess training a puppy is way easier than getting us to do what he wants.,"DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Calm but with disgust. / Disgust,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"Player Default:  If Gage thinks that'll change overnight, he's dead wrong.","Every one knows we all wanted Colter dead. 'Course if I had my way, it would have been a slow, painful process.","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.","Relishing the words: slow, painful / Amused",DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: Colter thought some sort of rule or code made him untouchable... but he found out he was wrong... the hard way.,"Although, I could give him a little credit. He built the Gauntlet after all.",,Thinking,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"Of course, it was total shit at first. No imagination, but we spiced it up a bit.","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",SinisterSmile,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"DisciplesLeader: Every one knows we all wanted Colter dead. 'Course if I had my way, it would have been a slow, painful process.",But whatever. Let's get this meet and greet over with.,,Professional / Neutral,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"I'm Nisha. I lead the Disciples. We've only got one rule around here, and that's keeping the peace of this... alliance.",,alliance said with some disgust. / Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"Otherwise, the way we see it, this world stopped caring about rules the moment people started dropping bombs on one another.","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"Player Default: This world needs rules. Otherwise, we'll never recover.","Rules are dangerous because people start to trust them. They make you think you're safe, but once you turn your back... you're dead.",,Amused,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,Colter thought some sort of rule or code made him untouchable... but he found out he was wrong... the hard way.,"DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",SinisterSmile,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: Rules just hold us back. We should be free to do what we want.,"That's what I was trying to tell Colter all long. Maybe if he listened, he'd still be around.","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Confident,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: I bet you guys are great at parties.,"Side with us, you'll soon find out. Just don't slack off when it comes to actually doing your job.",,SinisterSmile,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"We got Colter Nuka-Town, and suddenly he forgot the big picture. We both know how that turned out.","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Disgust,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"Player Default: What do you mean by ""keeping the peace?""","It means do what you want, but don't get caught. The last thing I need is the Operators and Pack breathing down my neck.",,Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"We can take either of 'em one on one, but I don't like my odds when it comes to double duty.",,Thinking,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"So, keep the peace. It's the only rule we need.","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Confident,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: That thing should be shut down. It's dangerous.,Dangerous? People are dangerous. That thing's child's play. Just a bunch of traps and critters.,"DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Suspicious,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: You call that a Gauntlet? More like a cake walk.,"Do cake walks end in death? Because if Gage hadn't helped your ass, you'd be dead right now.","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Suspicious,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: I thought it was pretty impressive.,Good to see the new boss at least has some taste. I might let you keep that head on your shoulders after all.,"DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",SinisterSmile,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: How many lives has this Gauntlet claimed?,Who's counting? It's at least enough to keep the traders busy. We like to send them in to clean out the bodies whenever things get ripe in there.,,Confident,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"They don't always make it out alive, of course. The Gauntlet never sleeps.","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: Dangerous? People are dangerous. That thing's child's play. Just a bunch of traps and critters.,Let's just hope Gage is right about you.,,Suspicious,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"He made a lot of promises to get us here, and never followed through.",,Disgust,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,So you better not screw this up because I'm not about to tolerate another round of bullshit.,"DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Irritated,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: I'm the best there is.,Willing to bet your life on that?,"DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",SinisterSmile,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"Player Default: I'm going to do things my way, whether you approve or not.","Oh yeah? I just have a few things for you to consider before you go off and do things ""your way.""","DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: Depends on what you're looking for.,Someone who's not afraid to get blood on their hands and make some real changes around here.,"DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: Are you questioning me? Your Overboss?,"Not questioning, just curious.",,Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,We were wrong about Colter. We won't make the same mistake twice.,"DisciplesLeader: You see, the Disciples don't make empty threats, we make good on them.",SinisterSmile,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: Willing to bet your life on that?,"You see, the Disciples don't make empty threats, we make good on them.",,Confident,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"We aren't swayed by caps like those spoiled brats obsessed with their hair, or those savage animals who can't behave in public.",,Disgust,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"Fuck this up, and I will kill you. Although, I admit I have even better plans for Gage.","DisciplesLeader: But... if you support us and keep your promises like a good, little Overboss, we back you, you get to live, and everybody wins.",Threatening / Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"DisciplesLeader: Fuck this up, and I will kill you. Although, I admit I have even better plans for Gage.","But... if you support us and keep your promises like a good, little Overboss, we back you, you get to live, and everybody wins.",Player Default: Work for me. I'll get you whatever you want.,Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: Work for me. I'll get you whatever you want.,"Good. You're either smart or you value your life. Either way, that's exactly what I wanted to hear.","DisciplesLeader: Now, if you're really looking to get on my good side...",Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"Player Default: I don't make promises, and you'll do what I say.",Looks like you're already a step above Colter. I'll see how this plays out... for now.,"DisciplesLeader: But, if you change your tune and decide to play nice...",Amused,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,"Player Default: I don't make promises, and you'll do what I say.",I once knew a man with an attitude like that. I let him live just long enough to regret it.,"DisciplesLeader: But, if you change your tune and decide to play nice...",SinisterSmile,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Of course. Just remember to think about it like this: how much do you value your life?,"DisciplesLeader: Then, when you realize just how much...",SinisterSmile,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: And what is it you want?,"When you finish what Colter started, you give us control of this park. Then you set your sights on the Commonwealth.",,Neutral,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,"And once the Commonwealth is yours, and believe me, with our help it will be...",,Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,,You just make sure the Disciples have more than our fair share of the territories.,Player Default: Work for me. I'll get you whatever you want.,Conspiratorial,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,Player Default: And what is it you want?,"Because we need each other. You give us what we want, and it's just a matter of time before everyone in the Commonwealth knows your name.",Player Default: Work for me. I'll get you whatever you want.,Neutral,DLC04MQ02DisciplesScene01
+Miscellaneous,Miscellaneous,Greeting,,,"So, you're Gage's little pet project.","Player Default: Last I checked, I'm the Overboss.",Unimpressed. / Suspicious,DLC04MQ02DisciplesScene01
+Scene,SceneDialogue,Custom,,DLC04MQ05Mason: We gonna go up there and pull their asses out?,"Or even better, kill them where they stand. Either way, looks like we're about to find out... the boss is here.",,Confident,DLC04MQ05Stage020BossScene02
+Scene,SceneDialogue,Custom,,"DLC04MQ05William: I knew that nutjob would turn on us sooner or later. So, are we storming the place or what?",Both of you shut up. We're about to find out... the boss is here.,,Irritated,DLC04MQ05Stage020BossScene03
+Scene,SceneDialogue,Custom,,"DLC04MQ05Mason: You better not let them get away with this, boss. We want payback, and we want it now!",And we're not talking about some slap on the wrist here. Mags and William need to pay for what they've done.,,Angry,DLC04MQ05Stage025BossScene02
+Scene,SceneDialogue,Custom,,,They were dead the moment they decided to take out some of my crew.,"DLC04MQ05Mason: Look, boss... this is your play. You've had our back, so we'll watch yours. But you have to swear to us that Mags and William will pay.",Angry,DLC04MQ05Stage025BossScene02
+Scene,SceneDialogue,Custom,,Player Default: Then let's tear them apart instead!,The Disciples will make sure no one escapes. I'm going to enjoy this.,,SinisterSmile,DLC04MQ05Stage025BossScene02
+Scene,SceneDialogue,Custom,,,Mason's gathered up his animal goons and took the Power Plant.,,Angry,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,,"If that asshole thinks he'll get away with this, he's dead wrong. I'll skin him alive and savor every minute of it.",DLC04MQ05Companion: Bunch of damned savages. Should've put a knife through Mason's eye a while ago.,Angry,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,Player Default: Just calm down and start at the beginning.,"I'll be calm once I get Mason's blood on my hands, but if you want a story, fine.","DLC04MQ05Nisha: While you were gone, word came back from the Commonwealth that you're favoring the Disciples and the Operators.",obviously irritated time is wasting / Irritated,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,Player Default: I can't leave this place for five minutes without everything going to hell.,"If you're looking to blame someone, it better not be us.","DLC04MQ05Nisha: While you were gone, word came back from the Commonwealth that you're favoring the Disciples and the Operators.",Irritated,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,"Player Default: God damn it... sometimes I swear, this is like taking care of a bunch of children.",I'm going to pretend I didn't hear that because we've got bigger problems.,"DLC04MQ05Nisha: While you were gone, word came back from the Commonwealth that you're favoring the Disciples and the Operators.",Irritated,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,Player Default: How could you let this happen?!,Excuse me? Babysitting the other gangs is your job.,Player Default: Just calm down and start at the beginning.,Irritated,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,"Player Default: I'll be calm once I get Mason's blood on my hands, but if you want a story, fine.","While you were gone, word came back from the Commonwealth that you're favoring the Disciples and the Operators.",,Confident,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,,"Well, surprise, surprise... Mason wasn't exactly thrilled to hear the news.",DLC04MQ05Mags: He and his gang forced their way into the Power Plant. Now they've got the entire place locked down.,Sarcastic,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,DLC04MQ05William: Damn right we do.,"Look... it's your play. We'll follow you anywhere, but you have to swear to us that Mason pays for this with his life.",Player Default: I didn't build all this up just to watch him tear it down.,Irritated,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,Player Default: I didn't build all this up just to watch him tear it down.,My thoughts exactly.,DLC04MQ05Mags: Time to clean house.,Confident,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,Player Default: He's as good as dead.,Music to my ears.,DLC04MQ05Mags: Time to clean house.,SinisterSmile,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,Player Default: Doesn't sound like he's giving us a choice. We have to take him down.,Just what I wanted to hear.,DLC04MQ05Mags: Time to clean house.,SinisterSmile,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,Player Default: I hate to lose The Pack. Isn't there some other way?,They're already lost.,,Sarcastic,DLC04MQ05Stage025BossScene03
+Scene,SceneDialogue,Custom,,,"Mason killed some of our own, and our code says he needs to pay for what he's done.",Player Default: I didn't build all this up just to watch him tear it down.,Angry,DLC04MQ05Stage025BossScene03
+Miscellaneous,Miscellaneous,Greeting,,,It's about time you got here. The Pack's officially gone wild.,Player Default: Just calm down and start at the beginning.,Angry,DLC04MQ05Stage025BossScene03
+Miscellaneous,Miscellaneous,Greeting,,,We have to take the Power Plant back from Mags and William before they do something to it we can't fix.,,desperate/determined / Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,Mags and William are going to pay for what they've done!,,desperate/determined / Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,Damn Operators... never trusted those sneaky bastards.,,Angry,
+Miscellaneous,Miscellaneous,Greeting,,,We have to take the Power Plant back from Mason before he does something to it we can't fix.,,desperate/determined / Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,Mason's going to pay for what he's done!,,desperate/determined / Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,Damn Pack... never trusted those crazy bastards.,,Angry,
+Miscellaneous,Miscellaneous,Greeting,,,"I have to admit, the park looks amazing now. You did a hell of a job, boss.",,Confident,
+Miscellaneous,Miscellaneous,Greeting,,,"Got the park all lit up, huh? I prefer the darkness myself.",,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,"See you back at Nuka-Town, boss.",,Confident,
+Miscellaneous,Miscellaneous,SharedInfo,,,Hey. I got something for you.,,"commanding, but speaking to an equal (has job for player) / Confident",
+Miscellaneous,Miscellaneous,SharedInfo,,,Not busy? I could use you.,,sarcastic but friendly (has job for player) / Confident,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Hey, boss. Got a minute?",,Boss trying but failing not be sarcastic  (has job for player) / Confident,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Well, look who stopped by. Care to lend a hand?",,"sarcastic, but friendly (assumes player didn't come by to help) / Amused",
+Miscellaneous,Miscellaneous,SharedInfo,,,Got a job. I think it'll interest you.,,"commanding, but to an equal  (has job for player) / Confident",
+Miscellaneous,Miscellaneous,SharedInfo,,,"Hey, I got something you'll want to look into.",,"commanding, but to an equal  (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,I got a little something you'd be perfect for.,,"commanding, but to an equal  (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,"Looking a little bored there, boss. I got just the thing to cure that.",,"commanding, but to an equal  (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,"You look like you could use something to do, and I got just the thing.",,"commanding, but to an equal  (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,There you are. I need you to make some time for a job.,,"commanding, but to an equal  (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,Busy? I have something else for you.,,"commanding, but speaking to an equal (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,"I got another job for you, if you're interested.",,"commanding, but speaking to an equal (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,"If you have more free time, I can use it.",,"commanding, but speaking to an equal (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,Got something else lined up. You want in?,,"commanding, but speaking to an equal (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,Got another job. Interested?,,"commanding, but to an equal  (has job for player)",
+Miscellaneous,Miscellaneous,SharedInfo,,,Boss. I got something else that requires your attention.,,"commanding, but to an equal  (has job for player)",
+Miscellaneous,Miscellaneous,SharedInfo,,,The Disciples could use you for something else. Think you can handle it?,,"commanding, but to an equal  (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,"Got another thing, if you want in.",,"commanding, but to an equal  (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,"I got something else, as usual. Interested?",,"commanding, but to an equal  (has job for player) / Conspiratorial",
+Miscellaneous,Miscellaneous,SharedInfo,,,"Something else came up, of course. Are you up for it?",,"commanding, but to an equal  (has job for player) / Conspiratorial",
+Topic,PlayerDialogue,Custom,,,"Someone out there's making threats, and needs to be neutered. Metaphorically.",,talking about enslaving someone - explaining a job to the player / SinisterSmile,
+Topic,PlayerDialogue,Custom,,,A certain individual is challenging my authority out in the Commonwealth. There's a simple way to teach them respect.,,talking about enslaving someone - explaining a job to the player / SinisterSmile,
+Topic,PlayerDialogue,Custom,,,Some idiot's trying to stir up trouble. I think you should show everyone how the Disciples keep trouble makers in line.,,talking about enslaving someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,They think they've got some powerful ally. Why don't you prove them wrong - and make that powerful ally ours.,,talking about enslaving someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,They recruited some ally out in the Commonwealth. But you know how fickle alliances can be.,,talking about enslaving someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,They've made a friend of an old acquaintance of mine I haven't seen in quite some time. I think it's time we caught up.,,talking about enslaving someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,"I got a name on a list of potential ""allies"" I want you to escort back here.",,talking about enslaving someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,"They say keep your friends close and your enemies closer. Well, there's someone I need right by my side.",,talking about enslaving someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,I think it's time someone learned just how serious we can be.,,talking about enslaving someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,"Take this Shock Collar, sneak up, and snap it on when she isn't looking. Or, beat her senseless, my preference, then snap it on.",,explaining with grim satisfaction how to put a shock collar on someone... the collar explodes if they don't comply with the owners wishes / SinisterSmile,
+Topic,PlayerDialogue,Custom,,,"I want you to collar her. Sneak up on her or beat her into submission. Either way, should be able to slap it on her without much fuss.",,explaining with grim satisfaction how to put a shock collar on someone... the collar explodes if they don't comply with the owners wishes / SinisterSmile,
+Topic,PlayerDialogue,Custom,,,"Take this Shock Collar, sneak up, and snap it on when he isn't looking. Or, beat him to a bloody pulp, my preference, then snap it on.",,explaining with grim satisfaction how to put a shock collar on someone... the collar explodes if they don't comply with the owners wishes / SinisterSmile,
+Topic,PlayerDialogue,Custom,,,"I want you to collar him. Sneak up on him or beat him into submission. Either way, should be able to slap it on him without much fuss.",,explaining with grim satisfaction how to put a shock collar on someone... the collar explodes if they don't comply with the owners wishes / SinisterSmile,
+Topic,PlayerDialogue,Custom,,,"Apparently, one of our own has grown a conscience and tried to sneak out without facing the consequences.",,Explaining a job to the player. / Amused,
+Topic,PlayerDialogue,Custom,,,"Sadly, someone there turned traitor, and as you may know, all traitors must be taught a lesson.",,Explaining a job to the player. / Amused,
+Topic,PlayerDialogue,Custom,,,"Oddly, someone disobeyed a direct order. It's rare, so it's time to remind people just how personally I take it.",,Explaining a job to the player. / Amused,
+Topic,PlayerDialogue,Custom,,,Some dealer rather do business with anyone but us. As if we wouldn't notice. You're going to make that dealer regret living.,,Explaining a job to the player. / Amused,
+Topic,PlayerDialogue,Custom,,,Some wastelander decided to go into the information selling business. You're going to go make sure that career choice is short lived.,,Explaining a job to the player. / Amused,
+Topic,PlayerDialogue,Custom,,,An old client has taken business elsewhere. It's something that can't go unpunished.,,Explaining a job to the player. / Irritated,
+Topic,PlayerDialogue,Custom,,,There's a trader that ripped off one of our outposts. An example must be made.,,Explaining a job to the player. / Irritated,
+Topic,PlayerDialogue,Custom,,,An old trader thinks it's fine to badmouth us. Death is probably too good for this one. I think it's time for a little public shaming.,,Explaining a job to the player. / Amused,
+Topic,PlayerDialogue,Custom,,,"I got a little... problem out in the Commonwealth. You're going to solve it, and make sure no one else gets any ideas.",,Explaining a job to the player. / Amused,
+Topic,PlayerDialogue,Custom,,,"They're saying one of our own grew a conscience and tried to leave. Everyone knows if you want out, you pay with your life.",,talking about killing someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,"We've got a traitor down there, and I'm feeling merciful. And by merciful, I mean skipping the torture and going straight to death.",,talking about killing someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,"Someone decided to act without my approval, and as punishment, I decided to spare the collar and go straight for the execution.",,talking about killing someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,"Some trader is selling information on us. A poor life choice, especially if you're going to get caught. Time to learn the hard way.",,slyly asking the player to kill the ally of a rival gang / Amused,
+Topic,PlayerDialogue,Custom,,,"Some wastelander's selling secrets about us, but not for long. Just don't make it too quick. It's more satisfying when suffering is involved.",,slyly asking the player to kill the ally of a rival gang / Amused,
+Topic,PlayerDialogue,Custom,,,Somehow they managed to take one of my clients. No one cuts ties with me and lives.,,slyly asking the player to kill the ally of a rival gang / Irritated,
+Topic,PlayerDialogue,Custom,,,"Some trader tried to make a shit deal, then accused us of being unfair. I think death is a pretty fair response, don't you?",,talking about killing someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,Some old trader thinks it's okay to trash our good name. I'm thinking you take the tongue before you take the life.,,Talking about killing someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,"There's some unfinished business in the Commonwealth. The kind that demands bloodshed, and lots of it.",,talking about killing someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,"They got a pretty good stash of supplies right now, but some outsiders want to make it theirs. I want you to make sure that doesn't happen.",,explaining to player you want him to go help defend a cache of supplies destined for one of your outposts / Concerned,
+Topic,PlayerDialogue,Custom,,,"They scored some supplies, but now some other group is making threats to hand them over... and no one threatens me and gets away with it.",,explaining to player you want him to go help defend a cache of supplies destined for one of your outposts / Amused,
+Topic,PlayerDialogue,Custom,,,"They had a caravan get ambushed. I trust they can handle it, but I want those supplies and I want them now.",,explaining to player you want him to go help defend a cache of supplies destined for one of your outposts / Irritated,
+Topic,PlayerDialogue,Custom,,,My scouts found an old cache and attracted a little too much attention celebrating. Go make sure they hang on to it and it doesn't happen again.,,explaining to player you want him to go help defend a cache of supplies destined for one of your outposts / Irritated,
+Topic,PlayerDialogue,Custom,,,"One of our supply runs got ambushed. I'm sure they can manage, but I want a little insurance, just in case.",,explaining to player you want him to go help defend a cache of supplies destined for one of your outposts / Irritated,
+Topic,PlayerDialogue,Custom,,,"Some trade deal's gone south. I want you to go make sure we keep what's ours and take what's theirs, along with their sad little lives.",,"explaining to player you want him to go help defend a cache of supplies destined for one of your outposts. Emphasis on the ""and"" / Irritated",
+Topic,PlayerDialogue,Custom,,,"Apparently, some nearby neighbors aren't big on sharing when it comes to supplies. So we're just going to take them.",,slyly asking the player to go steal supplies from a rival group (and to kill any defenders) / Amused,
+Topic,PlayerDialogue,Custom,,,"They ran out of supplies, but I happen to know the perfect place to get them restocked.",,slyly asking the player to go steal supplies from a rival group (and to kill any defenders) / Amused,
+Topic,PlayerDialogue,Custom,,,"Some other settlement thinks they need their supplies more than we do. Luckily, no one needs supplies when they're dead.",,slyly asking the player to go steal supplies from a rival group (and to kill any defenders) / Amused,
+Topic,PlayerDialogue,Custom,,,Some traders don't believe in finders keepers when it comes to stealing. It's time to put them in their place.,,slyly asking the player to go steal supplies from a rival group (and to kill any defenders) / Amused,
+Topic,PlayerDialogue,Custom,,,"We've got word of some supplies we could use, and I'm never really in the negotiating mood. So you're just going to take it.",,slyly asking the player to go steal supplies from a rival group (and to kill any defenders) / Amused,
+Topic,PlayerDialogue,Custom,,,Some outpost is too high and mighty to trade with us. You'd think they'd be thankful we even tried. Now we'll just kill them and take what we want.,,slyly asking the player to go steal supplies from a rival group (and to kill any defenders) / Amused,
+Topic,PlayerDialogue,Custom,,,"There's a place nearby with supplies just waiting to be ours. Some may disagree, but I'm sure you won't let them live long enough to argue.",,slyly asking the player to go steal supplies from a rival group (and to kill any defenders) / Amused,
+Topic,PlayerDialogue,Custom,,,Just some Super Mutants. Nothing you can't handle.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,"Super Mutants. Fun, right?",,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,Some worthless local Raiders.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,Raiders. Like they stand a chance.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,The Brotherhood of Steel. You'll be doing the world a favor.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,Only the Brotherhood. Have at it.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,A handful of Minutemen. A kid could do this job.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,Just those annoying Minutemen.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,Gunners. Put 'em in their place.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,Just a few Gunners.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,"Railroad ""agents."" Sticking their nose where it doesn't belong.",,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,Just the Railroad.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,The Institute. They won't know what hit 'em.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,Only the Institute.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,Some nobody. I'm practically giving you this one.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,Just some annoying idiot. Should be easy for you.,,"answering question about mission: ""who am I up against?"" / Confident",
+Topic,PlayerDialogue,Custom,,,There's no way you're done already. Don't forget you have a job to do.,,Player is coming back before finishing what you told him to do. / Suspicious,
+Topic,PlayerDialogue,Custom,,,Don't you have a little task to take care of?,,Player is coming back before finishing what you told him to do. / Irritated,
+Topic,PlayerDialogue,Custom,,,Isn't there a job you're supposed to be doing?,,Player is coming back before finishing what you told him to do. / Irritated,
+Topic,PlayerDialogue,Custom,,,"That's not what it looks like to me. You want to slack off, do it on your own time. Get out there and get it done.",,Irritated,
+Topic,PlayerDialogue,Custom,,,Is that so? You've got a funny way of showing it because I'm pretty sure your job isn't here in Nuka-World.,,Suspicious,
+Topic,PlayerDialogue,Custom,,,I trust you'll get it done soon if you want to continue running this place.,,SinisterSmile,
+Topic,PlayerDialogue,Custom,,,If you don't think you can handle it... you can tell me. Maybe you'd rather be slumming it with the traders?,,Amused,
+Topic,PlayerDialogue,Custom,,,I have plenty of Disciples who'd leap at the chance to get out there and cut some throats. I'm surprised you don't share their... enthusiasm.,,Amused,
+Topic,PlayerDialogue,Custom,,,I got word from one of our outposts.,,setting up the explanation of a job -- one of the gang's hideouts has a problem she wants the player to solve / Confident,
+Topic,PlayerDialogue,Custom,,,One of our outposts sent word.,,setting up the explanation of a job -- one of the gang's hideouts has a problem she wants the player to solve / Confident,
+Topic,PlayerDialogue,Custom,,,Some outpost apparently can't handle its own.,,setting up the explanation of a job -- one of the gang's hideouts has a problem he wants the player to solve / Irritated,
+Topic,PlayerDialogue,Custom,,,An outpost in the Commonwealth put a call out.,,setting up the explanation of a job -- one of the gang's hideouts has a problem he wants the player to solve / Confident,
+Topic,PlayerDialogue,Custom,,,One of the outposts is having some... trouble.,,setting up the explanation of a job -- one of the gang's hideouts has a problem he wants the player to solve / Amused,
+Topic,PlayerDialogue,Custom,,,"I was just thinking how very boring and dull the Operators' lives must be, and thought we could spice it up a bit for them.",,"slyly, about to explain how the player can help cause trouble for the rival gangs / Amused",
+Topic,PlayerDialogue,Custom,,,I think it's about time we made things more interesting for the Operators.,,"slyly, about to explain how the player can help cause trouble for the rival gangs / Amused",
+Topic,PlayerDialogue,Custom,,,I was just thinking about our dear friends in the Pack.,,"slyly, about to explain how the player can help cause trouble for the rival gangs / Amused",
+Topic,PlayerDialogue,Custom,,,I think it's about time the Pack learned a few lessons.,,"slyly, about to explain how the player can help cause trouble for the rival gangs / Amused",
+Topic,PlayerDialogue,Custom,,,"Well, aren't you agreeable.",,Player agreed to do a job. / Amused,
+Topic,PlayerDialogue,Custom,,,"That easy, huh?",,Player agreed to do a job. / Amused,
+Topic,PlayerDialogue,Custom,,,Good.,,Player agreed to do a job. / Confident,
+Topic,PlayerDialogue,Custom,,,All right...,,Surprised the player answered yes so readily. / Suspicious,
+Topic,PlayerDialogue,Custom,,,Good. I need a sure thing on this.,,Player agreed to do a job. / Confident,
+Topic,PlayerDialogue,Custom,,,Don't think I won't remember this.,,"annoyed, sarcastic - but to someone who is an equal (player refuses to do the job)  / Irritated",
+Topic,PlayerDialogue,Custom,,,"With an attitude like that, I don't see you hanging around here too long.",,"annoyed, sarcastic - but to someone who is an equal (player refuses to do the job)  / Irritated",
+Topic,PlayerDialogue,Custom,,,Maybe you should think about who you're talking to next time.,,"annoyed, sarcastic - but to someone who is an equal (player refuses to do the job)  / Irritated",
+Topic,PlayerDialogue,Custom,,,I get it. Can't handle a little job.,,"annoyed, sarcastic - but to someone who is an equal (player refuses to do the job)  / Amused",
+Topic,PlayerDialogue,Custom,,,You're seriously saying no? I think Gage and I need to have a little chat.,,"annoyed, sarcastic - but to someone who is an equal (player refuses to do the job)  / Irritated",
+Topic,PlayerDialogue,Custom,,,"Oh, I'm sorry, I didn't mean to offend you by offering a job you couldn't handle.",,"annoyed, sarcastic - but to someone who is an equal (player refuses to do the job)  / Sarcastic",
+Topic,PlayerDialogue,Custom,,,And here I thought you were capable of making decisions.,,"annoyed, sarcastic - to someone who SUPPOSEDLY is an equal (player refuses to do the job)  / Irritated",
+Topic,PlayerDialogue,Custom,,,Hope that doesn't mean you're scared.,,"annoyed, sarcastic - to someone who SUPPOSEDLY is an equal (player refuses to do the job)  / SinisterSmile",
+Topic,PlayerDialogue,Custom,,,"Not interested in fun, I see. That's too bad.",,"annoyed, sarcastic - to someone who SUPPOSEDLY is an equal (player refuses to do the job)  / Amused",
+Topic,PlayerDialogue,Custom,,,"Really? The longer you stand here, the more you look like Colter.",,"annoyed, sarcastic - to someone who SUPPOSEDLY is an equal (player refuses to do the job) / Irritated",
+Topic,PlayerDialogue,Custom,,,Can't make a decision? Makes me wonder what else you can't do.,,"annoyed, sarcastic - to someone who SUPPOSEDLY is an equal (player refuses to do the job)  / SinisterSmile",
+Topic,PlayerDialogue,Custom,,,"Someone out there's making threats, and needs to be cut down to size. Think literally.",,talking about killing someone - explaining a job to the player / SinisterSmile,
+Topic,PlayerDialogue,Custom,,,"A certain individual is challenging my authority out in the Commonwealth, and I've decided to take offense. This calls for blood. A lot of blood.",,"talking about killing someone - explaining a job to the player. Emphasis on ""A lot"". / SinisterSmile",
+Topic,PlayerDialogue,Custom,,,Some idiot's trying to stir up trouble. I thought you could go out there and show everyone what happens when you mess with the Disciples.,,talking about killing someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,They think they've got themselves some powerful ally. Why don't you show them exactly how wrong they are.,,slyly asking the player to kill the ally of a rival gang / Amused,
+Topic,PlayerDialogue,Custom,,,They recruited some ally out in the Commonwealth. But you know how bad it can be out there. Most people don't live very long.,,slyly asking the player to kill the ally of a rival gang / Amused,
+Topic,PlayerDialogue,Custom,,,"They've made a friend of an old acquaintance that I let live a while back. I think I regret that decision now, if you know what I mean.",,slyly asking the player to kill the ally of a rival gang / Amused,
+Topic,PlayerDialogue,Custom,,,I got a name I want you to help cross off a list.,,talking about killing someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,There's some... tidying up that I thought you could help with.,,talking about killing someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,I think it's time someone learned just how dangerous we can be.,,talking about killing someone - explaining a job to the player / Amused,
+Topic,PlayerDialogue,Custom,,,Good.,,"pleased - player agrees to do what you asked him (kill someone, etc.), boosting your status among your peers as an equal / better than player / Confident",
+Topic,PlayerDialogue,Custom,,,I knew you'd be interested.,,"pleased - player agrees to do what you asked him (kill someone, etc.), boosting your status among your peers as an equal / better than player / Confident",
+Topic,PlayerDialogue,Custom,,,That's what I like to hear.,,"pleased - player agrees to do what you asked him (kill someone, etc.), boosting your status among your peers as an equal / better than player / Confident",
+Topic,PlayerDialogue,Custom,,,I figured you might be into that.,,"pleased - player agrees to do what you asked him (kill someone, etc.), boosting your status among your peers as an equal / better than player / Confident",
+Topic,PlayerDialogue,Custom,,,Thought you'd like that.,,"pleased - player agrees to do what you asked him (kill someone, etc.), boosting your status among your peers as an equal / better than player / Conspiratorial",
+Topic,PlayerDialogue,Custom,,,"Well, that didn't take long.",,Player just told you they completed a mission you gave. / Amused,
+Topic,PlayerDialogue,Custom,,,Back already?,,Player just told you they completed a mission you gave. / Amused,
+Topic,PlayerDialogue,Custom,,,You're back.,,Player just told you they completed a mission you gave. / Amused,
+Topic,PlayerDialogue,Custom,,,Welcome back... boss.,,Player just told you they completed a mission you gave. / Amused,
+Topic,PlayerDialogue,Custom,,,"So, you made it back.",,Player just told you they completed a mission you gave. / Amused,
+Topic,PlayerDialogue,Custom,,,Aren't you efficient.,,Player just told you they completed a mission you gave. / Amused,
+Topic,PlayerDialogue,Custom,,,Didn't expect you back so soon.,,Player just told you they completed a mission you gave. / Amused,
+Topic,PlayerDialogue,Custom,,,Not bad.,,Player just told you they completed a mission you gave. / Amused,
+Topic,PlayerDialogue,Custom,,,Someone's an overachiever.,,Player just told you they completed a mission you gave. / Amused,
+Topic,PlayerDialogue,Custom,,,You're Overboss for a reason.,,Player just told you they completed a mission you gave. / Amused,
+Topic,PlayerDialogue,Custom,,,Your payment. Not that you need it.,,"2nd sentence more to herself, underbreath. / Confident",
+Topic,PlayerDialogue,Custom,,,Here's what you're owed.,,Confident,
+Topic,PlayerDialogue,Custom,,,Your cut for the successful job.,,Confident,
+Topic,PlayerDialogue,Custom,,,Payment in full.,,Confident,
+Topic,PlayerDialogue,Custom,,,Here. Try not to spend it all in one place.,,Amused,
+Topic,PlayerDialogue,Custom,,,"Not that you need this, but here. Your payment.",,Amused,
+Topic,PlayerDialogue,Custom,,,Here's your cut. I suppose you earned it.,,"friendly, sarcastic. You don't think the player needs any money. He's the overboss. But fair is fair. He did do the job you asked him to. / Confident",
+Topic,PlayerDialogue,Custom,,,Caps for your time. Enjoy them while they last.,,Amused,
+Topic,PlayerDialogue,Custom,,,Here. A few caps for the trouble.,,Amused,
+Topic,PlayerDialogue,Custom,,,"And your payment, as expected.",,Confident,
+Topic,PlayerDialogue,Custom,,,For your trouble.,,Paying the player for a job. / Confident,
+Topic,PlayerDialogue,Custom,,,"Of course. You are the Overboss, aren't you?",,"Emphasis on the word ""are"". / Amused",
+Topic,PlayerDialogue,Custom,,,"Obviously. Think anyone does anything for free around here? Well, heh, beside the traders.",,Duh. / Amused,
+Topic,PlayerDialogue,Custom,,,That goes without saying.,,Amused,
+Topic,PlayerDialogue,Custom,,,"Why? Hurting for caps? Don't worry, you'll get paid.",,Slight sarcasm. / Amused,
+Combat,Combat,Death,,,No...,,InPain,
+Combat,Combat,Hit,,,Damn.,,"Player hit you in combat. Calm, impressed the player hit you, reconsidering their threat level. / SinisterSmile",
+Combat,Combat,Hit,,,Yech.,,Player hit you in combat. Calm but disgusted. / Disbelief,
+Combat,Combat,Hit,,,Hmm.,,"Player hit you in combat. Calm, impressed the player hit you, reconsidering their threat level. / SinisterSmile",
+Combat,Combat,Taunt,,,I'll have your head on a pike when this over.,,Taunting the player in combat. / SinisterSmile,
+Combat,Combat,Taunt,,,Try not to die too quickly. I want to savor this.,,Taunting the player in combat. / SinisterSmile,
+Combat,Combat,Taunt,,,"If you wanted death, all you had to do was ask.",,Taunting the player in combat. / SinisterSmile,
+Detection,Detection,NormalToCombat,,,Must be my lucky day.,,Starting combat. Coy. / SinisterSmile,
+Detection,Detection,NormalToCombat,,,Your blood will do.,,Starting combat. Coy. / SinisterSmile,
+Detection,Detection,NormalToCombat,,,Ready to die?,,Starting combat. Coy. / SinisterSmile,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Don't tell me I've upset you...,,Player isn't responding.  / Amused,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Not all there, are you.",,Player isn't responding. / Sarcastic,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Great. Worse than Colter.,,"Player isn't responding. Annoyed, under breath. / Irritated",
+Miscellaneous,Miscellaneous,Hello,,,"If you side with the Disciples, the whole Commonwealth will fear us... and with fear comes power.",,Conspiratorial,
+Miscellaneous,Miscellaneous,Hello,,,Don't think our cooperation means respect. I'm still seeing how this all plays out.,,Condescending. / SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,You've got a lot to prove. A child could fill Colter's shoes.,,Condescending. / SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,"With those traitors gone, there's even more fun to go around.",,Happy,
+Miscellaneous,Miscellaneous,Hello,,,"Nuka-World's going to attract people far and wide, and we're going to bleed them dry in more ways than one.",,SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,"Fine, I admit it. There really is a bit more appeal to this place when it's all lit up.",,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,It's good to know Gage didn't screw us over a second time.,,Amused,
+Miscellaneous,Miscellaneous,Hello,,,It's not everyday I like someone better alive than dead. I guess you're one of the lucky ones.,,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,Gage's gotta be relieved you pulled through for him. Means he gets to keep his head after all.,,Amused,
+Miscellaneous,Miscellaneous,Hello,,,"The way you're running things, you must not value your life.",,SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,"You're taking a very dangerous path,... boss.",,Boss said with huge disgust / SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,"I wouldn't stick around. You've no idea how irritating it is, just to see you breathing.",,SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,"If the Pack is going to howl all the time, they could at least be good at it.",,Irritated,
+Miscellaneous,Miscellaneous,Hello,,,The Operators are too obsessed with their reflections to get any real work done around here.,,Irritated,
+Miscellaneous,Miscellaneous,Hello,,,I hope those traders realize they're only alive because we allow it.,,Irritated,
+Miscellaneous,Miscellaneous,Hello,,,I can't believe we didn't deal with Colter ourselves.,,Irritated,
+Miscellaneous,Miscellaneous,Hello,,,I bet Gage is happy he has a new ass to kiss. Not sure how he put up with Colter all that time.,,Amused,
+Miscellaneous,Miscellaneous,Hello,,,"The nice thing about living inside the mountain, is not having Nuka-Cola shoved down your throat every minute.",,Amused,
+Scene,SceneDialogue,Custom,,,I've heard you're responsible for a few of our neighbors' deaths. This needs to stop. You know the plan.,"Disciple: They'll never track it back to me. As far as they know, they were lost in the wasteland.",Stern,DLC04ConvDiscipleNishaScene
+Scene,SceneDialogue,Custom,,,I want you on a run with Dixie. You know how enthusiastic she gets. Make sure she doesn't wipe out the whole settlement.,"Disciple: They'll never track it back to me. As far as they know, they were lost in the wasteland.",Stern,DLC04ConvDiscipleNishaScene
+Scene,SceneDialogue,Custom,,,Savoy said you're getting sloppy. That you've been relying on psycho to complete your...tasks. This needs to stop.,"Disciple: They'll never track it back to me. As far as they know, they were lost in the wasteland.",Stern,DLC04ConvDiscipleNishaScene
+Scene,SceneDialogue,Custom,,,"I'm putting you on guard duty, starting tomorrow.","Disciple: They'll never track it back to me. As far as they know, they were lost in the wasteland.",Stern,DLC04ConvDiscipleNishaScene
+Scene,SceneDialogue,Custom,,,I've heard there's some traders passing through north of the park. I want you to get to them before the others do.,"Disciple: They'll never track it back to me. As far as they know, they were lost in the wasteland.",Stern,DLC04ConvDiscipleNishaScene
+Scene,SceneDialogue,Custom,,"Disciple: They'll never track it back to me. As far as they know, they were lost in the wasteland.",Are you arguing with me? I didn't think so.,,"Threatening tone. Pause after the first sentence, as if waiting for a response. / Stern",DLC04ConvDiscipleNishaScene
+Scene,SceneDialogue,Custom,,"Disciple: They'll never track it back to me. As far as they know, they were lost in the wasteland.",I already did. You're just there as insurance. Now go.,,Stern,DLC04ConvDiscipleNishaScene
+Scene,SceneDialogue,Custom,,"Disciple: They'll never track it back to me. As far as they know, they were lost in the wasteland.","I don't want to hear your sob story. Get your shit together, or you can join her.",,Threatening tone.  / Stern,DLC04ConvDiscipleNishaScene
+Scene,SceneDialogue,Custom,,"Disciple: They'll never track it back to me. As far as they know, they were lost in the wasteland.","It's only temporary. Lots of changes are happening, and I want our security at its best. Take it as a compliment.",,Neutral,DLC04ConvDiscipleNishaScene
+Scene,SceneDialogue,Custom,,"Disciple: They'll never track it back to me. As far as they know, they were lost in the wasteland.","Our own purposes. Salvage what you want, but I want them alive and in one piece.",,Threatening tone.  / Stern,DLC04ConvDiscipleNishaScene
+Scene,SceneDialogue,Custom,,"Dixie: Come on, girl, you know we should run this place. Not some lil greenie Gage dragged in.","We're giving him a second chance. Gage screws this up, he knows we'll skin him alive. So shut up and be patient.",Dixie: What about you big guy? Nothing to say on the matter?,Conspiratorial,DLC04DialogueRaiderDiscipleScenes_Intro
+Scene,SceneDialogue,Custom,,"Dixie: Yeah, figured as much.",Both of you just get out of here. And make sure the others get the message.,,Confident,DLC04DialogueRaiderDiscipleScenes_Intro
+Scene,SceneDialogue,Custom,,"DLC04NPCFNisha: Not bad, boss. Not bad.","You made good on your promise, and we've got one less worthless gang to divvy up the spoils.",Nisha: A shame. I'd love to see the look on Mags' face one more time before you took her out. Not to mention that stupid brother of hers.,Impressed,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,"Nisha: You made good on your promise, and we've got one less worthless gang to divvy up the spoils.",A shame. I'd love to see the look on Mags' face one more time before you took her out. Not to mention that stupid brother of hers.,Player Default: It had to be done.,SinisterSmile,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,"Nisha: You made good on your promise, and we've got one less worthless gang to divvy up the spoils.",A shame. I'd love to see the look on Mason's face one more time before you put him down. Some Alpha. Leading his pack into a death trap.,Player Default: It had to be done.,Alpha said with sarcasm and disgust. / SinisterSmile,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,Player Default: It had to be done.,No arguments here.,"Nisha: So tell me. You've been Overboss a while now, followed through on your promises...",Conspiratorial,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,Player Default: You don't betray me and live.,Nice to see we have something in common.,"Nisha: So tell me. You've been Overboss a while now, followed through on your promises...",Impressed,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,Player Default: It's like dealing with some rotten kids lashing out for attention.,"Not a bad comparison. The ""kids"" part is dead on.","Nisha: So tell me. You've been Overboss a while now, followed through on your promises...",Thinking,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,Player Default: Think death is a little too good for them?,"Oh easily. Those little shits deserve far worse, but I'm sure they knew that.",,Amused,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,,"It's probably why they put up a real fight for once, not that anyone could tell.",,Amused,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,,Better to die in the fight then face the consequences of their own stupidity.,Player Default: It had to be done.,Amused,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,Player Default: No arguments here.,"So tell me. You've been Overboss a while now, followed through on your promises...",,Curious. / Confident,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,,"You claimed the rest of the park, got us out in the Commonwealth, and now Nuka-World's lit up like a Christmas tree.",,Confident,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,,Was it worth it?,Player Default: This is the life. Wouldn't trade it for the world.,Conspiratorial,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,Player Default: This is the life. Wouldn't trade it for the world.,"You bet it is. And with this place more or less operational, all we've got to do is sit back and profit.","Nisha: I only regret wasting all those plans I had for Gage. Although, I'm sure he's bound to screw up sooner or later.",Amused,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,Player Default: All that effort? I would have expected more.,"Nothing's ever good enough, huh? I'd say you pretty much have the whole Commonwealth at your fingertips.","Nisha: I only regret wasting all those plans I had for Gage. Although, I'm sure he's bound to screw up sooner or later.",Amused,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,Player Default: That's my business.,"Not up for sharing, I see. Well, I got what I wanted for now, so I suppose I'll let you keep your little secrets.","Nisha: I only regret wasting all those plans I had for Gage. Although, I'm sure he's bound to screw up sooner or later.",Amused,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,Player Default: Why do you care? You got what you wanted.,"Just curious. It's not like you chose all this, not like us.",,Amused,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,,You were lured in here like any common wastelander. I figure you must have some thoughts on whether or not it all paid off.,Player Default: This is the life. Wouldn't trade it for the world.,Amused,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,"Player Default: You bet it is. And with this place more or less operational, all we've got to do is sit back and profit.","I only regret wasting all those plans I had for Gage. Although, I'm sure he's bound to screw up sooner or later.",,Amused,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Scene,SceneDialogue,Custom,,,"You just let me know if you ever... tire of him, and for now, I hope he knows just how lucky he is.",,Amused,DLC04DialogueRaiderDiscipleScenes_PostMQ05
+Miscellaneous,Miscellaneous,Greeting,,,"Not bad, boss. Not bad.","Nisha: You made good on your promise, and we've got one less worthless gang to divvy up the spoils.",Impressed,DLC04DialogueRaiderDiscipleScenes_PostMQ05

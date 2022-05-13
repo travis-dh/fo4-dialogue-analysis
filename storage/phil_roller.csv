@@ -1,0 +1,131 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,SharedInfo,,Tula: I am the rim. The spoke and hub support me.,I am the rim. The spoke and hub support me.,DaraHubbell: We fought a great battle today.,Awed,MS02DaraJunkyardSpeech
+Scene,SceneDialogue,Custom,,DaraHubbell: Everyone gather! Form the wheel.,I am the rim. The spoke and hub support me.,"DaraHubbell: The time has come. The Hub's grand plan can enter its next, important phase.",,MS02DaraSpeech
+Miscellaneous,Miscellaneous,Hello,,,Dara is outside. You should really talk to her first.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,Talk to me if you want an alignment.,,Neutral,
+Miscellaneous,Miscellaneous,Hello,,,I can just feel the neurodynes flooding your system. You really should get an alignment soon.,,Disgust,
+Miscellaneous,Miscellaneous,Idle,,,Don't fall too far behind.,,Concerned,
+Scene,SceneDialogue,Custom,,,Let me start up the zeta rays.,"Phil: Okay, locking onto the neurodynes.",Confident,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: Let me start up the zeta rays.,"Okay, locking onto the neurodynes.",,Confident,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,There are so many of them! What have you been doing?,Phil: Good. The zeta rays are withering them.,Concerned,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: Let me start up the zeta rays.,Locking onto the neurodynes.,,Confident,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,You seem to have gathered almost as many as I removed before.,Phil: Good. The zeta rays are withering them.,Concerned,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: Let me start up the zeta rays.,Neurodynes are locked.,Phil: Good. The zeta rays are withering them.,Confident,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: There are so many of them! What have you been doing?,Good. The zeta rays are withering them.,,Happy,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,"Well, some of them at least.",Phil: And we're done. For now. You'll need many more treatments.,Apologetic,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: There are so many of them! What have you been doing?,You really should be more careful about the company you keep.,Phil: And we're done. For now. You'll need many more treatments.,Concerned,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: There are so many of them! What have you been doing?,The zeta rays are destroying them.,Phil: And we're done. For now. You'll need many more treatments.,Happy,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: There are so many of them! What have you been doing?,I like watching them squirm and die.,Phil: And we're done. For now. You'll need many more treatments.,Happy,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: There are so many of them! What have you been doing?,These are more active than normal.,,Concerned,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,There they go. All gone now.,Phil: And we're done. For now. You'll need many more treatments.,Relieved,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: There are so many of them! What have you been doing?,25 percent... 50 percent... 75 percent... gone.,Phil: And we're done. For now. You'll need many more treatments.,Happy,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: There are so many of them! What have you been doing?,They're trying to hide. They know the end is near. There. Gone.,Phil: And we're done. For now. You'll need many more treatments.,Happy,PhilDoAlignment
+Scene,SceneDialogue,Custom,,"Phil: Well, some of them at least.",And we're done. For now. You'll need many more treatments.,Phil: Congratulations! You are now an AHS-1.,Happy,PhilDoAlignment
+Scene,SceneDialogue,Custom,,"Phil: Well, some of them at least.",The process is complete. You are doing quite well.,Phil: Congratulations! You are now an AHS-1.,Happy,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: And we're done. For now. You'll need many more treatments.,Congratulations! You are now an AHS-1.,,Happy,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,That stands for Aligned Hub Seeker. You have taken the first step in a long journey.,,Conspiratorial,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,Here are your robes.,,Happy,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: And we're done. For now. You'll need many more treatments.,"Well done, AHS-2. Of course you'll need more treatments.",,Impressed,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,Neurodynes build up with exposure to infected people.,,Concerned,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,That's why we recommend only interacting with other hubologists.,,Concerned,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: And we're done. For now. You'll need many more treatments.,You are now officially an AHS-3. Congratulations!,,Impressed,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: And we're done. For now. You'll need many more treatments.,A newly minted AHS-4. I remember when I made that rank.,,Impressed,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,Good times. Good times.,,Happy,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: And we're done. For now. You'll need many more treatments.,You're doing quite well AHS-5. I've rarely seen anyone progress this quickly.,,Impressed,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: And we're done. For now. You'll need many more treatments.,AHS-6 is a rank with many responsibilities and privileges.,,Stern,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,Someday Dara will let us know what they are.,,Irritated,PhilDoAlignment
+Scene,SceneDialogue,Custom,,Phil: And we're done. For now. You'll need many more treatments.,You've made it to AHS-7! Very impressive.,,Impressed,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,I am also an AHS-7. Although by now I should be an AHS-8.,,Irritated,PhilDoAlignment
+Scene,SceneDialogue,Custom,,,Dara is dragging her feet with my promotion.,,Irritated,PhilDoAlignment
+Scene,SceneDialogue,Custom,,MaleEvenToned: Back already AHS-6?,I've told Dara that you are rising too quickly. Even Cleansed didn't promote this quickly.,,Irritated,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,,He's been working for months to save enough caps for his next alignment.,,Irritated,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,,But I'm sure you won't have any problems donating 5000 caps.,Player Default: I am ready.,Confident,PhilAlignmentAHS-6
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I am ready.,Then please sit in the Zeta Aligner.,,Neutral,PhilAlignmentAHS-6
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I am ready.,This isn't enough. Come back when you have the caps.,,Apologetic,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,"Player Default: No, not yet. I'll come back later.",You risk undoing all of your hard work so far.,,Worried,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,,Just stay away from suppressors and don't wait too long for your next alignment.,,Worried,PhilAlignmentAHS-6
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: More caps? You're all a bunch of nutjobs if you think I'm paying that. I quit.,You are no better than the other tainted minds. You are destined to be nothing but rim meat.,,Disgust,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,Player Default: Can you tell me about The Hub's plan now?,"Now that you are AHS-6, you are ready.",,Happy,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,,The Hub persuaded the Star Father to let the true faithful live with him on the planet Quetzal.,,Awed,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,,We need to show our devotion by constantly fighting the influences of the neurodynes and suppressors.,Player Default: I am ready.,Awed,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,Player Default: Can you tell me about The Hub's plan now?,In a spaceship of course.,,Awed,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,,The Star Father provided the co-ordinates of Quetzal to The Hub.,,Awed,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,,But it's up to us to provide the means. Our hard work shows our commitment to him and our worthiness to sit by his side.,Player Default: I am ready.,Confident,PhilAlignmentAHS-6
+Scene,SceneDialogue,Custom,,"Player Default: No, not yet. I'll come back later.","If you let it go on too long, the neurodynes will just build up in you mind, clouding your abilities.",,Big sigh before speaking. / Worried,PhilAlignmentUnitiated
+Scene,SceneDialogue,Custom,,Player Default: Isn't the first one supposed to be free?,I suppose I can do that.,,Thinking,PhilAlignmentUnitiated
+Scene,SceneDialogue,Custom,,,Have a seat in the Zeta Aligner.,,Confident,PhilAlignmentUnitiated
+Scene,SceneDialogue,Custom,,Player Default: Isn't the first one supposed to be free?,That would not show the proper commitment on your part.,Player Default: I am ready.,Irritated,PhilAlignmentUnitiated
+Scene,SceneDialogue,Custom,,Player Default: What are neurodynes?,"Neurodynes build up in your brain, clouding your ability to think.",,Concerned,PhilAlignmentUnitiated
+Scene,SceneDialogue,Custom,,,"After an alignment, you will think more clearly and be happier.",Player Default: I am ready.,Happy,PhilAlignmentUnitiated
+Scene,SceneDialogue,Custom,,Player Default: What are neurodynes?,You are strapped into the chair and your central nervous system is pumped full of zeta radiation.,,Confident,PhilAlignmentUnitiated
+Scene,SceneDialogue,Custom,,,"This destroys some of the neurodynes. However, over time, they will build up again without further treatment.",Player Default: I am ready.,Confident,PhilAlignmentUnitiated
+Scene,SceneDialogue,Custom,,MaleEvenToned: I cannot help you.,Dara has said your treatment must wait until we have achieved our goal.,,Apologetic,PhilAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,Once we have control of the junkyard you can receive another alignment.,,Apologetic,PhilAlignmentAHS-7
+Scene,SceneDialogue,Custom,,MaleEvenToned: I cannot help you.,It's taken me years to master the rank of AHS-7.,,Irritated,PhilAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,Yet Dara refuses to promote me. Me! Her most loyal follower.,,Angry,PhilAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,But you. You come in here and she fawns all over you.,,Disgust,PhilAlignmentAHS-7
+Scene,SceneDialogue,Custom,,,"She's going to replace me, I know it. Go on. Go to Dara. Only she can promote you to AHS-8.",,Depressed,PhilAlignmentAHS-7
+Scene,SceneDialogue,Custom,,"Player Default: No, not yet. I'll come back later.",You have just begun your journey toward enlightenment and true happiness.,,Happy,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,,Don't give up on it now. Come back soon.,,Stern,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,"Player Default: I thought we were friends? You wouldn't charge a friend, would you?","I suppose we are friends. Okay, but this is the last time.",,Puzzled,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,,Sit in the zeta aligner.,,Confident,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,"Player Default: I thought we were friends? You wouldn't charge a friend, would you?",I'm afraid I must insist.,,Apologetic,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,,"You do want to free your mind and find greater happiness, don't you?",Player Default: I am ready.,Question,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,Player Default: What exactly do neurodynes do?,The human mind has unlimited potential.,,Confident,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,,But neurodynes prevent us from reaching it.,,Apologetic,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,,The zeta radiation we administer in an alignment will destroy some of them.,Player Default: I am ready.,Confident,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,Player Default: What exactly do neurodynes do?,The spirits of the dead are constantly trying to influence us.,,Friendly,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,,They reach into our brains and alter our chemistry to create neurodynes.,,Friendly,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,,"Zeta radiation destroys some of the neurodynes and drives the spirits away, but only for a short time.",Player Default: I am ready.,Friendly,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,MaleEvenToned: Are you ready to throw off the shackles of your neurodynes?,Hubology takes commitment. A small donation of 50 caps shows your commitment to self-improvement.,,Stern,PhilAlignmentUnitiated
+Scene,SceneDialogue,Custom,,,"You will take some rads during the procedure, so make sure you are healthy before starting.",Player Default: I am ready.,Stern,PhilAlignmentUnitiated
+Scene,SceneDialogue,Custom,,MaleEvenToned: Our newest member. Welcome AHS-1. Are you ready to do battle with your neurodynes?,We ask for a modest commitment of 100 caps for this alignment.,,Apologetic,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,,"You'll take a bit more rads than last time, so make sure you are healthy before taking this alignment.",Player Default: I am ready.,Apologetic,PhilAlignmentAHS-1
+Scene,SceneDialogue,Custom,,MaleEvenToned: You are doing well AHS-2. In your last alignment I saw unhealthy attachments to suppressors.,"Very difficult to treat. However, you'll only need to donate 250 caps.",,Concerned,PhilAlignmentAHS-2
+Scene,SceneDialogue,Custom,,,Of course the rad dosage is a bit higher too.,Player Default: I am ready.,Apologetic,PhilAlignmentAHS-2
+Scene,SceneDialogue,Custom,,"Player Default: No, not yet. I'll come back later.",I worry about the influence of those suppressors. Don't wait too long.,,Confident,PhilAlignmentAHS-2
+Scene,SceneDialogue,Custom,,Player Default: What are suppressors?,Those are the people in your life that are suppressing your talents and abilities.,,Concerned,PhilAlignmentAHS-2
+Scene,SceneDialogue,Custom,,,They are riddled with neurodynes like you used to be.,,Apologetic,PhilAlignmentAHS-2
+Scene,SceneDialogue,Custom,,,Their brain waves can trigger excess neurodyne activity in you.,,Concerned,PhilAlignmentAHS-2
+Scene,SceneDialogue,Custom,,,I strongly recommend you avoid them.,Player Default: I am ready.,Concerned,PhilAlignmentAHS-2
+Scene,SceneDialogue,Custom,,Player Default: What are suppressors?,"Almost everyone in the Commonwealth is a suppressor, but some are worse than others.",,Concerned,PhilAlignmentAHS-2
+Scene,SceneDialogue,Custom,,,Anyone that tried to convince you of the rightness of their cause is almost certainly a suppressor.,,Worried,PhilAlignmentAHS-2
+Scene,SceneDialogue,Custom,,,We usually recommend limiting your contact with people who are not hubologists.,Player Default: I am ready.,Concerned,PhilAlignmentAHS-2
+Scene,SceneDialogue,Custom,,MaleEvenToned: Welcome back AHS-3. It is time for a fresh alignment.,We'll be treating more deeply rooted neurodynes. You'll need to donate 500 caps.,,Concerned,PhilAlignmentAHS-3
+Scene,SceneDialogue,Custom,,,"The radiation is also strong, so make sure your rads are low.",Player Default: I am ready.,Apologetic,PhilAlignmentAHS-3
+Scene,SceneDialogue,Custom,,"Player Default: No, not yet. I'll come back later.",You are only an AHS-3. You are still highly susceptible to suppressors. Please be careful out there.,,Worried,PhilAlignmentAHS-3
+Scene,SceneDialogue,Custom,,Player Default: How many more alignments do I need?,It's hard to say. Probably until The Hub's grand plan begins.,Player Default: I am ready.,Concerned,PhilAlignmentAHS-3
+Scene,SceneDialogue,Custom,,Player Default: How many more alignments do I need?,The details are restricted to AHS-6 and above.,,Apologetic,PhilAlignmentAHS-3
+Scene,SceneDialogue,Custom,,,But I can tell you that it will end the need for alignments. We will be forever protected from the neurodynes of malignant spirits.,Player Default: I am ready.,Awed,PhilAlignmentAHS-3
+Scene,SceneDialogue,Custom,,MaleEvenToned: It's good to see you AHS-4. You are progressing quickly.,I'm sure the Star Father is impressed.,,Happy,PhilAlignmentAHS-4
+Scene,SceneDialogue,Custom,,,"We need to probe deeper, and you will have to take more rads.",,Apologetic,PhilAlignmentAHS-4
+Scene,SceneDialogue,Custom,,,It will take a donation of 1000 caps for this alignment.,Player Default: I am ready.,Confident,PhilAlignmentAHS-4
+Scene,SceneDialogue,Custom,,"Player Default: No, not yet. I'll come back later.",You are doing so well! It breaks my heart to see you so close to true enlightenment only to be distracted. Come back soon.,,Worried,PhilAlignmentAHS-4
+Scene,SceneDialogue,Custom,,Player Default: Who is this Star Father?,"Our founder, The Hub, made contact with the Star Father long ago.",,Awed,PhilAlignmentAHS-4
+Scene,SceneDialogue,Custom,,,He lives on the distant planet Quetzal in the constellation of Zyphus.,,Awed,PhilAlignmentAHS-4
+Scene,SceneDialogue,Custom,,,He is the source of all enlightenment through the alignments he taught The Hub.,Player Default: I am ready.,Awed,PhilAlignmentAHS-4
+Scene,SceneDialogue,Custom,,Player Default: Who is this Star Father?,"The tools are manmade, but the process is a gift from the Star Father through his prophet, The Hub.",Player Default: I am ready.,Confident,PhilAlignmentAHS-4
+Scene,SceneDialogue,Custom,,MaleEvenToned: Is it time for another alignment already AHS-5?,You are about to be blessed by the Star Father.,,Awed,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,,"Although if it were up to me, you would wait. You are rising too quickly.",,Irritated,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,,This is an even deeper probe with even more rads than last time. A donation of 2500 caps will cover it.,Player Default: I am ready.,Stern,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,"Player Default: No, not yet. I'll come back later.","If you must wait, wait here with us.",,Worried,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,,The outside world will bring you into contact with suppressive influences.,,Worried,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,,I'd hate to undo all the work we've accomplished so far.,,Worried,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,Player Default: Can you tell me more about the Star Father?,He is the source of life on Earth. We are all his descendants.,,Awed,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,,"But we have lost our way, led astray by the neurodynes.",,Sad,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,,But that will all end with The Hub's grand plan.,,Awed,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,Player Default: Can you tell me more about the Star Father?,You are not ready for that mystery yet AHS-5. Maybe next time.,,Apologetic,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,,"But rest assured, The Hub received guidance from the Star Father.",,Awed,PhilAlignmentAHS-5
+Scene,SceneDialogue,Custom,,,We all have a place in his grand plan.,Player Default: I am ready.,Confident,PhilAlignmentAHS-5
+Combat,Combat,Attack,,,For the Hub!,,Angry,
+Combat,Combat,Attack,,,The rim will grind you down!,,Angry,
+Combat,Combat,Attack,,,The wheel will roll over you!,,Angry,
+Miscellaneous,Miscellaneous,Hello,,,"If you need an alignment, you know where to find me.",,Confident,
+Miscellaneous,Miscellaneous,SharedInfo,,,I cannot help you.,,Apologetic,
+Miscellaneous,Miscellaneous,Greeting,,,Are you ready to throw off the shackles of your neurodynes?,Phil: Hubology takes commitment. A small donation of 50 caps shows your commitment to self-improvement.,Question,PhilAlignmentUnitiated
+Miscellaneous,Miscellaneous,Greeting,,,Our newest member. Welcome AHS-1. Are you ready to do battle with your neurodynes?,Phil: We ask for a modest commitment of 100 caps for this alignment.,"AHS-1 is said ""AHS one"" without the dash. / Question",PhilAlignmentAHS-1
+Miscellaneous,Miscellaneous,Greeting,,,You are doing well AHS-2. In your last alignment I saw unhealthy attachments to suppressors.,"Phil: Very difficult to treat. However, you'll only need to donate 250 caps.","AHS-2 is said ""AHS two"" without the dash. / Impressed",PhilAlignmentAHS-2
+Miscellaneous,Miscellaneous,Greeting,,,Welcome back AHS-3. It is time for a fresh alignment.,Phil: We'll be treating more deeply rooted neurodynes. You'll need to donate 500 caps.,"AHS-3 is said ""AHS three"" without the dash. / Stern",PhilAlignmentAHS-3
+Miscellaneous,Miscellaneous,Greeting,,,It's good to see you AHS-4. You are progressing quickly.,Phil: I'm sure the Star Father is impressed.,"AHS-4 is said ""AHS four"" without the dash. / Impressed",PhilAlignmentAHS-4
+Miscellaneous,Miscellaneous,Greeting,,,Is it time for another alignment already AHS-5?,Phil: You are about to be blessed by the Star Father.,"AHS-5 is said ""AHS five"" without the dash. / Surprised",PhilAlignmentAHS-5
+Miscellaneous,Miscellaneous,Greeting,,,Back already AHS-6?,Phil: I've told Dara that you are rising too quickly. Even Cleansed didn't promote this quickly.,"AHS-6 is said ""AHS six"" without the dash. / Surprised",PhilAlignmentAHS-6

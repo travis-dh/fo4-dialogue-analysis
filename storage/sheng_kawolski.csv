@@ -1,0 +1,69 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Player Default: Actually, I already did that.",I thought the purifier was running smoother!,,Happy,ShengQuestScene
+Scene,SceneDialogue,Custom,,,Here's your pay. Pleasure doing business with ya.,,,ShengQuestScene
+Scene,SceneDialogue,Custom,,"Player Default: Actually, I already did that.",Just don't drown. I'll never clean your carcass out of there.,,,ShengQuestScene
+Scene,SceneDialogue,Custom,,Player Default: I don't think so.,Everyone always shies away from the dirty work.,,,ShengQuestScene
+Scene,SceneDialogue,Custom,,Player Default: Depends. What's this worth to you?,"Job's 100 caps, but I like you. 125.","Player Default: Actually, I already did that.",,ShengQuestScene
+Scene,SceneDialogue,Custom,,Player Default: Depends. What's this worth to you?,150 then.,"Player Default: Actually, I already did that.",,ShengQuestScene
+Scene,SceneDialogue,Custom,,Player Default: Depends. What's this worth to you?,All right. 200. High as I'll go.,"Player Default: Actually, I already did that.",,ShengQuestScene
+Scene,SceneDialogue,Custom,,Player Default: Depends. What's this worth to you?,"Ah, no. We're not doing this. 100 caps for the job. No hagglin'.","Player Default: Actually, I already did that.",Angry,ShengQuestScene
+Scene,SceneDialogue,Custom,,Player Default: What kind of stuff is down there?,You're looking for big things. Anything around the size of a book usually.,"Player Default: Actually, I already did that.",,ShengQuestScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Best decision of your life...,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Bottled just today...,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,"Everyone's gotta drink, am I right?",,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,The filters clean out everything...,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Take your pick...,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Good luck finding this anywhere else...,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Don't blame me if you die of thirst...,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Your loss, jackass...",,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Go ahead and waste my time then. Geez.,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Then take a hike.,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Anything I can do to help out?,"Ah, the industrious-type! Wanna help me clean out the water supply? You won't believe the junk people throw in there. Overloads the filters.","Player Default: Actually, I already did that.",Happy,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Anything I can do to help out?,Still need helping cleaning the water supply. Interested?,"Player Default: Actually, I already did that.",,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Anything I can do to help out?,"Yeah, all right...",,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Anything I can do to help out?,"Sure, sure...",,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Anything I can do to help out?,*sigh* All right.,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Anything I can do to help out?,Whatever...,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Anything I can do to help out?,Sure. Think it over.,,,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Do you take this charge card?,A what now? OH... Oh no way! Parker Quinn got another one. I can't believe it. That old shark.,,"player is trying to pay with a ""charge card"" - it looks like a worthless piece of plastic / Surprised",ShengGreetScene
+Scene,SceneDialogue,Custom,,,"Listen, ain't no one from here to the Quincy Bay gonna accept that useless hunk of plastic. You're better off tossin' it.",Sheng: A what now? OH... Oh no way! Parker Quinn got another one. I can't believe it. That old shark.,Amused,ShengGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Sheng? Why was there a skull in the water?,"Eh, so maybe you weren't the first person I asked. Maybe the last guy found an unstable hand grenade.",,Nervous,ShengGreetScene
+Scene,SceneDialogue,Custom,,,"Hey, once the filters do their job, it's all water under the bridge, am I right?",,Nervous,ShengGreetScene
+Scene,SceneDialogue,Custom,,,"Anyway, uh, need some water?",Sheng: A what now? OH... Oh no way! Parker Quinn got another one. I can't believe it. That old shark.,Nervous,ShengGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: You by yourself out here?,That's right. Been on my own since I was eight. I'm a fully independent man. Got my own place. Go to night classes. The whole shebang.,,"precocious, smart, talks fast",ShengGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"Now how about I get you a bottle of water, huh?",Sheng: A what now? OH... Oh no way! Parker Quinn got another one. I can't believe it. That old shark.,"precocious, smart, talks fast",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Anyway, we were talking about water. Still selling. Purest you'll find.",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Now, if you don't mind, I'm kind of in the water business, not the talkin' business.",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Look, I got a business to run. Let's get back to talking about you and all the fresh water I have for sale.",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Hey there. Purified water. You won't find this out in the Commonwealth.,Player Default: Let's see what you've got.,"precocious, smart, talks fast",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Mean's a lot to me and my business, you helping clean out the water supply. What can I get ya?",Player Default: Let's see what you've got.,"precocious, smart, talks fast / Grateful",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Look how clean the water is now! Good job. Here's your pay. Now, how about you pickup some bottles for the road?",Player Default: Let's see what you've got.,"precocious, smart, talks fast, player just cleaned out the water supply for you / Happy",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You're a smart man, coming to me. Special Diamond City water reserves, right here.",Player Default: Let's see what you've got.,"precocious, smart, talks fast",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You're a smart woman, coming to me. Special Diamond City water reserves, right here.",Player Default: Let's see what you've got.,"precocious, smart, talks fast",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Water. Purest around.,Player Default: Let's see what you've got.,"precocious, smart, talks fast",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Don't drink that irradiated crap out there. Pure water here. The real thing.,Player Default: Let's see what you've got.,"precocious, smart, talks fast",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Thirsty? I got what you need.,Player Default: Let's see what you've got.,"precocious, smart, talks fast",ShengGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Pure water, right here.",Player Default: Let's see what you've got.,"precocious, smart, talks fast",ShengGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Eyes down here.,,player isn't saying anything,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Hey, I'm talking to you over here.",,player isn't saying anything,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Uh... we doing business, or what?",,player isn't saying anything,
+Miscellaneous,Miscellaneous,Idle,,,Water! Get your fresh water here!,,barking sales pitches,
+Miscellaneous,Miscellaneous,Idle,,,Fresh water market! Open for business!,,barking sales pitches,
+Miscellaneous,Miscellaneous,Idle,,,Fresh water! Come on people. I ain't standing here for my health!,,barking sales pitches,
+Miscellaneous,Miscellaneous,Idle,,,Purified water! Don't die of thirst out there in the Commonwealth!,,barking sales pitches,
+Miscellaneous,Miscellaneous,Idle,,,Don't be a moron! Stock up on fresh water today.,,barking sales pitches,
+Miscellaneous,Miscellaneous,Hello,,,That's right. I take night classes.,,"in school, taking classes at night",
+Miscellaneous,Miscellaneous,Hello,,,Gonna get an education. Go places.,,"in school, taking classes at night",
+Miscellaneous,Miscellaneous,Hello,,,School ain't hard. Stayin' awake? That's hard.,,"in school, taking classes at night",
+Miscellaneous,Miscellaneous,Hello,,,I'm a busy man. Got things to do. People to see.,,off work for the day,
+Miscellaneous,Miscellaneous,Hello,,,Can't talk now. Some other time.,,off work for the day,
+Miscellaneous,Miscellaneous,Hello,,,"Hey. Would love to chat, but I don't have time.",,off work for the day,
+Scene,SceneDialogue,Custom,,Host: Ella knows not every day can be perfect... here's Into Each Life Some Rain Must Fall.,"Hey, so... uhhh... that Travis guy is dead. This is Sheng Kawolski... uhh... seller of fine water products... and I guess I'll play the music from now on.",Host:,,DiamondCityRadioMusicScene
+Scene,SceneDialogue,Custom,,Host: Ella knows not every day can be perfect... here's Into Each Life Some Rain Must Fall.,"If you're looking for music, you're in the right place. If you're looking for quality bottled water, come see Sheng Kawolski!",Host:,,DiamondCityRadioMusicScene
+Scene,SceneDialogue,Custom,,Host: Ella knows not every day can be perfect... here's Into Each Life Some Rain Must Fall.,"Just 'cause Travis is dead don't mean we shouldn't all enjoy some music... and if you'd like to enjoy some fresh, clean water, you know where to find me!",Host:,,DiamondCityRadioMusicScene
+Scene,SceneDialogue,Custom,,Host: Ella knows not every day can be perfect... here's Into Each Life Some Rain Must Fall.,Uhh... which button was it? This one? No.... This one? No.... what about this one?,Host:,talking to self,DiamondCityRadioMusicScene
+Scene,SceneDialogue,Custom,,Host: Ella knows not every day can be perfect... here's Into Each Life Some Rain Must Fall.,"Hey there! This is Sheng Kawolski, living proof that anyone can make it.",Host:,bragging,DiamondCityRadioMusicScene
+Scene,SceneDialogue,Custom,,Host: Ella knows not every day can be perfect... here's Into Each Life Some Rain Must Fall.,"You know what goes great with classic music? Fresh, clean bottled water. That's right, everyone. Sheng Kawolski here - you know where to find me.",Host:,bragging,DiamondCityRadioMusicScene
+Scene,SceneDialogue,Custom,,Host: Ella knows not every day can be perfect... here's Into Each Life Some Rain Must Fall.,"This is Diamond City Radio, the best radio station ever.",Host:,bragging,DiamondCityRadioMusicScene
+Scene,SceneDialogue,Custom,,"Security: Sheng, what have I told you about keeping the lake clean? Don't make me shut down this little stand of yours.","Every drop of water comes out of that filter 100% pure. Why's a legitimate business man like myself always gotta be hassled by city regulation, huh?","Security: It's a health hazard, Sheng.",,IntroDmndWaterScene
+Scene,SceneDialogue,Custom,,"Security: It's a health hazard, Sheng.","It's a PROFIT hazard, is what I say. I manage the water. And I'll do it without your interference, thank you very much.",,,IntroDmndWaterScene

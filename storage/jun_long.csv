@@ -1,0 +1,49 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"MarcyLongAlias: Come on, Jun. It's time to go.","Oh, okay.",,a little dazed / Puzzled,011SurvivorLobbyScene2
+Combat,Combat,Hit,,,Aaaaah! Huh huh huh uh....!,,getting hit but too afraid to fight back,
+Miscellaneous,Miscellaneous,Hello,,,Wahh huh huh wahh huh huh,,sad muttering,
+Miscellaneous,Miscellaneous,Hello,,,No no no noo no noo noo no noo,,sad muttering,
+Miscellaneous,Miscellaneous,Hello,,,Ohh huh huh god no why whaa,,sad muttering,
+Miscellaneous,Miscellaneous,Hello,,,Huh huh noo huh huh,,sad muttering,
+Miscellaneous,Miscellaneous,Hello,,,Oh god oh god oh why why why why? It's not fair it's not fair huh huh,,sad muttering,
+Miscellaneous,Miscellaneous,Hello,,,Promised we'd get there I promised I promised we'd get there couldn't keep promise I'm so sorry I'm so sorry I'm so sorry,,(sad muttering),
+Scene,SceneDialogue,Custom,,"Sturges: Uh, no offense if you're from here or something.","Where are we going, Marcy?","MarcyLong: Don't worry, Jun. Just stay with me. It'll be fine.",Afraid,Min01ConcordTravel01
+Scene,SceneDialogue,Custom,,"MarcyLong: Don't worry, Jun. Just stay with me. It'll be fine.",Oh... okay.,,Sad,Min01ConcordTravel01
+Miscellaneous,Miscellaneous,Hello,,,What? Who are you?,,"player just rescued you, and you're heading for Sanctuary / Puzzled",
+Miscellaneous,Miscellaneous,Hello,,,*long sigh*,,"player just rescued you, and you're heading for Sanctuary / Depressed",
+Miscellaneous,Miscellaneous,Hello,,,Is it over?,,"player just rescued you, and you're heading for Sanctuary / Depressed",
+Miscellaneous,Miscellaneous,Greeting,,,This can't be happening... Not again...,,Mama Murphy just died of chem overdose / Sad,
+Miscellaneous,Miscellaneous,Greeting,,,She's not moving... Oh god...,,Mama Murphy just died of chem overdose / Sad,
+Scene,SceneDialogue,Custom,,"Player Default: Don't mention it. You guys have been through Hell, huh?",You have no idea. In these past few months we've lost everything...,"JunLong: My son, he... he's gone.","Sad, Traumatized  / Sad",DialogueSanctuaryHillsJunLongFirstGreetingScene
+Scene,SceneDialogue,Custom,,Player Default: You got lucky. But I think your luck's run out.,"You think we don't know that? Look at us, we're barely keeping it together. We've been through Hell...","JunLong: My son, he... he's gone.","Frustrated, scared, hopeless / Angry",DialogueSanctuaryHillsJunLongFirstGreetingScene
+Scene,SceneDialogue,Custom,,Player Default: It all worked out in the end.,No. Our problems aren't so simple...,"JunLong: My son, he... he's gone.","Slightly offended,  / Defiant",DialogueSanctuaryHillsJunLongFirstGreetingScene
+Scene,SceneDialogue,Custom,,Player Default: What happened to you guys?,"Long story short, we've been on the move since the attack on Quincy. There used to be more of us...","JunLong: My son, he... he's gone.","Hard to talk about, dark / Neutral",DialogueSanctuaryHillsJunLongFirstGreetingScene
+Scene,SceneDialogue,Custom,,"NPCMJunLong: Hey, do you have a moment?","I wanted to thank you, for helping us out in Concord...if only we'd run into you sooner.","Player Default: Don't mention it. You guys have been through Hell, huh?","Appreciative, Sad / Apologetic",DialogueSanctuaryHillsJunLongFirstGreetingScene
+Scene,SceneDialogue,Custom,,Player Default: You have no idea. In these past few months we've lost everything...,"My son, he... he's gone.","Player Default: I understand how you feel. I... lost someone, too.","Difficult to say, still very painful / Depressed",DialogueSanctuaryHillsJunLongFirstGreetingScene
+Scene,SceneDialogue,Custom,,"Player Default: I understand how you feel. I... lost someone, too.","But you and I. We're still here, right? We have to go on. For them.",,"Hopeful, Inspiring / Friendly",DialogueSanctuaryHillsJunLongFirstGreetingScene
+Scene,SceneDialogue,Custom,,Player Default: You were his dad. It was your job to protect him. You failed.,"Don't you dare judge me. You don't know what happened! I did everything I could, but those damned raiders...I hope they suffer for what they did.",,"Upset, Angry / Angry",DialogueSanctuaryHillsJunLongFirstGreetingScene
+Scene,SceneDialogue,Custom,,Player Default: That's... awful. No parent should have to lose their child.,"No. No, they shouldn't. I just keep thinking, maybe I could have done more. Anyway, thanks again.",,"Sad, desperate / Sad",DialogueSanctuaryHillsJunLongFirstGreetingScene
+Scene,SceneDialogue,Custom,,Player Default: Your son... What was his name?,Kyle. My son's name was... Kyle.,"Player Default: I understand how you feel. I... lost someone, too.",Sad,DialogueSanctuaryHillsJunLongFirstGreetingScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, do you have a moment?","JunLong: I wanted to thank you, for helping us out in Concord...if only we'd run into you sooner.",Nervous / Nervous,DialogueSanctuaryHillsJunLongFirstGreetingScene
+Miscellaneous,Miscellaneous,Hello,,,I can't believe she's gone. Haven't we suffered enough?,,Mama Murphy died of an overdose a day or so ago,
+Miscellaneous,Miscellaneous,Hello,,,Please just...I need to be alone right now.,,Sad. / Sad,
+Miscellaneous,Miscellaneous,Hello,,,Our little Sanctuary revival project has really helped. Takes my mind off things.,,"Hopeful, appreciative / Friendly",
+Miscellaneous,Miscellaneous,Hello,,,"Some days are harder then others, but even the hard days get easier than the one before.",,"Hopeful, being positive / Friendly",
+Miscellaneous,Miscellaneous,Hello,,,"Don't take offense to Marcy, she's working through the loss in her own way.",,"Apologetic, understanding / Apologetic",
+Miscellaneous,Miscellaneous,Hello,,,I hope you find your son.,,"Friendly, hopeful / Friendly",
+Miscellaneous,Miscellaneous,Hello,,,Yeah?,,,
+Miscellaneous,Miscellaneous,Hello,,,"I'm sorry, I wouldn't be very good company right now.",,Depressed. / Depressed,
+Miscellaneous,Miscellaneous,Hello,,,I should have done more...I hope those raiders pay for what they've done.,,"Guilty, Angry / Angry",
+Miscellaneous,Miscellaneous,Hello,,,"I know I'm not the only person here who's lost someone, I just...I miss him so much.",,"Depressed, trying to be strong / Depressed",
+Miscellaneous,Miscellaneous,Hello,,,I'll try to make myself useful. No one wants to see a grown man feeling sorry for himself.,,"Apologetic, Sad / Apologetic",
+Scene,SceneDialogue,Custom,,"Sturges: Hey Jun, you hanging in there?","Oh, well, I guess so. Every day, I get up and tell myself, ""You just have to get through today.""","Sturges: You've been through a rough time, man. The worst. Just, uh, let me know if there's anything I can do to help.",Uncomfortable. / Sad,DialogueSanctuarySturgesJunLongScene1
+Scene,SceneDialogue,Custom,,"Sturges: You've been through a rough time, man. The worst. Just, uh, let me know if there's anything I can do to help.","Oh, okay... Hey, uh, I know I haven't been pulling my weight around here. And I'm really trying to do better.","Sturges: Come on, there's nothing to apologize for. You worry about you, and everything will take care of itself.",Grateful,DialogueSanctuarySturgesJunLongScene1
+Scene,SceneDialogue,Custom,,"Sturges: Come on, there's nothing to apologize for. You worry about you, and everything will take care of itself.","Okay. Thanks, Sturges. Thanks for checking in on me.",Sturges: Of course. We look out for our own. Always.,Grateful,DialogueSanctuarySturgesJunLongScene1
+Scene,SceneDialogue,Custom,,,You were screaming again last night.,MarcyLong: Oh sorry...,Irritated / Irritated,DialogueSanctuaryJunMarcyScene2
+Scene,SceneDialogue,Custom,,MarcyLong: Oh sorry...,Do you want to talk about it?,"MarcyLong: No, I'm fine. I just...I don't want to think about it anymore.",Concerned / Concerned,DialogueSanctuaryJunMarcyScene2
+Scene,SceneDialogue,Custom,,"MarcyLong: No, I'm fine. I just...I don't want to think about it anymore.",It's okay. I still think about him too.,MarcyLong: I said I'm fine. Leave me alone Jun.,Comforting / Friendly,DialogueSanctuaryJunMarcyScene2
+Scene,SceneDialogue,Custom,,,"Hey Marcy, I was thinking, if you have time later, that maybe you want to go take a walk along the river.","MarcyLong: No, you won't do it right. I have to do it myself.","Hesitant, Nervous / Nervous",DialogueSanctuaryJunMarcyScene1
+Scene,SceneDialogue,Custom,,"MarcyLong: I can't, I have to much to do.",Oh...well maybe I can help.,"MarcyLong: No, you won't do it right. I have to do it myself.",Nervous / Nervous,DialogueSanctuaryJunMarcyScene1
+Scene,SceneDialogue,Custom,,"MarcyLong: No, you won't do it right. I have to do it myself.","Oh...yeah, okay.","MarcyLong: *sigh* Jun I'm sorry. I'm just busy right now. Let me finish up, then we'll go for a walk.","Sad, pretending not to be. / Sad",DialogueSanctuaryJunMarcyScene1
+Scene,SceneDialogue,Custom,,,"Mama Murphy, can we talk?","MamaMurphy: I know what you're gonna ask me, Jun. I've seen it. And there's nothing I can do for ya.",Depressed,DialogueSanctuaryJunMurphyScene1
+Scene,SceneDialogue,Custom,,"MamaMurphy: I know what you're gonna ask me, Jun. I've seen it. And there's nothing I can do for ya.",But... You have the Sight... It has to be able to...,"MamaMurphy: It can't talk to the dead, kid. Even the Sight has limits. I'm sorry.",hoping the Sight can connect you to your dead child / Pleading,DialogueSanctuaryJunMurphyScene1

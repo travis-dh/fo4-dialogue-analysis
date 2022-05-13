@@ -1,0 +1,115 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Combat,Combat,Hit,,,Agh!,,"reacting to being struck by a weapon or bullet, short grunt of pain",
+Combat,Combat,Flee,,,Get away!,,,
+Combat,Combat,Flee,,,Leave me alone!,,,
+Miscellaneous,Miscellaneous,Hello,,,"Hi, mister.",,,
+Miscellaneous,Miscellaneous,Hello,,,"Hi, miss.",,,
+Miscellaneous,Miscellaneous,Hello,,,Huh?,,,
+Miscellaneous,Miscellaneous,Hello,,,Hello.,,,
+Miscellaneous,Miscellaneous,Hello,,,Dad's been really nice lately. He didn't used to.,,"Hushed tone, a secret",
+Miscellaneous,Miscellaneous,Hello,,,All Janey ever talks about is clothes and boys. Boring!,,,
+Miscellaneous,Miscellaneous,Hello,,,Everyone used to be sick and hungry. I was scared we were all gonna die.,,"Worried, a difficult memory",
+Miscellaneous,Miscellaneous,Hello,,,It's nice to have a lot of food. We used to only eat once a day.,,"Weary, bad memory",
+Scene,SceneDialogue,Custom,,"Player Default: All right, Burton. I'm here. Hurry up, out with it, I have a lot of plans for this summer and none of them involve chatting with you.","Why, Ronald, I'm hurt. Skipping the pleasantries and getting right down to business. And after all we've accomplished together this semester...","Player Default: For the last time, you little snot, it's Principal Tanner.",,DN020_ChelseaHolotape
+Scene,SceneDialogue,Custom,,"Player Default: For the last time, you little snot, it's Principal Tanner.",Fine. Principal Tanner. I'll make this quick...,,,DN020_ChelseaHolotape
+Scene,SceneDialogue,Custom,,,"You've been giving me mentats to distribute to the students quietly and under the nose of the faculty. I have. Because of this, test scores have skyrocketed.",,,DN020_ChelseaHolotape
+Scene,SceneDialogue,Custom,,,"The school board has noticed. We've received quite an increase in funding. But the faculty doesn't know. No one here knows except you. And now, me.",,,DN020_ChelseaHolotape
+Scene,SceneDialogue,Custom,,,"You've been skimming off the top and pocketing most of the funds. I want fifty percent of what you're embezzling, or I go to Superintendent Marcello with this.",Player Default: What? How did you... When did you get so smart?,,DN020_ChelseaHolotape
+Scene,SceneDialogue,Custom,,Player Default: What? How did you... When did you get so smart?,"You've been giving me ""brain pills"" every week. What did you expect, you pathetic little man?","Player Default: Well, so what if it's all true? No one's going to believe you! You're just a kid, and I'm the principal and, more importantly, an adult!",,DN020_ChelseaHolotape
+Scene,SceneDialogue,Custom,,"Player Default: Well, so what if it's all true? No one's going to believe you! You're just a kid, and I'm the principal and, more importantly, an adult!","Oh, I think they'll believe me, Ronald. Especially after they hear you admit everything in your own words...","Player Default: What are you talking about...Wait, is that a holotape? You son of a...!",,DN020_ChelseaHolotape
+Miscellaneous,Miscellaneous,Hello,,,"Uh...whatever you think I did, I didn't do it. Alice is a liar!",,Nervous. / Nervous,
+Miscellaneous,Miscellaneous,Hello,,,Sometimes I hide my Dad's work notes just to mess with him. It drives him crazy.,,Devilish. / SinisterSmile,
+Miscellaneous,Miscellaneous,Hello,,,What? I'm not even doing anything!,,Defensive / Conspiratorial,
+Miscellaneous,Miscellaneous,Hello,,,"If you're looking for my Mom or Dad, they're probably still working.",,Upset. / Stern,
+Miscellaneous,Miscellaneous,Hello,,,"Watch out around here. If they catch you having fun, they'll make you do boring science.",,"Cautionary, disgust / Disgust",
+Miscellaneous,Miscellaneous,Hello,,,"Kids gotta earn their keep, too.",,Matter-of-fact,
+Miscellaneous,Miscellaneous,Hello,,,Have you seen Diamond City? It's huge!,,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,Raiders don't scare me.,,Defiant,
+Miscellaneous,Miscellaneous,Hello,,,"I saw a Deathclaw once. It was far away, but I saw it.",,Boasting,
+Miscellaneous,Miscellaneous,Hello,,,Working on a farm is really boring.,,Disdain,
+Miscellaneous,Miscellaneous,Hello,,,Mole rats are gross.,,Disgust,
+Miscellaneous,Miscellaneous,Hello,,,You better not cause any trouble.,,Warning,
+Miscellaneous,Miscellaneous,Hello,,,"We ain't got any handouts, if that's what you want.",,Warning,
+Miscellaneous,Miscellaneous,Hello,,,"When I grow up, I'm gonna have my own farm and make other people do all the work.",,,
+Miscellaneous,Miscellaneous,Hello,,,"Just so you know, I'm keepin' my eye on you.",,Warning,
+Scene,SceneDialogue,Custom,,"Zwicky: Time for a pop quiz, everyone!",Awwww!,"ChildM02: But Mister Zwicky, we had a pop quiz yesterday!",don't want to take a quiz / Sad,DiamondCitySchoolhouseIntro
+Scene,SceneDialogue,Custom,,ChildF01: Awwww!,"But Mister Zwicky, we had a pop quiz yesterday!","Zwicky: And we've learned a lot since then, so we're going to reinforce that knowledge with a little quiz.",pronounced ZEH-WICKEE,DiamondCitySchoolhouseIntro
+Scene,SceneDialogue,Custom,,"Zwicky: *sigh* All right, you guys win. We'll do the quiz later.",Yayyyyy!,,Happy,DiamondCitySchoolhouseIntro
+Miscellaneous,Miscellaneous,Hello,,,"Your parents make you come here, too?",,,
+Miscellaneous,Miscellaneous,Hello,,,Only subject I like is geography. You get to look at maps and stuff.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Mister Zwicky says I talk to much, but I hardly talk ever.",,,
+Miscellaneous,Miscellaneous,Hello,,,I'm bored.,,,
+Miscellaneous,Miscellaneous,Hello,,,Do you know that radiation is why Brahmin have two heads? It's true!,,precocious,
+Miscellaneous,Miscellaneous,Hello,,,"If you drink water out in the Commonwealth, you get sick. That's what my friend Sheng told me.",,precocious,
+Miscellaneous,Miscellaneous,Hello,,,Sometimes we go on field trips to the Science! Center. Those are my favorite.,,precocious,
+Miscellaneous,Miscellaneous,Hello,,,I should study.,,precocious,
+Miscellaneous,Miscellaneous,SharedInfo,,"Player Default: Well, I'm not a stranger. I'm a friend of your father's, and I'm here to help him.","Oh good. I'm really glad you're here, because I'm scared something bad is going to happen to my dad.",Wally: Foreman Bill says dad's a synth. That's like a robot who looks like a real person.,Worried but relieved that help has arrived / Relieved,InstM01WallyScene
+Scene,SceneDialogue,Custom,,"Player Default: Well, I'm not a stranger. I'm a friend of your father's, and I'm here to help him.","Nuh-uh. I know all my dad's friends, and you're not one of them.","Wally: Anyway, now I'm talking to you and I'm going to get in trouble so I'm not going to say anything else.",Irritated,InstM01WallyScene
+Scene,SceneDialogue,Custom,,"Player Default: I've got ways of making you talk, kid. Don't make me use them.","Whoa, hold on a sec.",Wally: I'm just doing what mom said. You don't have to get mad at me.,Surprised and scared / Afraid,InstM01WallyScene
+Scene,SceneDialogue,Custom,,"Player Default: I've got ways of making you talk, kid. Don't make me use them.",I'm not scared of you. My dad taught me how to shoot a gun.,"Wally: Anyway, now I'm talking to you and I'm going to get in trouble so I'm not going to say anything else.",Bravado / Defiant,InstM01WallyScene
+Scene,SceneDialogue,Custom,,"Player Default: You're not being very helpful here, kid.",It's not my fault.,Wally: I'm just doing what mom said. You don't have to get mad at me.,Defensive. / Irritated,InstM01WallyScene
+Scene,SceneDialogue,Custom,,"Player Default: You're not being very helpful here, kid.",Don't get mad at me! It's not my fault. I have to do what mom says.,"Wally: Anyway, now I'm talking to you and I'm going to get in trouble so I'm not going to say anything else.",Defensive.,InstM01WallyScene
+Scene,SceneDialogue,Custom,,Player Default: Who told you that?,"My mom. She says until she figures things out, we can't trust anybody.","Player Default: Well, I'm not a stranger. I'm a friend of your father's, and I'm here to help him.",,InstM01WallyScene
+Scene,SceneDialogue,Custom,,"Player Default: Nuh-uh. I know all my dad's friends, and you're not one of them.","Anyway, now I'm talking to you and I'm going to get in trouble so I'm not going to say anything else.",Wally: I'm just doing what mom said. You don't have to get mad at me.,Defiant / Irritated,InstM01WallyScene
+Scene,SceneDialogue,Custom,,"Wally: If you really are here to help my dad, then I should tell you something.",Foreman Bill says dad's a synth. That's like a robot who looks like a real person.,,"Whispering, worried",InstM01WallyScene
+Scene,SceneDialogue,Custom,,,Foreman Bill said he had an idea to take care of our synth problem. He gave Cedric some caps and sent him to Goodneighbor.,,"Whispering, worried",InstM01WallyScene
+Scene,SceneDialogue,Custom,,,I wish they would just leave my dad alone.,,"Whispering, worried, sad / Worried",InstM01WallyScene
+Scene,SceneDialogue,Custom,,"Wally: Anyway, now I'm talking to you and I'm going to get in trouble so I'm not going to say anything else.",I'm just doing what mom said. You don't have to get mad at me.,,Mildly annoyed. / Irritated,InstM01WallyScene
+Scene,SceneDialogue,Custom,,,"If you really are here to help my dad, then I should tell you something.",Wally: Foreman Bill says dad's a synth. That's like a robot who looks like a real person.,Neutral,InstM01WallyScene
+Miscellaneous,Miscellaneous,Greeting,,,"Sorry lady, but I'm not supposed to talk to strangers.","Player Default: Well, I'm not a stranger. I'm a friend of your father's, and I'm here to help him.",Apologetic,InstM01WallyScene
+Miscellaneous,Miscellaneous,Greeting,,,"Sorry mister, but I'm not supposed to talk to strangers.","Player Default: Well, I'm not a stranger. I'm a friend of your father's, and I'm here to help him.",Apologetic,InstM01WallyScene
+Miscellaneous,Miscellaneous,Hello,,,I wish I was allowed to talk to strangers.,,Regret,
+Miscellaneous,Miscellaneous,Hello,,,I'm scared something bad's gonna happen.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,"Foreman Bill used to be really nice, but now he's sort of mean.",,Bewildered,
+Miscellaneous,Miscellaneous,Greeting,,,,Player Default: Do what I say and no one gets hurt.,Afraid,HoldupDialogue
+Scene,SceneDialogue,Custom,,June: What's this I hear about you going in the water?,What?! Did Janey tell on me?,,You're busted,DialogueWarwickJuneWallyScene
+Scene,SceneDialogue,Custom,,,It was only for a minute. I thought I saw a toy rocket and I was trying to get it.,June: I don't care what it was. You know the rules.,Confessing,DialogueWarwickJuneWallyScene
+Scene,SceneDialogue,Custom,,June: I won't see my only son wind up in some mirelurk's belly.,I hate when she does this. She's always trying to get me in trouble!,June: She's just looking out for you like a big sister should.,"Angry, also whiny",DialogueWarwickJuneWallyScene
+Scene,SceneDialogue,Custom,,"June: When you're an adult, you can swim all you want. Until then, you do what your father and I tell you. Is that clear?","Yes, mom.",,"Sulking, defeated",DialogueWarwickJuneWallyScene
+Scene,SceneDialogue,Custom,,,"Thanks a lot for telling on me, Janey.",,Angry,DialogueWarwickWallyJaneyScene
+Scene,SceneDialogue,Custom,,,You're such a tattle-tale!,Janey: What are you talking about?,Angry,DialogueWarwickWallyJaneyScene
+Scene,SceneDialogue,Custom,,Janey: What are you talking about?,Dad says I'm in trouble cause I was playing with his rifle. he says you told him.,Janey: Well mom says it's my job to keep an eye on you.,Angry,DialogueWarwickWallyJaneyScene
+Scene,SceneDialogue,Custom,,"Janey: Maybe if you stopped acting like such a whiny little baby, I wouldn't have to anymore.",Tattle-tale! Tattle-tale!,,Mocking chant,DialogueWarwickWallyJaneyScene
+Scene,SceneDialogue,Custom,,,I'm never going to tell you a secret ever again.,Janey: Like I care about your stupid secrets.,Angry,DialogueWarwickWallyJaneyScene
+Scene,SceneDialogue,Custom,,,"Dad, how come you don't sleep anymore?","Roger: What? Of course I sleep! What kind of silly question is that, kiddo?","Curious, a little worried",DialogueWarwickWallyRogerScene
+Scene,SceneDialogue,Custom,,"Roger: What? Of course I sleep! What kind of silly question is that, kiddo?",Sometimes I hear someone doing stuff in the middle of the night and it wakes me up.,,"Curious, worried",DialogueWarwickWallyRogerScene
+Scene,SceneDialogue,Custom,,,"When I look, it's always you.","Roger: Okay, okay, you got me.",,DialogueWarwickWallyRogerScene
+Scene,SceneDialogue,Custom,,"Roger: It's grown-up stuff. One day, when you're a man with a family of your own, you'll understand.","I just want to make sure you're okay, is all.","Roger: Son, I promise you, I've never been better.",,DialogueWarwickWallyRogerScene
+Scene,SceneDialogue,Custom,,Austin: Thank you.,Thank you.,Katy: And we have a thank you gift for you. Here.,Friendly/Grateful / Friendly,V81_04_Stories
+Scene,SceneDialogue,Custom,,MisterZwicky: Mister Everitts. I want to talk to you about your essay on the history of Diamond City.,"I'm really sorry it was late. It's just... my cat was sick, and then Everitts stole my pencil, and...",MisterZwicky: I wanted to say you did a good job. Very clear. Well researched.,rambling off excuses / Nervous,ConvDiamondCitySchoolhouseZwickyChild03Scene
+Scene,SceneDialogue,Custom,,MisterZwicky: I wanted to say you did a good job. Very clear. Well researched.,Oh... uh... Thanks!,MisterZwicky: You're welcome. Now please focus on managing your time. You do great work when you actually finish it.,,ConvDiamondCitySchoolhouseZwickyChild03Scene
+Scene,SceneDialogue,Custom,,,"Miss Edna, do robots have families?","MissEdna: All of the children who come here are like family to me. I'm so happy seeing you all grow and learn, year after year.",,ConvDiamondCitySchoolhouseEdnaChild01Scene
+Scene,SceneDialogue,Custom,,"MissEdna: All of the children who come here are like family to me. I'm so happy seeing you all grow and learn, year after year.",What about Mister Zwicky? Is he like family to? Like a husband?,"MissEdna: I... um... well... We are colleagues. We spend a lot of time together, yes, but that's all.",,ConvDiamondCitySchoolhouseEdnaChild01Scene
+Scene,SceneDialogue,Custom,,,"Miss Edna, what's it like being married?","MissEdna: It is a great feeling, little one. And don't worry. Nothing is going to change. We're both going to be here for you and all the other students.",Miss Edna and Mister Zwicky recently got married,ConvDiamondCitySchoolEdnaChild01ZwickyPostMarriageScene
+Scene,SceneDialogue,Custom,,MissEdna: Do you need any help with your assignment?,No. I think I got it...,"MissEdna: All right, but don't strain yourself. You should always feel free to ask questions.",,ConvDiamondCitySchoolEdnaChild01Scene
+Scene,SceneDialogue,Custom,,"MissEdna: Who can tell me? If Henry and Sally had four Mutfruits, and they cut them all up into four slices each, how many slices would they have?",Sixteen. That's easy!,"MissEdna: Ah, but what if Henry and Sally have twenty slices, but they only cut each Mutfruit four times. How many Mutfruits did they start with?",excited and engaged,ConvDiamondCitySchoolEdnaChild02Scene
+Scene,SceneDialogue,Custom,,"MissEdna: Ah, but what if Henry and Sally have twenty slices, but they only cut each Mutfruit four times. How many Mutfruits did they start with?",Umm... they started with twenty... and... divide by four... Five! They had five.,MissEdna: Very good!,thinking the problem through,ConvDiamondCitySchoolEdnaChild02Scene
+Scene,SceneDialogue,Custom,,"MisterZwicky: I need to talk to you about this writing assignment, Mister Wallace.","It's great, isn't it? I'm thinking next time, Super Mutant Joe grows a second head, and they start arguing with each other!",MisterZwicky: You were supposed to write a report identifying the different animals of the Commonwealth.,excited about your short story,ConvDiamondCitySchoolhouseZwickyChild02Scene
+Scene,SceneDialogue,Custom,,"MisterZwicky: There's not one mention of Brahmin, Radstags, or even Mirelurks in here.","Oh, a Mirelurk! That would be a great villain for the next chapter. ""Super Mutant Joe versus The Fish King!""","MisterZwicky: *sigh* Well, I suppose part of teaching is about encouraging creativity...","excited about your short story, naming it on the spot",ConvDiamondCitySchoolhouseZwickyChild02Scene
+Scene,SceneDialogue,Custom,,,"Hey dad, are you ready?",NathanFilmore: Ready for what?,"Question, a little excited / Happy",DialogueInstituteFilmoreHomeScene2
+Scene,SceneDialogue,Custom,,NathanFilmore: Ready for what?,To work on my project...you told me you would help me work on my project tonight.,"NathanFilmore: Oh shoot, that's right. It must have slipped my mind, I'm afraid I can't tonight. I have too much work to do. I'm sorry.","Hopefully, slightly excited / Friendly",DialogueInstituteFilmoreHomeScene2
+Scene,SceneDialogue,Custom,,"NathanFilmore: Oh shoot, that's right. It must have slipped my mind, I'm afraid I can't tonight. I have too much work to do. I'm sorry.",Oh. It's okay.,"NathanFilmore: I'll make it up to you, I promise. Next week.",Upset / Depressed,DialogueInstituteFilmoreHomeScene2
+Scene,SceneDialogue,Custom,,"AllieFilmore: Apparently, he thought it would be a novel idea to steal high grade stimulants from Doctor Volkert's lab and then give them to the Gorillas.",It was an accident. I swear.,"NathanFilmore: *sigh* Quentin, what are we going to do with you?",Pleading / Pleading,DialogueInstituteFilmoreHomeScene1
+Scene,SceneDialogue,Custom,,AllieFilmore: I think a three week grounding and a hand-written apology to everyone involved is suitable.,No. Please. I promise I'll be good.,"NathanFilmore: Sorry Quentin, maybe you'll learn your lesson this time.","Pleading, upset / Pleading",DialogueInstituteFilmoreHomeScene1
+Miscellaneous,Miscellaneous,Hello,,,Must be weird living in a vault.,,"Curious, disdain",
+Miscellaneous,Miscellaneous,Hello,,,"I guess you're from one of the vaults, huh?",,Curious,
+Miscellaneous,Miscellaneous,Hello,,,I know that suit. You're one of those people who lives underground.,,"Curious, disdain",
+Miscellaneous,Miscellaneous,Hello,,,That armor looks really tough.,,"Excited, impressed",
+Miscellaneous,Miscellaneous,Hello,,,That armor's awesome!,,"Excited, impressed",
+Miscellaneous,Miscellaneous,Hello,,,Whoa! Where'd you get a Brotherhood suit?,,"Excited, impressed",
+Miscellaneous,Miscellaneous,Hello,,,One of the gourds is growing in really huge!,,Excited / Surprised,
+Miscellaneous,Miscellaneous,Hello,,,I miss Cedric. I hope he comes back someday.,,Relieved / Relieved,
+Miscellaneous,Miscellaneous,Hello,,,I'm really glad you came to help us.,,"Grateful, friendly / Grateful",
+Scene,SceneDialogue,Custom,,Katy: The G.O.A.T. is used to determine what your best skillsets are and assign you the appropriate career within the Vault.,What if we don't like it? I don't want be stuck doing security or anything.,"Katy: If you don't like your results, you'll have to take it up with the Overseer when the time comes.",Curious/concerned / Question,V81_Lesson_01_Scene
+Scene,SceneDialogue,Custom,,Katy: Now here are some example images that you'll be shown.,Ew.,Katy: Each image is associated with a question and will have four answers to choose from.,Grossed out by an image / Disgust,V81_Lesson_01_Scene
+Miscellaneous,Miscellaneous,Hello,,,"Cool, an outsider in a Vault suit.",,Impressed / Impressed,
+Miscellaneous,Miscellaneous,Hello,,,I wish my mom wasn't working so much.,,Downhearted / Depressed,
+Miscellaneous,Miscellaneous,Hello,,,I heard there's all sorts of scary monsters in the Commonwealth.,,Casual / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,Mom says it's too dangerous to play outside.,,Casual / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"My dad says Super Mutants eat kids for breakfast, but I think he's just trying to scare me.",,Casual / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,Austin's really sick. I hope he's gonna be alright.,,Worried / Worried,
+Miscellaneous,Miscellaneous,Hello,,,I hope Austin feels better soon.,,Worried / Worried,
+Miscellaneous,Miscellaneous,Hello,,,One of my friends died... I miss him.,,Sad kid. / Sad,
+Miscellaneous,Miscellaneous,Hello,,,It's weird without Austin. I don't know why he had to go away.,,Sad kid. / Sad,
+Miscellaneous,Miscellaneous,Hello,,,I'm glad Austin's better. Now we have even teams.,,Happy / Happy,
+Miscellaneous,Miscellaneous,Hello,,,My friend is all better now. Being sick sucks.,,Happy / Happy,

@@ -1,0 +1,25 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: That's right.,Okay! I'll... I'll do it!,,Happy,WorkshopRecruitSheffield
+Scene,SceneDialogue,Custom,,Player Default: That's right.,I... don't think so...,,Puzzled,WorkshopRecruitSheffield
+Scene,SceneDialogue,Custom,,Player Default: Just don't turn into some damn Nuka-Cola hoarder.,I won't! I mean... I might take a few bottles with me... but that's all!,,Grateful,WorkshopRecruitSheffield
+Scene,SceneDialogue,Custom,,Player Default: Just don't turn into some damn Nuka-Cola hoarder.,No... I don't think I could handle it...,,Depressed,WorkshopRecruitSheffield
+Scene,SceneDialogue,Custom,,Player Default: What do you say?,Okay! Maybe this will be a fresh start?,,Happy,WorkshopRecruitSheffield
+Scene,SceneDialogue,Custom,,Player Default: What do you say?,"No... No, I can't...",,Depressed,WorkshopRecruitSheffield
+Scene,SceneDialogue,Custom,,"Player Default: Nah, never mind. Just a little joke.",Wh-why's that funny? *sigh*,,Sad,WorkshopRecruitSheffield
+Miscellaneous,Miscellaneous,Greeting,,,Really? You... you mean it?,Player Default: That's right.,Surprised,WorkshopRecruitSheffield
+Miscellaneous,Miscellaneous,Hello,,,Thank you! It's like I can finally think straight.,,"nuka cola addict, player gave you a nuka cola / Happy",
+Miscellaneous,Miscellaneous,Hello,,,I gave up alcohol after settling down here. Doctors said I shot my liver.,,"nuka cola addict, player gave you a nuka cola",
+Miscellaneous,Miscellaneous,Hello,,,Nuka-Cola's the only thing I can drink that wakes me up. Otherwise it's all... hazy.,,"Nuka Cola addict, player just gave you a nuka cola",
+Scene,SceneDialogue,Custom,,Player Default: Here you go.,*gasp* Oh thank you! Thank you!,,Surprised,FFDiamondCity08GiveNukaScene
+Scene,SceneDialogue,Custom,,Player Default: I'm... gonna go...,*whimpering*,,,FFDiamondCity08GiveNukaScene
+Scene,SceneDialogue,Custom,,Player Default: Drink. Some. Water.,Nuka-Cola...So thirsty...*whimpering*,Player Default: Here you go.,,FFDiamondCity08GiveNukaScene
+Scene,SceneDialogue,Custom,,Player Default: You want a soda? Is that it?,Dugout Inn usually has some... but I can't go there... can't be around booze... Doctor says I can't drink that...,Player Default: Here you go.,,FFDiamondCity08GiveNukaScene
+Miscellaneous,Miscellaneous,Greeting,,,So thirsty... Doctor says I can't drink liquor no more... Cola... Need a Nuka-Cola...,,like an addict with the shakes,
+Miscellaneous,Miscellaneous,SharedInfo,,,Cola... Nuka-Cola...,,like an addict with the shakes,
+Miscellaneous,Miscellaneous,SharedInfo,,,So thirsty... Nuka-Cola...,,like an addict with the shakes,
+Miscellaneous,Miscellaneous,SharedInfo,,,Thirsty... Nuka-Cola...,,like an addict with the shakes,
+Miscellaneous,Miscellaneous,SharedInfo,,,Need a drink... Nuka-Cola...,,like an addict with the shakes,
+Miscellaneous,Miscellaneous,SharedInfo,,,Nuka-Cola...,,like an addict with the shakes,
+Scene,SceneDialogue,Custom,,Darcy: Hi Sheffield. I'm looking for Paul. Have you seen him?,"Paul's finally run off, eh? Not surprising, married to the likes of you.",Darcy: What a horrible thing to say.,,ConvDiamondCityMS13PaulDiesDarcy02Scene
+Scene,SceneDialogue,Custom,,Darcy: What a horrible thing to say.,"He's probably better off, wherever he is.",Darcy: What would you know. You're nothing but a no-good drunk.,,ConvDiamondCityMS13PaulDiesDarcy02Scene
+Scene,SceneDialogue,Custom,,Darcy: What would you know. You're nothing but a no-good drunk.,"Takes one to know one, ha ha ha. See you around, Darcy!",Darcy: Every time I talk to you I regret it.,,ConvDiamondCityMS13PaulDiesDarcy02Scene

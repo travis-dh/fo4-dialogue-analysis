@@ -1,0 +1,129 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,FemaleChild: So you want that tour or not? 10 caps.,For 10 caps I can give you the tour. Nobody knows the place like me.,"Player Default: Sure, I'll take the tour.",,MegScene
+Scene,SceneDialogue,Custom,,"Player Default: Sure, I'll take the tour.","And the 10 caps? Seriously, you don't have 10 caps? *groan*","Meg: The market's in the back, bar's in the corner, and the outhouse is over the wall. Bye.",,MegScene
+Scene,SceneDialogue,Custom,,"Player Default: Sure, I'll take the tour.","Caps up front, thank you.","Meg: The market's in the back, bar's in the corner, and the outhouse is over the wall. Bye.",,MegScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Your loss.,"Meg: The market's in the back, bar's in the corner, and the outhouse is over the wall. Bye.",,MegScene
+Scene,SceneDialogue,Custom,,Player Default: Any chance I can get it for free?,Fine.,"Meg: The market's in the back, bar's in the corner, and the outhouse is over the wall. Bye.",,MegScene
+Scene,SceneDialogue,Custom,,Player Default: Any chance I can get it for free?,What? Even I can afford 10 lousy caps.,"Player Default: Sure, I'll take the tour.",,MegScene
+Scene,SceneDialogue,Custom,,Player Default: What's in the tour?,"All sorts of things. Get a jump on the other traders. C'mon, it's just 10 caps.","Player Default: Sure, I'll take the tour.",,MegScene
+Scene,SceneDialogue,Custom,,"Player Default: And the 10 caps? Seriously, you don't have 10 caps? *groan*","The market's in the back, bar's in the corner, and the outhouse is over the wall. Bye.",,,MegScene
+Miscellaneous,Miscellaneous,SharedInfo,,,You have a nice day!,,,
+Miscellaneous,Miscellaneous,Greeting,,,So you want that tour or not? 10 caps.,Meg: For 10 caps I can give you the tour. Nobody knows the place like me.,,MegScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hi, I'm Meg. You new to the Hill?",Meg: For 10 caps I can give you the tour. Nobody knows the place like me.,,MegScene
+Miscellaneous,Miscellaneous,Hello,,,No refunds.,,,
+Miscellaneous,Miscellaneous,Hello,,,A girl's got to do what she needs to get spending caps.,,,
+Miscellaneous,Miscellaneous,Hello,,,"If you do anything to me, I'll tell Kessler.",,,
+Miscellaneous,Miscellaneous,Hello,,,I can't believe I gave you the tour for free.,,,
+Miscellaneous,Miscellaneous,Hello,,,You wouldn't believe how many people take my tour.,,,
+Miscellaneous,Miscellaneous,Hello,,,Mom runs the surgery. So you better be nice to me.,,,
+Miscellaneous,Miscellaneous,Hello,,,I might be a doctor one day. Or maybe a sharpshooter.,,,
+Miscellaneous,Miscellaneous,Hello,,,Best not talk to the raiders. They can get rough.,,,
+Combat,Combat,Hit,,,Agh!,,"reacting to being struck by a weapon or bullet, short grunt of pain",
+Combat,Combat,Flee,,,Get away!,,,
+Combat,Combat,Flee,,,Leave me alone!,,,
+Miscellaneous,Miscellaneous,Hello,,,"Hi, mister.",,,
+Miscellaneous,Miscellaneous,Hello,,,"Hi, miss.",,,
+Miscellaneous,Miscellaneous,Hello,,,Huh?,,,
+Miscellaneous,Miscellaneous,Hello,,,Hello.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,You showed up just in the nick of time.,Player Default: Glad to help.,Relieved,REParentAssignToWorkshopScene
+Miscellaneous,Miscellaneous,SharedInfo,,,Didn't expect help from a stranger. Thanks.,Player Default: Glad to help.,Grateful,REParentAssignToWorkshopScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"Hey, thanks for your help.",Player Default: Glad to help.,Grateful,REParentAssignToWorkshopScene
+Miscellaneous,Miscellaneous,Hello,,,"Bet its pretty boring down here, compared to up there.",,Complaining / Defiant,
+Miscellaneous,Miscellaneous,Hello,,,Quentin is such a liar. How would he know what the surface is like? He's never even been up there.,,Trying to convince herself. / Defiant,
+Miscellaneous,Miscellaneous,Hello,,,"I thought all the surface people looked like monsters, but you seem pretty normal.",,Confused / Puzzled,
+Miscellaneous,Miscellaneous,Hello,,,So you're Father's father...but he's older than you? That's weird.,,Puzzled / Puzzled,
+Miscellaneous,Miscellaneous,Hello,,,So you're Father's mother...but he's older than you? That's weird.,,Puzzled / Puzzled,
+Miscellaneous,Miscellaneous,Hello,,,I'm not scared of the surface.,,Over confident. Covering up. / Defiant,
+Miscellaneous,Miscellaneous,Hello,,,"Kids gotta earn their keep, too.",,Matter-of-fact,
+Miscellaneous,Miscellaneous,Hello,,,Have you seen Diamond City? It's huge!,,Impressed,
+Miscellaneous,Miscellaneous,Hello,,,Raiders don't scare me.,,,Miscellaneous
+Miscellaneous,Miscellaneous,Hello,,,Working on a farm is really boring.,,Disdain,
+Miscellaneous,Miscellaneous,Hello,,,Mole rats are gross.,,Disgust,
+Miscellaneous,Miscellaneous,Hello,,,You better not cause any trouble.,,Warning,
+Miscellaneous,Miscellaneous,Hello,,,"We ain't got any handouts, if that's what you want.",,Warning,
+Miscellaneous,Miscellaneous,Hello,,,"When I grow up, I'm gonna have my own farm and make other people do all the work.",,,
+Miscellaneous,Miscellaneous,Hello,,,"Just so you know, I'm keepin' my eye on you.",,Warning,
+Scene,SceneDialogue,Custom,,ChildM02: Awwww!,Awwww!,"ChildM02: But Mister Zwicky, we had a pop quiz yesterday!",don't want to take a quiz / Sad,DiamondCitySchoolhouseIntro
+Scene,SceneDialogue,Custom,,"Zwicky: And we've learned a lot since then, so we're going to reinforce that knowledge with a little quiz.",But I'm tired!,Edna: I am detecting a high degree of fatigue in all our little scholars. Perhaps the quiz can wait?,don't want to take a quiz / Sad,DiamondCitySchoolhouseIntro
+Scene,SceneDialogue,Custom,,ChildM02: Yayyyyy!,Yayyyyy!,,Happy,DiamondCitySchoolhouseIntro
+Miscellaneous,Miscellaneous,Hello,,,Mister Zwicky calls all of us by our last names. I don't know why. I like my first name better.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Have you met Toro? He's the school tomcat. Mister Zwicky says his name means ""the bull.""",,,
+Miscellaneous,Miscellaneous,Hello,,,"Are you here to learn, too?",,,
+Miscellaneous,Miscellaneous,Hello,,,"I like math. The other kids say that makes me weird, but I like it anyway.",,,
+Miscellaneous,Miscellaneous,Hello,,,Mister Zwicky's real nice. Except when we makes us do work.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Have you met Miss Edna? She's real nice. Like a mom, almost.",,,
+Miscellaneous,Miscellaneous,Hello,,,I wonder if Miss Edna and Mister Zwicky like each other? They're always together...,,,
+Miscellaneous,Miscellaneous,Hello,,,"I can divide by zero! Well, not really...",,,
+Miscellaneous,Miscellaneous,Greeting,,,,Player Default: Do what I say and no one gets hurt.,Afraid,HoldupDialogue
+Scene,SceneDialogue,Custom,,,"Miss Edna, do robots have families?","MissEdna: All of the children who come here are like family to me. I'm so happy seeing you all grow and learn, year after year.",,ConvDiamondCitySchoolhouseEdnaChild01Scene
+Scene,SceneDialogue,Custom,,"MissEdna: All of the children who come here are like family to me. I'm so happy seeing you all grow and learn, year after year.",What about Mister Zwicky? Is he like family to? Like a husband?,"MissEdna: I... um... well... We are colleagues. We spend a lot of time together, yes, but that's all.",,ConvDiamondCitySchoolhouseEdnaChild01Scene
+Scene,SceneDialogue,Custom,,,"Miss Edna, what's it like being married?","MissEdna: It is a great feeling, little one. And don't worry. Nothing is going to change. We're both going to be here for you and all the other students.",Miss Edna and Mister Zwicky recently got married,ConvDiamondCitySchoolEdnaChild01ZwickyPostMarriageScene
+Scene,SceneDialogue,Custom,,"MisterZwicky: Miss Reische, your math scores this year have been excellent. You really should consider joining the Science Center when you're older.",I don't know... I'd rather be a Security officer. That way I can hit people who deserve it!,"MisterZwicky: That's... well... I suppose enthusiasm is a good trait to have for Security, but I really want you to keep the Science Center in mind.",,ConvDiamondCitySchoolhouseZwickyChild01SceneDUPLICATE000
+Scene,SceneDialogue,Custom,,MissEdna: Do you need any help with your assignment?,No. I think I got it...,"MissEdna: All right, but don't strain yourself. You should always feel free to ask questions.",,ConvDiamondCitySchoolEdnaChild01Scene
+Scene,SceneDialogue,Custom,,"MissEdna: Who can tell me? If Henry and Sally had four Mutfruits, and they cut them all up into four slices each, how many slices would they have?",Sixteen. That's easy!,"MissEdna: Ah, but what if Henry and Sally have twenty slices, but they only cut each Mutfruit four times. How many Mutfruits did they start with?",excited and engaged,ConvDiamondCitySchoolEdnaChild02Scene
+Scene,SceneDialogue,Custom,,"MissEdna: Ah, but what if Henry and Sally have twenty slices, but they only cut each Mutfruit four times. How many Mutfruits did they start with?",Umm... they started with twenty... and... divide by four... Five! They had five.,MissEdna: Very good!,thinking the problem through,ConvDiamondCitySchoolEdnaChild02Scene
+Scene,SceneDialogue,Custom,,JuliaThompson: Can we have another bed time story tonight?,"Oh yeah, can we? Like a really exciting surface story... maybe about Super Mutants shooting people?",JuliaThompson: No. Not a scary one. I don't want a surface story.,Excited / Happy,DialogueInstituteThompsonHomeScene3
+Scene,SceneDialogue,Custom,,JuliaThompson: No. Not a scary one. I don't want a surface story.,"Oh, come on. It's just a story.","EnricoThompson: Girls, enough, Daddy spent all day fixing a generator, and isn't doing stories tonight. Maybe tomorrow.",Frustrated / Angry,DialogueInstituteThompsonHomeScene3
+Miscellaneous,Miscellaneous,Hello,,,Must be weird living in a vault.,,"Curious, disdain",
+Miscellaneous,Miscellaneous,Hello,,,"I guess you're from one of the vaults, huh?",,Curious,
+Miscellaneous,Miscellaneous,Hello,,,I know that suit. You're one of those people who lives underground.,,"Curious, disdain",
+Miscellaneous,Miscellaneous,Hello,,,That armor looks really tough.,,"Excited, impressed",
+Miscellaneous,Miscellaneous,Hello,,,That armor's awesome!,,"Excited, impressed",
+Miscellaneous,Miscellaneous,Hello,,,Whoa! Where'd you get a Brotherhood suit?,,"Excited, impressed",
+Scene,SceneDialogue,Custom,,,You killed my only friend!,,Angry and upset. / Angry,RETravelCT03_Kat_GusDead
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,I got all sorts of stuff.,,Friendly merchant kid. / Friendly,RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Just don't take too long. It makes Gus twitchy.,,Friendly merchant kid. / Friendly,RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Now you're talkin'!,,Excited about a potential sale. / Friendly,RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Boring. C'mon, Gus, let's go find some Mole Rats to shoot.",,"Disappointed, but exited about what to do next. / Neutral",RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Aw, you're no fun.",,Disappointed. / Neutral,RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Whatever, I got better stuff to do.",,Disappointed. / Neutral,RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,That's cool. I guess I can just scrounge up the caps for my next meal elsewhere.,,Guilt tripping the player. / Sarcastic,RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"What? Don't trust a kid trader? Geez, mister.",,A bit irritated. / Irritated,RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"What? Don't trust a kid trader? Geez, lady.",,A bit irritated. / Irritated,RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,The last guy who said that wound up dead in a ditch. I bet he regretted not buying that gun when he had the chance.,,Trying to make the player regret not buying. / Friendly,RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,That's what they always say.,,"Disappointed, a bit over dramatic. Emphasis on always. / Neutral",RETravelCT03Scene
+Scene,SceneDialogue,Custom,,Player Default: You out here all by yourself?,"Hardly. Gus looks out for me, so don't get any ideas. Now are you buyin' or not?",Player Default: Let's see what you've got.,Modest / Friendly,RETravelCT03Scene
+Miscellaneous,Miscellaneous,SharedInfo,,,"Jesus, you're crazy! Get him, Gus!",,Shocked the player attacked her robot. / Surprised,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Jesus, you're crazy! Get her, Gus!",,Shocked the player attacked her robot. / Surprised,
+Combat,Combat,Flee,,,You asked for it! I'm outta here!,,Shocked the player attacked her robot. Leaving her robot to fight the player. / Surprised,
+Combat,Combat,Flee,,,Leave us alone!,,Shocked the player attacked her robot. / Surprised,
+Miscellaneous,Miscellaneous,ObserveCombat,,,No one messes with us and gets away with it!,,Cheering on her Sentry Bot as it attacks the player. / Confident,
+Miscellaneous,Miscellaneous,ObserveCombat,,,Pulverize him!,,Cheering on her Sentry Bot as it attacks the player. / Confident,
+Miscellaneous,Miscellaneous,ObserveCombat,,,Pulverize her!,,Cheering on her Sentry Bot as it attacks the player. / Confident,
+Miscellaneous,Miscellaneous,ObserveCombat,,,"Mess him up, Gus!",,Cheering on her Sentry Bot as it attacks the player. / Confident,
+Miscellaneous,Miscellaneous,ObserveCombat,,,"Mess her up, Gus!",,Cheering on her Sentry Bot as it attacks the player. / Confident,
+Miscellaneous,Miscellaneous,NoticeCorpse,,,"Ew, gross.",,Disgusted at seeing a dead body. / Disgust,
+Miscellaneous,Miscellaneous,Idle,,,Watch your back. Customers are scarce these days.,,,
+Miscellaneous,Miscellaneous,Idle,,,Don't let the Commonwealth swallow you up.,,Street smart kid. / Amused,
+Miscellaneous,Miscellaneous,Idle,,,Keep your friends close and your Sentry Bot closer.,,Street smart kid. / Friendly,
+Miscellaneous,Miscellaneous,Idle,,,"C'mon, Gus, let's find some mole rats to shoot.",,"Eager, wants some fun. Street smart kid. / Friendly",
+Miscellaneous,Miscellaneous,Idle,,,"Man, what I wouldn't give for some snack cakes right now.",,Craving snack cakes. Street smart kid. / Friendly,
+Miscellaneous,Miscellaneous,Greeting,,,"Something you need? If you're not a customer, you're trouble, so what'll it be?",Player Default: Let's see what you've got.,Confident,RETravelCT03Scene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, wanna make a deal?",Player Default: Let's see what you've got.,Street smart kid merchant. / Confident,RETravelCT03Scene
+Miscellaneous,Miscellaneous,Greeting,,,Get it while I got it.,Player Default: Let's see what you've got.,Street smart kid merchant. / Confident,RETravelCT03Scene
+Miscellaneous,Miscellaneous,Greeting,,,Up for a trade? I got toys for all ages.,Player Default: Let's see what you've got.,Street smart kid merchant. / Confident,RETravelCT03Scene
+Miscellaneous,Miscellaneous,Greeting,,,Are you buyin'? Or just in the way?,Player Default: Let's see what you've got.,Street smart kid merchant. / Confident,RETravelCT03Scene
+Scene,SceneDialogue,Custom,,,Mr. D.,"Companion: Hey, lil' sis.",Conspiratorial,CIS_ChatWithNPC_Deacon_BunkerHillMeg
+Scene,SceneDialogue,Custom,,"Companion: Hey, lil' sis.",I'm not your sister.,Companion: Right you are.,Defiant,CIS_ChatWithNPC_Deacon_BunkerHillMeg
+Scene,SceneDialogue,Custom,,Companion: Right you are.,Gary's wife is *missing*. Real suspicious middle of the night stuff.,"Companion: Who did it? You think it's... well, you know.","Whispered, touch of avarice (she's selling information)",CIS_ChatWithNPC_Deacon_BunkerHillMeg
+Scene,SceneDialogue,Custom,,"Companion: Who did it? You think it's... well, you know.",That's what everyone says. Gary quit. He was super angry.,Companion: Huh. Maybe we should pay him a visit.,"Whispered, relaying fun gossip",CIS_ChatWithNPC_Deacon_BunkerHillMeg
+Scene,SceneDialogue,Custom,,Companion: Huh. Maybe we should pay him a visit.,Until he cools off - bad idea.,"Companion: Keep it up, sis, and I'll double this next time.","Sharp, understands what Deacon meant - warning",CIS_ChatWithNPC_Deacon_BunkerHillMeg
+Scene,SceneDialogue,Custom,,"Companion: Keep it up, sis, and I'll double this next time.",*chuckle* Easy caps.,,Pure avarice,CIS_ChatWithNPC_Deacon_BunkerHillMeg
+Scene,SceneDialogue,Custom,,,"Dad, I really miss mom","Clint: I know, kiddo.  I miss her, too",Sad,RECamprj02Scene01
+Scene,SceneDialogue,Custom,,,Daddy! Do you like my dress?,"Clint: I know, kiddo.  I miss her, too",Happy,RECamprj02Scene01
+Scene,SceneDialogue,Custom,,,I think we should get a dog. A big furry one that could scare off bandits but would sleep next to me and keep me warm!,"Clint: I know, kiddo.  I miss her, too",Confident,RECamprj02Scene01
+Scene,SceneDialogue,Custom,,,"Dad, can we leave a light on tonight? I like sleeping with a light on","Clint: I know, kiddo.  I miss her, too",Friendly,RECamprj02Scene01
+Scene,SceneDialogue,Custom,,,"If I see any more radroaches, I'm going to stomp them flat!","Clint: I know, kiddo.  I miss her, too",Confident,RECamprj02Scene01
+Scene,SceneDialogue,Custom,,"Katy: Yes, it did. And I feel very lucky to be teaching all of you today.",What if we don't want to stay in the Vault?,"Katy: Well, unfortunately the G.O.A.T. only designates careers within the Vault itself.",Curious / Question,V81_Lesson_01_Scene
+Scene,SceneDialogue,Custom,,"Austin: Aw, she'd never let me go.","Aw, she'd never let me go.",Katy: Give it time. You still have six years to take the test. A lot can change between then and now.,Disappointed / Somber,V81_Lesson_01_Scene
+Miscellaneous,Miscellaneous,Hello,,,"Cool, an outsider in a Vault suit.",,Impressed / Impressed,
+Miscellaneous,Miscellaneous,Hello,,,I wish my mom wasn't working so much.,,Downhearted / Depressed,
+Miscellaneous,Miscellaneous,Hello,,,I heard there's all sorts of scary monsters in the Commonwealth.,,Casual / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,Mom says it's too dangerous to play outside.,,Casual / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"My dad says Super Mutants eat kids for breakfast, but I think he's just trying to scare me.",,Casual / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,Austin's really sick. I hope he's gonna be alright.,,Worried / Worried,
+Miscellaneous,Miscellaneous,Hello,,,I hope Austin feels better soon.,,Worried / Worried,
+Miscellaneous,Miscellaneous,Hello,,,One of my friends died... I miss him.,,Sad kid. / Sad,
+Miscellaneous,Miscellaneous,Hello,,,It's weird without Austin. I don't know why he had to go away.,,Sad kid. / Sad,
+Miscellaneous,Miscellaneous,Hello,,,I'm glad Austin's better. Now we have even teams.,,Happy / Happy,
+Miscellaneous,Miscellaneous,Hello,,,My friend is all better now. Being sick sucks.,,Happy / Happy,

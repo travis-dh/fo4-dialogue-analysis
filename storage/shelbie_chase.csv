@@ -1,0 +1,40 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,"Right away, boss.",,,DLC04DialogueSettlement_ShelbieVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Sure thing.,,,DLC04DialogueSettlement_ShelbieVendorScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Not interested.,No problem.,,,DLC04DialogueSettlement_ShelbieVendorScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Not interested.,Okay.,,,DLC04DialogueSettlement_ShelbieVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Thank goodness. I'll sleep a lot better having you in charge.,"So, uh... what do you think? About running Nuka-World, I mean?",,"Nervous, trying to change subject / Nervous",DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,,"Figure it must be a pretty tough job, keeping all these Raiders in line.","Player Default: I wasn't really looking to become the Overboss of Nuka-World, but I might as well enjoy the benefits of my position.",Nervous / Nervous,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,Player Default: I'm not planning to give anyone nightmares.,Thank goodness. I'll sleep a lot better having you in charge.,"ShelbieChase: So, uh... what do you think? About running Nuka-World, I mean?",relief / Relieved,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: Piss me off, and you'll find out just how scary I can be.","N- no sir. No way would I piss you off, boss. I'm not stupid.","ShelbieChase: So, uh... what do you think? About running Nuka-World, I mean?",Frightened / Afraid,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,Player Default: You don't know anything about me. I could be a lot worse than he was.,"You're absolutely right, boss. I shouldn't have said that. Was stupid of me.","ShelbieChase: So, uh... what do you think? About running Nuka-World, I mean?",,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,Player Default: What was he like?,"In a word, violent. The other Raiders might also tell you that he got a little too comfortable in the position.",,,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,,"In any case, he wasn't someone whose bad side I ever wanted to be on.",,,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,,Just like I don't ever want to be on yours.,"ShelbieChase: So, uh... what do you think? About running Nuka-World, I mean?",,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: I wasn't really looking to become the Overboss of Nuka-World, but I might as well enjoy the benefits of my position.",Makes sense to me.,"ShelbieChase: Well, I'm sure you've got more important stuff to do than talk to me. Or were you here to pick something up?",,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,Player Default: I didn't choose this. I was just trying not to be killed by a maniac in power armor.,I guess any one of us would have done the same thing in your situation.,"ShelbieChase: Well, I'm sure you've got more important stuff to do than talk to me. Or were you here to pick something up?",,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,Player Default: I don't really know what to expect.,"Hey, that makes sense, boss. You haven't been here for very long, after all.","ShelbieChase: Well, I'm sure you've got more important stuff to do than talk to me. Or were you here to pick something up?",,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: What, you don't think I can handle it?","What?! No! That's not what I... I mean, yes, I'm sure you can handle it.",,"Made a tactical mistake, trying to backpedal / Surprised",DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,,"The way you took on Colter... I don't think there's anything you can't handle, boss.","ShelbieChase: Well, I'm sure you've got more important stuff to do than talk to me. Or were you here to pick something up?",Trying to dig out of a hole by compliments / Impressed,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,Player Default: Makes sense to me.,"Well, I'm sure you've got more important stuff to do than talk to me. Or were you here to pick something up?",Player Default: Let's see what you've got.,,DLC04DialogueSettlement_ShelbieFirstScene
+Scene,SceneDialogue,Custom,,Player Default: What have you got?,"A little bit of everything, really. General supplies, some components, that kind of thing. So, what can I get for you?",Player Default: Let's see what you've got.,,DLC04DialogueSettlement_ShelbieVendorScene
+Combat,Combat,Death,,,Ugh.,,,
+Combat,Combat,Death,,,Nuh.,,,
+Combat,Combat,Death,,,Gah.,,,
+Combat,Combat,Flee,,,Aaaiiee!,,,
+Combat,Combat,Flee,,,Agghh!,,,
+Detection,Detection,NormalToAlert,,,What the?!,,,
+Detection,Detection,NormalToAlert,,,What?,,,
+Detection,Detection,NormalToAlert,,,Huh?,,,
+Miscellaneous,Miscellaneous,Idle,,,General supplies here! Come and stock up!,,A vendor calling out to sell her wares,
+Miscellaneous,Miscellaneous,Idle,,,General goods here! Come on over and pick up what you need.,,A vendor calling out to sell her wares,
+Miscellaneous,Miscellaneous,Idle,,,Need supplies? Got a little of everything here. Come take a look!,,A vendor calling out to sell her wares,
+Miscellaneous,Miscellaneous,Idle,,,Supplies of all kind for your journeys across the Commonwealth.,,A vendor calling out to sell her wares,
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, boss. Gotta admit, it was good to see Colter go down. He scared the hell out of me. Gave me nightmares.",Player Default: I'm not planning to give anyone nightmares.,"Nervous, trying to ingratiate yourself / Nervous",DLC04DialogueSettlement_ShelbieFirstScene
+Miscellaneous,Miscellaneous,Greeting,,,"The Raiders are gone. They're really gone. I can hardly believe it. Anyway, sorry, what did you need, boss?",Player Default: Let's see what you've got.,"Surprise, disbelief, but also grateful / Surprised",DLC04DialogueSettlement_ShelbieVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"What do you need today, boss?",Player Default: Let's see what you've got.,"Nervous, trying to please / Nervous",DLC04DialogueSettlement_ShelbieVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"If you need supplies, then I'm you're girl.",Player Default: Let's see what you've got.,"Nervous, trying to please / Nervous",DLC04DialogueSettlement_ShelbieVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,Stocking up for your next raid? Have a look.,Player Default: Let's see what you've got.,"Nervous, trying to please / Nervous",DLC04DialogueSettlement_ShelbieVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"Got plenty of supplies for you, boss.",Player Default: Let's see what you've got.,"Nervous, trying to please / Nervous",DLC04DialogueSettlement_ShelbieVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"Got to keep stocked up on supplies, right?",Player Default: Let's see what you've got.,"Nervous, trying to please / Nervous",DLC04DialogueSettlement_ShelbieVendorScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,You look like you've got a lot on your mind.,,Curious why the player has stopped talking,

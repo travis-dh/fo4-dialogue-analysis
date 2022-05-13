@@ -1,0 +1,59 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: You sound like a game show host.,"Right again! Unfortunately, you've already been a contestant.",,,DialogueGraygardenVendor
+Scene,SceneDialogue,Custom,,,"However, if you're ready to wheel and deal, then I'm just the 'bot you're looking for!",Player Default: All right.,,DialogueGraygardenVendor
+Scene,SceneDialogue,Custom,,Player Default: You sound like a game show host.,"That's the correct answer! Well done! Ladies and gentlemen, should we tell the lucky contestant what fabulous prize he's won?","Player Default: Okay, show me what I've won.",Enthusiastic game show host,DialogueGraygardenVendor
+Scene,SceneDialogue,Custom,,Player Default: You sound like a game show host.,"That's the correct answer! Well done! Ladies and gentlemen, should we tell the lucky contestant what fabulous prize she's won?","Player Default: Okay, show me what I've won.",Enthusiastic game show host,DialogueGraygardenVendor
+Scene,SceneDialogue,Custom,,,"If you act now, you can choose from one of these fabulous prizes.",,Flashy showmanship,DialogueGraygardenVendor
+Scene,SceneDialogue,Custom,,,"All the arms and ammunition you can get your hands on, plus medical supplies and general goods. It's a bonanza!",Player Default: All right.,Flashy showmanship,DialogueGraygardenVendor
+Scene,SceneDialogue,Custom,,"Player Default: You've got a serious malfunction, robot.",Haha! What a kidder!,"SupervisorGreene: Right this way, please! Let's take a look at your fabulous prize!",Brushing off a rude remark,DialogueGraygardenBranchGreene
+Scene,SceneDialogue,Custom,,Player Default: Haha! What a kidder!,"Right this way, please! Let's take a look at your fabulous prize!",,Building excitement,DialogueGraygardenBranchGreene
+Scene,SceneDialogue,Custom,,RobotSupervisorGreene: It's a brand new car! Wow!,"Now, if you've already got the latest in sleek, stylish atomic-powered automation, you can also take your winnings in the form of a cash prize.",,,DialogueGraygardenBranchGreenePrize
+Scene,SceneDialogue,Custom,,,How does one hundred caps sound?,Player Default: I'll take the cash prize.,Excited,DialogueGraygardenBranchGreenePrize
+Scene,SceneDialogue,Custom,,Player Default: I'll take the cash prize.,"Here you go! If you want to use your winnings to make a few purchases from RobCo, we certainly won't complain. Haha!","SupervisorGreene: Well, it's been a real pleasure. Thanks for playing!",Making a joke,DialogueGraygardenBranchGreenePrize
+Scene,SceneDialogue,Custom,,Player Default: I've got an idea. Let's make a deal.,You could sell ice cubes to Eskimos with those powers of persuasion. Three hundred caps is the best I can do. It's all yours.,"SupervisorGreene: Well, it's been a real pleasure. Thanks for playing!",,DialogueGraygardenBranchGreenePrize
+Scene,SceneDialogue,Custom,,Player Default: I've got an idea. Let's make a deal.,"Whoa! You're really looking to push your luck, aren't you?",,Impressed... haggling,DialogueGraygardenBranchGreenePrize
+Scene,SceneDialogue,Custom,,,"Alright, two hundred caps it is. I should warn you, asking for more could lead to disqualification, so you might want to stop right there.",Player Default: I'll take the cash prize.,A friendly warning,DialogueGraygardenBranchGreenePrize
+Scene,SceneDialogue,Custom,,Player Default: I've got an idea. Let's make a deal.,I like it! How about one hundred and fifty caps?,Player Default: I'll take the cash prize.,Haggling,DialogueGraygardenBranchGreenePrize
+Scene,SceneDialogue,Custom,,Player Default: I've got an idea. Let's make a deal.,"Oh, I'm sorry, but you've pushed your luck just a bit too far. I'm afraid one hundred caps is all I can offer. Here you go!","SupervisorGreene: Well, it's been a real pleasure. Thanks for playing!",Mock disappointment,DialogueGraygardenBranchGreenePrize
+Scene,SceneDialogue,Custom,,Player Default: Those are my only choices?,"You are one tough customer, I don't mind telling you. So, what'll it be?",Player Default: I'll take the cash prize.,Brushing off a question,DialogueGraygardenBranchGreenePrize
+Scene,SceneDialogue,Custom,,"Player Default: Here you go! If you want to use your winnings to make a few purchases from RobCo, we certainly won't complain. Haha!","Well, it's been a real pleasure. Thanks for playing!",,,DialogueGraygardenBranchGreenePrize
+Detection,Detection,NormalToCombat,,,I'm afraid you've just forfeited your winnings!,,"(See notes for Supervisor Greene) Shouting, starting a fight.",
+Detection,Detection,NormalToCombat,,,"Ladies and gentlemen, let's bid a fond farewell to a our contestant.",,"(See notes for Supervisor Greene) A game show host saying goodbye, but with warning and urgency, starting a fight",
+Detection,Detection,NormalToCombat,,,"Don't try this at home, boys and girls!",,"(See notes for Supervisor Greene) Warning, urgency, starting a fight",
+Miscellaneous,Miscellaneous,Greeting,,,It's a brand new car! Wow!,"SupervisorGreene: Now, if you've already got the latest in sleek, stylish atomic-powered automation, you can also take your winnings in the form of a cash prize.","Big, excited",DialogueGraygardenBranchGreenePrize
+Miscellaneous,Miscellaneous,Greeting,,,Greene's the name and trading's the game! Ready to bargain in the garden?,Player Default: All right.,An enthusiastic game show host... lots of energy and showmanship,DialogueGraygardenVendor
+Miscellaneous,Miscellaneous,Greeting,,,"At Graygarden, the price is always right! Shall we make a deal?",Player Default: All right.,An enthusiastic game show host... lots of energy and showmanship,DialogueGraygardenVendor
+Miscellaneous,Miscellaneous,Greeting,,,Ready to begin your fabulous shopping spree?,Player Default: All right.,An enthusiastic game show host... lots of energy and showmanship,DialogueGraygardenVendor
+Miscellaneous,Miscellaneous,SharedInfo,,,"Well that's just dandy. Let's get started, then shall we?",,An enthusiastic game show host... lots of energy and showmanship,
+Miscellaneous,Miscellaneous,SharedInfo,,,"I'm sorry, but that is not the correct answer.",,An enthusiastic game show host... lots of energy and showmanship,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Oh, I'm sorry, but that is incorrect.",,An enthusiastic game show host... lots of energy and showmanship,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Oooh, I hate to say it but that is the wrong answer.",,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Tough break there.,,,
+Miscellaneous,Miscellaneous,Hello,,,"If you're looking to trade, then let's make a deal!",,Enthusiastic game show host,
+Miscellaneous,Miscellaneous,Hello,,,"Thanks to you, the water's cleaner and the crops are doing great. Thanks!",,Enthusiastic gratitude,
+Miscellaneous,Miscellaneous,Hello,,,Hey howdy! So good to see you!,,,
+Miscellaneous,Miscellaneous,Hello,,,"Wow, look at this, folks! We've got a special guest!",,,
+Miscellaneous,Miscellaneous,Hello,,,Hi there!,,,
+Miscellaneous,Miscellaneous,Hello,,,How do you do?,,,
+Miscellaneous,Miscellaneous,Hello,,,"Well, this is just super! We love to have visitors!",,,
+Scene,SceneDialogue,Custom,,"Brown: I say, Greene old chap, are you free?",Now it's time for short break and a word from our sponsors.,Brown: I shall take that as a yes.,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,"Brown: Best if we set more of the fruit aside for extraction, wouldn't you say?","That's a big ""can do"", Brown! Don't you worry about a thing.","Brown: Well, that's jolly good.",,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,"Brown: Best if we set more of the fruit aside for extraction, wouldn't you say?",Uh-oh! That sounds like trouble.,,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,,"Well don't you worry, Brown. I'll keep these peepers wide open, yesiree!","Brown: Well, that's jolly good.",,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,"Brown: Best if we set more of the fruit aside for extraction, wouldn't you say?",Yikes! Those big hairy beasties are not friendly. Nosiree!,,,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,,"If I see one of those mangy monsters heading this way, I'll sound the alarm.","Brown: Well, that's jolly good.",,DialogueGraygardenBrownGreeneScene
+Scene,SceneDialogue,Custom,,"White: The mutfruit's looking ripe, darling. You should gather some up for Brown to sell.","Whoa, there! Just hold your horses, little lady.",,,DialogueGraygardenWhiteGreeneScene
+Scene,SceneDialogue,Custom,,,"This crop might look ready, but looks aren't everything.",,,DialogueGraygardenWhiteGreeneScene
+Scene,SceneDialogue,Custom,,,"It's going to be a few more weeks before this fruit produces that sweet, delicious taste your kids will love.","White: Well I simply can't agree, darling. Call it a woman's intuition if you like, but this crop is ready now.",,DialogueGraygardenWhiteGreeneScene
+Scene,SceneDialogue,Custom,,"White: Well I simply can't agree, darling. Call it a woman's intuition if you like, but this crop is ready now.","Oh, I'm so sorry but that is the wrong answer.",,,DialogueGraygardenWhiteGreeneScene
+Scene,SceneDialogue,Custom,,,"Better luck next time, but hey, thanks for playing!","White: Have it your way, but don't say I didn't warn you, darling.",,DialogueGraygardenWhiteGreeneScene
+Scene,SceneDialogue,Custom,,,Hi there!,"Brown: Yes, Greene? What do you want?",,DialogueGraygardenGreeneBrownScene
+Scene,SceneDialogue,Custom,,"Brown: Yes, Greene? What do you want?","Say, I was wondering if you could get your hands on some motor oil next time a trader comes through.",,,DialogueGraygardenGreeneBrownScene
+Scene,SceneDialogue,Custom,,,One of unit seven-seven-one's manipulator arms is getting just a little tight.,"Brown: Well, we can't have that.",,DialogueGraygardenGreeneBrownScene
+Scene,SceneDialogue,Custom,,"Brown: Rest assured, Greene, I shall secure the needed provisions as soon as I'm able.","Well that'd be just swell. Isn't he a great contestant, ladies and gentlemen?",,,DialogueGraygardenGreeneBrownScene
+Scene,SceneDialogue,Custom,,,"I'm afraid that's all the time we have for now. Thanks for watching, and come see us again soon!","Brown: Uh, yes.",,DialogueGraygardenGreeneBrownScene
+Scene,SceneDialogue,Custom,,,"Supervisor White, you're the next contestant!","White: What do you want, darling? And please make it quick, I haven't got all day.",Enthusiastic game show host,DialogueGraygardenGreeneWhiteScene
+Scene,SceneDialogue,Custom,,"White: What do you want, darling? And please make it quick, I haven't got all day.","Bad news, I'm afraid.",,A little worried,DialogueGraygardenGreeneWhiteScene
+Scene,SceneDialogue,Custom,,,"Our latest mutfruit crop is coming in smaller than usual, and some of the fruit isn't ripening quickly enough.","White: Again? It's got to be the water. It's been getting more toxic by the day, and now it's affecting the plants.",A little worried,DialogueGraygardenGreeneWhiteScene
+Scene,SceneDialogue,Custom,,"White: Again? It's got to be the water. It's been getting more toxic by the day, and now it's affecting the plants.","Well, if something isn't done soon, it'll be game over for the entire crop.",,Worried,DialogueGraygardenGreeneWhiteScene
+Scene,SceneDialogue,Custom,,,"Without fruit to sell to the traders, we won't have caps to buy the spare parts we need to keep running.","White: Then let's hope we can find someone willing to help us, darling.",Worried,DialogueGraygardenGreeneWhiteScene

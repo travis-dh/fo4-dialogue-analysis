@@ -1,0 +1,335 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,Greeting,,,,Player Default: Do what I say and no one gets hurt.,Afraid,HoldupDialogue
+Scene,SceneDialogue,Custom,,,Great. Have a seat and I'll see what I can do for you.,,Friendly,DLC06WorkshopBarberScene
+Scene,SceneDialogue,Custom,,,"Sit down, and tell me what you're looking for.",,Friendly,DLC06WorkshopBarberScene
+Scene,SceneDialogue,Custom,,,"Just sit in the chair, and I'll make you look great.",,Friendly,DLC06WorkshopBarberScene
+Scene,SceneDialogue,Custom,,,"Time for a new look, huh? Sit down and I'll get started.",,Friendly,DLC06WorkshopBarberScene
+Scene,SceneDialogue,Custom,,,"Some other time, then.",,Friendly,DLC06WorkshopBarberScene
+Scene,SceneDialogue,Custom,,,Okay. I'll be here.,,Friendly,DLC06WorkshopBarberScene
+Scene,SceneDialogue,Custom,,,Come back when you're ready for a new look.,,Friendly,DLC06WorkshopBarberScene
+Scene,SceneDialogue,Custom,,,It's a big decision. I understand.,,Friendly,DLC06WorkshopBarberScene
+Scene,SceneDialogue,Custom,,,Take your time. I'll be here.,,Friendly,DLC06WorkshopBarberScene
+Scene,SceneDialogue,Custom,,,Stop by again when you're ready.,,Friendly,DLC06WorkshopBarberScene
+Scene,SceneDialogue,Custom,,,"Oh, really? OK... um, sit in the chair and I'll do my best.",,you're a bit concerned that you don't know what you're doing / Nervous,DLC06WorkshopSurgeryScene
+Scene,SceneDialogue,Custom,,,Ok. I can do this. Yeah. Go ahead and sit down in the chair and don't worry about a thing.,,you're a bit concerned that you don't know what you're doing / Nervous,DLC06WorkshopSurgeryScene
+Scene,SceneDialogue,Custom,,,"Ah, okay, I'm sure it'll be fine. I can do this. Just sit down in the chair.",,you're a bit concerned that you don't know what you're doing / Nervous,DLC06WorkshopSurgeryScene
+Scene,SceneDialogue,Custom,,,"Smart. I have this book, but... well, lets just say I'm not the most experienced surgeon around.",,Relieved,DLC06WorkshopSurgeryScene
+Scene,SceneDialogue,Custom,,,"Yeah, I wouldn't let me work on my face either.",,Relieved,DLC06WorkshopSurgeryScene
+Scene,SceneDialogue,Custom,,,"Oh, good. Just between you and me, I'm not one hundred percent sure I know what I'm doing.",,Relieved,DLC06WorkshopSurgeryScene
+Scene,SceneDialogue,Custom,,,"Probably a smart move, to be honest.",,Relieved,DLC06WorkshopSurgeryScene
+Scene,SceneDialogue,Custom,,,Good idea. Definitely think it over.,,Relieved,DLC06WorkshopSurgeryScene
+Scene,SceneDialogue,Custom,,,"Okay, good.",,Relieved,DLC06WorkshopSurgeryScene
+Miscellaneous,Miscellaneous,Idle,,,So I just keep pedaling?,,,
+Miscellaneous,Miscellaneous,Idle,,,"All this pedaling... there's a point to it, right?",,Question,
+Miscellaneous,Miscellaneous,Idle,,,Exercise sucks.,,Disgust,
+Miscellaneous,Miscellaneous,Idle,,,I'm so bored.,,Irritated,
+Miscellaneous,Miscellaneous,Idle,,,Oww... Dammit. The cycle did it again.,,InPain,
+Miscellaneous,Miscellaneous,Idle,,,Just need... to... keep... going.,,Tired,
+Miscellaneous,Miscellaneous,Idle,,,Got to keep going... Otherwise... Ow. Fuck!,,Worried,
+Miscellaneous,Miscellaneous,Idle,,,I hate this damned... thing.,,Disgust,
+Miscellaneous,Miscellaneous,Idle,,,I feel so... pumped. Woo!,,Happy,
+Miscellaneous,Miscellaneous,Idle,,,I could cycle all day. This is... great!,,Happy,
+Miscellaneous,Miscellaneous,Idle,,,Who knew exercise could be so... wow!,,Happy,
+Miscellaneous,Miscellaneous,Idle,,,This cycle is the best. Seriously!,,Happy,
+Miscellaneous,Miscellaneous,Idle,,,It's kind of... relaxing.,,Happy,
+Miscellaneous,Miscellaneous,Idle,,,"It smells. But... well, in a good way.",,Happy,
+Miscellaneous,Miscellaneous,Idle,,,Is this what the Old World smelled like? Weird.,,Puzzled,
+Miscellaneous,Miscellaneous,Idle,,,The Power Cycle... ain't all bad.,,Relieved,
+Miscellaneous,Miscellaneous,Idle,,,Eye care's important.,,Confident,
+Miscellaneous,Miscellaneous,Idle,,,I had no idea there were so many eye conditions.,,Puzzled,
+Miscellaneous,Miscellaneous,Idle,,,Never thought I'd be a doctor. Huh.,,Surprised,
+Miscellaneous,Miscellaneous,Idle,,,"Feels kind of good. Helping people's eyes, that is.",,Happy,
+Miscellaneous,Miscellaneous,Idle,,,"You know, everything the Overseer says... just makes sense. Right?",,Thinking,
+Miscellaneous,Miscellaneous,Idle,,,All the flashes. Kind of makes me nervous.,,Concerned,
+Miscellaneous,Miscellaneous,Idle,,,"Not a bad job, manning the Soda Fountain.",,Grateful,
+Miscellaneous,Miscellaneous,Idle,,,All the soda you can drink.,,Friendly,
+Miscellaneous,Miscellaneous,Idle,,,"It ain't Nuka-Cola, but the soda's free.",,,
+Miscellaneous,Miscellaneous,Idle,,,"This soda's better than Nuka-Cola. Try it, you'll see.",,Friendly,
+Miscellaneous,Miscellaneous,Idle,,,So damned hungry. Maybe I'll get another drink.,,Tired,
+Miscellaneous,Miscellaneous,Idle,,,We're in a Vault. Woah! *chuckle*,,On psychedelic drugs / Happy,
+Miscellaneous,Miscellaneous,SharedInfo,,,C'mon. It's got to pay out sometime.,,Depressed,
+Miscellaneous,Miscellaneous,SharedInfo,,,What? Is the damned thing rigged?,,Angry,
+Miscellaneous,Miscellaneous,SharedInfo,,,My luck's gonna turn around.,,Confident,
+Miscellaneous,Miscellaneous,SharedInfo,,,The thing's broke. It keeps making weird clicking noises.,,Puzzled,
+Miscellaneous,Miscellaneous,SharedInfo,,,Are slot machines supposed to flash?,,Puzzled,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Did the machine just say ""degenerate""?",,Suspicious,
+Miscellaneous,Miscellaneous,SharedInfo,,,Haha. I win again.,,Happy,
+Miscellaneous,Miscellaneous,SharedInfo,,,I just can't lose.,,Happy,
+Miscellaneous,Miscellaneous,SharedInfo,,,You got to try this... slot machine. It's the best.,,Happy,
+Miscellaneous,Miscellaneous,SceneChoice,,,"I can't think of anything right now. Sorry, boss.",,Puzzled,
+Miscellaneous,Miscellaneous,SceneChoice,,,Okay.,,,
+Miscellaneous,Miscellaneous,Greeting,,,You look like someone who could use a haircut.,,Friendly,DLC06WorkshopBarberScene
+Miscellaneous,Miscellaneous,Greeting,,,Looking for a haircut?,,Friendly,DLC06WorkshopBarberScene
+Miscellaneous,Miscellaneous,Greeting,,,Can I take a little off the top?,,Friendly,DLC06WorkshopBarberScene
+Miscellaneous,Miscellaneous,Greeting,,,Looking for a new style?,,Friendly,DLC06WorkshopBarberScene
+Miscellaneous,Miscellaneous,Greeting,,,Looking for a new face?,,Friendly,DLC06WorkshopSurgeryScene
+Miscellaneous,Miscellaneous,Greeting,,,I can resculpt your face if you like.,,Friendly,DLC06WorkshopSurgeryScene
+Miscellaneous,Miscellaneous,Greeting,,,I can change your face for you.,,Friendly,DLC06WorkshopSurgeryScene
+Miscellaneous,Miscellaneous,Greeting,,,"I can give you a new face, if you're interested.",,Friendly,DLC06WorkshopSurgeryScene
+Miscellaneous,Miscellaneous,NoticeCorpse,,,Smells like something died in here... Oh.,,Sad,
+Miscellaneous,Miscellaneous,NoticeCorpse,,,Working next to a dead body. Not great for my productivity...,,Somber,
+Miscellaneous,Miscellaneous,NoticeCorpse,,,"Oh, a corpse! Isn't that pleasant.",,Disgust,
+Miscellaneous,Miscellaneous,NoticeCorpse,,,"Hey, more fertilizer! Too soon?",,Happy,
+Miscellaneous,Miscellaneous,NoticeCorpse,,,That has GOT to be a health violation.,,Disgust,
+Miscellaneous,Miscellaneous,NoticeCorpse,,,"I'd take care of the body myself, but the smell might be a bit much.",,Concerned,
+Miscellaneous,Miscellaneous,Hello,,,"Please, sit. Nothing to be nervous about.",,Nervous,
+Miscellaneous,Miscellaneous,Hello,,,I'm ready when you are. Just have a seat.,,Nervous,
+Miscellaneous,Miscellaneous,Hello,,,"Don't worry, I'll be fine as soon as I get started.",,Nervous,
+Miscellaneous,Miscellaneous,Hello,,,Go ahead and sit down.,,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,We can get started as soon as you sit in the chair.,,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"Have a seat, and I'll get to work.",,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,"Good to see you, Overseer.",,Happy,
+Miscellaneous,Miscellaneous,Hello,,,"Hello, Overseer.",,Happy,
+Miscellaneous,Miscellaneous,Hello,,,I really hope everyone else is as happy as I am.,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,Another wonderful day in the Vault!,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,Not a care in the world!,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,I'm just so happy I could burst! But don't worry... I won't.,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,Looks like I turned my frown upside down permanently!,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,Everything is just... perfect.,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,Don't people eat in these Vaults?,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,I figured coming down here my days of starving would be over.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,"Please, Overseer, we could really use something to eat.",,Pleading,
+Miscellaneous,Miscellaneous,Hello,,,No one's going to be happy until we get a proper meal down here.,,Stern,
+Miscellaneous,Miscellaneous,Hello,,,Aren't Vaults supposed to have clean water?,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,"Sure, the water outside could make you glow... But at least you could drink.",,Disgust,
+Miscellaneous,Miscellaneous,Hello,,,We need some water. Soon.,,Worried,
+Miscellaneous,Miscellaneous,Hello,,,Water's too scarce down here.,,Concerned,
+Miscellaneous,Miscellaneous,Hello,,,Aren't Vaults supposed to have beds?,,Concerned,
+Miscellaneous,Miscellaneous,Hello,,,There ain't enough beds to go around.,,Concerned,
+Miscellaneous,Miscellaneous,Hello,,,I figured the last thing I'd be worried about in a Vault is finding a place to sleep.,,Disgust,
+Miscellaneous,Miscellaneous,Hello,,,Everyone's tired. We need more beds down here.,,Tired,
+Miscellaneous,Miscellaneous,Hello,,,Glad I'm in here and not out there...,,Relieved,
+Miscellaneous,Miscellaneous,Hello,,,"Why blue? I mean, would a yellow jumpsuit really be THAT bad?",,Puzzled,
+Miscellaneous,Miscellaneous,Hello,,,I wonder how high the Vault numbers go...,,Thinking,
+Miscellaneous,Miscellaneous,Hello,,,Anybody need help with anything?,,Friendly,
+Miscellaneous,Miscellaneous,Hello,,,Never thought I'd be an honest to goodness Vault Dweller. Huh.,,Thinking,
+Miscellaneous,Miscellaneous,Hello,,,Huh. Guess you're our... Overseer?,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,"Happy to be safe in a Vault, Overseer.",,Happy,
+Miscellaneous,Miscellaneous,Hello,,,"I don't think I ever want to go up top again, Overseer.",,Happy,
+Scene,SceneDialogue,Custom,,CandidateOne: A ghoul? Hmm... I don't know about this.,"I'll wait as long as I have to, ma'am.",CandidateTwo: Look at all this. Nice.,Grateful,DLC06MQ03_ReactCandidates
+Scene,SceneDialogue,Custom,,Overseer: Hello. Welcome to your new home.,"Wow, a real Overseer. I'm so happy to be here. Hi. My name is Clem.","Overseer: Ah, yes, Clem, is it? Before you settle in, I have some questions.",Awed,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,"Overseer: Ah, yes, Clem, is it? Before you settle in, I have some questions.","Oh, OK.  Sure. I'll answer anything you like.","Overseer: Well, uh, that's good. Here's a scenario.",Nervous,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,Overseer: But from inside the Vault you hear a woman screaming. What would you do?,"You want me to guard something? Sure, I can do that. I can do that right now, if you want.","Clem: But I don't hear any screaming, lady Overseer.",Nervous,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,"Clem: You want me to guard something? Sure, I can do that. I can do that right now, if you want.","But I don't hear any screaming, lady Overseer.",Player Default: Nothing to be nervous about. Think about it and answer.,Puzzled,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,Player Default: Nothing to be nervous about. Think about it and answer.,"Yeah, sorry. Well, if you tell me to guard - I guard. And I won't leave my post, unless you tell me to. Is that OK?",Overseer: Another question for you. What can you tell me about your mother?,Nervous,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,"Player Default: Great, another idiot.","I'm not dumb. I just really want to live here. Please, give me a chance.",Overseer: Another question for you. What can you tell me about your mother?,Apologetic,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,"Player Default: Well, aren't you just precious.","I, uh, thanks. I think?",Overseer: Another question for you. What can you tell me about your mother?,Puzzled,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,Player Default: Would you help the lady or not?,"Yeah, sorry. Well, if you tell me to guard - I guard. And I won't leave my post, unless you tell me to. Is that OK?",Overseer: Another question for you. What can you tell me about your mother?,Somber,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,Overseer: Another question for you. What can you tell me about your mother?,"Oh, she passed. But she was nice. You would've liked her. She killed a Mole Rat once.","Overseer: Really? Uh, that's remarkable? Describe the traits you most admire about her.",Nervous,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,"Overseer: Really? Uh, that's remarkable? Describe the traits you most admire about her.","Well, she was strong. Because of the Mole Rat... And she, uh, she fed me.","Clem: God, I'm sorry... This place is so much better than the ditch I was living in.",Nervous,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,"Clem: Well, she was strong. Because of the Mole Rat... And she, uh, she fed me.","God, I'm sorry... This place is so much better than the ditch I was living in.",Player Default: I like him. I think we found our man.,Pleading,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,Player Default: I like him. I think we found our man.,"Gee, thanks. Uhm... Found what exactly?","Overseer: We're looking for a volunteer, Clem. Someone to test some new devices that'll help everyone.",Relieved,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,Player Default: This whole thing of yours better not be an act.,"No, no, it isn't. I just really need to get in here.",,Apologetic,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,,I don't know how much more I can take up there.,"Overseer: We're looking for a volunteer, Clem. Someone to test some new devices that'll help everyone.",Pleading,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,Player Default: Mole Rat kill counts really are the foundation of maternal affection.,I guess? Am I doing OK?,"Overseer: We're looking for a volunteer, Clem. Someone to test some new devices that'll help everyone.",Puzzled,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,Player Default: Surely there are other traits you liked about her.,"Well, no matter how bad things got she put us kids first.",,Nervous,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,,"She fought until the end, too.","Overseer: We're looking for a volunteer, Clem. Someone to test some new devices that'll help everyone.",Sad,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,Overseer: Are you interested?,"You mean I can stay? I mean, yes! I'll help out. I like helping.","Clem: That's me, Clem. Always willing to help out!",Grateful,DLC06MQ03_700_Clem
+Scene,SceneDialogue,Custom,,"Clem: You mean I can stay? I mean, yes! I'll help out. I like helping.","That's me, Clem. Always willing to help out!","Overseer: Yes, I think you'll do nicely.",Grateful,DLC06MQ03_700_Clem
+Miscellaneous,Miscellaneous,Hello,,,I can't wait to help out!,,Grateful,
+Miscellaneous,Miscellaneous,Hello,,,This place. Wow. I get to live here?,,Awed,
+Miscellaneous,Miscellaneous,Hello,,,"Wow. I mean, wow.",,Awed,
+Miscellaneous,Miscellaneous,Hello,,,I never even imagined a place like... this.,,Awed,
+Scene,SceneDialogue,Custom,,Clem: This is all there is to it?,"So, I, uh... I'll keep pedaling.",Clem: This is kind of fun.,,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,"Clem: So, I, uh... I'll keep pedaling.",This is kind of fun.,Clem: Oww... What?,Surprised,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,Clem: This is kind of fun.,Oww... What?,,InPain,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,,Uh... You... The cycle is... Ow! Broken.,,InPain,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,,I'll just keep pedaling.,Clem: Woah... That was... Wow.,InPain,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,Clem: I'll just keep pedaling.,Woah... That was... Wow.,,Happy,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,,Oh boy. I'm feeling really... good!,,Happy,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,,This Cycle's the best! Wee!,Clem: Oh... What's that?,Happy,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,Clem: This Cycle's the best! Wee!,Oh... What's that?,,Puzzled,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,,You smell that?,,Friendly,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,,I ain't never smelled such a thing. Is that mutfruit?,,Friendly,DLC06E01_550_ClemReactsToExperiment
+Scene,SceneDialogue,Custom,,"DLC06MaleClem: Oh, man, I'm sorry. I broke your Vault.",I just got so excited and wanted to do a good job. And I kept pedaling faster and faster.,Clem: And then the whole Vault went kablooey.,Apologetic,DLC06E01_700_ClemSetBack
+Scene,SceneDialogue,Custom,,Clem: I just got so excited and wanted to do a good job. And I kept pedaling faster and faster.,And then the whole Vault went kablooey.,Clem: Please don't kick me out.,Apologetic,DLC06E01_700_ClemSetBack
+Scene,SceneDialogue,Custom,,Clem: And then the whole Vault went kablooey.,Please don't kick me out.,,Pleading,DLC06E01_700_ClemSetBack
+Scene,SceneDialogue,Custom,,Overseer: The prototype is far from perfect. There were incidents during its R&amp;D. Maybe even the stray cerebral hemorrhage-,"What, Overseer?","Overseer: Oh, Clem, don't you worry yourself. This model won't suffer from those defects.",Surprised,DLC06E01_150_Intro
+Scene,SceneDialogue,Custom,,"Overseer: Oh, Clem, don't you worry yourself. This model won't suffer from those defects.","Oh, good.","Overseer: Well, probably.",Relieved,DLC06E01_150_Intro
+Scene,SceneDialogue,Custom,,,This is all there is to it?,"Clem: So, I, uh... I'll keep pedaling.",Puzzled,DLC06E01_550_ClemReactsToExperiment
+Miscellaneous,Miscellaneous,Greeting,,,"Oh, man, I'm sorry. I broke your Vault.",Clem: I just got so excited and wanted to do a good job. And I kept pedaling faster and faster.,Worried,DLC06E01_700_ClemSetBack
+Miscellaneous,Miscellaneous,SharedInfo,,,"I'm just so excited to be here. I'll do good, you'll see!",,,
+Scene,SceneDialogue,Custom,,,Didn't see you at dinner.,CandidateOne: I had a pea. One pea... I'm stuffed.,Concerned,DLC06E02_700_CheckInWithClem
+Scene,SceneDialogue,Custom,,,You're back!,CandidateOne: I had a pea. One pea... I'm stuffed.,Happy,DLC06E02_700_CheckInWithClem
+Scene,SceneDialogue,Custom,,,Want some more refreshment?,CandidateOne: I had a pea. One pea... I'm stuffed.,Friendly,DLC06E02_700_CheckInWithClem
+Scene,SceneDialogue,Custom,,CandidateOne: I had a pea. One pea... I'm stuffed.,"Well, if you want another drink.",CandidateOne: Sure. Maybe that'll help.,,DLC06E02_700_CheckInWithClem
+Scene,SceneDialogue,Custom,,CandidateOne: I had a pea. One pea... I'm stuffed.,"Yeah, just great. It's so great I don't even know what I'm saying.",CandidateOne: Sure. Maybe that'll help.,Happy,DLC06E02_700_CheckInWithClem
+Scene,SceneDialogue,Custom,,CandidateOne: I had a pea. One pea... I'm stuffed.,"I know, right? It's got special chemicals in it.",CandidateOne: Sure. Maybe that'll help.,Friendly,DLC06E02_700_CheckInWithClem
+Scene,SceneDialogue,Custom,,Overseer: Marvelous work. The Power Cycle intelligently forced our test subject to pedal to his limits.,"My heart's still pounding, Overseer. I... I uh...","Overseer: Cheer up, Clem. You could've pedaled at that rate another 10 or 15 minutes without long-term effects.",Worried,DLC06E02_100_QuestAccepted
+Scene,SceneDialogue,Custom,,Overseer: Marvelous work. The Power Cycle intelligently forced our test subject to pedal to his limits.,Is that test done already? I want to do more. Wooo!,"Overseer: Cheer up, Clem. You could've pedaled at that rate another 10 or 15 minutes without long-term effects.",Happy,DLC06E02_100_QuestAccepted
+Scene,SceneDialogue,Custom,,Overseer: Marvelous work. The Power Cycle intelligently forced our test subject to pedal to his limits.,"I feel... Really, relaxed. This Vault is the best.","Overseer: Cheer up, Clem. You could've pedaled at that rate another 10 or 15 minutes without long-term effects.",Friendly,DLC06E02_100_QuestAccepted
+Scene,SceneDialogue,Custom,,"Overseer: Cheer up, Clem. You could've pedaled at that rate another 10 or 15 minutes without long-term effects.",If you say so.,"Overseer: For the next experiment, we'll need something from outside.",Worried,DLC06E02_100_QuestAccepted
+Scene,SceneDialogue,Custom,,"Overseer: Cheer up, Clem. You could've pedaled at that rate another 10 or 15 minutes without long-term effects.",Once I do your next thing can I go back and cycle?,"Overseer: For the next experiment, we'll need something from outside.",Happy,DLC06E02_100_QuestAccepted
+Scene,SceneDialogue,Custom,,"Overseer: Cheer up, Clem. You could've pedaled at that rate another 10 or 15 minutes without long-term effects.",My clothes still smell funny.,"Overseer: For the next experiment, we'll need something from outside.",Friendly,DLC06E02_100_QuestAccepted
+Scene,SceneDialogue,Custom,,"Overseer: So if they must squander their time, let us turn it to the collective good: with chemistry.",What? Aren't chemicals bad for you?,"Overseer: Oh, Clem. You worry so much, my boy. Everything you eat and drink is made of chemicals. Don't you know?",Worried,DLC06E02_300_FormulasHandedOff
+Scene,SceneDialogue,Custom,,"Overseer: Oh, Clem. You worry so much, my boy. Everything you eat and drink is made of chemicals. Don't you know?","Oh, right. That's very interesting, lady Overseer.","Overseer: These are just ""special"" chemicals. *chuckle*",Relieved,DLC06E02_300_FormulasHandedOff
+Scene,SceneDialogue,Custom,,"Overseer: And Clem, if you get thirsty on the job, feel free to have a cool refreshing beverage.","Gee, thanks.",,Friendly,DLC06E02_300_FormulasHandedOff
+Scene,SceneDialogue,Custom,,,I guess I'm open for business.,,Happy,DLC06E02_500_SodaFountainBuilt
+Scene,SceneDialogue,Custom,,,The Soda Fountain's open. Want to be the first customer?,CandidateOne: Depends. How much does it cost?,Friendly,DLC06E02_600_FirstDrink
+Scene,SceneDialogue,Custom,,CandidateOne: Depends. How much does it cost?,"Oh, it's free.","CandidateOne: Really. Well, I guess then...",Happy,DLC06E02_600_FirstDrink
+Scene,SceneDialogue,Custom,,CandidateOne: Pretty... Tasty. Weird aftertaste. But it's good.,Make sure to come back!,,Friendly,DLC06E02_600_FirstDrink
+Miscellaneous,Miscellaneous,Greeting,,,You here to check up? I got a customer right here.,Clem: Didn't see you at dinner.,,DLC06E02_700_CheckInWithClem
+Miscellaneous,Miscellaneous,Greeting,,,Never thought I'd have an honest-to-goodness job!,,,
+Scene,SceneDialogue,Custom,,,What would win in a fight? A Radscorpion or a Yao Guai?,,Thinking,DLC06VaultWorkshopConversations02Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: What would win in a fight? A Radscorpion or a Yao Guai?,Hmmm... Scorpion against bear... Gotta go bear.,,Thinking,DLC06VaultWorkshopConversations02Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: What would win in a fight? A Radscorpion or a Yao Guai?,"You're kidding, right? Radscorpion. All the way.",,Confident,DLC06VaultWorkshopConversations02Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: What would win in a fight? A Radscorpion or a Yao Guai?,Who cares? Super Mutant Behemoth vs. Deathclaw. Now that's a REAL fight.,,Confident,DLC06VaultWorkshopConversations02Scene
+Scene,SceneDialogue,Custom,,,Stay sharp! The Overseer's watching us!,,Nervous,DLC06VaultWorkshopConversations01Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Stay sharp! The Overseer's watching us!,What? You mean now? RIGHT now?,,Nervous,DLC06VaultWorkshopConversations01Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Stay sharp! The Overseer's watching us!,"I know! It's a little creepy, isn't it?",,Nervous,DLC06VaultWorkshopConversations01Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Stay sharp! The Overseer's watching us!,You're imagining things.,,Confident,DLC06VaultWorkshopConversations01Scene
+Scene,SceneDialogue,Custom,,,Is it night or day? I've lost track.,,Puzzled,DLC06VaultWorkshopConversations03Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Is it night or day? I've lost track.,Night. I think.,,Thinking,DLC06VaultWorkshopConversations03Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Is it night or day? I've lost track.,Day. Definitely day.,,Confident,DLC06VaultWorkshopConversations03Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Is it night or day? I've lost track.,I lost track. Does it really matter?,,Question,DLC06VaultWorkshopConversations03Scene
+Scene,SceneDialogue,Custom,,"Overseer: Before you begin, Clem.  How do you feel about children?","Uh, they're all right, I guess.",Overseer: You ever planning on having any?,Puzzled,DLC06E03_400_PhoropterExperiment
+Scene,SceneDialogue,Custom,,Overseer: You ever planning on having any?,"Oh, I don't know. Why are you asking?",Overseer: Just idle chatter. Go on.,Puzzled,DLC06E03_400_PhoropterExperiment
+Scene,SceneDialogue,Custom,,Overseer: Just idle chatter. Go on.,Hi! You here for an eye exam with the phoro... This thing?,CandidateOne: I guess?,Friendly,DLC06E03_400_PhoropterExperiment
+Scene,SceneDialogue,Custom,,CandidateOne: I guess?,Go ahead and get in.,CandidateOne: So what do I do?,Friendly,DLC06E03_400_PhoropterExperiment
+Scene,SceneDialogue,Custom,,CandidateOne: So what do I do?,Just stay still.,,Friendly,DLC06E03_400_PhoropterExperiment
+Scene,SceneDialogue,Custom,,CandidateOne: It keeps flashing.,"I, uh, think that's normal.","CandidateOne: What? Ow. What the hell, ow.",Worried,DLC06E03_400a_Subliminal
+Scene,SceneDialogue,Custom,,"CandidateOne: What? Ow. What the hell, ow.","Uh, this thing's not working.","CandidateOne: What were you doing? I kept seeing, ""Obey the overseer!""",Worried,DLC06E03_400a_Subliminal
+Scene,SceneDialogue,Custom,,CandidateOne: My head feels hot.,"Oh, well, just stay still.","CandidateOne: Fuck! It hurts... Oh god, I feel sick.",Worried,DLC06E03_400b_Monitoring
+Scene,SceneDialogue,Custom,,"CandidateOne: Fuck! It hurts... Oh god, I feel sick.","All right, sorry, I'm working on it!",CandidateOne: Were you nuking me? What the hell?,Worried,DLC06E03_400b_Monitoring
+Scene,SceneDialogue,Custom,,"CandidateOne: So, I just sit here.","Yeah, yeah. The machine will do the rest.",CandidateOne: This thing's creeping me out.,Friendly,DLC06E03_400c_EyeExam
+Scene,SceneDialogue,Custom,,CandidateOne: This thing's creeping me out.,All done. It says you got a... a minor eye infection. Some... uh... eye drops will clear it up.,"CandidateOne: Uh, thanks.",Puzzled,DLC06E03_400c_EyeExam
+Scene,SceneDialogue,Custom,,"CandidateOne: C'mon, Clem, let's leave. These guys are assholes.",But I can't... The Power Cycle. Got to pedal some more when I'm done here.,"CandidateOne: Run while you can, Clem.",Worried,DLC06E03_500a_CandyOneAngry
+Scene,SceneDialogue,Custom,,"CandidateOne: C'mon, Clem, let's leave. These guys are assholes.",But I've got a job now. I'm an optom... I run the eye machine. I can't leave.,"CandidateOne: Run while you can, Clem.",Worried,DLC06E03_500a_CandyOneAngry
+Scene,SceneDialogue,Custom,,Overseer: And that's it? Nothing else?,"No, lady Overseer, exam's all done.",,Friendly,DLC06E03_400c_EyeExam
+Scene,SceneDialogue,Custom,,DLC06FemaleOverseer: Let's check in with Clem.,Oh hi.,"Clem: Listen, I just need another try on that machine.",Nervous,DLC06E04_500a_EndDebrief
+Scene,SceneDialogue,Custom,,Clem: Oh hi.,"Listen, I just need another try on that machine.","Clem: My luck's about to turn around, I can feel it.",Pleading,DLC06E04_500a_EndDebrief
+Scene,SceneDialogue,Custom,,Clem: Oh hi.,Is the slot machine supposed to flash?,"Clem: My luck's about to turn around, I can feel it.",Worried,DLC06E04_500a_EndDebrief
+Scene,SceneDialogue,Custom,,Clem: Oh hi.,That slot machine thingie is a hoot.,"Clem: My luck's about to turn around, I can feel it.",Happy,DLC06E04_500a_EndDebrief
+Scene,SceneDialogue,Custom,,"Clem: Listen, I just need another try on that machine.","My luck's about to turn around, I can feel it.","Overseer: Yes, Clem, you find some more money. That slot machine will pay out soon. *chuckle*",Pleading,DLC06E04_500a_EndDebrief
+Scene,SceneDialogue,Custom,,"Clem: Listen, I just need another try on that machine.",Every now and again I swear it makes a strange noise and flashes.,"Overseer: Yes, Clem, you find some more money. That slot machine will pay out soon. *chuckle*",Worried,DLC06E04_500a_EndDebrief
+Scene,SceneDialogue,Custom,,"Clem: Listen, I just need another try on that machine.","Thanks a lot for letting me try it, lady Overseer.","Overseer: Yes, Clem, you find some more money. That slot machine will pay out soon. *chuckle*",Happy,DLC06E04_500a_EndDebrief
+Scene,SceneDialogue,Custom,,Overseer: And you did marvelously. Vault-Tec would be so proud.,"I did everything you asked, can I go back to the Power Cycle? I really need to.","Overseer: My, what gusto. I'm glad you like the cycle so much, Clem.",InPain,DLC06E04_500a_EndDebrief
+Scene,SceneDialogue,Custom,,Overseer: And you did marvelously. Vault-Tec would be so proud.,"Boy, the lady Overseer sure is smart. I just feel like everything she says makes sense.","Overseer: My, what gusto. I'm glad you like the cycle so much, Clem.",Friendly,DLC06E04_500a_EndDebrief
+Scene,SceneDialogue,Custom,,Overseer: And you did marvelously. Vault-Tec would be so proud.,"But this place is the best, lady Overseer. Everyone says so.","Overseer: My, what gusto. I'm glad you like the cycle so much, Clem.",Apologetic,DLC06E04_500a_EndDebrief
+Scene,SceneDialogue,Custom,,,"So, this is a... slot machine?","Clem: Okay, here goes nothing.",Puzzled,DLC06E04_300_ClemGambling
+Scene,SceneDialogue,Custom,,"Clem: So, this is a... slot machine?","Okay, here goes nothing.",Clem: This is pretty fun!,Nervous,DLC06E04_300_ClemGambling
+Scene,SceneDialogue,Custom,,"Clem: Okay, here goes nothing.",This is pretty fun!,,Surprised,DLC06E04_300_ClemGambling
+Scene,SceneDialogue,Custom,,,"C'mon, win already.",,Concerned,DLC06E04_400_ClemAfterwards
+Scene,SceneDialogue,Custom,,,"I'm going to win next time, I'm sure of it.",,Confident,DLC06E04_400_ClemAfterwards
+Scene,SceneDialogue,Custom,,,I'm having the worst luck all of a sudden.,,Disgust,DLC06E04_400_ClemAfterwards
+Scene,SceneDialogue,Custom,,,The slot machine keeps acting... funny.,,Puzzled,DLC06E04_400_ClemAfterwards
+Scene,SceneDialogue,Custom,,,Try the slot machine. It's kind of fun.,,Happy,DLC06E04_400_ClemAfterwards
+Scene,SceneDialogue,Custom,,,I swear the slot machine flashes sometimes. It's weird.,,Concerned,DLC06E04_400_ClemAfterwards
+Scene,SceneDialogue,Custom,,,This slot machine is awesome.,,Happy,DLC06E04_400_ClemAfterwards
+Scene,SceneDialogue,Custom,,,Today's my lucky day.,,Confident,DLC06E04_400_ClemAfterwards
+Scene,SceneDialogue,Custom,,,Hahaha. I'm on a roll.,,Happy,DLC06E04_400_ClemAfterwards
+Scene,SceneDialogue,Custom,,Clem: I hope I did good. They were real interesting.,"If so, I'd love it if you let me cycle. You know, some more.",,Nervous,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,,That Power Cycle is just the best. I could pedal on it for hours and hours!,Player Default: Thanks for all your help.,Happy,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,Clem: I hope I did good. They were real interesting.,"If so, I can hit the slots again. I just know my luck's going to turn around. It's got to.",Player Default: Thanks for all your help.,Nervous,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,Clem: I hope I did good. They were real interesting.,"I especially liked the Soda. *laugh* Every time I think about it, woo.",Player Default: Thanks for all your help.,Happy,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,Clem: I hope I did good. They were real interesting.,"If you're done with me, I might hit the mess. Might eat a bean. Ugh.",Player Default: Thanks for all your help.,Sad,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,DLC06MaleClem: You done with all your experiments?,I hope I did good. They were real interesting.,"Clem: If so, I'd love it if you let me cycle. You know, some more.",Friendly,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,Player Default: Thanks for all your help.,"You kidding, it's been an honor to do... well, anything for you.","Clem: I guess you're the Overseer now, right? Looking forward to giving the Vault my best!",Grateful,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,"Player Default: You should wise up, Clem.","Oh, that's good advice. I'll work on that.","Clem: I guess you're the Overseer now, right? Looking forward to giving the Vault my best!",Nervous,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,"Player Default: You really are a glass is half full kind of guy, aren't you?","Who? Me? Heck, I would just be happy to have a glass.","Clem: I guess you're the Overseer now, right? Looking forward to giving the Vault my best!",Happy,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,"Player Default: How are you doing, Clem?",Doing just the best. People keep talking about how good things are here.,,Happy,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,,"And I hope that I've done my part, you know?",Player Default: Thanks for all your help.,Happy,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,"Player Default: How are you doing, Clem?","Not everyone's so... keen on being here. But you know me, just happy to have a job and a place to sleep.",,Grateful,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,,"Besides you'll take care of us, right?",Player Default: Thanks for all your help.,Happy,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,"Player Default: How are you doing, Clem?",I'm doing well. This Vault's just the best. I haven't been attacked by Mole Rats. Not even once.,,Grateful,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,,Just happy to be here!,Player Default: Thanks for all your help.,Happy,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,"Player Default: You kidding, it's been an honor to do... well, anything for you.","I guess you're the Overseer now, right? Looking forward to giving the Vault my best!",,Happy,DLC06DialogueVault88_PostQuestClem
+Scene,SceneDialogue,Custom,,"Player Default: You kidding, it's been an honor to do... well, anything for you.",I look forward to giving Vault 88 my best!,,Happy,DLC06DialogueVault88_PostQuestClem
+Miscellaneous,Miscellaneous,Greeting,,,You done with all your experiments?,Clem: I hope I did good. They were real interesting.,Question,DLC06DialogueVault88_PostQuestClem
+Miscellaneous,Miscellaneous,Hello,,,Some people complain. But not me. Just happy to be here!,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,I'll do well. Promise.,,,
+Miscellaneous,Miscellaneous,Hello,,,"That Power Cycle really gets your heart beating. Like, really, really beating.",,Tired,
+Miscellaneous,Miscellaneous,Hello,,,"The Power Cycle is just the best! Man, wow.",,Happy,
+Miscellaneous,Miscellaneous,Hello,,,"If you're just going to spin your legs for an hour, the Power Cycle is pretty fun.",,,
+Miscellaneous,Miscellaneous,Hello,,,You got some Pre-War Money? C'mon. I could really use it for the slots.,,,
+Miscellaneous,Miscellaneous,Hello,,,"That Slot Machine acts awful funny. But, it's kind of fun.",,Puzzled,
+Miscellaneous,Miscellaneous,Hello,,,The Slot Machine is just the best. I tell everyone that.,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,My stomach feels all funny. All the time. *groan*,,InPain,
+Miscellaneous,Miscellaneous,Hello,,,Yummy soda. *laugh*,,Happy,
+Miscellaneous,Miscellaneous,Hello,,,"I ain't never tasted... well, anything like Vault 88 soda.",,Puzzled,
+Scene,SceneDialogue,Custom,,,Ugh. I have this itch. I don't suppose you could... you know.,,Pleading,DLC06VaultWorkshopConversations15Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Ugh. I have this itch. I don't suppose you could... you know.,Yeeeeaaah. Not gonna happen.,,Disgust,DLC06VaultWorkshopConversations15Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Ugh. I have this itch. I don't suppose you could... you know.,Touch you? I... I mean... scratch your... body?,,Disbelief,DLC06VaultWorkshopConversations15Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Ugh. I have this itch. I don't suppose you could... you know.,Of course! Always happy to help a friend in need.,,Friendly,DLC06VaultWorkshopConversations15Scene
+Scene,SceneDialogue,Custom,,,"I don't want to toot my own horn, but rumor has it I'll be the next Overseer.",,Conspiratorial,DLC06VaultWorkshopConversations13Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: I don't want to toot my own horn, but rumor has it I'll be the next Overseer.",The day that happens is the day I wander into the Wasteland.,,Disbelief,DLC06VaultWorkshopConversations13Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: I don't want to toot my own horn, but rumor has it I'll be the next Overseer.",Really? I think you'd make a great Overseer!,,Friendly,DLC06VaultWorkshopConversations13Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: I don't want to toot my own horn, but rumor has it I'll be the next Overseer.",Fine by me. I'll blindly follow anyone with a title and authority.,,Confident,DLC06VaultWorkshopConversations13Scene
+Scene,SceneDialogue,Custom,,,"Is it drafty in here, or is it just me?",,Puzzled,DLC06VaultWorkshopConversations11Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Is it drafty in here, or is it just me?","You know, I think it is. Someone needs to check the seals on the Vault door.",,Concerned,DLC06VaultWorkshopConversations11Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Is it drafty in here, or is it just me?",It's just you.,,Irritated,DLC06VaultWorkshopConversations11Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Is it drafty in here, or is it just me?",The environmental controls may be on the fritz again. Can't say I'm surprised.,,Disgust,DLC06VaultWorkshopConversations11Scene
+Scene,SceneDialogue,Custom,,,"Hey, I just wanted to say... I really appreciate everything you do for the Vault.",,Grateful,DLC06VaultWorkshopConversations09Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Hey, I just wanted to say... I really appreciate everything you do for the Vault.","Oh my goodness! Thank you so much. I appreciate everything you do, too.",,Friendly,DLC06VaultWorkshopConversations09Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Hey, I just wanted to say... I really appreciate everything you do for the Vault.",Oh. Well. Um... Isn't that... sweet?,,Puzzled,DLC06VaultWorkshopConversations09Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Hey, I just wanted to say... I really appreciate everything you do for the Vault.","Finally, somebody recognizes how invaluable I am!",,Confident,DLC06VaultWorkshopConversations09Scene
+Scene,SceneDialogue,Custom,,,"Hey, did you hear what they were talking about last night?",,Conspiratorial,DLC06VaultWorkshopConversations07Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Hey, did you hear what they were talking about last night?",I know! I can't believe she did that! The nerve of some people.,,Disbelief,DLC06VaultWorkshopConversations07Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Hey, did you hear what they were talking about last night?","Oh, you mean that, er... situation? With the thing? Oh, I heard all right.",,Puzzled,DLC06VaultWorkshopConversations07Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Hey, did you hear what they were talking about last night?","I didn't, no. But that's okay. Unlike some people, I don't like to spread gossip...",,Stern,DLC06VaultWorkshopConversations07Scene
+Scene,SceneDialogue,Custom,,,Knock knock.,,Friendly,DLC06VaultWorkshopConversations05Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Knock knock.,Nobody's home. See what I did there?,,Amused,DLC06VaultWorkshopConversations05Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Knock knock.,"No. NO. Please, no ""knock knock"" jokes...",,Irritated,DLC06VaultWorkshopConversations05Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Knock knock.,Aggh! Somebody's knocking on the Vault door! It's a Raider! He'll kill us all!,,Afraid,DLC06VaultWorkshopConversations05Scene
+Scene,SceneDialogue,Custom,,,"I'm writing a new song, praising the Overseer. I need a word that rhymes with ""great.""",,Thinking,DLC06VaultWorkshopConversations04Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: I'm writing a new song, praising the Overseer. I need a word that rhymes with ""great.""","How about ""perambulate""?",,Thinking,DLC06VaultWorkshopConversations04Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: I'm writing a new song, praising the Overseer. I need a word that rhymes with ""great.""","Oh, I know - ""super amazingly great""!",,Confident,DLC06VaultWorkshopConversations04Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: I'm writing a new song, praising the Overseer. I need a word that rhymes with ""great.""","""Vertebrate""? ""Stablemate""? ""Encapsulate""? Or maybe just ""ate.""",,Thinking,DLC06VaultWorkshopConversations04Scene
+Scene,SceneDialogue,Custom,,,I want to draw you a picture later. Any requests?,,Friendly,DLC06VaultWorkshopConversations06Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: I want to draw you a picture later. Any requests?,No thanks. I've seen your drawings...,,Irritated,DLC06VaultWorkshopConversations06Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: I want to draw you a picture later. Any requests?,"Aw, that's so sweet of you. How about a lighthouse?",,Grateful,DLC06VaultWorkshopConversations06Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: I want to draw you a picture later. Any requests?,A drawing of the Overseer. Now THAT would be something...,,Awed,DLC06VaultWorkshopConversations06Scene
+Scene,SceneDialogue,Custom,,,Is it true what they're saying? About... you know who?,,Conspiratorial,DLC06VaultWorkshopConversations08Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Is it true what they're saying? About... you know who?,Sure is. And he seemed like such a nice guy.,,Disbelief,DLC06VaultWorkshopConversations08Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Is it true what they're saying? About... you know who?,I really hope not. I hate the idea of living in the same Vault with a person like that.,,Concerned,DLC06VaultWorkshopConversations08Scene
+Scene,SceneDialogue,Custom,,VaultDweller01: Is it true what they're saying? About... you know who?,"What? No! Of course it isn't true! Really, you can't believe everything you hear...",,Surprised,DLC06VaultWorkshopConversations08Scene
+Scene,SceneDialogue,Custom,,,"Wow. Heck of a day, huh?",,Friendly,DLC06VaultWorkshopConversations10Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Wow. Heck of a day, huh?",You can say that again.,,Friendly,DLC06VaultWorkshopConversations10Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Wow. Heck of a day, huh?","Tell me about it. Life in the Vault, huh?",,Friendly,DLC06VaultWorkshopConversations10Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Wow. Heck of a day, huh?",Right? But I wouldn't trade it for anything.,,Friendly,DLC06VaultWorkshopConversations10Scene
+Scene,SceneDialogue,Custom,,,"Who do you think would win in a fight, a lumberjack with tentacle arms, or a shark riding a unicycle?",,Question,DLC06VaultWorkshopConversations12Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Who do you think would win in a fight, a lumberjack with tentacle arms, or a shark riding a unicycle?",Depends. What color is the unicycle?,,Thinking,DLC06VaultWorkshopConversations12Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Who do you think would win in a fight, a lumberjack with tentacle arms, or a shark riding a unicycle?","Hmmm. I mean, it's hard to beat a shark. But lumberjacks are really tough. I just can't decide.",,Puzzled,DLC06VaultWorkshopConversations12Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Who do you think would win in a fight, a lumberjack with tentacle arms, or a shark riding a unicycle?",Why do they have to fight? Why can't they just be friends and go grab coffee?,,Puzzled,DLC06VaultWorkshopConversations12Scene
+Scene,SceneDialogue,Custom,,,"Okay, I don't like to spread rumors. But have you heard about... the thing?",,Worried,DLC06VaultWorkshopConversations14Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Okay, I don't like to spread rumors. But have you heard about... the thing?",Yes! The others told me! It sounds so... dangerous!,,Afraid,DLC06VaultWorkshopConversations14Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Okay, I don't like to spread rumors. But have you heard about... the thing?","Well, I have, but I don't believe it.",,Disbelief,DLC06VaultWorkshopConversations14Scene
+Scene,SceneDialogue,Custom,,"VaultDweller01: Okay, I don't like to spread rumors. But have you heard about... the thing?","No, I haven't. Is it anything like... the whatchamacallit?",,Worried,DLC06VaultWorkshopConversations14Scene
+Scene,SceneDialogue,Custom,,,Easiest job I ever had.,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,I'm trying out some new flavors today.,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,"Look, I'm just doing my job.",,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,I've almost figured out how this thing works. I think.,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,This is delicious.,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,"It's great of the Overseer to give us breaks like this, huh?",,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,Mmm.,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,Free soda. Gotta love the Vault.,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,My stomach don't feel good.,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,I should be hungry. But the thought of food...,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,Ehh... I feel terrible.,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,I need to eat. But when I think about it... It just makes me sick.,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,Have you tried this? Oh man. Woo!,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,This soda is like... drinking sunshine. Or rainbows!,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,"Got to get more of this, woah... Colors!",,Happy,DLC06WorkshopSodaFountainHandlerScene
+Scene,SceneDialogue,Custom,,,I could drink this forever and ever. And then stop!,,Happy,DLC06WorkshopSodaFountainHandlerScene
+Miscellaneous,Miscellaneous,Greeting,,,Sure thing.,,Friendly,
+Miscellaneous,Miscellaneous,Greeting,,,"Oh, of course.",,Friendly,
+Miscellaneous,Miscellaneous,Greeting,,,"Whatever you need, Overseer.",,Friendly,
+Miscellaneous,Miscellaneous,Greeting,,,"Yes, sir.",,Friendly,
+Miscellaneous,Miscellaneous,Greeting,,,"Yes, ma'am.",,Friendly,
+Miscellaneous,Miscellaneous,Greeting,,,"Anything for you, Overseer.",,Friendly,
+Scene,SceneDialogue,Custom,,,This thing gives me the creeps.,,Nervous,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,I guess my eyes are worth... this.,,Nervous,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,So this thing can fix my eyes?,,Question,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,"This thing's not going to hurt, right?",,Concerned,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,"What was that? ""Obey""?",,Puzzled,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,My eyes... I keep seein' flashes.,,Concerned,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,Why do I keep thinking of the Overseer?,,Puzzled,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,Was that...  a word? Nah.,,Puzzled,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,This thing's making my head hurt.,,Worried,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,You feel that? This eye thing's burning up.,,Worried,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,Was that... a kitty cat? Huh?,,Surprised,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,This eye thing is just... weird.,,Puzzled,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,Try not to blink.,,Happy,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,I hope the light isn't too bright.,,Happy,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,"This is for your own good, I promise.",,Happy,DLC06WorkshopPhoropterHandlerScene
+Scene,SceneDialogue,Custom,,,"I'm just doing what I'm told, you know.",,Happy,DLC06WorkshopPhoropterHandlerScene

@@ -1,0 +1,44 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Comin' right up!,,,DLC04DialogueSettlement_LaurenVendorScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,You bet!,,,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Not interested.,Suit yourself.,,,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Not interested.,Alright then.,,,DLC04DialogueSettlement_LaurenVendorScene
+Scene,SceneDialogue,Custom,,Player Default: I assume it's because the gangs trust you not to run off.,Trust? Hell no! A real raider don't trust anyone but himself.,"LaurenPlummer: The answer is, because they got a healthy mix of fear an' respect, that's why.",Annoyed the player got it wrong / Irritated,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,Player Default: I don't really give a shit.,Well ain't you a spoilsport.,"LaurenPlummer: The answer is, because they got a healthy mix of fear an' respect, that's why.","Annoyed, let down / Irritated",DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,Player Default: Um... you slipped it off and nobody's noticed yet.,Hah! Not bloody likely! I'd have to have a death wish to try a stunt like that.,"LaurenPlummer: The answer is, because they got a healthy mix of fear an' respect, that's why.",Amused at the player's stupidity / Disbelief,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,Player Default: So you're one of the traders who was here before the gangs took over?,"Damn right! Hell, I'm an institution.",,,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,,"Go on now, take a guess why I ain't got a collar.",Player Default: I assume it's because the gangs trust you not to run off.,,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,Player Default: Trust? Hell no! A real raider don't trust anyone but himself.,"The answer is, because they got a healthy mix of fear an' respect, that's why.",,,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,,"That, an' the fact I don't take shit from anyone. In here, it's my drinks an' my rules.",Player Default: You can keep the collar off. I get the feeling you wouldn't put it on even if I told you to.,,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,Player Default: You can keep the collar off. I get the feeling you wouldn't put it on even if I told you to.,"You're right about that, haha.",LaurenPlummer: Now what the hell do you want?,Amused agreement / Friendly,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: New boss, new rules. From now on, you wear your collar.",What?! You serious?,,Angry / Angry,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,,"Fine, I'll put the damn thing on. I'll even serve you a drink, but I'll still be hopin' you get a knife between the ribs from one of these Raiders.",LaurenPlummer: Now what the hell do you want?,"Angry, disappointed / Angry",DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: New boss, new rules. From now on, you wear your collar.",That'll be the day! Haha!,LaurenPlummer: Now what the hell do you want?,not bloody likely / Disbelief,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,Player Default: You've got some serious backbone.,"Around here, backbone's the only thing that'll keep you alive.",LaurenPlummer: Now what the hell do you want?,,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,Player Default: You want to stay here? Even though you have to work for Raiders?,"You say ""Raiders"" like they're somethin' worse than normal folks.",,,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,,"I'll tell you what raiders are. They're people who see the true nature of the world, an' they ain't afraid of it.",LaurenPlummer: Now what the hell do you want?,,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: You're right about that, haha.",Now what the hell do you want?,Player Default: Let's see what you've got.,Angry / Angry,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,"Player Default: You're right about that, haha.","Now, what I can get you, boss?",Player Default: Let's see what you've got.,Friendly / Friendly,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,"DLC04NPCFLaurenPlummer: Was hoping you'd come by, boss. You ain't really seen the park 'til you've stopped in for a drink at Cappy's",I can see the question in your eyes. Why ain't she got a collar? You want to take a guess?,Player Default: I assume it's because the gangs trust you not to run off.,Conspiratorial,DLC04DialogueSettlement_LaurenFirstScene
+Scene,SceneDialogue,Custom,,Player Default: What have you got?,"I got whatever liqour this rowdy bunch can get their hands on, from fine spirits to rotgut that'll put a fire in your belly. What'll it be?",Player Default: Let's see what you've got.,,DLC04DialogueSettlement_LaurenVendorScene
+Combat,Combat,Death,,,Ugh.,,,
+Combat,Combat,Death,,,,,,
+Combat,Combat,Death,,,Gah.,,,
+Combat,Combat,Flee,,,Aaaiiee!,,,
+Combat,Combat,Flee,,,Agghh!,,,
+Detection,Detection,NormalToAlert,,,What the?!,,,
+Detection,Detection,NormalToAlert,,,What?,,,
+Detection,Detection,NormalToAlert,,,Huh?,Player Default: Let's see what you've got.,Half joking,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"Really cleaned the Raiders out of here, didn't you? Too bad, they were some of my best customers. So, what are you having?",Player Default: Let's see what you've got.,Friendly,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"Strong man like you needs a strong drink, am I right?",Player Default: Let's see what you've got.,Friendly,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"Strong woman like you needs a strong drink, am I right?",Player Default: Let's see what you've got.,Friendly,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"Thirsty work, runnin' the park. Don't you worry, sweetheart, I got you covered.",Player Default: Let's see what you've got.,Friendly,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"Work hard, play hard. That's the raider way. So, what are you drinkin'?",Player Default: Let's see what you've got.,Irritated with the player. / Irritated,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,Just tell me what you want.,Player Default: Let's see what you've got.,Irritated with the player. / Irritated,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"Damn collar itches like the devil. Now, what do you need?",Player Default: Let's see what you've got.,Irritated with the player. / Irritated,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,"You want a drink, or what?",Player Default: Let's see what you've got.,Irritated with the player. / Irritated,DLC04DialogueSettlement_LaurenVendorScene
+Miscellaneous,Miscellaneous,Greeting,,,Can't stand wearin' this damn thing. What can I get you?,LaurenPlummer: I can see the question in your eyes. Why ain't she got a collar? You want to take a guess?,Friendly greeting / Happy,DLC04DialogueSettlement_LaurenFirstScene
+Miscellaneous,Miscellaneous,Greeting,,,"Was hoping you'd come by, boss. You ain't really seen the park 'til you've stopped in for a drink at Cappy's",,Curious why the player has stopped talking,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Hello? Anybody home?,"PackRaider: Just havin' a little fun, granny. Keepin' the kid on his toes.",,DLC04CappysCafeIntroScene_Scene
+Scene,SceneDialogue,Custom,,"Keith: Please, just leave me alone. I'm doing my best, okay?","Hey! You shoot my help, and you're gonna be the one pushing that broom. You got that, tough guy?",,,DLC04CappysCafeIntroScene_Scene
+Scene,SceneDialogue,Custom,,"PackRaider: Just havin' a little fun, granny. Keepin' the kid on his toes.","I don't give a mole-rat's ass how many of you Raiders there are. In here, it's my bar an' my rules.",,,

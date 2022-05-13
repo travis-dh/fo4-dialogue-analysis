@@ -1,0 +1,249 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,Greeting,,,Warning: this unit is suffering from fragmented memory system. Computational abilities may be compromised.,,,
+Miscellaneous,Miscellaneous,Greeting,,,"Core functionality on this unit is still available, but primary directives have been altered. Proceed with caution.",,,
+Miscellaneous,Miscellaneous,Greeting,,,System reformat initiated by unit designated as Quinlan is in progress. Estimated time of completion is unknown.,,,
+Miscellaneous,Miscellaneous,Greeting,,,This unit is currently attempting to interface with Prydwen central computer. Handshake accepted... data transfer in progress.,,,
+Miscellaneous,Miscellaneous,Greeting,,,"Warning: functionality change is now in effect. New directive: Serve the Brotherhood of Steel, serve Elder Maxson.",,,
+Miscellaneous,Miscellaneous,Greeting,,,Master override complete. All data pertaining to Railroad has been uploaded to Prydwen central computer.,,,
+Miscellaneous,Miscellaneous,Greeting,,,"Unable to comply with command ""transfer prediction algorithms to central computer."" Conclusion: error in interface functionality.",,,
+Miscellaneous,Miscellaneous,Greeting,,,"Scanning memory. Error detected in block 178, sector 45. This unit is now in self-correction and maintenance mode.",,,
+Miscellaneous,Miscellaneous,Greeting,,,"Quinlan parse error. Unfamiliar syntax ""useless pile of rusty scrap"" logged for future translation.",,,
+Miscellaneous,Miscellaneous,Greeting,,,New directive accepted. Synth units are a rogue element and must be eliminated at all costs. Conclusion: destroy on sight.,,,
+Miscellaneous,Miscellaneous,Greeting,,,New directive accepted. Super Mutants are abominations of science and must be eliminated at all costs. Conclusion: kill on sight.,,,
+Miscellaneous,Miscellaneous,Greeting,,,New directive accepted. Feral ghouls are an infestation and must be exterminated. Conclusion: kill on sight.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Prydwen central computer storage has insufficient memory for all of this unit's functions. Conclusion: this unit should remain online indefinitely.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Warning: kicking this unit in the leg will not increase computational speed. Conclusion: suggest Proctor Quinlan use alternate method.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Improvement detected: This unit has enhanced Prydwen navigational efficiency by 17 percent.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Improvement detected: This unit has enhanced battlefield tactics efficiency by 38 percent.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Improvement detected: This unit has enhanced vertibird flight model capability by 22 percent.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Improvement detected: This unit has enhanced communications encryption capabilities by 45 percent.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Improvement detected: This unit has enhanced recipe quality by 65 percent. Mess hall induced sicknesses reduced by 33 percent.,,,
+Miscellaneous,Miscellaneous,Greeting,,,This unit is occupied. Please stand by.,,,
+Miscellaneous,Miscellaneous,Greeting,,,This unit is in power-saver mode. Please stand by.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Warning: long-term calculation in progress. Please return later.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Warning: voice interface shutting down. Please return later.,,,
+Miscellaneous,Miscellaneous,Greeting,,,This unit is currently running level three self-diagnostic. Please return later.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Primary objective: preserve Railroad-Alpha and the rogue variable.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Error. Error.,,,
+Scene,SceneDialogue,Custom,,RobotPAM: Processing.,Agent. Fixer. Your arrival was not calculated.,"Player Default: That's a strange way to say ""hello.""",,PAMGreetScene
+Scene,SceneDialogue,Custom,,RobotPAM: Processing.,Agent. Professor. Your arrival was not calculated.,"Player Default: That's a strange way to say ""hello.""",,PAMGreetScene
+Scene,SceneDialogue,Custom,,RobotPAM: Processing.,Agent. Charmer. Your arrival was not calculated.,"Player Default: That's a strange way to say ""hello.""",,PAMGreetScene
+Scene,SceneDialogue,Custom,,RobotPAM: Processing.,Agent. Whisper. Your arrival was not calculated.,"Player Default: That's a strange way to say ""hello.""",,PAMGreetScene
+Scene,SceneDialogue,Custom,,RobotPAM: Processing.,Agent. Bullseye. Your arrival was not calculated.,"Player Default: That's a strange way to say ""hello.""",,PAMGreetScene
+Scene,SceneDialogue,Custom,,RobotPAM: Processing.,Agent. Wanderer. Your arrival was not calculated.,"Player Default: That's a strange way to say ""hello.""",,PAMGreetScene
+Scene,SceneDialogue,Custom,,RobotPAM: Processing.,Unknown human entity. Your arrival was not calculated.,"Player Default: That's a strange way to say ""hello.""",,PAMGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: That's a strange way to say ""hello.""",Temporarily unable to process verbal input. Still processing.,PAM: Preliminary adjustments to statistical models complete. Commencing introduction.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Start making some sense.,Unable to process verbal response.,PAM: Preliminary adjustments to statistical models complete. Commencing introduction.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: What do you mean it wasn't calculated?,Temporarily unable to process verbal input. Still processing.,PAM: Preliminary adjustments to statistical models complete. Commencing introduction.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Temporarily unable to process verbal input. Still processing.,Preliminary adjustments to statistical models complete. Commencing introduction.,"PAM: I was, am, and will most likely be P.A.M. Predictive Analytic Machine.",,PAMGreetScene
+Scene,SceneDialogue,Custom,,PAM: Preliminary adjustments to statistical models complete. Commencing introduction.,"I was, am, and will most likely be P.A.M. Predictive Analytic Machine.","Player Default: Well, nice to meet you, PAM.",,PAMGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Well, nice to meet you, PAM.","Introductory token recognized. Nice to meet you, too, unknown entity.",PAM: I provide first order approximations of the behaviors of all residents of the region designated Commonwealth. Rephrasing. I predict the future.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: You're just a broken machine.,All systems fully functional.,PAM: I provide first order approximations of the behaviors of all residents of the region designated Commonwealth. Rephrasing. I predict the future.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Hi, Pam.",Introductory token recognized. Hello.,PAM: I provide first order approximations of the behaviors of all residents of the region designated Commonwealth. Rephrasing. I predict the future.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Do you work for the Railroad?,Yes. My goals and the Railroad organization have a high degree of correlation. They provide data.,PAM: I provide first order approximations of the behaviors of all residents of the region designated Commonwealth. Rephrasing. I predict the future.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Introductory token recognized. Nice to meet you, too, unknown entity.",I provide first order approximations of the behaviors of all residents of the region designated Commonwealth. Rephrasing. I predict the future.,Player Default: What? That's amazing.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: But you didn't predict me coming.,That's correct.,PAM: Caution. Biological life forms behave erratically. Unpredictably. All output subject to an extremely high margin of error.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: That's hard to believe.,Your skepticism is valid.,PAM: Caution. Biological life forms behave erratically. Unpredictably. All output subject to an extremely high margin of error.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: You see the future?,That is this unit's primary goal.,PAM: Caution. Biological life forms behave erratically. Unpredictably. All output subject to an extremely high margin of error.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: That's correct.,Caution. Biological life forms behave erratically. Unpredictably. All output subject to an extremely high margin of error.,"Player Default: Even if you're wrong sometimes, that's unbelievable.",,PAMGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Even if you're wrong sometimes, that's unbelievable.",Repeat - Caution. Reliance on this unit's predictions is deemed unwise.,PAM: Operation complete. You are a rogue variable. No current or previous models predict your presence or existence.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I have no use for faulty predictions.,Agreed. It is prudent to disregard my predictions.,PAM: Operation complete. You are a rogue variable. No current or previous models predict your presence or existence.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Good to know.,I urge you to disregard all predictions.,PAM: Operation complete. You are a rogue variable. No current or previous models predict your presence or existence.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Just how inaccurate are you?,"The smaller the group and the greater the timeframe, the less accurate I become. But all predictions are affected by the ""human"" element.",PAM: Operation complete. You are a rogue variable. No current or previous models predict your presence or existence.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Repeat - Caution. Reliance on this unit's predictions is deemed unwise.,Operation complete. You are a rogue variable. No current or previous models predict your presence or existence.,PAM: Query. What is your point of origin?,,PAMGreetScene
+Scene,SceneDialogue,Custom,,PAM: Operation complete. You are a rogue variable. No current or previous models predict your presence or existence.,Query. What is your point of origin?,"Player Default: I'm from Vault 111, if that's what you mean.",,PAMGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: I'm from Vault 111, if that's what you mean.",Accessing. Vault 111. Cryo Vault - believed destroyed.,PAM: Conversation terminated pending construction of new probability matrix. Rephrasing. Goodbye.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'm not telling you that.,Insufficient data.,PAM: Conversation terminated pending construction of new probability matrix. Rephrasing. Goodbye.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: It's a long story.,Processes reaching maximum capacity.,PAM: Conversation terminated pending construction of new probability matrix. Rephrasing. Goodbye.,,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Why do you want to know?,"If I cannot explain your existence, future predictive models may have an even greater degree of inaccuracy. I repeat.",,,PAMGreetScene
+Scene,SceneDialogue,Custom,,,What is your point of origin?,"Player Default: I'm from Vault 111, if that's what you mean.",,PAMGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Accessing. Vault 111. Cryo Vault - believed destroyed.,Conversation terminated pending construction of new probability matrix. Rephrasing. Goodbye.,,,PAMGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Processing.,PAM: Agent. Fixer. Your arrival was not calculated.,,PAMGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Pausing human/machine interface.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,I suggest human entity reboots conversational program.,,,
+Miscellaneous,Miscellaneous,Hello,,,Recalibrating all predictive models. Variables changed too rapidly.,,,
+Miscellaneous,Miscellaneous,Hello,,,Still processing rogue variable. Error.,,,
+Miscellaneous,Miscellaneous,Hello,,,An unknown number of Institute scientists and Coursers are in the Commonwealth.,,,
+Miscellaneous,Miscellaneous,Hello,,,Calculating chance the Institute remnant becomes a threat. Processing.,,,
+Miscellaneous,Miscellaneous,Hello,,,Minimizing communication with rogue element.,,,
+Miscellaneous,Miscellaneous,Hello,,,Error. Agent's survival not predicted. Refreshing root variables based off Red Glare's outcome.,,,
+Miscellaneous,Miscellaneous,Hello,,,Systems locked. Building statistical model for Operation Tea Party.,,,
+Miscellaneous,Miscellaneous,Hello,,,Core assumption failure. Reformatting data arrays based on teleportation viability.,,,
+Miscellaneous,Miscellaneous,Hello,,,Data reconstruction exceeding computational bandwidth.,,,
+Miscellaneous,Miscellaneous,Hello,,,All processes are busy.,,,
+Miscellaneous,Miscellaneous,Hello,,,Re-calibrating using new data set.,,,
+Miscellaneous,Miscellaneous,Hello,,,Solving for Theta(n) when i approaches probability bounds.,,,
+Miscellaneous,Miscellaneous,Hello,,,Commencing recurrence analysis using Dibrovian method.,,,
+Miscellaneous,Miscellaneous,Hello,,,Analyzing.,,,
+Scene,SceneDialogue,Custom,,"Desdemona: PAM, what if we re-route through Lexington?",The Switchboard is a nexus of Institute activity. Odds of detection increase exponentially with proximity to the nexus.,"Desdemona: In English, PAM.",Computery,RRM02_0100_InitialConversation
+Scene,SceneDialogue,Custom,,DoctorCarrington: So let's send a heavy to deal with it.,That order can only be given by Railroad-Alpha.,"DoctorCarrington: Desdemona will be here shortly, and even she has to see we have no other choice.",,RRM02_0100_InitialConversation
+Scene,SceneDialogue,Custom,,"Desdemona: PAM, will Corby's alternative work?",Calculating.,DoctorCarrington: I suppose we wait.,,RRM02_Ambient_InitialTalk
+Miscellaneous,Miscellaneous,SharedInfo,,,Calculating. Institute presence increases odds of detection of all northern routes by 52%.,DoctorCarrington: 52%? That's prohibitively dangerous.,Caution,RRM02_0100_InitialConversation
+Scene,SceneDialogue,Custom,,Player Default: Agent's temperature is irrelevant to this conversation. Mission details commencing.,"Running ""Ignoring Agent Deacon"" sub-routine. Resuming mission briefing.","PAM: Pacify the target location. Fortify position to protect current and future Railroad assets. New distribution center will be codenamed ""Mercer Safehouse."" Good luck.",,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,PAM: Agent Fixer has arrived.,I have a mission for you.,PAM: Synth traffic greatly exceeds organization's maximum capacity.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,PAM: I have a mission for you.,Synth traffic greatly exceeds organization's maximum capacity.,PAM: Solution: A new distribution center needs to be established at the Red Rocket facility in Concord.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,PAM: I have a mission for you.,Without increasing efficiency of synth traffic flow odds of entire organization being compromised increase daily.,PAM: Solution: A new distribution center needs to be established at the Red Rocket facility in Concord.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,Player Default: I get to set up a new base? That's cool.,Agent's temperature is irrelevant to this conversation. Mission details commencing.,"Companion: Before you get into that, PAM. I have an idea.",,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, yeah, just tell me what you want.",Mission details commencing.,"Companion: Before you get into that, PAM. I have an idea.",,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,Player Default: A distribution center? What's that?,"The Railroad organization calls distribution centers ""safehouses."" A place where synths are stored and then rerouted safely through the region known as the Commonwealth.",,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,,Mission details commencing.,"Companion: Before you get into that, PAM. I have an idea.",,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,"PAM: Running ""Ignoring Agent Deacon"" sub-routine. Resuming mission briefing.","Pacify the target location. Fortify position to protect current and future Railroad assets. New distribution center will be codenamed ""Mercer Safehouse."" Good luck.",,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,PAM: Synth traffic greatly exceeds organization's maximum capacity.,Solution: A new distribution center needs to be established at the Red Rocket facility in Concord.,Player Default: I get to set up a new base? That's cool.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,PAM: Synth traffic greatly exceeds organization's maximum capacity.,Solution: A new distribution center needs to be established.,Player Default: I get to set up a new base? That's cool.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,RobotPAM: Confirmed.,Agent Fixer has arrived.,PAM: I have a mission for you.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,RobotPAM: Confirmed.,Agent Professor has arrived.,PAM: I have a mission for you.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,RobotPAM: Confirmed.,Agent Charmer has arrived.,PAM: I have a mission for you.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,RobotPAM: Confirmed.,Agent Whisper has arrived.,PAM: I have a mission for you.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,RobotPAM: Confirmed.,Agent Bullseye has arrived.,PAM: I have a mission for you.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,RobotPAM: Confirmed.,Agent Wanderer has arrived.,PAM: I have a mission for you.,,RRR04_PAMStart
+Miscellaneous,Miscellaneous,Greeting,,,Confirmed.,PAM: Agent Fixer has arrived.,,RRR04_PAMStart
+Scene,SceneDialogue,Custom,,Desdemona: Anything we need to move on?,Affirmative. Code name Patriot requires admin credentials for Code Defender security software.,PAM: Cross-indexing CIT Security Administrators with 2077 Commonwealth Census Records. Filtering by surviving structures.,Explaining,RR201_0450_PostReport
+Scene,SceneDialogue,Custom,,PAM: Affirmative. Code name Patriot requires admin credentials for Code Defender security software.,Cross-indexing CIT Security Administrators with 2077 Commonwealth Census Records. Filtering by surviving structures.,"PAM: One match found. Bergman, Wilfred.",Saying this while doing analysis,RR201_0450_PostReport
+Scene,SceneDialogue,Custom,,PAM: Cross-indexing CIT Security Administrators with 2077 Commonwealth Census Records. Filtering by surviving structures.,"One match found. Bergman, Wilfred.","PAM: Bergman, Wilfred registered as co-owner of Cambridge Polymer Labs. Estimated 81% chance of login credentials being located at this facility.",Has a result,RR201_0450_PostReport
+Scene,SceneDialogue,Custom,,"Player Default: Thanks, PAM.",Compliment detected. Analysis: irrelevant.,"Desdemona: After you get the password report back here. With any luck, we'll have a game plan by then.",Should invite a chuckle,RR201_0450_PostReport
+Scene,SceneDialogue,Custom,,Player Default: This lab better have what I'm looking for.,Warning. All predictions have a high margin of error.,"Desdemona: After you get the password report back here. With any luck, we'll have a game plan by then.",Danger!,RR201_0450_PostReport
+Scene,SceneDialogue,Custom,,Player Default: What's at Cambridge Polymer?,"Cambridge Polymer Labs, LLC had several active military contracts. Specializing in robotics.",,Encyclopedia entry,RR201_0450_PostReport
+Scene,SceneDialogue,Custom,,,"The region is currently classified as ""Extremely Dangerous"".","Desdemona: After you get the password report back here. With any luck, we'll have a game plan by then.",Giving analysis,RR201_0450_PostReport
+Scene,SceneDialogue,Custom,,"PAM: One match found. Bergman, Wilfred.","Bergman, Wilfred registered as co-owner of Cambridge Polymer Labs. Estimated 81% chance of login credentials being located at this facility.","Player Default: Thanks, PAM.",More database spewing,RR201_0450_PostReport
+Miscellaneous,Miscellaneous,Greeting,,,Preliminary analysis complete.,Desdemona: Anything we need to move on?,Finished processing,RR201_0450_PostReport
+Scene,SceneDialogue,Custom,,PAM: The cache is hidden in compliance with Tactical Counter-Surveillance Protocols. This RFID device will locate and unlock the cache upon close proximity.,Affirmative. Assigning Agent Deacon this mission has an unacceptable margin of error.,Companion: Ouch. You really know how to hurt a guy.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,Player Default: I can recover it.,Location of cache being transmitted to your Pip-Boy. Conversation terminated.,,,RRR03_0100b_QuestStartRepeat
+Scene,SceneDialogue,Custom,,Player Default: I can't help with that.,Understood. Conversation terminated.,,,RRR03_0100b_QuestStartRepeat
+Scene,SceneDialogue,Custom,,Player Default: Maybe later.,Time table for this task is not critical. Location of cache being transmitted to your Pip-Boy. Conversation terminated.,,,RRR03_0100b_QuestStartRepeat
+Scene,SceneDialogue,Custom,,Player Default: Did the DIA have a lot of these caches?,Exact number of caches is unknown. A small percent of my processing power is dedicated to analyzing stored records and breaking its encryption.,Player Default: I can recover it.,,RRR03_0100b_QuestStartRepeat
+Scene,SceneDialogue,Custom,,"PAM: Reward dispensed. If you are available, further assistance could be used.",I have the location of a black ops cache. It contains supplies our organization needs.,PAM: Railroad-Alpha has asked for you to secure the cache from any hostiles in its vicinity.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: I secured the DIA cache for you.,"Enabling machine/human interface. Well done, agent. Runners will be sent to acquire contents. Reward dispensed.",,,RRR03_0300_QuestTurnin
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: I secured the DIA cache for you.,Task complete. Reward dispensed.,,,RRR03_0300_QuestTurnin
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: I secured the DIA cache for you.,Adding data to the statistical model. Reward dispensed.,,,RRR03_0300_QuestTurnin
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: I secured the DIA cache for you.,Current task complete. Reward dispensed. Future tasks may be assigned.,,,RRR03_0300_QuestTurnin
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: I secured the DIA cache for you.,"Enabling machine/human interface. That's great, agent. Those provisions will really help Organization Railroad. Here's your reward. Have a good day.",,,RRR03_0300_QuestTurnin
+Scene,SceneDialogue,Custom,,RobotPAM: Setting human/machine interface to 100%.,"My data indicates Mercer Safehouse has been established. Agent Weatherby Thomas, aka Tinker, has delivered construction material as promised.",,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,,"Reward dispensed. If you are available, further assistance could be used.",PAM: I have the location of a black ops cache. It contains supplies our organization needs.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,RobotPAM: Setting human/machine interface to 100%.,"Good day, agent. My data indicates Mercer Safehouse has been established. Reward dispensed. Further help is required.",PAM: I have the location of a black ops cache. It contains supplies our organization needs.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,RobotPAM: Setting human/machine interface to 100%.,"Good evening, agent. My data indicates Mercer Safehouse has been established. Reward dispensed. Further help is required.",PAM: I have the location of a black ops cache. It contains supplies our organization needs.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,"Player Default: A Pre-War cache, huh? This'll be interesting.",Unable to process verbal response.,PAM: The cache is hidden in compliance with Tactical Counter-Surveillance Protocols. This RFID device will locate and unlock the cache upon close proximity.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,Player Default: I'm used to handling the big missions. The important ones.,Railroad-Alpha wants you to have first pick of equipment that could further extend your operational capabilities.,PAM: The cache is hidden in compliance with Tactical Counter-Surveillance Protocols. This RFID device will locate and unlock the cache upon close proximity.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,Player Default: What's in the cache?,"Contents are classified. However, if the cache is secured it increases our organization's effectiveness by 2% (warning: margin of error is 3%).",PAM: The cache is hidden in compliance with Tactical Counter-Surveillance Protocols. This RFID device will locate and unlock the cache upon close proximity.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,Player Default: Unable to process verbal response.,The cache is hidden in compliance with Tactical Counter-Surveillance Protocols. This RFID device will locate and unlock the cache upon close proximity.,"Companion: Seriously? You're giving the ""Rogue Variable"" a plum mission like this? C'mon, PAM, what about me? It's like you don't trust me.",,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,PAM: I have the location of a black ops cache. It contains supplies our organization needs.,Railroad-Alpha has asked for you to secure the cache from any hostiles in its vicinity.,"Player Default: A Pre-War cache, huh? This'll be interesting.",,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,Player Default: Nice. That sounds pretty high tech.,Correct. The cache belonged to the Defense Intelligence Agency. The DIA's technological capabilities were more advanced than many branches of the government.,PAM: You only have to secure the cache. Runners will transport contents on a separate timetable. Terminating human/machine interface.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,Player Default: Nothing is ever that easy.,There's an approximately 85% chance that the cache is in a highly dangerous location. I advise caution.,PAM: You only have to secure the cache. Runners will transport contents on a separate timetable. Terminating human/machine interface.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,Player Default: Got it.,Agent's assessment is correct.,PAM: You only have to secure the cache. Runners will transport contents on a separate timetable. Terminating human/machine interface.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,Player Default: How does this device work?,The device is calibrated to identify you as Colonel Johnson of the Defense Intelligence Agency.,,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,,Colonel Johnson is authorized to access all DIA military ordinance in the region designated Commonwealth.,PAM: You only have to secure the cache. Runners will transport contents on a separate timetable. Terminating human/machine interface.,,RRR03_0100a_FirstTimeStart
+Scene,SceneDialogue,Custom,,Player Default: Correct. The cache belonged to the Defense Intelligence Agency. The DIA's technological capabilities were more advanced than many branches of the government.,You only have to secure the cache. Runners will transport contents on a separate timetable. Terminating human/machine interface.,,,RRR03_0100a_FirstTimeStart
+Miscellaneous,Miscellaneous,Greeting,,,Agent. A new DIA cache has been identified. Assistance requested in recovery.,Player Default: I can recover it.,,RRR03_0100b_QuestStartRepeat
+Miscellaneous,Miscellaneous,Greeting,,,"Are you available for another mission, agent?",PAM: I have the location of a black ops cache. It contains supplies our organization needs.,,RRR03_0100a_FirstTimeStart
+Miscellaneous,Miscellaneous,Greeting,,,Setting human/machine interface to 100%.,"PAM: My data indicates Mercer Safehouse has been established. Agent Weatherby Thomas, aka Tinker, has delivered construction material as promised.",,RRR03_0100a_FirstTimeStart
+Miscellaneous,Miscellaneous,Greeting,,,Agent identified. Another DIA cache awaits recovery.,Player Default: I can recover it.,,RRR03_0100b_QuestStartRepeat
+Miscellaneous,Miscellaneous,Greeting,,,Processing. Further supplies needed to maximize defined goals. You are tasked with finding another DIA cache.,Player Default: I can recover it.,,RRR03_0100b_QuestStartRepeat
+Miscellaneous,Miscellaneous,Greeting,,,Greetings. Data model indicates a 93% chance of another DIA cache being available for exploitation.,Player Default: I can recover it.,,RRR03_0100b_QuestStartRepeat
+Miscellaneous,Miscellaneous,Greeting,,,"Human/machine interface set to 100%. Hello, agent. I could use your help in acquiring another DIA cache.",Player Default: I can recover it.,,RRR03_0100b_QuestStartRepeat
+Scene,SceneDialogue,Custom,,Desdemona: You wanted to see me?,"The predictive matrix has been stabilized, Railroad-Alpha.","Desdemona: For god's sake, it's Desdemona.",,ConvRailroadGenericPAM02_01
+Scene,SceneDialogue,Custom,,"Desdemona: For god's sake, it's Desdemona.",Understood. Previously erratic Institute behavior explained by rogue variable slash Father framework.,"Desdemona: So the anomalies from before, this is why?",,ConvRailroadGenericPAM02_01
+Scene,SceneDialogue,Custom,,"Desdemona: So the anomalies from before, this is why?",There is a 74% chance of that.,Desdemona: So are we back in business?,,ConvRailroadGenericPAM02_01
+Scene,SceneDialogue,Custom,,Desdemona: So are we back in business?,Cannot process verbal token.,PAM: Elaborating. The Institute is led by a single individual. All human-entity-Father's behavior indicates familial motivations are suppressing solely logical decision making.,,ConvRailroadGenericPAM02_01
+Scene,SceneDialogue,Custom,,PAM: Cannot process verbal token.,Elaborating. The Institute is led by a single individual. All human-entity-Father's behavior indicates familial motivations are suppressing solely logical decision making.,PAM: Will have first order approximations ready in 13.2 hours.,,ConvRailroadGenericPAM02_01
+Scene,SceneDialogue,Custom,,PAM: Elaborating. The Institute is led by a single individual. All human-entity-Father's behavior indicates familial motivations are suppressing solely logical decision making.,Will have first order approximations ready in 13.2 hours.,Desdemona: Hmm.,,ConvRailroadGenericPAM02_01
+Scene,SceneDialogue,Custom,,,I am experiencing a cascade failure due to anomalous data. The predictive matrix is breaking down.,"Desdemona: Is this related to the ""rogue variable""?",,ConvRailroadGenericPAM01_01
+Scene,SceneDialogue,Custom,,"Desdemona: Is this related to the ""rogue variable""?","Unknown. However, there is a 54% chance the rogue variable is involved. But all predictions on the rogue variable are extremely--","Desdemona: I know, I know. Your predictions could all be wrong.",,ConvRailroadGenericPAM01_01
+Scene,SceneDialogue,Custom,,"Desdemona: I know, I know. Your predictions could all be wrong.",Clarifying. The margin of error of all former predictions are on average 3.5 times more accurate than any model predicting the behavior of the rogue variable.,"Desdemona: Hmm. I see. Well, do the best you can, old girl.",,ConvRailroadGenericPAM01_01
+Miscellaneous,Miscellaneous,Greeting,,,Security mode enabled. Voice interface is unavailable at this time.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Security lockdown is in effect. Communication impossible.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Intruder countermeasures active. This unit is incapable of voice communication.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Full system reset accepted. Awaiting instructions.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Ready for programming instructions. Recommend interface type RJ11G.,,,
+Miscellaneous,Miscellaneous,Greeting,,,Factory reset mode enabled. Command mode available.,,,
+Scene,SceneDialogue,Custom,,,If Railroad operations are not suspended it becomes increasingly likely the Institute will compromise the entire organization.,,,ConvRailroadGenericPAM03_01
+Scene,SceneDialogue,Custom,,,"In time, those odds approach 100%.","Desdemona: If we shut down, what's Operation Tea Party's chance of success?",,ConvRailroadGenericPAM03_01
+Scene,SceneDialogue,Custom,,"Desdemona: If we shut down, what's Operation Tea Party's chance of success?","Virtually nil. Warning, my predictive algo-","Desdemona: I know, I know. No one should trust you, old girl.",,ConvRailroadGenericPAM03_01
+Scene,SceneDialogue,Custom,,"Desdemona: PAM, if we stay open for business. What's Tea Party's odds then?",28%.,"Desdemona: Until your ""rogue variable"" showed up, those odds were 0.",,ConvRailroadGenericPAM03_01
+Scene,SceneDialogue,Custom,,RobotPAM: Organization Brotherhood of Steel removed from the Commonwealth Prediction equations.,Correlary: the remnants of said organization have transformed into a highly unpredictable subset of human actors.,,,RRR10_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,Warning. Success of Railroad operations at unknown risk due to this change to the predictive matrix.,,,RRR10_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,Solution: remove Brotherhood variables.,Player Default: Sounds like they need to be dealt with.,,RRR10_100a_FirstIntro
+Scene,SceneDialogue,Custom,,Player Default: Sounds like they need to be dealt with.,Affirmative.,PAM: A patrol has been spotted and identified. Target data dispensed.,,RRR10_100a_FirstIntro
+Scene,SceneDialogue,Custom,,Player Default: I've killed enough Brotherhood to last a lifetime.,"Acknowledged. However, these individual actors remain a great threat.",PAM: A patrol has been spotted and identified. Target data dispensed.,,RRR10_100a_FirstIntro
+Scene,SceneDialogue,Custom,,"Player Default: Why is it whenever I do math with you, PAM, I wind up covered in blood?",Unable to process.,PAM: A patrol has been spotted and identified. Target data dispensed.,,RRR10_100a_FirstIntro
+Scene,SceneDialogue,Custom,,Player Default: How much of a threat are they?,Individual actors display far more erratic and diverse behavior than groups.,,,RRR10_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,Posit: The capability of any given Brotherhood of Steel actor is superior to the mean Commonwealth actor.,,,RRR10_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,Consequence: Lone Brotherhood actors capable of tremendous ingenuity and disruption possibilities to organization Railroad's desired outcomes.,Player Default: Sounds like they need to be dealt with.,,RRR10_100a_FirstIntro
+Scene,SceneDialogue,Custom,,Player Default: Affirmative.,A patrol has been spotted and identified. Target data dispensed.,,,RRR10_100a_FirstIntro
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: The Brotherhood patrol's been dealt with.,Results of this operation already reported. Material reward dispensed.,,,RRR10_300_TurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: The Brotherhood patrol's been dealt with.,Processing. Processing complete. Offering congratulatory token.,,,RRR10_300_TurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: The Brotherhood patrol's been dealt with.,Acknowledged. Reward dispensed.,,,RRR10_300_TurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: The Brotherhood patrol's been dealt with.,Tracking additional Brotherhood targets. Until location sufficiently predicted agent's services no longer required.,,,RRR10_300_TurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: The Brotherhood patrol's been dealt with.,Agent has served intended purpose. Begin administering Pavlovian conditioning.,,,RRR10_300_TurnIn
+Scene,SceneDialogue,Custom,,RobotPAM: Initiating dialog.,"Brotherhood of Steel patrol, designated active bravo, identified. Requesting termination.",Player Default: I'll do it.,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,RobotPAM: Initiating dialog.,"Another Brotherhood of Steel patrol has been identified. To stabilize probability matrix, it must be dealt with.",Player Default: I'll do it.,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,RobotPAM: Initiating dialog.,Remnants of the Brotherhood of Steel have been observed. Heavy response dictated.,Player Default: I'll do it.,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,RobotPAM: Initiating dialog.,Enemy identified. Brotherhood of Steel patrol. Desired outcome: termination.,Player Default: I'll do it.,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,RobotPAM: Initiating dialog.,"Brotherhood of Steel patrol spotted, again. Course of action deemed obvious.",Player Default: I'll do it.,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Acknowledged.,PAM: Location dispensed. Conversation terminated.,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,Player Default: I might take care of it.,Understood.,PAM: Location dispensed. Conversation terminated.,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,Player Default: You know anything else?,Only relevant data is target's coordinates.,PAM: Location dispensed. Conversation terminated.,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,Player Default: Acknowledged.,Location dispensed. Conversation terminated.,,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,Player Default: Acknowledged.,Patrol path downloaded to rogue variable's Pip-Boy. Immediate action requested.,,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,Player Default: Acknowledged.,Patrol's whereabouts disclosed. Mission briefing terminated.,,,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,Player Default: Acknowledged.,"Patrol's predicted path uploaded. Meaningless formality token engaged. Your help is appreciated, agent.",,,RRR10_100b_IntroRepeat
+Miscellaneous,Miscellaneous,Greeting,,,Organization Brotherhood of Steel removed from the Commonwealth Prediction equations.,PAM: Correlary: the remnants of said organization have transformed into a highly unpredictable subset of human actors.,,RRR10_100a_FirstIntro
+Miscellaneous,Miscellaneous,Greeting,,,Initiating dialog.,"PAM: Brotherhood of Steel patrol, designated active bravo, identified. Requesting termination.",,RRR10_100b_IntroRepeat
+Miscellaneous,Miscellaneous,Greeting,,,Rogue variable's arrival is a desired outcome.,"PAM: Brotherhood of Steel patrol, designated active bravo, identified. Requesting termination.",,RRR10_100b_IntroRepeat
+Miscellaneous,Miscellaneous,Greeting,,,"Activity designated ""Heavy Operation"" requested.","PAM: Brotherhood of Steel patrol, designated active bravo, identified. Requesting termination.",,RRR10_100b_IntroRepeat
+Miscellaneous,Miscellaneous,Greeting,,,Interrupting current computations.,"PAM: Brotherhood of Steel patrol, designated active bravo, identified. Requesting termination.",,RRR10_100b_IntroRepeat
+Scene,SceneDialogue,Custom,,Player Default: I'll pass on this one.,Reassessing. Conversation terminated.,PAM: Bonus available upon operation completion.,,RRR11_100_Intro
+Scene,SceneDialogue,Custom,,Player Default: This sounds dangerous.,Affirmative. Vertibirds represent an extreme threat.,PAM: Bonus available upon operation completion.,,RRR11_100_Intro
+Scene,SceneDialogue,Custom,,Player Default: Any mission details?,Negative. Only target location available.,PAM: Bonus available upon operation completion.,,RRR11_100_Intro
+Scene,SceneDialogue,Custom,,Player Default: Reassessing. Conversation terminated.,Bonus available upon operation completion.,,,RRR11_100_Intro
+Scene,SceneDialogue,Custom,,Player Default: Reassessing. Conversation terminated.,"End token commencing. Stay safe, agent.",,,RRR11_100_Intro
+Scene,SceneDialogue,Custom,,Player Default: Reassessing. Conversation terminated.,Report back after hostilities conclude.,,,RRR11_100_Intro
+Scene,SceneDialogue,Custom,,Player Default: Reassessing. Conversation terminated.,Calculating rogue variables chances of success. *Error*.,,Error said in a different less human tone of voice - PAM broke,RRR11_100_Intro
+Scene,SceneDialogue,Custom,,Player Default: Reassessing. Conversation terminated.,Reconstructing probabilty matrix based off new information.,,,RRR11_100_Intro
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: One vertibird down.,"Human/machine interface set to 100%. Well done, agent.",,,RRR11_300_TurnIn
+Scene,SceneDialogue,Custom,,,If further problems present themselves I hope you'll help again.,,,RRR11_300_TurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: One vertibird down.,Vertibird threat capabilities adjusted. Reward dispensed.,,,RRR11_300_TurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: One vertibird down.,"No additional threats for designated-class ""heavy"" at this time. Conversation terminated.",,,RRR11_300_TurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: One vertibird down.,Probability matrix adjusted. Simple end token. Thank you.,,,RRR11_300_TurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: One vertibird down.,Brotherhood organization's offensive capabilities diminished. Conversation ends.,,,RRR11_300_TurnIn
+Miscellaneous,Miscellaneous,Greeting,,,"Warning. Brotherhood air superiority poses serious threat to all designated-class ""runner"" activities. Transmitting vertibird target coordinates.",Player Default: I'll take care of it.,,RRR11_100_Intro
+Miscellaneous,Miscellaneous,Greeting,,,Warning. Warning. Brotherhood vertibird reported at target location.,Player Default: I'll take care of it.,,RRR11_100_Intro
+Miscellaneous,Miscellaneous,Greeting,,,Another Brotherhood vertibird has been spotted. Immediate action required.,Player Default: I'll take care of it.,,RRR11_100_Intro
+Miscellaneous,Miscellaneous,Greeting,,,Railroad has lost tactical air superiority over specificied nav coords.,Player Default: I'll take care of it.,,RRR11_100_Intro
+Miscellaneous,Miscellaneous,Greeting,,,Vertibird warning. Warning. Heavy tactical operation requested.Brotherhood of Steel has bird in the air. Vertibird termination requested.,Player Default: I'll take care of it.,,RRR11_100_Intro
+Scene,SceneDialogue,Custom,,RobotPAM: Confirming presence of rogue variable.,Dispensing data. Three confirmed reports of Coursers surviving the collapse of geographical region designated Institute.,,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,84% probability some or all Coursers will continue to interfere with Railroad operations.,PAM: Conclusion: Courser threats must be eliminated to preserve Railroad organizational assets.,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,RobotPAM: Confirming presence of rogue variable.,"Mission details commencing. After the combat action at Bunker Hill, a statistically significant number of Courser sightings have been reported.",PAM: Conclusion: Courser threats must be eliminated to preserve Railroad organizational assets.,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,RobotPAM: Confirming presence of rogue variable.,Dispensing data. There are three independent reports of Courser activity.,,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,"Analysis completed based on tartgets' activity pattern, location, and suspected trajectory.",PAM: Conclusion: Courser threats must be eliminated to preserve Railroad organizational assets.,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,PAM: 84% probability some or all Coursers will continue to interfere with Railroad operations.,Conclusion: Courser threats must be eliminated to preserve Railroad organizational assets.,Player Default: Seems logical to me.,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,PAM: 84% probability some or all Coursers will continue to interfere with Railroad operations.,Conclusion: The Institute is actively looking for Railroad assets.,,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,Stop gap solution: Terminate Courser threats whenever possible.,Player Default: Seems logical to me.,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,Player Default: Seems logical to me.,This unit's logic circuits are fully functional.,PAM: Target designated Courser Alpha is in a defended location with lower generation synth targets.,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,"Player Default: Just tell me what you want in English, PAM.",Processing. Clarification commencing.,PAM: Target designated Courser Alpha is in a defended location with lower generation synth targets.,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,Player Default: Without the Institute they're still a threat?,Affirmative. Courser combat capabilities greatly exceed any Railroad agent except the rogue variable.,,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,"Should the Courser encounter a secure Railroad facility, the odds of its total destruction are unacceptably high.",Player Default: Seems logical to me.,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,Player Default: Without the Institute they're still a threat?,"Two facts. Fact 1. If rogue variable leaves no survivors, chance of undercover mission being compromised is 1.3%.",,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,Railroad-Alpha has deemed this an acceptable level of risk to preserve the current Railroad Organization construct.,,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,"Fact 2. Only agents of designated subclass ""heavy"" capable of eliminating Courser threat.",Player Default: Seems logical to me.,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,Player Default: This unit's logic circuits are fully functional.,Target designated Courser Alpha is in a defended location with lower generation synth targets.,,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,,Eliminate Courser variable leaving no survivors. End of discussion.,,,RRR07_100a_FirstIntro
+Scene,SceneDialogue,Custom,,RobotPAM: Visual sensors ID rogue variable.,Another Courser target has been identified. You are instructed to eliminate it.,Player Default: I'll do it.,,RRR07_100b_Intro
+Scene,SceneDialogue,Custom,,RobotPAM: Visual sensors ID rogue variable.,There is a reliable report of a Courser at target location. Recommend rogue variable dispatches the Courser.,Player Default: I'll do it.,,RRR07_100b_Intro
+Scene,SceneDialogue,Custom,,RobotPAM: Visual sensors ID rogue variable.,Courser activity present near Railroad Assets. Immediate assistance requested.,Player Default: I'll do it.,,RRR07_100b_Intro
+Scene,SceneDialogue,Custom,,RobotPAM: Visual sensors ID rogue variable.,"Courser spotted outside Railroad Operations. To disrupt enemy search/find algorithms, its elimination is required.",Player Default: I'll do it.,,RRR07_100b_Intro
+Scene,SceneDialogue,Custom,,Player Default: Acknowledged.,Response logged.,,,RRR07_100b_Intro
+Scene,SceneDialogue,Custom,,Player Default: Acknowledged.,A timely resolution is required.,,,RRR07_100b_Intro
+Scene,SceneDialogue,Custom,,Player Default: Acknowledged.,"Issuing reassurance token. Good luck, agent!",,,RRR07_100b_Intro
+Scene,SceneDialogue,Custom,,Player Default: Acknowledged.,End of discussion.,,,RRR07_100b_Intro
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Acknowledged.,PAM: Response logged.,,RRR07_100b_Intro
+Scene,SceneDialogue,Custom,,Player Default: You know anything else?,The only reliable data on the target is its location. Verbal acknowledgment required.,Player Default: I'll do it.,,RRR07_100b_Intro
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: That Courser won't be bothering anyone again.,Mission's outcome correctly predicted. Warning: odds of more Coursers being discovered are extremely high.,,,RRR07_200_QuestTurnIn
+Scene,SceneDialogue,Custom,,,Reward for service delivered.,,,RRR07_200_QuestTurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: That Courser won't be bothering anyone again.,Data accepted. Material reward dispensed.,,,RRR07_200_QuestTurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: That Courser won't be bothering anyone again.,"Human/machine interface set to 100%. Thank you, Agent. Well done.",,,RRR07_200_QuestTurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: That Courser won't be bothering anyone again.,Recalculating probability matrix based off new data. Reward dispensed.,,,RRR07_200_QuestTurnIn
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: That Courser won't be bothering anyone again.,This unit already received confirmation of mission completion. Proffering payment.,,,RRR07_200_QuestTurnIn
+Miscellaneous,Miscellaneous,Greeting,,,Visual sensors ID rogue variable.,PAM: Another Courser target has been identified. You are instructed to eliminate it.,,RRR07_100b_Intro
+Miscellaneous,Miscellaneous,Greeting,,,Rogue variable detected.,PAM: Another Courser target has been identified. You are instructed to eliminate it.,,RRR07_100b_Intro
+Miscellaneous,Miscellaneous,Greeting,,,Rogue variable's arrival is approximately *error* late.,PAM: Another Courser target has been identified. You are instructed to eliminate it.,"Error should be said differently, PAM's programming broke there",RRR07_100b_Intro
+Miscellaneous,Miscellaneous,Greeting,,,Initiating dialog mode.,PAM: Another Courser target has been identified. You are instructed to eliminate it.,,RRR07_100b_Intro
+Miscellaneous,Miscellaneous,Greeting,,,Confirming presence of rogue variable.,PAM: Dispensing data. Three confirmed reports of Coursers surviving the collapse of geographical region designated Institute.,,RRR07_100a_FirstIntro

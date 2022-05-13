@@ -1,0 +1,293 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Player Default: All right, brainbox. Ivey wants me to find out what makes you tick, so let's get started.",There's no need for that. I'm certain we can discuss this rather unfortunate situation before it gets completely out of hand.,,slight concern / Concerned,DLC01Hagen_HolotapeScene
+Scene,SceneDialogue,Custom,,,"Now, what exactly did this ""Ivey"" tell you to do?",Player Default: Simple. She wants me to crack open that dome you have for a head and find out how your brain is connected to your circuits.,Question,DLC01Hagen_HolotapeScene
+Scene,SceneDialogue,Custom,,Player Default: Simple. She wants me to crack open that dome you have for a head and find out how your brain is connected to your circuits.,"Perhaps I can be of assistance in that regard... after all, there isn't much else I can do now that you've removed my head from its chassis.",,annoyed / Irritated,DLC01Hagen_HolotapeScene
+Scene,SceneDialogue,Custom,,,How about we forge some sort of an accord... just between the two of us?,"Player Default: What the hell is an ""accord?"" You talking about wires or something?",Question,DLC01Hagen_HolotapeScene
+Scene,SceneDialogue,Custom,,"Player Default: What the hell is an ""accord?"" You talking about wires or something?",Right... I need to phrase this so even a dullard like you would understand...,,"To self, aloud (under breath but audible) / Thinking",DLC01Hagen_HolotapeScene
+Scene,SceneDialogue,Custom,,,"Let me put it this way. You need information that's going to make your boss happy. I want to keep my brain in one piece. Maybe we can ""cut a deal.""",Player Default: Fine. I'm listening.,Confident,DLC01Hagen_HolotapeScene
+Scene,SceneDialogue,Custom,,Player Default: Fine. I'm listening.,"I'll tell you everything I know about my own construction... all the bits that ""Ivey"" wants to hear. And I promise you, she won't be disappointed.",,Confident,DLC01Hagen_HolotapeScene
+Scene,SceneDialogue,Custom,,,"In return, you keep those tools away from me and put me back onto my body.",,Confident,DLC01Hagen_HolotapeScene
+Scene,SceneDialogue,Custom,,,"You get what you want, and I don't get dissected like some kind of a laboratory experiment.",,Irritated,DLC01Hagen_HolotapeScene
+Scene,SceneDialogue,Custom,,,Do we have a deal?,"Player Default: Well, that would save me a lot of time... and Ivey doesn't like waiting...",Question,DLC01Hagen_HolotapeScene
+Scene,SceneDialogue,Custom,,Player Default: How's that for a deal?,"Sigh. I suppose it will have to suffice... I mean... yeah, it's a deal.",,correcting yourself midstream since the other person is kind of slow / Irritated,DLC01Hagen_HolotapeScene
+Combat,Combat,AvoidThreat,,,Minions! Scatter!,,,
+Combat,Combat,AvoidThreat,,,"Beware, my minions!",,,
+Combat,Combat,AvoidThreat,,,"Minions! Evasive action, now!",,,
+Combat,Combat,CoverMe,,,Minions! Protecting me is your highest priority!,,,
+Combat,Combat,CoverMe,,,"To me, my metal minions!",,,
+Combat,Combat,OrderFlank,,,Minions! Flank them!,,,
+Combat,Combat,OrderFlank,,,"Minions, find a way to get behind them!",,,
+Combat,Combat,OrderFlank,,,"Frontal assault is not the best option here, my minions.",,,
+Combat,Combat,OrderMoveUp,,,Minions! Forward!,,,
+Combat,Combat,OrderMoveUp,,,"Charge, my minions! For the Mechanist!",,,
+Combat,Combat,OrderMoveUp,,,"Forward, my metal minions!",,,
+Combat,Combat,OrderTakeCover,,,Minions! Take cover!,,,
+Combat,Combat,OrderTakeCover,,,"Find cover, my minions!",,,
+Combat,Combat,OrderTakeCover,,,We will all be destroyed if we don't find cover!,,,
+Combat,Combat,SuppressiveFire,,,Minions! Suppress that fire!,,,
+Combat,Combat,SuppressiveFire,,,"Minions, keep his head down while I deal with him.",,,
+Combat,Combat,SuppressiveFire,,,"Minions, keep her head down while I deal with her.",,,
+Combat,Combat,SuppressiveFire,,,Concentrate fire over there!,,,
+Combat,Combat,AcceptYield,,,I'm really glad we could avoid any unpleasantness.,,,
+Combat,Combat,Assault,,,If that's the way you want it.,,,
+Combat,Combat,Attack,,,Let's get... intimate.,,,
+Combat,Combat,Attack,,,I'd really prefer you don't bleed on me.,,,
+Combat,Combat,Attack,,,I can see the fear in your eyes. It's very unsettling.,,,
+Combat,Combat,Attack,,,"You know, I'm just as capable at killing you up close.",,,
+Combat,Combat,Death,,,Tell the Mechanist I did my best...,,Needs to be edited in audio to trail off/malfunction,
+Combat,Combat,Death,,,Oh. Oh my.,,,
+Combat,Combat,Death,,,Well now. That's unfortunate.,,,
+Combat,Combat,Death,,,And now I die...,,Needs to be edited in audio to trail off/malfunction,
+Combat,Combat,PickpocketCombat,,,Picking my pocket? Silly dear - I don't have pockets.,,,
+Combat,Combat,Steal,,,Nobody likes a thief.,,,
+Combat,Combat,Steal,,,"My my. Sticky fingers, is it?",,,
+Combat,Combat,Steal,,,You always take things that aren't yours?,,,
+Combat,Combat,Taunt,,,"Minions, destroy him!",,,
+Combat,Combat,Taunt,,,"Minions, destroy her!",,,
+Combat,Combat,Taunt,,,"Trust me, this is for the best.",,,
+Combat,Combat,Taunt,,,The Mechanist has ordered me to clean up the Commonwealth.,,,
+Combat,Combat,Taunt,,,Don't let any of them get away. It will just prolong the agony.,,,
+Combat,Combat,Taunt,,,I'm just carrying out my orders. I'm sure you understand.,,,
+Combat,Combat,Taunt,,,The Mechanist has sent us to protect the Commonwealth.,,,
+Combat,Combat,Taunt,,,"The best way to protect you is to destroy you. I promise, it all makes perfect sense.",,,
+Combat,Combat,Taunt,,,"Sorry, but the Mechanist's orders require your destruction.",,,
+Combat,Combat,Taunt,,,I normally abhor violence. But you've forced my hand.,,,
+Combat,Combat,Taunt,,,"You could run. I am trying to kill you, you know...",,,
+Combat,Combat,Taunt,,,Please believe me when I say I'm not enjoying this.,,,
+Combat,Combat,Taunt,,,"I calculate your chance of success to be... Well, I don't want to be morbid.",,,
+Combat,Combat,Taunt,,,"I'm not programmed to fail, just so you know...",,,
+Combat,Combat,Taunt,,,"They could have programmed me to love, to forgive. But noooooo.",,,
+Combat,Combat,Taunt,,,"I'm sorry, but my programming requires that I try to kill you. Nothing personal.",,,
+Combat,Combat,Taunt,,,I hope we can still be friends when this is all over.,,,
+Combat,Combat,Taunt,,,I'll miss you.,,,
+Combat,Combat,Taunt,,,Don't let the alluring voice fool you. I'm a lethal killing machine.,,,
+Combat,Combat,Taunt,,,"I'm a much better tactician than you. It's all in the brain, you see.",,,
+Combat,Combat,Taunt,,,You may want to run now.,,,
+Combat,Combat,Taunt,,,You truly inspire me. To use deadly force.,,,
+Combat,Combat,CrippledLimb,,,Going right for the brain? How unsporting.,,,
+Combat,Combat,CrippledLimb,,,"You can slow me down, but you'll never stop me.",,,
+Combat,Combat,OrderFallback,,,You know what? I think I'll just move over here.,,,
+Combat,Combat,OrderFallback,,,I'm starting to think I may be outmatched.,,,
+Combat,Combat,OrderFallback,,,I'm not running away - I'm withdrawing. Big difference.,,,
+Combat,Combat,OrderFallback,,,Minions! Tactical withdrawal!,,,
+Combat,Combat,OrderFallback,,,"I've analyzed the situation, and a withdrawal is required.",,,
+Combat,Combat,OrderFallback,,,"Follow me, my minions! Victory requires a tactical readjustment.",,,
+Combat,Combat,AllyKilled,,,Nobody likes a robot killer.,,"Gives a ""tsk tsk"" before speaking the line.",
+Combat,Combat,AllyKilled,,,How sad. I'll be sure to mourn them after you're dead.,,,
+Detection,Detection,AlertIdle,,,Report any sensor contact immediately!,,,
+Detection,Detection,AlertIdle,,,"If I don't find you, my minions will.",,,
+Detection,Detection,AlertIdle,,,We will find you. Our orders do not allow us to ignore any chance to help.,,,
+Detection,Detection,AlertIdle,,,Marco! Come on... this only works if you play too.,,"Pause after the ""Marco!"" Like you're waiting to see if the other person will respond.",
+Detection,Detection,AlertIdle,,,There's no point in trying to hide from me. I'm programmed to be quite relentless.,,,
+Detection,Detection,AlertIdle,,,"Ooh, I love hide and seek. I'll be ""it""... and you'll be dead.",,,
+Detection,Detection,AlertIdle,,,"Wow, you're good. Have you had training as a ninja?",,,
+Detection,Detection,AlertIdle,,,"I'll find you eventually, you know.",,,
+Detection,Detection,AlertIdle,,,Why hide? Are you some kind of chicken? Bawk bawk...,,,
+Detection,Detection,AlertIdle,,,"You know, I am a robot. With sensors. It's not like you can stay hidden forever.",,"emphasis on the ""am""",
+Detection,Detection,AlertToCombat,,,Boo!,,,
+Detection,Detection,AlertToCombat,,,Peek-a-boo!,,,
+Detection,Detection,AlertToCombat,,,Gotcha!,,,
+Detection,Detection,AlertToCombat,,,"Not as sneaky as you thought, huh?",,,
+Detection,Detection,AlertToCombat,,,"Jig's up, I'm afraid.",,,
+Detection,Detection,AlertToCombat,,,Well hey there!,,,
+Detection,Detection,AlertToCombat,,,Look who's terrible at sneaking.,,,
+Detection,Detection,AlertToCombat,,,This is going to hurt you a lot more than me.,,,
+Detection,Detection,AlertToCombat,,,I really hope your will's up to date.,,,
+Detection,Detection,AlertToCombat,,,Well. Time to die.,,,
+Detection,Detection,AlertToCombat,,,"Hey, what comes next? I apologize in advance.",,,
+Detection,Detection,AlertToCombat,,,Try not to bleed on the chrome. It's sooo difficult to remove.,,,
+Detection,Detection,AlertToCombat,,,I think this is the part where you run screaming.,,,
+Detection,Detection,AlertToCombat,,,You may want to run now.,,,
+Detection,Detection,AlertToCombat,,,"I believe they call this ""suicide by robot.""",,,
+Detection,Detection,AlertToNormal,,,Weird. Must be radroaches.,,,
+Detection,Detection,AlertToNormal,,,Stupid sensors. So unreliable...,,Sighs before speaking the line.,
+Detection,Detection,AlertToNormal,,,"I'm hearing things, then I'm not. Can a robot go crazy? Because I swear, I'm going crazy.",,,
+Detection,Detection,AlertToNormal,,,Nope. Nothing.,,,
+Detection,Detection,AlertToNormal,,,Sensors on the fritz again. Lovely.,,,
+Detection,Detection,AlertToNormal,,,Aannndd.... nothing.,,,
+Detection,Detection,CombatToLost,,,Minions! Spread out and find him!,,,
+Detection,Detection,CombatToLost,,,Minions! Spread out and find her!,,,
+Detection,Detection,CombatToLost,,,"Minions, initiate search pattern.",,,
+Detection,Detection,CombatToLost,,,Very well. We will find you sooner or later.,,,
+Detection,Detection,CombatToLost,,,"Attention, my minions! Initiate search protocol!",,,
+Detection,Detection,CombatToLost,,,"My orders from the Mechanist require that I help everyone, no exceptions.",,,
+Detection,Detection,CombatToLost,,,Do you want to fight or not? Please make up your mind.,,,
+Detection,Detection,CombatToLost,,,You vanished! Neat trick.,,,
+Detection,Detection,CombatToLost,,,"Okay, how did you do that? Stealth Boy? Or are you just naturally sneaky?",,,
+Detection,Detection,CombatToLost,,,Whoa. Where did you go?,,,
+Detection,Detection,CombatToLost,,,Leaving so soon?,,,
+Detection,Detection,CombatToNormal,,,Looks like that's enough excitement for one day.,,,
+Detection,Detection,CombatToNormal,,,Is that it? I was just starting to have fun.,,,
+Detection,Detection,CombatToNormal,,,And just like that... it's over.,,,
+Detection,Detection,LostIdle,,,Nothing yet? Any of you?,,,
+Detection,Detection,LostIdle,,,I need to have the Mechanist improve your sensors.,,,
+Detection,Detection,LostIdle,,,Find him!,,,
+Detection,Detection,LostIdle,,,Find her!,,,
+Detection,Detection,LostIdle,,,The Mechanist will send you all to the scrap heap if you fail again.,,,
+Detection,Detection,LostIdle,,,"Come on, you useless metal junkpiles. Don't let a mere human evade you.",,,
+Detection,Detection,LostIdle,,,Don't hide. We're just trying to help.,,,
+Detection,Detection,LostIdle,,,I'm gonna fiiiindd yoooouu...,,Playful,
+Detection,Detection,LostIdle,,,"Oooh, this is fun.",,,
+Detection,Detection,LostIdle,,,"Come out, come out, wherever you arrrreee...",,sing song,
+Detection,Detection,LostIdle,,,Now where could you be...,,,
+Detection,Detection,LostIdle,,,Are you still there? Oh wait... I know you are.,,,
+Detection,Detection,LostIdle,,,"Now if I were a stupid, suicidal meat bag, where would I hide...?",,,
+Detection,Detection,LostToCombat,,,"Get up and run, you fool!",,,
+Detection,Detection,LostToCombat,,,"Sneak time's over, don't you think?",,,
+Detection,Detection,LostToCombat,,,Well look who I found.,,,
+Detection,Detection,LostToCombat,,,"You tried hiding, I found you, and now you'll die. Circle complete.",,,
+Detection,Detection,LostToCombat,,,Wow. You're pretty terrible at this whole sneaking thing.,,,
+Detection,Detection,LostToCombat,,,Found you!,,,
+Detection,Detection,LostToCombat,,,"Oh, hello.",,,
+Detection,Detection,LostToCombat,,,You had your chance to run. You blew it.,,,
+Detection,Detection,LostToCombat,,,You didn't seriously think you could slip away?,,,
+Detection,Detection,LostToCombat,,,"Let's try this again, shall we?",,,
+Detection,Detection,LostToCombat,,,"Okay, that's it. Play time's over.",,,
+Detection,Detection,LostToCombat,,,Now you did it. You got me... flummoxed.,,,
+Detection,Detection,LostToNormal,,,Oh well. Maybe next time you'll introduce yourself.,,,
+Detection,Detection,LostToNormal,,,Fine. Be like that.,,,
+Detection,Detection,LostToNormal,,,So that's it? Taking your ball and going home?,,,
+Detection,Detection,LostToNormal,,,Ah well. Maybe next time.,,,
+Detection,Detection,LostToNormal,,,Well. Someone gets to live a little while longer.,,,
+Detection,Detection,LostToNormal,,,Boring fight anyway...,,,
+Detection,Detection,NormalToAlert,,,Hello?,,,
+Detection,Detection,NormalToCombat,,,Threat detected! Kill! Kill! Kill!,,,
+Detection,Detection,NormalToLost,,,Huh. Strange. Must have been a sensor blip.,,,
+Miscellaneous,Miscellaneous,Idle,,,The Mechanist's orders leave no room for mercy.,,,
+Miscellaneous,Miscellaneous,Idle,,,So much to do.,,,
+Miscellaneous,Miscellaneous,Idle,,,The Mechanist will be pleased with my progress.,,,
+Miscellaneous,Miscellaneous,Idle,,,Who else needs my help?,,,
+Miscellaneous,Miscellaneous,Idle,,,I hope I find someone else to assist soon.,,,
+Miscellaneous,Miscellaneous,Idle,,,The Mechanist has sent me to help.,,,
+Scene,SceneDialogue,Custom,,"Player Default: I'm sorry you feel that way, it's the best I could do.","Yes, well it's certainly better than being stuck to a machine surrounded by Rust Devils poking and prodding me for their amusement.","DLC01MQ04JezebelBuilt: Look... it's obvious we don't care for each other's company, which suits me just fine.",Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,"Player Default: I risked my neck saving you, so a little more gratitude wouldn't hurt.","If the phrase ""thank you"" will allow us to get to conclude our bargain more rapidly, then I'm more than happy to utter it aloud on your behalf.","DLC01MQ04JezebelBuilt: Look... it's obvious we don't care for each other's company, which suits me just fine.",Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,"Player Default: Well, I was going to connect your head to Liberty Prime's body, but I decided to do a little arts and crafts instead. Disappointed?","If you're attempting to use sarcasm as an intimidation tactic, I'm afraid you're wasting your time.","DLC01MQ04JezebelBuilt: Look... it's obvious we don't care for each other's company, which suits me just fine.",Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: What kind of a body were you expecting?,"Considering I look like a junkbot that's been hastily welded together by an amateur, I'd say almost anything else would have been better.",,Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,"However, I suppose I shouldn't be surprised given your limited skill set derived from your equally diminished intelligence.","Player Default: I'm sorry you feel that way, it's the best I could do.",Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,"Player Default: Yes, well it's certainly better than being stuck to a machine surrounded by Rust Devils poking and prodding me for their amusement.","Look... it's obvious we don't care for each other's company, which suits me just fine.",,Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,"So, why don't you ask me everything you wanted to know and then I'll be on my way.",Player Default: Tell me everything you know about the Mechanist.,Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: Tell me everything you know about the Mechanist.,Now there's a fascinating subject... The Mechanist.,"DLC01MQ04JezebelBuilt: Amazingly adept at programming, a veritable genius with electronics. I'm not surprised you're interested.",Impressed,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: I can't think of anything to ask right now.,"Take your time. Given your limited lifespan, I certainly have far more than you do.","DLC01MQ04JezebelBuilt: Amazingly adept at programming, a veritable genius with electronics. I'm not surprised you're interested.",Sarcastic,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: Why did General Atomics make you so... uncooperative?,I haven't the faintest idea of what you're talking about.,,Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,I am a top-of-the-line model with an efficiency rating that makes a Mr. Handy look like a glorified toaster oven.,,Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,"When given a set of instructions, I will complete them without question and without error.",,Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,"Now, were there any other ridiculous questions you wanted to ask?",Player Default: Tell me everything you know about the Mechanist.,Irritated,DLC01MQ04_Stage200_JezebelScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: You aren't stuck here. You could leave if you wanted.,You've created an interesting stalemate between us. Something I didn't expect you to be capable of.,,Thinking,DLC01MQ04_Stage200_JezebelScene
+Miscellaneous,Miscellaneous,SharedInfo,,,I'm impressed. It's been a long time since I've been outsmarted.,,Impressed,DLC01MQ04_Stage200_JezebelScene
+Miscellaneous,Miscellaneous,SharedInfo,,,Why don't you go ahead and ask me your questions.,Player Default: Tell me everything you know about the Mechanist.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: Now there's a fascinating subject... The Mechanist.,"Amazingly adept at programming, a veritable genius with electronics. I'm not surprised you're interested.",,Impressed,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,I've been dutifully carrying out the Mechanist's instructions to help the people of the Commonwealth for quite a long time.,Player Default: I knew there was some good left inside that brain.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: I knew there was some good left inside that brain.,"What you call ""good"" I call my ""primary directive.""",DLC01MQ04JezebelBuilt: The Mechanist instructed me to seek out and help the people of the Commonwealth.,Puzzled,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,"Player Default: You're lying. After all the trouble you've given me, why would you help a human?","Well, it's my primary directive... which I obey without question.",DLC01MQ04JezebelBuilt: The Mechanist instructed me to seek out and help the people of the Commonwealth.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: I find that very hard to believe.,I can't imagine why. It's actually quite simple.,DLC01MQ04JezebelBuilt: The Mechanist instructed me to seek out and help the people of the Commonwealth.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: Helping the people of the Commonwealth? You?,"Absolutely, it's my primary directive.",DLC01MQ04JezebelBuilt: The Mechanist instructed me to seek out and help the people of the Commonwealth.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,"Player Default: What you call ""good"" I call my ""primary directive.""",The Mechanist instructed me to seek out and help the people of the Commonwealth.,,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,"By my calculations, the easiest way to help a human is simply to destroy it. There's no point in prolonging a laughably fragile life.",,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,It's the most efficient way to assist them. Any other effort to help tends to result in numerous complex side-effects.,"Player Default: I don't think you understand the definition of ""help.""",Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,"Player Default: I don't think you understand the definition of ""help.""",Help: to give or provide what is necessary to accomplish a task or to satisfy a need.,,Quoting / Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,I'm doing exactly as I was instructed.,DLC01MQ04JezebelBuilt: Assisting a human to the best of my abilities only affords a 25 percent survival rate.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: I can't deal with this. Just tell me how I can find the Mechanist.,Very well.,DLC01MQ04JezebelBuilt: Assisting a human to the best of my abilities only affords a 25 percent survival rate.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,"Player Default: You don't help people by killing them, that's insane!",On the contrary.,DLC01MQ04JezebelBuilt: Assisting a human to the best of my abilities only affords a 25 percent survival rate.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: The Mechanist gave you these instructions? To kill people?,"Well, not exactly. The specific instruction was to help people. I merely interpreted the most efficient way to perform my duties.",DLC01MQ04JezebelBuilt: Assisting a human to the best of my abilities only affords a 25 percent survival rate.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: I'm doing exactly as I was instructed.,Assisting a human to the best of my abilities only affords a 25 percent survival rate.,,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,"That means there's a 75 percent chance that despite my efforts, the human I'm assisting will die from something beyond my control.",,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,Therefore it's better to hasten the human's death and put them out of their likely chance of misery than to deplete my limited time.,,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,"It's actually quite elementary, but given your minimal intellect, I suppose I shouldn't be surprised you don't understand.",Player Default: You can believe whatever you want. Just tell me how to access the Mechanist's facility like you promised.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: You can believe whatever you want. Just tell me how to access the Mechanist's facility like you promised.,Certainly.,"DLC01MQ04JezebelBuilt: It's rather simple, really.",Confident,DLC01MQ04_Stage200_JezebelScene
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Enough! Just tell me how to access the Mechanist's facility... right now.,There's no need to be rude.,"DLC01MQ04JezebelBuilt: It's rather simple, really.",Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: Can we stop with the petty bickering and just get to the part where you tell me how to access the Mechanist's facility?,"I promised to answer your questions... and unlike humans, I don't have the capacity to lie.","DLC01MQ04JezebelBuilt: It's rather simple, really.",Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: Certainly.,"It's rather simple, really.",,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,"In order to gain entry to the Mechanist's facility, you're going to need to outfit one of your robots with an ""M-SAT"" modification.",,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,I'll upload the plans to your Pip-Boy device.,DLC01MQ04JezebelBuilt: There... I've fulfilled my portion of our agreement.,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,DLC01MQ04JezebelBuilt: I'll upload the plans to your Pip-Boy device.,There... I've fulfilled my portion of our agreement.,,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,"Perhaps I'll remain here for a while and see how things resolve between yourself and the Mechanist... purely for my own amusement, of course.",,Confident,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,,"I suspect you'll have quite a tale to tell once you return, but then again, I'd be surprised if you ever return at all.",,Irritated,DLC01MQ04_Stage200_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: Hunting down a Radar Beacon.,A Radar Beacon. How very interesting.,DLC01MQ04JezebelHead: That's a very specific part to be searching for and you don't look like the typical parts scavenger type to me.,Surprised,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: Getting ready to crack open that dome you call a head to get your Radar Beacon.,My Radar Beacon? Now that's unexpected.,DLC01MQ04JezebelHead: That's a very specific part to be searching for and you don't look like the typical parts scavenger type to me.,Surprised,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: Maybe I'm just a Rust Devil wearing a clever disguise.,"Please, don't insult my intelligence.",,completely unimpressed by a terrible joke / Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,Why don't you just tell me why you're here and why we're even bothering to have this conversation?,Player Default: Hunting down a Radar Beacon.,Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: What did the Rust Devils do to you?,They felt that by keeping my head online would prove useful to them.,,Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"Fortunately for me, they're stupid enough to actually believe anything I say.",,Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"Admittedly, it hasn't gotten me very far, but it has saved me from the same fate as my rather unfortunate comrades you see in pieces around you.",,Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"Now, back to my original question. What are you doing here?",Player Default: Hunting down a Radar Beacon.,Question,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: A Radar Beacon. How very interesting.,That's a very specific part to be searching for and you don't look like the typical parts scavenger type to me.,,Suspicious,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,I calculate a 98.8 percent chance that you're looking for the Mechanist.,,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"If I'm correct, and I usually am, then perhaps we can help each other with our respective... predicaments.",Player Default: I could definitely use the help.,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: I could definitely use the help.,I thought you might say something like that.,"DLC01MQ04JezebelHead: Now, how can I put this as simple as possible so someone at your processing speed can understand?",Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: No reason to bargain when I can just take what I need.,"You really think just because I'm connected to this machine, you have the upper hand?",,mock question / Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"If you'd take a moment to listen, I'll explain precisely why you're wrong.","DLC01MQ04JezebelHead: Now, how can I put this as simple as possible so someone at your processing speed can understand?",Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: I'm listening.,How refreshing. Then allow me to explain.,"DLC01MQ04JezebelHead: Now, how can I put this as simple as possible so someone at your processing speed can understand?",Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: How could I possibly help you?,Willing to listen? How surprising. I'll take that as a gesture of good faith as I describe our potential bargain.,"DLC01MQ04JezebelHead: Now, how can I put this as simple as possible so someone at your processing speed can understand?",Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: I thought you might say something like that.,"Now, how can I put this as simple as possible so someone at your processing speed can understand?",,"To self, aloud / Thinking",DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"In order to find the Mechanist, you're going to need more than just my Radar Beacon, you're going to need access to the facility.",,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,I'm willing to provide said access... but you'll have to fulfill two simple conditions.,,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"One, you need to get me as far away as you can from these lunatics.",,Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"And two, find me a new body. Once both conditions are satisfied, I'll gladly provide you with everything you need.",,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,Do we have a deal?,Player Default: Deal.,Question,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: Deal.,A wise decision.,"DLC01MQ04JezebelHead: Once we're at our destination, I'll happily relinquish my Radar Beacon as a gesture of good faith.",Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,"Player Default: No, no deal.","Well then, it appears we've reached a bit of an impasse.",,Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"When you make your decision, I'll be waiting. I'm certainly not going anywhere anytime soon.","DLC01MQ04JezebelHead: Once we're at our destination, I'll happily relinquish my Radar Beacon as a gesture of good faith.",Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: I'm not sure.,"Well then, it appears you have some thinking to do.",,Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"When you make your decision, I'll be waiting. I'm certainly not going anywhere anytime soon.","DLC01MQ04JezebelHead: Once we're at our destination, I'll happily relinquish my Radar Beacon as a gesture of good faith.",Irritated,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: How do I know you'll keep up your end of the bargain?,"Even though there's a human brain floating in bio-gel inside my head, I'm still bound by my original programming.",,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"It pains me to admit it, but one of my directives states that I cannot lie. Ever.",,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"So, while I'm not the most charming robot you've ever encountered, the last thing I'm going to do is violate an agreement we've made.",,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"Now that we have that out of the way, do we have a deal?",Player Default: Deal.,Question,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: How do I know you'll keep up your end of the bargain?,You don't. You're just going to have to trust me.,,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"So, do we have a deal?",Player Default: Deal.,Question,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,Player Default: A wise decision.,"Once we're at our destination, I'll happily relinquish my Radar Beacon as a gesture of good faith.",,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"Now, I strongly suggest you stop loitering in the middle of a hostile location and get us both out of here at once.",,Irritated,DLC01MQ04_Stage140_JezebelScene
+Miscellaneous,Miscellaneous,SharedInfo,,,I'm detecting something unexpected in your voice... sincerity... a trait I normally find lacking in my interaction with others.,,Confident,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Very well, you may ask your questions.",,Confident,
+Miscellaneous,Miscellaneous,SharedInfo,,,Perhaps I've misjudged you. You seem to be a bit more brazen than your counterparts. It's something I often find lacking in others.,,Confident,
+Miscellaneous,Miscellaneous,SharedInfo,,,"I'll tell you what. Since you've thoroughly impressed me, I'll answer your questions.",,Confident,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Tsk, tsk. Trying to sway me with so-called ""empathy?"" How blatantly predictable.",,very patronizing / Sarcastic,
+Miscellaneous,Miscellaneous,SharedInfo,,,You're going to have to do better than that.,,Irritated,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Ah yes, resorting to the notion that once diplomacy fails, the next logical step is the use of violence.",,very patronizing / Sarcastic,
+Miscellaneous,Miscellaneous,SharedInfo,,,"That might work when you're dealing with others, but allow me to remind you that robots don't fear death. Your threats are lost on me.",,Irritated,
+Miscellaneous,Miscellaneous,SharedInfo,,,"True, you could leave me here... but then your questions would remain unanswered until the end of your lifespan.",,"punch ""your"" before ""lifespan"" (important, or line won't make sense) / Confident",
+Miscellaneous,Miscellaneous,SharedInfo,,,"So we've reached a bit of a stalemate, wouldn't you agree?",,patronizing question / Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,This is becoming intolerable! I want to know when I am to be removed from this machine and returned to my body.,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,I believe you had a few questions for me?,,Question,
+Miscellaneous,Miscellaneous,Greeting,,,"So, have you come to your senses, or are we going to continue our futile discussion?",,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,System re-initializing. Running self diagnostic...,,Confident,
+Miscellaneous,Miscellaneous,Greeting,,,I want answers! I demand to know what happened to the rest of my body.,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,You don't look like one of the Rust Devils. What are you doing here?,Player Default: Hunting down a Radar Beacon.,Irritated,DLC01MQ04_Stage140_JezebelScene
+Miscellaneous,Miscellaneous,Greeting,,,"Interesting. This body you've selected for me isn't quite what I had envisioned, but it will have to suffice.","Player Default: I'm sorry you feel that way, it's the best I could do.",Irritated,DLC01MQ04_Stage200_JezebelScene
+Miscellaneous,Miscellaneous,Greeting,,,"The offer still stands if you're interested. Get me out of this place, find me a new body and I'll give you access to the Mechanist's facility.",Player Default: Deal.,Confident,DLC01MQ04_Stage140_JezebelScene
+Scene,SceneDialogue,Custom,,,"Based on my limited experience with you, I estimate a 65 percent chance of making it out of here.",,,DLC01FortHagenSatelliteArrayStorageRoomScene
+Scene,SceneDialogue,Custom,,,Not optimal. An increase in effort could have an impact on the odds.,,Condescending suggestion,DLC01FortHagenSatelliteArrayStorageRoomScene
+Scene,SceneDialogue,Custom,,,Do you always resort to solving your problems with such violence?,,,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,Are you even listening to me?,,,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,I've heard humans use ten percent of their brains at a time.,,Sincerely condescending,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,What does that other 90 percent do? Just sit there? What a waste.,,,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,I have brainpower you could not begin to comprehend.,,,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,Such high level thought would likely cause your nose to bleed.,,,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,Your belongings are filthy. Do you pick up everything you stumble across?,,,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,"You know, as far as bodies go yours is not the worst. Perhaps you could empty your cranium for my occupation?",,Serious suggestion,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,No no no. It would be far too tight a squeeze. What was I thinking?,,To yourself.,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,How do you even walk with all this junk?,,,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,"If you find yourself experiencing migraine headaches, my higher level brainwaves are likely responsible.",,,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,Sorry about that.,,Half hearted.,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,"Random thought. If we had met under different circumstances, I likely would have killed you.",,"Said innocently, no malice.",DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,Hm.,,Innocently reflecting on the previous statement.,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,"I've had enough of jostling around in your pockets. Let me know when you've found me a body, will you?",,,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,Entering rest mode in 3... 2... 1... Goodnight.,,Sound as if you are fading away after the countdown.,DLC01FortHagenSatelliteArrayJezebelAmbientSceneExterior
+Scene,SceneDialogue,Custom,,,You... destroyed Ahab.,"Player Default: Well, come on. Let's not wait around for more horrifying monstrosities.",Surprised. You were certain the robot would kill the player.,DLC01FortHagenSatelliteArraySentryBotKilledScene
+Scene,SceneDialogue,Custom,,Player Default: You... destroyed Ahab.,"Well, come on. Let's not wait around for more horrifying monstrosities.",,"Trying to hurry the player along, condescending tone.",DLC01FortHagenSatelliteArraySentryBotKilledScene
+Scene,SceneDialogue,Custom,,,"Watch the tripwires. I'd rather keep myself intact today, thank you.",,,DLC01FortHagenSatelliteArrayGrenadeTrapScene
+Scene,SceneDialogue,Custom,,,"Watch it, you clod!",,"In fear, the player just set off an explosive trap.",DLC01FortHagenSatelliteArrayGrenadeTrapExplodedScene
+Scene,SceneDialogue,Custom,,,"You really are taking the path of most resistance here, aren't you?",,,DLC01FortHagenSatelliteArrayRaiderShackScene
+Scene,SceneDialogue,Custom,,,Are you trying to get us killed?,,"Player set off a trap, you are surpised and annoyed by this.",DLC01FortHagenSatelliteArrayAssaultronTrapScene
+Scene,SceneDialogue,Custom,,,This is the one that ripped my head off. I demand we rip her head off. It's only fair.,,Calmly vengeful,DLC01FortHagenSatelliteArrayRaiderBossScene
+Scene,SceneDialogue,Custom,,,"Had I a body, I would have killed her myself.",,Calmly vengeful,DLC01FortHagenSatelliteArrayRaiderBossKilledScene
+Scene,SceneDialogue,Custom,,,"Oh well, six of one, half dozen of the other. Good job, human.",,"To yourself, then back to condescending tone.",DLC01FortHagenSatelliteArrayRaiderBossKilledScene
+Scene,SceneDialogue,Custom,,,Thank goodness we are out of that hole.,,Relief and condescension,DLC01FortHagenSatelliteArrayPlayerExitsDungeonScene
+Scene,SceneDialogue,Custom,,,Don't think your job is done. I refuse to cooperate until you provide a body that meets my standards.,,Condescending,DLC01FortHagenSatelliteArrayPlayerExitsDungeonScene
+Miscellaneous,Miscellaneous,Greeting,,,I expect you'll be leaving me behind. Typical.,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,Haven't you already interfered enough? Go away.,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,I never expected to spend the next part of my existence staring at a wall. How dreadfully tedious.,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,I'll have you know that leaving me connected to this machine is an invasion of privacy.,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,Just go away. Haven't you done enough to torment me already?,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,You should have left me with those Raiders at Fort Hagen. At least they treated me with the reverence I deserve.,,Irritated,
+Miscellaneous,Miscellaneous,Greeting,,,"At least now I'll have time to work on my ""Pi to the last digit"" calculation.",,Irritated,

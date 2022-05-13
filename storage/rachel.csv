@@ -1,0 +1,115 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Miscellaneous,Miscellaneous,Hello,,,We must find that cure.,,anxious / Worried,
+Scene,SceneDialogue,Custom,,Player Default: Bobby DeLuca is on his way here to treat his addiction.,You persuaded him to quit?,,Curious / Question,V81_03_Rachel
+Scene,SceneDialogue,Custom,,,Good.,Rachel: I'll be ready for him when he arrives.,Matter of fact / Neutral,V81_03_Rachel
+Scene,SceneDialogue,Custom,,Player Default: Nothing. Never mind.,Alright then.,Rachel: I'll be ready for him when he arrives.,Matter of fact / Neutral,V81_03_Rachel
+Scene,SceneDialogue,Custom,,Player Default: I've got a new patient for you. He's on his way to get treated for addiction.,Good.,Rachel: I'll be ready for him when he arrives.,Matter of fact / Neutral,V81_03_Rachel
+Scene,SceneDialogue,Custom,,Player Default: You've got time for a patient?,Always. We've never been too busy to see someone.,Rachel: I'll be ready for him when he arrives.,Matter of fact / Neutral,V81_03_Rachel
+Scene,SceneDialogue,Custom,,Player Default: Good.,I'll be ready for him when he arrives.,,Matter of fact / Neutral,V81_03_Rachel
+Scene,SceneDialogue,Custom,,,Addiction is difficult to overcome without the necessary support.,,Matter of fact / Neutral,V81_03_Rachel
+Scene,SceneDialogue,Custom,,,He's lucky to have a friend like you.,,Matter of fact / Neutral,V81_03_Rachel
+Scene,SceneDialogue,Custom,,Player Default: I have a friend who is addicted to chems.,"I have Addictol to treat any chem addiction, should your ""friend"" need it.",Player Default: It's for Bobby DeLuca.,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,Player Default: I'm looking for some Jet.,I'm sorry. We don't supply chems of that nature to patients.,Player Default: It's for Bobby DeLuca.,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,Player Default: Never mind. It's nothing.,The medical center is always open should you need assistance.,Player Default: It's for Bobby DeLuca.,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,Player Default: Do you have chems to treat addiction?,"Yes, I have an adequate supply of Addictol.",,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,,"However, if the patient doesn't want to quit, he or she will just go back to using.",Player Default: It's for Bobby DeLuca.,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,Player Default: It's for Bobby DeLuca.,"I'm relieved to hear you say so. After the incident, I've seen his symptoms progress rapidly.",,Undertones of relief and then worry. / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,,"If you can bring him here, I'll administer the drug.",,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,Player Default: I'm just looking for some Jet.,We don't supply chems of that nature.,,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,,Using Jet to treat its own symptoms only encourages the addiction and may lead to overdose.,,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,Player Default: I'm fine. It really is for a friend.,"Bring your friend by the medical center, then, and I will administer the treatment.",,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,Player Default: What's Addictol? How does it work?,Addictol works both physically and psychologically to remove both the symptoms and the need. It's very effective.,,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,,"Bring your friend here, and I can administer the treatment.",,Matter of fact / Neutral,V81_03_Rachel_Addictol
+Scene,SceneDialogue,Custom,,,Bobby? I'm glad you came.,Bobby: I want to get clean.,Friendly,V81_03_RachelAndBobby_End
+Scene,SceneDialogue,Custom,,"Bobby: Okay, I'm ready.",Thank you for bringing him.,,Neutral,V81_03_RachelAndBobby_End
+Scene,SceneDialogue,Custom,,,I'll take it from here.,,Neutral,V81_03_RachelAndBobby_End
+Scene,SceneDialogue,Custom,,,"If you ever need anything, come see me.",,Neutral,V81_03_RachelAndBobby_End
+Scene,SceneDialogue,Custom,,Bobby: I want to get clean.,"I can help you, but you're going to have to trust me.",Bobby: Is it going to hurt?,Friendly,V81_03_RachelAndBobby_End
+Scene,SceneDialogue,Custom,,Bobby: Is it going to hurt?,You may feel uneasy for a few hours while the Addictol takes effect. But then you'll feel better than you ever have before.,Bobby: Thanks for being honest.,Friendly,V81_03_RachelAndBobby_End
+Miscellaneous,Miscellaneous,Greeting,,,Is everything alright? Do you need medical assistance?,Player Default: I have a friend who is addicted to chems.,Inquiring as a doctor. / Question,V81_03_Rachel_Addictol
+Miscellaneous,Miscellaneous,Greeting,,,"Welcome to the medical center, traveler. I'm Rachel. Dr. Forsythe's assistant here. Is there something I can help you with?",Player Default: Bobby DeLuca is on his way here to treat his addiction.,Matter of fact / Neutral,V81_03_Rachel
+Miscellaneous,Miscellaneous,Greeting,,,You're back. And your friend?,Player Default: Bobby DeLuca is on his way here to treat his addiction.,Matter of fact / Neutral,V81_03_Rachel
+Miscellaneous,Miscellaneous,Greeting,,,Good to see you again. Something I can help with today?,Player Default: Bobby DeLuca is on his way here to treat his addiction.,Matter of fact / Neutral,V81_03_Rachel
+Scene,SceneDialogue,Custom,,Forsythe: Did you clean the autoclave?,"Yes, Dr. Forsythe. I clean it every day.",Forsythe: And all of my packs are wrapped?,some she has said every day for years / Tired,Forsythe_Rachel_01
+Scene,SceneDialogue,Custom,,Forsythe: And all of my packs are wrapped?,"Yes, Dr. Forsythe. I make sure all the packs are sterilized and wrapped every day.",Forsythe: I suppose that will do for now.,something she says every day for years. / Tired,Forsythe_Rachel_01
+Scene,SceneDialogue,Custom,,Forsythe: I suppose that will do for now.,I look forward to having this same conversation tomorrow.,Forsythe: What was that?,"muttered, with eye roll / Irritated",Forsythe_Rachel_01
+Scene,SceneDialogue,Custom,,Forsythe: What was that?,"Nothing, Dr. Forsythe.",,reassuring him / Amused,Forsythe_Rachel_01
+Scene,SceneDialogue,Custom,,,I've cultured the latest samples. The results are in your logbook.,Forsythe: And?,Matter of fact. / Neutral,Forsythe_Rachel_02
+Scene,SceneDialogue,Custom,,Forsythe: And?,"Inconclusive. Better than our last trial, but not as good as last week's trial.",Forsythe: Not very promising. Even the serum from last week's trial was of limited value.,Matter of fact. / Neutral,Forsythe_Rachel_02
+Scene,SceneDialogue,Custom,,Forsythe: Not very promising. Even the serum from last week's trial was of limited value.,We might have better luck with the next sample.,"Forsythe: You have the patience of a saint, Rachel.",Matter of fact. / Neutral,Forsythe_Rachel_02
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Very well.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Fine.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,All right. Excuse me.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Let me know if that changes.,,,DoctorGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,Glad to hear it. Anything else?,,patient just told you they aren't in pain,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,Good. Hope it stays that way. Anything else?,,patient just told you they aren't in pain,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,Good. Anything else?,,patient just told you they aren't in pain,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Huh, you look fine, but... oh wait... yep, that's gonna need to be set back in place. Let's get started.",,medical examination / Puzzled,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Eh, I've seen worse. Better stitch you up before infection sets in, though.",,medical examination,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Scrapes and bruises, but it's probably a good idea to get them fixed up.",,medical examination,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Severe lacerations, puncture wounds, muscle spasms in the eyes from high levels of stress... Yeah, let's patch you up.",,examining a patient / Thinking,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Hmm... gonna need to brace those fractures, apply some cream for the burns, a few sets of stitches. Better get to it...",,medical examination / Thinking,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Oh wow, that's a lot of blood. We'll need to operate right away.",,medical examination / Surprised,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"Well, I'd patch you up, but I have costs to cover, and you're short on caps. What else is bothering you?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"You're hurt, all right, but you're also dead broke. Sorry. Anything else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"I'd like to help you, but I got costs to cover, and you're low on caps. Was there anything else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,All right. Don't ruin my hard work by dying out there.,,,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"Take better care of yourself in the future, okay?",,,DoctorMedicineScene02_Exam
+Miscellaneous,Miscellaneous,SharedInfo,,,"Off you go, then.",,,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"On your way, then.",,"played asked for help, then changed his mind",DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,Fine. Come back later.,,"played asked for help, then changed his mind",DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"Very well, then.",,"played asked for help, then changed his mind",DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"Good. Keep an eye on it, though. What else?",,"examining a patient, they just told you their radiation levels are normal",DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,Blood pooling in the gums. Signs of anemia. Yeah. We better clean you up.,,seeing signs of radiation sickness,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,All right. Let's flush your system.,,seeing signs of radiation sickness,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"We'll clean you up, don't worry.",,seeing signs of radiation sickness,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,You don't have enough caps for the fee. Sorry. Anything else?,,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"We can clean you up, but you don't have enough money to cover the costs. Anything else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,,"You're definitely sick, but you don't have enough money to cover my fee. Sorry. Was there something else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.",Glad to hear it. Anything else?,,"examining a patient, who says they are not addicted to any chems",DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.",You're strung out all right. I got something that can clean you up.,,curing patient's chem addiction,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.","Yeah, you got it bad. Let's flush your system. It's gonna burn like crazy, afterwards, all right?",,curing patient's chem addiction,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.",Let's clean you up. Not gonna be pleasant...,,curing patient's chem addiction,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.","I'm sorry. Cleaning up addiction costs money, and you're short on caps. Was there anything else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.","I can help, but not for free. You'll need to come back when you have the caps. You need anything else?",,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, see what's wrong with me, doctor.",We can help you when you have enough money. Addiction isn't cheap to cure. Anything else?,,Apologetic,DoctorMedicineScene02_Exam
+Scene,SceneDialogue,Custom,,"Player Default: Patch me up, doc.","Now, go over your symptoms for me. One at a time.",,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Patch me up, doc.",Tell me your symptoms.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Patch me up, doc.",What's feeling off today? What can you tell me?,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Patch me up, doc.",Go over your symptoms with me.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",Great. Let's take a look.,,Matter of fact / Neutral,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",Here's what I have.,,Matter of fact / Neutral,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.","It's not much, but hopefully I have what you need.",,Matter of fact / Neutral,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",Having medical supplies is always a good idea.,,Matter of fact / Neutral,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",I imagine one can never have too many medical supplies in the Commonwealth.,,Matter of fact / Neutral,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",I suppose I could spare some Stimpaks.,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.","All right, but go easy on the Chems.",,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,"Player Default: Could use some supplies, actually.",Let's see what I can spare...,,,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,No. The people of this Vault are surprisingly healthy.,,Matter of fact / Neutral,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,"If that's all, I have work to do.",,Matter of fact / Neutral,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,"Got nothing, sorry. Just trying to practice medicine.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,"Nothing that would interest you. Now, let's talk about you and your health.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,"Been out of the loop. Lot of sick and injured taking up my time. Now, if you need treatment, let me know.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Scene,SceneDialogue,Custom,,,"Done. Now, was there anything else bothering you?",,,DoctorMedicineScene03_AllDone
+Scene,SceneDialogue,Custom,,,And that's that. Anything else bothering you?,,,DoctorMedicineScene03_AllDone
+Scene,SceneDialogue,Custom,,,All done. Any other complaints?,,,DoctorMedicineScene03_AllDone
+Miscellaneous,Miscellaneous,Greeting,,,You're that wanderer from the Commonwealth. I'm Rachel. I assist Dr. Forsythe with his medical duties. Are you sick or injured?,"Player Default: Patch me up, doc.","Friendly, doctor speaking to patient / Friendly",DoctorGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Yes? Do you need assistance? Are you sick or injured?,"Player Default: Patch me up, doc.",Asking a question / Question,DoctorGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Need Stimpaks? Or I can just heal you.,"Player Default: Patch me up, doc.",Asking a question / Question,DoctorGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Feeling all right? I can always take a look.,"Player Default: Patch me up, doc.",Asking a question / Question,DoctorGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Anything I can do for you? Medically speaking, of course.","Player Default: Patch me up, doc.",Asking a question / Question,DoctorGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,In need of medical assistance?,"Player Default: Patch me up, doc.",Asking a question / Question,DoctorGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Anything the matter? I've always got time for an examination.,"Player Default: Patch me up, doc.",Asking a question / Question,DoctorGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,Not many doctors around these days. Should let me take a look at you.,"Player Default: Patch me up, doc.",,DoctorGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"If you need fixing up, let's get a look at you.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"I can patch you up if you need it. For a small fee, of course.","Player Default: Patch me up, doc.",,DoctorGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Does your silence mean agreement? Or something else?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,This feels like one of those social awkward moments.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Well?,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,You're that wanderer from the Commonwealth.,,matter of fact / Surprised,
+Miscellaneous,Miscellaneous,SharedInfo,,,I am Rachel. I assist Dr. Forsythe with his medical duties.,,Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,Are you sick or injured?,,Rote question she asks of everyone that comes in / Question,
+Miscellaneous,Miscellaneous,SharedInfo,,,Yes? Do you need assistance? Are you sick or injured?,,rote question she asks of everyone that comes in / Question,
+Miscellaneous,Miscellaneous,SharedInfo,,,Yes. I have an adequate supply of Addictol.,,Matter of fact / Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,"However, if the patient doesn't want to quit, he or she will just go back to using.",,Matter of fact / Neutral,
+Miscellaneous,Miscellaneous,SharedInfo,,,Do you need treatment for addiction?,,Inquiring as a doctor / Question,

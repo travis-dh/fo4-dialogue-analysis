@@ -1,0 +1,38 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Check out these cuts.,,referring to cuts of meat,PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Remember. Bloodier is better.,,referring to cuts of meat,PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,As fresh as it can be.,,referring to cuts of meat,PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Just pulled this lot from the freezer.,,referring to cuts of meat,PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Brahamin's fresh. Everything else you're on your own.,,,PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,*grunt*,,"short, dismissive grunt",PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,*grunt*,,"short, dismissive grunt",PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,*grunt*,,"short, dismissive grunt",PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Suit yourself.,,,PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Yeah yeah.,,,PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Hmph.,,"short, dismissive grunt",PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,*sigh*,,grumpy sigh,PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Heh.,,"short, dismissive grunt",PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Eh.,,"short, dismissive grunt",PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Pfft.,,"short, dismissive grunt",PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Can I pay with this charge card?,... No.,Polly: ... No.,"player is trying to pay with a ""charge card"" - it looks like a worthless piece of plastic; wait a second before responding / Puzzled",PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Wait. What kind of meat is this?,"You've never heard of Brahmin? Big, dumb, got four legs and two heads? They're the only cattle around.",,"player says ""Wait. What kind of meat is this?"" / Puzzled",PollyGreetScene
+Scene,SceneDialogue,Custom,,,"Everything's fresh from the Codman family farms. Sometimes we get weird stuff from the caravans, too.",Polly: ... No.,"billboard ""weird stuff"" just a bit",PollyGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Weird stuff? Weirder than two-headed cow meat?,"Yeah, prince charming. Weirder than that. Mirelurk, Bloatflies, Radstags. It's all protein, right? Ain't like you can be picky in the Commonwealth.",Polly: ... No.,"Player says ""Weird stuff? Weirder than two-headed cow meat?"" / Sarcastic",PollyGreetScene
+Scene,SceneDialogue,Custom,,,"Yeah, princess. Weirder than that. Mirelurk, Bloatflies, Radstags. It's all protein, right? Ain't like you can be picky in the Commonwealth.",Polly: ... No.,"Player says ""Weird stuff? Weirder than two-headed cow meat?"" / Sarcastic",PollyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Now, I'm selling steaks here.",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",PollyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Look, got a butcher to run.",Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",PollyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Now order some meat if you're sticking around.,Player Default: Let's see what you've got.,"generic ""coming from another conversation and getting back to business"" line",PollyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, scavver. Got plenty of Brahmin meat on the hooks.",Player Default: Let's see what you've got.,player walks into your butcher shop for the first time,PollyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,We sell cuts of meat. That's it.,Player Default: Let's see what you've got.,player walks into your butcher shop,PollyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Flank, rib, or sirloin. They're all good, so make up your mind.",Player Default: Let's see what you've got.,player walks into your butcher shop,PollyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You want your meat sliced thin, you can cut it your damn self.",Player Default: Let's see what you've got.,player walks into your butcher shop,PollyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Fresh meat. I ain't selling nothing else, so decide what you're getting.",Player Default: Let's see what you've got.,player walks into your butcher shop,PollyGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Fresh meat right here.,Player Default: Let's see what you've got.,player walks into your butcher shop,PollyGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Meat's gettin' rotten. Hurry it up...,,player is just standing there saying nothing,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Staring into space like a dumb Brahmin...,,player is just standing there saying nothing,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Didn't hear your order...,,player is just standing there saying nothing,
+Miscellaneous,Miscellaneous,Hello,,,Get lost.,,"gruff, tense",
+Miscellaneous,Miscellaneous,Hello,,,Leave me alone.,,"gruff, tense",
+Miscellaneous,Miscellaneous,Hello,,,I didn't ask for company. Leave.,,"gruff, tense",
+Miscellaneous,Miscellaneous,Greeting,,,I'd get out of the market if I were you...,,"a man has another man at gunpoint, you're in the crowd watching / Nervous",
+Miscellaneous,Miscellaneous,Greeting,,,Damn waste of life is what it is...,,"the police just shot a crazed gunman, you're closing your store / Nervous",

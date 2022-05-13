@@ -1,0 +1,131 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Stop crowdin' my stall then.,,Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"Yeah, yeah.",,Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,*sigh* No respect for the sport...,,Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,Fine. Get going.,,Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"You're missing out, pal.",,Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Not interested.,"You're missing out, sister.",,Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: You got a deal.,Here's your caps. And... thank you! Thank you!,,Happy,MoeWorldSeriesBatScene
+Scene,SceneDialogue,Custom,,Player Default: Forget it. No deal.,"*sigh* I hate to see her go, but... all right. Let me know if you change your mind.",,Depressed,MoeWorldSeriesBatScene
+Scene,SceneDialogue,Custom,,Player Default: This is a rare find. 250 caps.,Oh...dang... all right. Deal.,Player Default: You got a deal.,"negotiating for the baseball bat, giving in to how much you want it / Nervous",MoeWorldSeriesBatScene
+Scene,SceneDialogue,Custom,,Player Default: This is a rare find. 250 caps.,That's outrageous! No... you can't put a price on history. I'll pay it.,Player Default: You got a deal.,"negotiating for the baseball bat, giving in to how much you want it / Nervous",MoeWorldSeriesBatScene
+Scene,SceneDialogue,Custom,,Player Default: This is a rare find. 250 caps.,"All right! All right! Just hand it over, already.",Player Default: You got a deal.,"negotiating for the baseball bat, giving in to how much you want it / Nervous",MoeWorldSeriesBatScene
+Scene,SceneDialogue,Custom,,Player Default: This is a rare find. 250 caps.,"No. No, as much as I want it. I gotta stand my ground. 200 caps. That's my final offer.",Player Default: You got a deal.,"negotiating for the baseball bat, standing strong against temptation / Stern",MoeWorldSeriesBatScene
+Scene,SceneDialogue,Custom,,Player Default: So I take it this bat is valuable?,"Now, now. Let me be clear. I want it. You bet your socks I do. But I'm a collector. Anyone else, that bat's just a piece of wood.",,Nervous,MoeWorldSeriesBatScene
+Scene,SceneDialogue,Custom,,,"You want her to be in the hands of someone who appreciates what she means to history, don't ya? What d'ya say?",Player Default: You got a deal.,Pleading,MoeWorldSeriesBatScene
+Scene,SceneDialogue,Custom,,Player Default: I'll be careful. Thanks.,"Yeah, yeah, just buy something next time, all right?",,still a little nervous from before / Nervous,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: Save the warnings for someone who cares.,"Fine, mister big shot. Never mind.",,Irritated,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: Save the warnings for someone who cares.,"Fine, little miss big shot. Never mind.",,Irritated,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: Ah yes. Gossip. The noisy killer.,"Hey, you might not care, but I have to talk to these people every day. *sigh* Whatever, just buy something next time, all right?",,slightly annoyed / Irritated,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: What's everyone's problem with the detective agency?,"Look, if you ask me, Valentine is a good guy. Saved a lot of lives. But other people think he's just going to bring the Institute's attention.",Player Default: I'll be careful. Thanks.,Nervous,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,,"Whoa, listen there. If the paper is right about the Institute, then there's no way I'm getting involved in anyone else's problems.","Player Default: I'm not trying to get you in trouble. Just point me in a direction, and I'll be on my way.","player asks about finding a missing child, you're suddenly very nervous, afraid the Institute is listening in / Nervous",MoeMQ103Scene
+Scene,SceneDialogue,Custom,,"Player Default: I'm not trying to get you in trouble. Just point me in a direction, and I'll be on my way.",Fine. I'll help you out. Just this once.,Moe: Head to the alley behind the market. Look for the neon signs. Valentine's Detective Agency.,persuaded to help / Nervous,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: Fine. Forget it.,On your way then. Shoo.,Moe: Head to the alley behind the market. Look for the neon signs. Valentine's Detective Agency.,Nervous,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: You're a business man. How about we make a trade?,"Well, sales have been down this month... Ugh. All right.",Moe: Head to the alley behind the market. Look for the neon signs. Valentine's Detective Agency.,persuaded to help / Thinking,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: You're a business man. How about we make a trade?,You're a little light in pockets there. Why don't you go bother someone else?,Moe: Head to the alley behind the market. Look for the neon signs. Valentine's Detective Agency.,"player doesn't have enough money, still a bit nervous from before / Irritated",MoeMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: You're afraid of the Institute? Who are they?,What? Never seen their handiwork walking all over the Commonwealth? Those synth things? Machines trying to look like people?,,Irritated,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,,"I ain't eager about being replaced by a Synth duplicate, or having someone who I thought was human suddenly pull out a gun and strike me out.",,Irritated,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,,So take your trouble somewhere else. I don't care if you say the Institute's not involved. They might be. That's enough.,"Player Default: I'm not trying to get you in trouble. Just point me in a direction, and I'll be on my way.",Irritated,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: You're afraid of the Institute? Who are they?,"Hell if I know. One day someone's human, next day they're a synth. And no one can tell the difference. Not until they kill someone for no reason.",,player asks how Synths replace people / Irritated,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,,"It was bad enough when the older, robot-looking Synths would occasionally grind a town down to pulp and haul off what was left.",,Nervous,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,,University Point was the last loser in that game. Nothing there but Synths now.,"Player Default: I'm not trying to get you in trouble. Just point me in a direction, and I'll be on my way.",Nervous,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,Player Default: Fine. I'll help you out. Just this once.,Head to the alley behind the market. Look for the neon signs. Valentine's Detective Agency.,,,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,,"And if you're smart, you won't go blabbing that around. That place is mud in a lot of people's eyes.",Player Default: I'll be careful. Thanks.,Stern,MoeMQ103Scene
+Scene,SceneDialogue,Custom,,"Player Default: A card, a mitt, and a ball. Got it.","I thank you, and baseball thanks you.",,,MoeQuestScene
+Scene,SceneDialogue,Custom,,Player Default: I'm not hunting down baseball memorabilia.,"Suit yourself, but there's caps in the tin for you if you change your mind.",,"caps in the tin' is a saying, similar to 'money in the bank' / Tired",MoeQuestScene
+Scene,SceneDialogue,Custom,,Player Default: 100 caps seems light. I need more.,I like your moxie. We'll make it 125 caps a piece. How's that sound?,"Player Default: A card, a mitt, and a ball. Got it.",,MoeQuestScene
+Scene,SceneDialogue,Custom,,Player Default: 100 caps seems light. I need more.,"Look at that fire in your eyes. All right. 150 caps for each piece, and you better be worth it. Deal?","Player Default: A card, a mitt, and a ball. Got it.",,MoeQuestScene
+Scene,SceneDialogue,Custom,,Player Default: 100 caps seems light. I need more.,"Oh, if only old Ice-Eyes Julie could see that steely gaze of yours. She might have finally met her match.",,,MoeQuestScene
+Scene,SceneDialogue,Custom,,,"You win. 200 caps each, but that's my final offer. You taking or leaving?","Player Default: A card, a mitt, and a ball. Got it.",,MoeQuestScene
+Scene,SceneDialogue,Custom,,Player Default: 100 caps seems light. I need more.,"You think you can play me for a sucker? 100 caps a piece, and that's it. Take it or leave it.","Player Default: A card, a mitt, and a ball. Got it.",Stern,MoeQuestScene
+Scene,SceneDialogue,Custom,,Player Default: What did you need again?,"Simple. Go to the old Westing Estate, and look for a baseball, a baseball card, and a baseball mitt, with signatures on all of them.","Player Default: A card, a mitt, and a ball. Got it.",,MoeQuestScene
+Scene,SceneDialogue,Custom,,Player Default: Sounds like fun.,You bet your socks it was. Now how about you pick up a little momento in the form of a genuine Swatter?,Moe: The genuine articles...,,MoeGreetSceneBaseball
+Scene,SceneDialogue,Custom,,"Player Default: Look dumbass, that's not how baseball was played.","That right, Mister Smarty-Pants? If you're such an expert, how do you think it was played?",Player Default: It was America's pasttime. A sport that united families on warm summer days. And it wasn't violent. Mostly.,Irritated,MoeGreetSceneBaseball
+Scene,SceneDialogue,Custom,,"Player Default: Look dumbass, that's not how baseball was played.","That right, Little Miss Smarty-Pants? If you're such an expert, how do you think it was played?",Player Default: It was America's pasttime. A sport that united families on warm summer days. And it wasn't violent. Mostly.,Irritated,MoeGreetSceneBaseball
+Scene,SceneDialogue,Custom,,Player Default: Whatever you say.,"Well, believe it or don't believe it, you'll be convinced once you swing a Swatter in someone's face. How about you buy one today?",Moe: What!? That... That's an original... Look at that paint!,,MoeGreetSceneBaseball
+Scene,SceneDialogue,Custom,,Player Default: Oh really. What kind of teams were there?,There was the Diamond City Demolishers. Big brutes of guys. Played in full Power Armor with special pneumatic arms parts for swinging.,,,MoeGreetSceneBaseball
+Scene,SceneDialogue,Custom,,,"Then you had the Lexington Ladies. An all female team, with coach Bloody Mary Sue at the helm. Highest kill count in the league.",,,MoeGreetSceneBaseball
+Scene,SceneDialogue,Custom,,,"I could spend all day talking about the Concord Crushers or the Quincy Killmeisters, but you get the idea. It was a hell of a sport.",Player Default: Sounds like fun.,,MoeGreetSceneBaseball
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: It was America's pasttime. A sport that united families on warm summer days. And it wasn't violent. Mostly.,... I like my version better.,,couple seconds of silence as you think about what was just said / Stern,MoeGreetSceneBaseball02
+Miscellaneous,Miscellaneous,SharedInfo,,,"Now can I interest you in these genuine, authentic custom-made hickory Swatters?",Moe: The genuine articles...,Friendly,MoeGreetSceneBaseball02
+Scene,SceneDialogue,Custom,,"Player Default: What makes you the expert, anyway?","I'm a native-born son of Diamond City, that's why. Baseball is in my blood. Now are you going to answer my question, or what?",Player Default: It was America's pasttime. A sport that united families on warm summer days. And it wasn't violent. Mostly.,Stern,MoeGreetSceneBaseball02
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,The genuine articles...,,showing off your wares,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Baseball history right here.,,showing off your wares,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Feel that heft...,,showing off your wares,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Hand-made. Each one.,,showing off your wares,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,A Swatter never runs out of bullets.,,showing off your wares,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I have this 2076 World Series Baseball Bat. Interested?,What!? That... That's an original... Look at that paint!,,"ecstatic, player is holding the rarest baseball bat ever / Surprised",MoeGreetScene
+Scene,SceneDialogue,Custom,,,I'll give you 200 caps for it. On the spot.,Player Default: You got a deal.,Happy,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I have this 2076 World Series Baseball Bat. Interested?,Let's not beat around the ball cap. I want it. Same price we talked about.,Player Default: You got a deal.,negotiating for the baseball bat with the player again / Friendly,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I have this 2076 World Series Baseball Bat. Interested?,"Well, if you wanna help the sport, I got a lead on a stash of prewar collector's items.",,,MoeGreetScene
+Scene,SceneDialogue,Custom,,,"Coach ""Quitting is for Punks"" Westing had an estate not too far from here. Legend says when he retired, the league presented him with a baseball, catcher's mitt, and playing card, signed by all the other coaches.",,,MoeGreetScene
+Scene,SceneDialogue,Custom,,,"See where I'm going with this? I'll pay 100 caps, each, for those relics. What d'ya say?","Player Default: A card, a mitt, and a ball. Got it.",,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I have this 2076 World Series Baseball Bat. Interested?,You change your mind about collecting those baseball relics from the Westing Estate?,"Player Default: A card, a mitt, and a ball. Got it.",Question,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I have this 2076 World Series Baseball Bat. Interested?,You'll be back.,,Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I have this 2076 World Series Baseball Bat. Interested?,*sigh* Fine.,,Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I have this 2076 World Series Baseball Bat. Interested?,Heh. Typical...,,Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I have this 2076 World Series Baseball Bat. Interested?,Sure. Sure.,,sarcastic / Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: I have this 2076 World Series Baseball Bat. Interested?,They're going fast...,,stretch out the fast : They're going faaaaast / Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: You take this charge card?,Tryin' to pull a fast one on me? No. Caps only.,Moe: Tryin' to pull a fast one on me? No. Caps only.,player is trying to pay with a charge card - it looks like a worthless piece of plastic / Irritated,MoeGreetScene
+Scene,SceneDialogue,Custom,,Player Default: What's a Swatter?,"Ha ha, a rookie, eh? A Swatter, my friend, is a Diamond City tradition.",,,MoeGreetScene
+Scene,SceneDialogue,Custom,,,See it used to be that this whole place was a stadium. And two teams would meet and play a game called baseball.,,,MoeGreetScene
+Scene,SceneDialogue,Custom,,,"One team would beat the other team to death with things called Baseball Bats, and the best bats were called Swatters. True fact.",Player Default: Sounds like fun.,,MoeGreetScene
+Combat,Combat,Death,,,Agggh! Three strikes... I'm out.,,,
+Combat,Combat,Attack,,,Agh! Home run!,,,
+Combat,Combat,Attack,,,"There you go! This is what a swatter feels like, motherfucker!",,,
+Combat,Combat,Attack,,,"Swing for the fences, scavver! Ha ha!",,,
+Combat,Combat,Taunt,,,Here comes... a line drive!,,,
+Miscellaneous,Miscellaneous,Greeting,,,"Anyway, I was talking baseball here. And you can't have a ball game without a Swatter.",Player Default: Let's see what you've got.,generic coming from another conversation and getting back to business line,MoeGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Now how about we get back to baseball, huh?",Player Default: Let's see what you've got.,generic coming from another conversation and getting back to business line,MoeGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, how about get back to talking about Swatters?",Player Default: Let's see what you've got.,generic coming from another conversation and getting back to business line,MoeGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You there. You need a genuine, authentic, custom-made hickory Swatter.",Player Default: Let's see what you've got.,passionate salesman,MoeGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"You're the greatest baseball collector I've met in a long time. Thanks again for bringing me those relics. Now, you buyin' a Swatter today?",Player Default: Let's see what you've got.,,MoeGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,Diamond City's greatest baseball collector. Good to see you again. Lookin' to buy?,,,
+Miscellaneous,Miscellaneous,Greeting,,,Now don't be shy. You're never too old to own a Swatter.,Player Default: Let's see what you've got.,passionate salesman,MoeGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Remember, Swatters will win you the game. The game of beating people up that is.",Player Default: Let's see what you've got.,passionate salesman,MoeGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"Need a Swatter with a little more stopping power? Stainless steel nails, my friend.",Player Default: Let's see what you've got.,passionate salesman,MoeGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,These aren't just any old pieces of wood. A Swatter is a custom piece of hickory.,Player Default: Let's see what you've got.,passionate salesman,MoeGreetScene
+Miscellaneous,Miscellaneous,Greeting,,,"If you're here, that means you're looking for a Swatter.",Player Default: Let's see what you've got.,passionate salesman,MoeGreetScene
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Hey, I'm talking baseball here. Show some respect.",,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,You throwing me a curve ball? Say something.,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"What am I, striking out over here?",,,
+Miscellaneous,Miscellaneous,SharedInfo,0,,"Glad to see you appreciate the pastime of baseball. By the way, if you ever wanna help the sport, keep an eye out for old collector's items.",,,
+Miscellaneous,Miscellaneous,SharedInfo,0,,"100 caps each, but they need to be premium, you understand? Signed. In one piece. Looking for a mitt, one of those old cards, and a signed ball.",,,
+Miscellaneous,Miscellaneous,Idle,,,No skull in the league can withstand a Swatter!,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Hey! Swatter! Swatter! Swatter! Swatter! Swing swatter!,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Win the game! Buy a Swatter.,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Swatters right here! Best skull-bashers in the Commonwealth!,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Don't let down the home team! Buy a Swatter!,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Why buy just an ordinary piece of wood? A Swatter is custom-made piece of genuine hickory!,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Buy a Swatter! The game-changer!,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Swatter! Swatter! Who needs a Swatter?,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Idle,,,Hey. Swatter! Swatter! Swatter can hit. Boom!,,barking sales pitches in the marketplace to a crowd of about half a dozen people,
+Miscellaneous,Miscellaneous,Hello,,,I'm not looking to make friends. Beat it.,,,
+Miscellaneous,Miscellaneous,Hello,,,I'm done working for the day. Get lost.,,,
+Miscellaneous,Miscellaneous,Hello,,,Trying to take some time off over here.,,,
+Miscellaneous,Miscellaneous,Hello,,,Go away. You bother me.,,,
+Miscellaneous,Miscellaneous,Hello,,,"Go away, son. You bother me.",,,
+Scene,SceneDialogue,Custom,,,This baseball is the real deal. You'd sign one of these and give it to the children of anyone you killed on the field.,,Happy,FFDiamondCity06BaseballScene
+Scene,SceneDialogue,Custom,,,Look at that card. See those numbers on the back? Tracks the count of enemies beaten to death by the player.,,Happy,FFDiamondCity06CardScene
+Scene,SceneDialogue,Custom,,,"Check out the leather on that mitt. Really good players used them to catch bullets. True fact, there.",,Happy,FFDiamondCity06MittScene
+Scene,SceneDialogue,Custom,,,I like your gumption. Let me take a look.,,Friendly,FFDiamondCity06MultipleScene
+Scene,SceneDialogue,Custom,,,"You've earned those caps, my friend. Come back as soon as you find anything else.",,Happy,FFDiamondCity06RewardScene
+Scene,SceneDialogue,Custom,,,"That's everything on the list. Thank you. Far as I'm concerned, you're now a part of baseball collector history.",,Happy,FFDiamondCity06RewardScene
+Scene,SceneDialogue,Custom,,Player Default: No. I don't.,"Bad form coming up to the plate with nothing. Ah, well.",,Irritated,FFDiamondCity06ReturnScene
+Scene,SceneDialogue,Custom,,Player Default: What do you want again?,All the baseball relics you can find from the Westing Estate. Signed. In one piece. You find anything?,Player Default: Got 'em all right here.,,FFDiamondCity06ReturnScene
+Miscellaneous,Miscellaneous,Greeting,,,Can't believe you found that Catcher's Mitt. Look at the material on it. You find anything else?,Player Default: Got 'em all right here.,,FFDiamondCity06ReturnScene
+Miscellaneous,Miscellaneous,Greeting,,,"The stitch work on that baseball you found is one of a kind, my friend. You find anything else for me?",Player Default: Got 'em all right here.,,FFDiamondCity06ReturnScene
+Miscellaneous,Miscellaneous,Greeting,,,You did a great job finding that card. Any luck finding other relics?,Player Default: Got 'em all right here.,,FFDiamondCity06ReturnScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, it's you. Find any of those baseball items I mentioned?",Player Default: Got 'em all right here.,,FFDiamondCity06ReturnScene
+Miscellaneous,Miscellaneous,Greeting,,,Any luck getting those relics? The future of baseball could depend on them.,Player Default: Got 'em all right here.,,FFDiamondCity06ReturnScene
+Miscellaneous,Miscellaneous,Greeting,,,Got those baseball relics I asked for?,Player Default: Got 'em all right here.,,FFDiamondCity06ReturnScene
+Miscellaneous,Miscellaneous,Hello,,,"Don't forget, you can earn some good money and advance the sport of baseball by finding those relics.",,,
+Scene,SceneDialogue,Custom,,,"I'm telling ya, back before the war, everyone played baseball. Kids, the elderly.",,,ConvDiamondCityGenericMoe01Scene
+Scene,SceneDialogue,Custom,,,"It was considered a National Pastime, meaning it was mandatory after work hours.",GenericNPC: Really?,,ConvDiamondCityGenericMoe01Scene
+Scene,SceneDialogue,Custom,,GenericNPC: Really?,That's right.,,,ConvDiamondCityGenericMoe01Scene
+Scene,SceneDialogue,Custom,,,"Every day the whole family would have to go out and play the ole' b-ball for a couple of innings, or they were fined for letting down the sport.",GenericNPC: People took baseball that seriously?,,ConvDiamondCityGenericMoe01Scene
+Scene,SceneDialogue,Custom,,GenericNPC: People took baseball that seriously?,"Why wouldn't they? Look around you. No one's playing the game, but baseball is a way of life in Diamond City. And it always has been.",,,ConvDiamondCityGenericMoe01Scene
+Scene,SceneDialogue,Custom,,GenericNPC: So player's never let go of the bat? Even when they were running?,"No, that would be suicide. The bat was the hitter's only defense as he ran the bases.",,,ConvDiamondCityGenericMoe02Scene
+Scene,SceneDialogue,Custom,,,Whoever had the ball on the opposing team would try to throw it at his head to knock him out. That's what an official 'Out' meant back then.,GenericNPC: Amazing.,,ConvDiamondCityGenericMoe02Scene
+Miscellaneous,Miscellaneous,Greeting,,,"Whoa, you seeing this? Someone's about to shoot someone.",,"a man has another man at gunpoint, you're in the crowd watching / Nervous",
+Miscellaneous,Miscellaneous,Greeting,,,I can't believe that just happened...,,the police just shot a crazed gunman / Nervous,

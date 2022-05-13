@@ -1,0 +1,68 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,Mark: I'm getting too old for this job.,"Mark, you were too old for it a decade ago.",,said with a smile. friendly teasing. / Concerned,Conv_Mark_Maria_01
+Scene,SceneDialogue,Custom,,,I keep telling you we need to get some help. Younger help.,Mark: They don't just grow on trees you know.,Concerned,Conv_Mark_Maria_01
+Scene,SceneDialogue,Custom,,Mark: Nobody in the Vault wants to help run this place.,"Patience, old man. We'll find someone.",,said with a smile. friendly teasing. / Amused,Conv_Mark_Maria_01
+Scene,SceneDialogue,Custom,,,I still think Austin might want it when he grows up. The boy certainly eats enough.,,Amused,Conv_Mark_Maria_01
+Scene,SceneDialogue,Custom,,,We're almost out of fresh vegetables.,,Concerned,Conv_Mark_Maria_02
+Scene,SceneDialogue,Custom,,,Remind me to drop by Priscilla's lab and pick some up.,Mark: Prissy told me only the turnips are ripe. And nobody likes turnips. Not even Austin.,Matter of fact. / Neutral,Conv_Mark_Maria_02
+Scene,SceneDialogue,Custom,,Mark: Prissy told me only the turnips are ripe. And nobody likes turnips. Not even Austin.,"Well, they'll just have to make do. And stop calling her Prissy. I think she prefers Dr. Penske to that anyday.",,Irritated at the situation.  / Irritated,Conv_Mark_Maria_02
+Scene,SceneDialogue,Custom,,,"Besides, I don't want to listen to Jacob complain again.",Mark: Aw you know she loves it. Makes her feel young.,Irritated at the situation. / Irritated,Conv_Mark_Maria_02
+Scene,SceneDialogue,Custom,,"MarkSummerset: You whippin' up a new batch of pies today? I heard Alexis promise one to Erin, and I know how you hate to disappoint the little ones.",Markus William Summerset. Don't you go on thinking you're so clever.,MariaSummerset: Those pies are going to be for Calvin and his crew. Lord knows they could use a treat right now.,Amused at her husband trying to be sly. Giving him the full name treatment. / Amused,Vault81SunshineDinerIntro
+Scene,SceneDialogue,Custom,,MariaSummerset: Markus William Summerset. Don't you go on thinking you're so clever.,Those pies are going to be for Calvin and his crew. Lord knows they could use a treat right now.,"MarkSummerset: Hey, you try telling that to Erin and breaking a little girl's heart. I didn't realize my wife was so cold blooded.",Matter of fact. / Friendly,Vault81SunshineDinerIntro
+Scene,SceneDialogue,Custom,,"MarkSummerset: Hey, you try telling that to Erin and breaking a little girl's heart. I didn't realize my wife was so cold blooded.","Mark, I swear. Over forty years of marriage, you need to count your blessings you're still alive.",,Joking with her husband. / Amused,Vault81SunshineDinerIntro
+Scene,SceneDialogue,Custom,,"Player Default: Why thank you. Mark and I try to keep her tidy. The Sunshine Diner, we call her.","If you need any food for the road, or just feeling hungry, you let me know.",,Friendly / Friendly,Vault81MariaGreet
+Scene,SceneDialogue,Custom,,,"Our menu isn't quite as... exotic as the Commonwealth, but it'll do in a pinch.",Player Default: Let's see what you've got.,Friendly / Friendly,Vault81MariaGreet
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,I never get anything done on an empty stomach.,,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,I wish I could say it was all home made.,,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Something's bound to sound good.,,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,Take your time.,,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Let's see what you've got.,"Selection isn't what it used to be, but I still got a few good things.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Not today.,"That's all right, honey. If you're hungry later, stop by.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Not today.,"Suite yourself, but if you're hungry later, you can't say I didn't try.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Not today.,"Alright. Maybe I'll see you later, then.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Not today.,"If you say so. Take care now, dear.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Not today.,"Ok, but I don't want to catch you wasting away.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Hopefully, I'll see you soon.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Alright, just don't spoil your appetite.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Sure, honey, take your time.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,"Still working up an appetite, I see.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: I'll think about it.,Sunshine Diner will still be here when you're ready.,,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Do you run this place by yourself?,"Heavens no, I'd be a wreck. My husband, Mark. He helps me, though mostly with the tasting.",Player Default: Let's see what you've got.,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Do you run this place by yourself?,"Sadly, yes. My husband, Mark... he used to help me, but he's... no longer with us.",Player Default: Let's see what you've got.,"Friendly, but sad, drifting off at the end / Neutral",Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Do you run this place by yourself?,It used to be easier. Back when I was young we had more supplies than we could count.,,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,,"Why, my mother taught me some recipes that had ingredients that... Well, I doubt you could find them anywhere anymore.",,Friendly. / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,,"Since we started trading, we manage well enough, but the variety... Let's just say it's more than a bit lacking.",Player Default: Let's see what you've got.,Matter of fact / Neutral,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Do you run this place by yourself?,Never... Can you imagine? Born and raised right here in Vault 81.,,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,,"It was easier back then, you know. Supplies were high and the dangers outside were both severe and unknown.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,,Poor Gwen didn't know what she was getting into when she accepted the role of Overseer.,Player Default: Let's see what you've got.,Reflective / Neutral,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Do you run this place by yourself?,"It weighs on her, I can tell. We need help from the Commonwealth, but a few people... They don't care for it.",,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,,Not to mention the state of the Vault. Upkeep's got people working round the clock these days. Even me!,,Friendly / Friendly,Vault81MariaSell
+Scene,SceneDialogue,Custom,,,"If people are going to be up all night working, they'll need a good meal to keep them going.",Player Default: Let's see what you've got.,Reflective / Neutral,Vault81MariaSell
+Scene,SceneDialogue,Custom,,Player Default: Nice place you have here.,"Why thank you. Mark and I try to keep her tidy. The Sunshine Diner, we call her.","MariaSummerset: If you need any food for the road, or just feeling hungry, you let me know.",Friendly / Friendly,Vault81MariaGreet
+Scene,SceneDialogue,Custom,,Player Default: Nice place you have here.,"Why thank you. I try to keep her tidy. The Sunshine Diner, I call her.","MariaSummerset: If you need any food for the road, or just feeling hungry, you let me know.",Friendly / Friendly,Vault81MariaGreet
+Scene,SceneDialogue,Custom,,"Player Default: Whatever, lady.",You Commonwealth folk and your manners. I tell ya. You're like a different breed.,"MariaSummerset: If you need any food for the road, or just feeling hungry, you let me know.",Amused at the player's rudeness... She's too old to care. / Amused,Vault81MariaGreet
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, I imagine we break up your routine a little bit.",And a welcome break it is.,"MariaSummerset: If you need any food for the road, or just feeling hungry, you let me know.",Friendly / Friendly,Vault81MariaGreet
+Scene,SceneDialogue,Custom,,Player Default: Who's Gwen?,"Oh, Gwen's the Overseer, but I could never get used to calling her that. I've known that girl since she was in diapers.","MariaSummerset: If you need any food for the road, or just feeling hungry, you let me know.",Friendly / Friendly,Vault81MariaGreet
+Miscellaneous,Miscellaneous,Greeting,,,You must be that new traveler Gwen let in. It's always nice to see a new face around here.,Player Default: Nice place you have here.,Friendly / Friendly,Vault81MariaGreet
+Miscellaneous,Miscellaneous,Greeting,,,"Good to see that little boy up and about again. Heard you really made an impression on the Vault, too. So what can I get for our new hero?",Player Default: Let's see what you've got.,Friendly. / Friendly,Vault81MariaSell
+Miscellaneous,Miscellaneous,Greeting,,,"Heard you didn't make quite the impression Gwen had hoped for. But she'll handle it. She's a strong woman. Now, what can I get you today?",Player Default: Let's see what you've got.,Gossiping / Neutral,Vault81MariaSell
+Miscellaneous,Miscellaneous,Greeting,,,"Hard to keep my mind on business with that little boy sick. If you need anything, just let me know.",Player Default: Let's see what you've got.,Worried about a little boy being sick. / Worried,Vault81MariaSell
+Miscellaneous,Miscellaneous,Greeting,,,Not everyday I get a customer in Power Armor. What can I get you?,Player Default: Let's see what you've got.,Amused / Amused,Vault81MariaSell
+Miscellaneous,Miscellaneous,Greeting,,,"Hungry, dear? I'm sure I have something that'll fill you up.",Player Default: Let's see what you've got.,Friendly / Friendly,Vault81MariaSell
+Miscellaneous,Miscellaneous,Greeting,,,"What'll it be, sweetie?",Player Default: Let's see what you've got.,Friendly / Friendly,Vault81MariaSell
+Miscellaneous,Miscellaneous,Greeting,,,What can I get you today?,Player Default: Let's see what you've got.,Friendly / Friendly,Vault81MariaSell
+Miscellaneous,Miscellaneous,Greeting,,,"If you're heading back out into the Commonwealth, I expect you to do so on a full stomach.",Player Default: Let's see what you've got.,Friendly / Friendly,Vault81MariaSell
+Miscellaneous,Miscellaneous,Greeting,,,Looking for a meal? Or just a quick snack?,Player Default: Let's see what you've got.,Friendly / Friendly,Vault81MariaSell
+Miscellaneous,Miscellaneous,Hello,,,"If you want a good meal, stop by the Sunshine Diner come morning.",,Friendly / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,Glad the day's over with. These old bones need a good rest.,,"Friendly, relieved. / Friendly",
+Miscellaneous,Miscellaneous,Hello,,,Good to be out from behind that counter.,,Friendly / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,Busy day today. Might have to look into requesting more supplies soon.,,Friendly / Friendly,
+Miscellaneous,Miscellaneous,Hello,,,Let me catch my breath. I ain't as young as I used to be.,,Worried,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Well?,,,
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,"Cat got your tongue, dear?",,"Friendly, waiting for player to respond. / Friendly",
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Did you say something? My hearing's not the best.,,"Friendly, waiting for player to respond. / Friendly",
+Miscellaneous,Miscellaneous,WaitingForPlayerInput,,,Don't take all day now.,,"Friendly, amused, waiting for player to respond. / Friendly",
+Scene,SceneDialogue,Custom,,Player Default: I like it here.,"I'll save you a slice of pie, Austin.","Austin: Next stop, Horatio.",Friendly,TourDinerScene
+Scene,SceneDialogue,Custom,,Austin: The Summersets are nice though. You'll like them.,"Hello, Austin. I see you're showing our guest from the Commonwealth around.","Austin: Yes, ma'am.",Friendly,TourDinerScene
+Scene,SceneDialogue,Custom,,,"Tina, I'm so sorry about Bobby, honey.","Tina: I miss him, Maria. He messed up, and I hate him for it... but I miss him.",Sympathetic / Apologetic,V81_Conv_Tina_Maria_01_Scene
+Scene,SceneDialogue,Custom,,"Tina: I miss him, Maria. He messed up, and I hate him for it... but I miss him.","I know you do, dear. Let me get you something to eat. It might make you feel better.","Tina: No thanks, Maria. Maybe later.",Sympathetic / Apologetic,V81_Conv_Tina_Maria_01_Scene

@@ -1,0 +1,1059 @@
+CATEGORY,TYPE,SUBTYPE,PROMPT,DIALOGUE BEFORE,RESPONSE TEXT,DIALOGUE AFTER,SCRIPT NOTES,SCENE
+Scene,SceneDialogue,Custom,,"Preston: Take care, Codsworth.","I'll head for home, then. Good luck.",,,COMPrestonFollowStartScene
+Miscellaneous,Miscellaneous,SharedInfo,,,"Good luck, General. I hope you find your son.",,Concerned,
+Scene,SceneDialogue,Custom,,,Good riddance. Let's keep movin'.,"OldLongfellow: Up ahead, the air's clean. No Fog.",,DLC03MQ02_0600b_OldLongfellowEscortEnd
+Scene,SceneDialogue,Custom,,,"If you're done wastin' time with the fanatic, let's move on.","OldLongfellow: Up ahead, the air's clean. No Fog.",,DLC03MQ02_0600b_OldLongfellowEscortEnd
+Scene,SceneDialogue,Custom,,,Good riddance. Let's keep movin'.,,,DLC03MQ02_0650c_PreacherKilled
+Scene,SceneDialogue,Custom,,"Player Default: If that's the way you choose to live, that's your affair.","Christ almighty, you've seen better days, haven't ya?.",,Surprise mixed with derision / Surprised,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,,Can't imagine livin' with a face like that. Suppose I'll have to help you out of pity.,"OldLongfellow: I can get you to Acadia, but you've got to listen to me. Go where I say. When I say it.","Snarky, good-antured mocking / Thinking",DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,Player Default: You should come with me. I can still use your help.,"Hm. Alright, why the hell not. Beats drinkin' alone.",,"Thinking it over, then warming up to the player, making a joke / Friendly",DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,Player Default: I can handle things from here.,Good luck in there. And I'm serious about the offer.,,"Measured, halfway between neutral and friendly, admiration / Neutral",DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,,"You ever want to hunt the forests and waters of the island together, I could think of worse things to do.",,Neutral,DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,"Player Default: Maybe later, Longfellow.","All right, but I'm serious about the offer.",,"With respect, almost friendly / Neutral",DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,,"You ever want to hunt the forests and waters of the island together, I could think of worse things to do.",,,DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,Player Default: Leaving already? Don't you want to see what happens next?,You sayin' you want me to stick around an' watch your back?,Player Default: You should come with me. I can still use your help.,Intrigued / Neutral,DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,"ChildrenPreacher: Stringing one more soul to their damnation, old man?","Well, what have we here? Another rad-worshippin' lunatic, that's what.",ChildrenPreacher: Your barbs do not harm me. I am shielded by my faith.,"Derisive, hostile / Disgust",DLC03MQ02_0650a_ChildrenLongfellow
+Scene,SceneDialogue,Custom,,ChildrenPreacher: Your barbs do not harm me. I am shielded by my faith.,"How 'bout bullets? Faith shield ya against those, too?","Player Default: Let's just settle down, OK?",Irritated,DLC03MQ02_0650a_ChildrenLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: Let's just settle down, OK?",You're right. Waste of ammo.,"ChildrenPreacher: Do not sully this one with your blasphemy, old man.",,DLC03MQ02_0650a_ChildrenLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: Go ahead and shoot her, then.",She ain't worth wastin' ammo on. Too bad I left my huntin' knife at home.,"ChildrenPreacher: Do not sully this one with your blasphemy, old man.",,DLC03MQ02_0650a_ChildrenLongfellow
+Scene,SceneDialogue,Custom,,Player Default: Sounds like none of my business.,Lucky for you.,"ChildrenPreacher: Do not sully this one with your blasphemy, old man.",,DLC03MQ02_0650a_ChildrenLongfellow
+Scene,SceneDialogue,Custom,,Player Default: Who's she?,"One of them Children of Atom preachers. Started off as pests, now they're more like a menace.","ChildrenPreacher: Do not sully this one with your blasphemy, old man.",,DLC03MQ02_0650a_ChildrenLongfellow
+Scene,SceneDialogue,Custom,,OldLongfellow: Let's head out of town.,Acadia's above the Fog line on the mountain. It's a bit of a hike.,,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,,"You might want to take this for the road. Tastes foul as sin, but it'll help.",OldLongfellow: We need to move through the main drag. Old mountain trail is where we're headed.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,"OldLongfellow: You might want to take this for the road. Tastes foul as sin, but it'll help.",We need to move through the main drag. Old mountain trail is where we're headed.,OldLongfellow: The Fog ain't like nothin' you've seen in the Commonwealth.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: We need to move through the main drag. Old mountain trail is where we're headed.,The Fog ain't like nothin' you've seen in the Commonwealth.,OldLongfellow: Mainlanders think a dose of Rad-Away's all you need. Haha.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: The Fog ain't like nothin' you've seen in the Commonwealth.,Mainlanders think a dose of Rad-Away's all you need. Haha.,OldLongfellow: Tracks. Fresh ones. Trappers ahead.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: Mainlanders think a dose of Rad-Away's all you need. Haha.,Tracks. Fresh ones. Trappers ahead.,"OldLongfellow: When the bullets start flyin', find cover. Keep your head down if you want to live.",,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: Tracks. Fresh ones. Trappers ahead.,"When the bullets start flyin', find cover. Keep your head down if you want to live.",OldLongfellow: You're not half bad in a scrap.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,"OldLongfellow: When the bullets start flyin', find cover. Keep your head down if you want to live.",You're not half bad in a scrap.,OldLongfellow: Figured I'd have to take care of the lot of them. Might just make a proper Far Harborman out of you. *Chuckle*,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: You're not half bad in a scrap.,Figured I'd have to take care of the lot of them. Might just make a proper Far Harborman out of you. *Chuckle*,OldLongfellow: See. The Fog can do a number on you. Gets you all turned around. Does somethin' to your brain.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: You're not half bad in a scrap.,Figured I'd have to take care of the lot of them. Might just make a proper Far Harborwoman out of you. *Chuckle*,OldLongfellow: See. The Fog can do a number on you. Gets you all turned around. Does somethin' to your brain.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: Figured I'd have to take care of the lot of them. Might just make a proper Far Harborman out of you. *Chuckle*,See. The Fog can do a number on you. Gets you all turned around. Does somethin' to your brain.,"OldLongfellow: Trappers were mean to begin with, but now...",,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,"OldLongfellow: Trappers were mean to begin with, but now...",Here's the mountain trail. We stick to this and we'll make it to Acadia.,"OldLongfellow: Game trails crisscross the road, so don't be surprised if we got local wildlife to deal with.",,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: See. The Fog can do a number on you. Gets you all turned around. Does somethin' to your brain.,"Trappers were mean to begin with, but now...",OldLongfellow: Here's the mountain trail. We stick to this and we'll make it to Acadia.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: Here's the mountain trail. We stick to this and we'll make it to Acadia.,"Game trails crisscross the road, so don't be surprised if we got local wildlife to deal with.",OldLongfellow: You like them puppies? We grow everything extra mean on the island.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,"OldLongfellow: Game trails crisscross the road, so don't be surprised if we got local wildlife to deal with.",You like them puppies? We grow everything extra mean on the island.,OldLongfellow: Still got a ways to go.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: You like them puppies? We grow everything extra mean on the island.,Still got a ways to go.,OldLongfellow: Hear that? Crawler.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: Still got a ways to go.,Hear that? Crawler.,OldLongfellow: They usually stick to the Deep Fog. Best we steer clear.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: Hear that? Crawler.,They usually stick to the Deep Fog. Best we steer clear.,OldLongfellow: But you never know.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: They usually stick to the Deep Fog. Best we steer clear.,But you never know.,"OldLongfellow: When I was a young lad, no higher than your knee, whole island was covered in Fog.",,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,,Let's head out of town.,OldLongfellow: Acadia's above the Fog line on the mountain. It's a bit of a hike.,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: But you never know.,"When I was a young lad, no higher than your knee, whole island was covered in Fog.","OldLongfellow: The Fog eventually rolled back. People resettled, but they got comfortable. Started takin' things for granted.",,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,"OldLongfellow: When I was a young lad, no higher than your knee, whole island was covered in Fog.","The Fog eventually rolled back. People resettled, but they got comfortable. Started takin' things for granted.","OldLongfellow: Folk got short memories, all this has happened before.",,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,"OldLongfellow: The Fog eventually rolled back. People resettled, but they got comfortable. Started takin' things for granted.","Folk got short memories, all this has happened before.",OldLongfellow: Gulper's got a fondness for fresh water.,,DLC03MQ02_0600_OldLongfellowEscort
+Miscellaneous,Miscellaneous,SharedInfo,,,And we've arrived.,OldLongfellow: Acadia's already been watchin' us for a good spell. If you want to talk with them just go inside.,,DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,OldLongfellow: And we've arrived.,Acadia's already been watchin' us for a good spell. If you want to talk with them just go inside.,,,DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,,They'll be waitin' for you.,"OldLongfellow: You need my help again, you come see me.",,DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,OldLongfellow: They'll be waitin' for you.,"You need my help again, you come see me.",,,DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,,"Got a cabin just outside of Far Harbor. Good place to tool up your gear, get some rest, or get stinkin' drunk.",,Friendly,DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,,"Just make sure if you're bringin' a bottle of somethin' strong, there's enough to share.",Player Default: You should come with me. I can still use your help.,Friendly,DLC03MQ02_0700_LongfellowEnd
+Scene,SceneDialogue,Custom,,"OldLongfellow: Folk got short memories, all this has happened before.",Gulper's got a fondness for fresh water.,"OldLongfellow: A small Gulper, like the ones in these parts, is a fair challenge.",,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: Gulper's got a fondness for fresh water.,"A small Gulper, like the ones in these parts, is a fair challenge.","OldLongfellow: Now the big ones, they can grow two... three times the size of a man. Good thing you don't see too many of them around.",,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,"OldLongfellow: A small Gulper, like the ones in these parts, is a fair challenge.","Now the big ones, they can grow two... three times the size of a man. Good thing you don't see too many of them around.",,,DLC03MQ02_0600_OldLongfellowEscort
+Scene,SceneDialogue,Custom,,OldLongfellow: Good riddance. Let's keep movin'.,"Up ahead, the air's clean. No Fog.",OldLongfellow: Acadia's not too far now.,,DLC03MQ02_0600b_OldLongfellowEscortEnd
+Scene,SceneDialogue,Custom,,"OldLongfellow: Up ahead, the air's clean. No Fog.",Acadia's not too far now.,,,DLC03MQ02_0600b_OldLongfellowEscortEnd
+Scene,SceneDialogue,Custom,,"OldLongfellow: Sling a bit of lead on the Hull and now you think you're ready to walk in the Fog, do ya?",Things you'll see inland make that look like a Sunday stroll.,"Player Default: I helped the Harbor out. I figure all of you owe me something, at least.",Somber,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: I helped the Harbor out. I figure all of you owe me something, at least.",Hm. I suppose there's a bit of truth there.,"OldLongfellow: I can get you to Acadia, but you've got to listen to me. Go where I say. When I say it.",Thinking,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: I helped the Harbor out. I figure all of you owe me something, at least.","If you're lookin' to square away some debt with the Harbor, then you can get in line behind me.","OldLongfellow: Listen, if you're dead set on this foolishness - get me a bottle of whiskey from the bartender, Mitch.",,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: Not all mainlanders have fully functional power armor, though.",On that account you'd be right. Fine.,"OldLongfellow: I can get you to Acadia, but you've got to listen to me. Go where I say. When I say it.",Impressed,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: Not all mainlanders have fully functional power armor, though.","Truth be told, no. This goes against my better judgement...","OldLongfellow: I can get you to Acadia, but you've got to listen to me. Go where I say. When I say it.",Impressed,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: Not all mainlanders have fully functional power armor, though.","Compared to our island, I figure it's a right playground.","OldLongfellow: Listen, if you're dead set on this foolishness - get me a bottle of whiskey from the bartender, Mitch.",,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,Player Default: Everyone's got their price. How many caps is this going to run me?,"Keep your caps. If you're set on doin' this, I'll take my pay in whiskey.",,,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,,"The bartender, Mitch, sells it. Grab me a flask, and then we can work on getting' you to Acadia alive.","OldLongfellow: Listen, if you're dead set on this foolishness - get me a bottle of whiskey from the bartender, Mitch.",,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: If you don't give a damn about mainlanders, what do you care if I die out there?",Don't care much. But I got better things to do than guide fools to their death.,"Player Default: I helped the Harbor out. I figure all of you owe me something, at least.",,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: If that's the way you choose to live, that's your affair.","Listen, if you're dead set on this foolishness - get me a bottle of whiskey from the bartender, Mitch.","OldLongfellow: Until then, we're done.",,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,"OldLongfellow: Listen, if you're dead set on this foolishness - get me a bottle of whiskey from the bartender, Mitch.","Until then, we're done.",,Stern,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,Player Default: Hm. I suppose there's a bit of truth there.,"Listen, if you're dead set on this foolishness - get me a bottle of whiskey from the bartender, Mitch.","OldLongfellow: Until then, we're done.",,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,"OldLongfellow: Listen, if you're dead set on this foolishness - get me a bottle of whiskey from the bartender, Mitch.","Until then, we're done.",,,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,Player Default: Here you go.,"Ah, now you're talkin'.","OldLongfellow: I can get you to Acadia, but you've got to listen to me. Go where I say. When I say it.",Friendly,DLC03MQ02_0500c_LongfellowWantsWhiskey
+Scene,SceneDialogue,Custom,,Player Default: Here you go.,I ain't in no rush if you're not.,,,DLC03MQ02_0500c_LongfellowWantsWhiskey
+Scene,SceneDialogue,Custom,,Player Default: I don't have it yet.,No skin off my nose.,,,DLC03MQ02_0500c_LongfellowWantsWhiskey
+Scene,SceneDialogue,Custom,,Player Default: Goodbye.,Hope you wise up and leave. Safer that way.,,,DLC03MQ02_0500c_LongfellowWantsWhiskey
+Scene,SceneDialogue,Custom,,Player Default: Can't I just pay you?,"If you need me, then we do this my way. One bottle of whiskey.",,,DLC03MQ02_0500c_LongfellowWantsWhiskey
+Scene,SceneDialogue,Custom,,,"If someone's headed for Acadia, there's always a story. Yours worth dying over? Eh?",Player Default: I've done a whole lot more for a whole lot less.,Question,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,Player Default: I've done a whole lot more for a whole lot less.,"Clever with words, are ya?","OldLongfellow: I can get you to Acadia, but you've got to listen to me. Go where I say. When I say it.",Impressed,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,Player Default: I've done a whole lot more for a whole lot less.,"If that's the way you choose to live, that's your affair.","Companion: Look, if that girl's in some kind of trouble, time could be running out. We need your help.",,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,Player Default: This girl's all her family has. You'd have to be a real wretch not to give a damn.,Bah. This goes against all reason... But...,"OldLongfellow: I can get you to Acadia, but you've got to listen to me. Go where I say. When I say it.",,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,Player Default: This girl's all her family has. You'd have to be a real wretch not to give a damn.,Some mainlander family ain't no affair of mine.,"Companion: Come on, give us a break. That girl could be in trouble.",,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,Player Default: Everyone's got their price. How many caps is this going to run me?,"Keep your caps. If you're set on doin' this, I'll take my pay in whiskey.",,,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,,"The bartender, Mitch, sells it. Grab me a flask, and then we'll see about getting' you to Acadia alive.","OldLongfellow: Christ almighty, you've seen better days, haven't ya?.",,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,Player Default: The runaway's name is Kasumi. You know about her?,Sounds like Captain Avery's been runnin' her mouth again. She should know better than to stick her nose where it's not wanted.,,,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,,"Maybe I heard of her, maybe not.",Player Default: I've done a whole lot more for a whole lot less.,,DLC03MQ02_0500a_CompassionLongfellow
+Scene,SceneDialogue,Custom,,,"Sling a bit of lead on the Hull and now you think you're ready to walk in the Fog, do ya?",OldLongfellow: Things you'll see inland make that look like a Sunday stroll.,Amused,DLC03MQ02_0500b_ToughLongfellow
+Scene,SceneDialogue,Custom,,PlayerVoiceFemale01: Captain Avery said you can get me to Acadia.,Heard there was a scuffle out there. You get your hands dirty? Hmph.,OldLongfellow: I'm done leadin' people to their deaths in the Fog.,Irritated,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,OldLongfellow: Heard there was a scuffle out there. You get your hands dirty? Hmph.,I'm done leadin' people to their deaths in the Fog.,,Irritated,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,,Last fella couldn't keep up. Didn't last five minutes.,Player Default: Some parents are worried about their runaway daughter. She went to Acadia and I need to find her.,Somber,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,Player Default: Everyone's got their price. How many caps is this going to run me?,"Keep your caps. If you're set on doin' this, I'll take my pay in whiskey.",,Stern,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,,"The bartender, Mitch, sells it. Grab me a flask, and then we can work on getting' you to Acadia alive.","OldLongfellow: I can get you to Acadia, but you've got to listen to me. Go where I say. When I say it.",,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,Player Default: Can you tell me about Acadia?,Strange folk like there. Call themselves synths.,,Thinking,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,,Seems to me they just want to be left alone. To live their life in peace.,,Somber,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,,"They've done some good turns for us islanders. The Fog Condensers, most especially.",,Somber,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,,Wouldn't even be a Far Harbor left without those.,Player Default: Some parents are worried about their runaway daughter. She went to Acadia and I need to find her.,Irritated,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,Player Default: Can you tell me about Acadia?,The Condensers are a tricky bit of science. They keep the Fog away.,,Thinking,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,,Powered by the Wind Farm the synth fellas got up and running.,,Irritated,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,,"Us islanders don't particularly like being obligated to them, but there you have it.",Player Default: Some parents are worried about their runaway daughter. She went to Acadia and I need to find her.,Irritated,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: The bartender, Mitch, sells it. Grab me a flask, and then we can work on getting' you to Acadia alive.","I can get you to Acadia, but you've got to listen to me. Go where I say. When I say it.","OldLongfellow: Still won't be easy. You stock up on your necessities, Rad-X and the like.",Stern,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,"OldLongfellow: I can get you to Acadia, but you've got to listen to me. Go where I say. When I say it.","Still won't be easy. You stock up on your necessities, Rad-X and the like.",OldLongfellow: Then the real work can begin.,,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,"OldLongfellow: Still won't be easy. You stock up on your necessities, Rad-X and the like.",Then the real work can begin.,"Player Default: Let's go, Longfellow.",,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: Don't order me around, old man.","You want to make this a one-way trip? Then, by all means, ignore me.",,Irritated,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,,"If you want to live, then heed me.","Player Default: Let's go, Longfellow.",Stern,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,Player Default: I need to take care of a few things.,"Handle your necessities, then. Off with you.","OldLongfellow: Follow me, then.",,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,Player Default: Should I make any other preparations?,"Ammo, Stimpaks, maybe a rocket or three. Worse than Mirelurks out there.","Player Default: Let's go, Longfellow.",,DLC03MQ02_0500_MeetingLongfellow
+Scene,SceneDialogue,Custom,,"Player Default: Handle your necessities, then. Off with you.","Follow me, then.",,,DLC03MQ02_0500_MeetingLongfellow
+Miscellaneous,Miscellaneous,Greeting,,,You ready to head to Acadia?,"Player Default: Let's go, Longfellow.",,DLC03MQ02_0500_MeetingLongfellow
+Miscellaneous,Miscellaneous,Greeting,,,You got my whiskey yet?,Player Default: Here you go.,,DLC03MQ02_0500c_LongfellowWantsWhiskey
+Miscellaneous,Miscellaneous,Hello,,,Keep your guard up.,,,
+Miscellaneous,Miscellaneous,Hello,,,Don't stray too far.,,,
+Miscellaneous,Miscellaneous,Hello,,,Deep Fog has all manner of nasties.,,,
+Scene,SceneDialogue,Custom,,Player Default: You... You're a what? You came all this way... for me?,"Went to some trouble, in fact. Took a walk through the fog to find you.","Kasumi: Look, my mom and dad... I mean, those people that were taking care of me. They wouldn't want me back. Not if they knew the truth.",Impressed by the player's courage / Impressed,DLC03MQ03_02_KasumiGreetScene
+Scene,SceneDialogue,Custom,,Kasumi: What if DiMA is so open and welcoming because he's actually hiding something from us? A plan to wipe out the rest of the island?,DiMA turning on Far Harbor. Now that would be cause for concern...,"Player Default: I'll help if I can, but that's not much to go on.","Curious, a little concerned / Concerned",DLC03MQ03_02_KasumiGreetScene
+Scene,SceneDialogue,Custom,,Player Default: All right. Good luck. Let me know what you find out.,"Whatever we find out, I hope there's a way to make some caps out of it.",,"Uncertain, you feel like you're getting into trouble over your head / Concerned",DLC03MQ03_02_KasumiGreetScene
+Scene,SceneDialogue,Custom,,,Only reason I can think of to get rid of memories is cause you don't like what's in 'em.,,"Wary, growing concern / Concerned",DLC03MQ03_03a_EavesdropCompanionReaction
+Scene,SceneDialogue,Custom,,,"Truth be told, it's half the reason I drink as much as I do.",,Sheepish admission / Sarcastic,DLC03MQ03_03a_EavesdropCompanionReaction
+Scene,SceneDialogue,Custom,,DiMA: Those projections were merely to help us realize the cost of inaction.,Sounds like a lot of fancy talk aimed at throwin' us off the trail. Must mean we're on to somethin'.,"Player Default: If this thing involves the whole island, then you need help. I can be your problem-solver if you let me in.","Skeptical, suspicious / Suspicious",DLC03MQ03_04_DiMAPersuade
+Scene,SceneDialogue,Custom,,"DiMA: Our ultimate goal must be to bring peace. If you attack them, they'll consider themselves at war with the outside world.","I've got no love for those mindless fanatics at the Nucleus. I won't complain if it comes to violence. Hell, I'm hopin' it does.",,"Dark, bloodthirsty",DLC03MQ03_04_DiMAPersuade
+Scene,SceneDialogue,Custom,,Player Default: If it means peace for the island... all right. Tell me the plan.,You want to take out the leader of them rad-worshippin' fanatics? Count me in.,"DiMA: I promise you, as long as Far Harbor stands, I will make sure that Acadia does everything to make up for my crimes.","Eager, liking this plan / Confident",DLC03MQ05_0100_ConfrontDiMA
+Scene,SceneDialogue,Custom,,Player Default: Please. Consider it.,That's some dirty work I'd be happy to do.,"DiMA: I promise you, as long as Far Harbor stands, I will make sure that Acadia does everything to make up for my crimes.",Eager for violence / Confident,DLC03MQ05_0100_ConfrontDiMA
+Scene,SceneDialogue,Custom,,Player Default: Yes... yes... No one leaves this world clean. Sacrifices have to be made...,Anyone who expects a machine to value human life is foolin' themselves.,DiMA: I'm... starting to see things more clearly. We have to keep this secret from Far Harbor.,"Cold, bitter / Angry",DLC03MQ05_0100_ConfrontDiMA
+Scene,SceneDialogue,Custom,,Player Default: Maybe you're right. The compromises I've made... All without even knowing...,You're expectin' us to feel sorry for you? That's not happenin'.,DiMA: I'm... starting to see things more clearly. We have to keep this secret from Far Harbor.,Disapproving / Angry,DLC03MQ05_0100_ConfrontDiMA
+Scene,SceneDialogue,Custom,,Player Default: You're right. We have to focus on what has to be done now.,"So, you're just goin' to sweep it all under the rug, then? That's cowardly an' it's shameful.",DiMA: I'm... starting to see things more clearly. We have to keep this secret from Far Harbor.,"Indignant, disapproving / Angry",DLC03MQ05_0100_ConfrontDiMA
+Scene,SceneDialogue,Custom,,"Player Default: Thank you... Maybe the... guilt, will keep me focused...",You know as well as I do that the people in Far Harbor deserve to know the truth.,"DiMA: As horrifying as it might be to suggest, this memory you've recovered has... given us a new option.","Angry, disapproving / Angry",DLC03MQ05_0100_ConfrontDiMA
+Scene,SceneDialogue,Custom,,"Player Default: You have to do what you feel is right, but think about the consequences carefully before you act.",Don't listen to him. He's just tryin' to cover his ass.,"DiMA: As horrifying as it might be to suggest, this memory you've recovered has... given us a new option.",Derision / Angry,DLC03MQ05_0100_ConfrontDiMA
+Scene,SceneDialogue,Custom,,"Player Default: Make your case to the people of Far Harbor, DiMA. Let them decide.",Should have thought of that before he killed an innocent woman.,"DiMA: As horrifying as it might be to suggest, this memory you've recovered has... given us a new option.","Disapproving, angry / Angry",DLC03MQ05_0100_ConfrontDiMA
+Scene,SceneDialogue,Custom,,Player Default: Collateral what? Ah yes. You got good instincts there.,"So that cold-blooded synth bastard gets away with it, then. All thanks to you.","TeddyWright: Listen, I ain't telling no one nothing. If a single word got out...","Disapproving, bitter / Angry",DLC03MQ05_0400_TeddyExaminesSkull
+Scene,SceneDialogue,Custom,,Player Default: Make him what? Pay. No argument here. It's... diabolical.,You're goddamn right he's goin' to pay.,"TeddyWright: Listen, I ain't telling no one nothing. If a single word got out...","Angry, vindictive / Angry",DLC03MQ05_0400_TeddyExaminesSkull
+Scene,SceneDialogue,Custom,,Player Default: Don't do this. Do not kill Captain Avery.,Wonderin' that myself.,AllenLee: First thing's first.,Disapproving of the player's choice / Suspicious,DLC03MQ05_0500b_AveryAsksPC
+Scene,SceneDialogue,Custom,,Player Default: See? See the mainlander gets it.,"For all we know, that thing might be programmed to kill everyone in their sleep. Best not to take the chance.",AllenLee: First thing's first.,Wary / Stern,DLC03MQ05_0500b_AveryAsksPC
+Scene,SceneDialogue,Custom,,Player Default: Good call.,That's for the best. We islanders can handle our own business.,AllenLee: First thing's first.,Approving / Neutral,DLC03MQ05_0500b_AveryAsksPC
+Scene,SceneDialogue,Custom,,Player Default: I know that's no comfort to the person whose life I took...,"The greater good didn't do much for Captain Avery, now did it?",DiMA: I wanted to prove that humanity and synth could co-exist. That we did not have to fear each other. But I went too far. I see that now...,"Challenging, angry / Angry",DLC03MQ05_0700_JusticeForDiMA
+Scene,SceneDialogue,Custom,,Player Default: Yes... I am...,No sense dancin' around the truth.,DiMA: I wanted to prove that humanity and synth could co-exist. That we did not have to fear each other. But I went too far. I see that now...,Neutral,DLC03MQ05_0700_JusticeForDiMA
+Scene,SceneDialogue,Custom,,Player Default: You're not... Even... You... Goddammit.,Allen always was a rabble-rouser. Makes him feel big an' important.,SandraLee: Don't listen to the mainlander. My brother knows what we got to do!,"Derisive, disapproving / Irritated",DLC03MQ05_0700_JusticeForDiMA
+Scene,SceneDialogue,Custom,,Player Default: Even the Mainlander sees I'm right.,Ain't sure you need to take it that far. The synths up at Acadia haven't done anythin' wrong.,SandraLee: Acadia's going to burn!,Uncertain / Concerned,DLC03MQ05_0700_JusticeForDiMA
+Scene,SceneDialogue,Custom,,Player Default: Why... you... I ought to.,"Hah, can't tell you how many times I've told him the same thing.",SandraLee: Don't listen to the mainlander. My brother knows what we got to do!,Amused / Amused,DLC03MQ05_0700_JusticeForDiMA
+Scene,SceneDialogue,Custom,,Player Default: Haha. I like it.,Ain't goin' to be much of a fight. More like a massacre.,AllenLee: Everyone! Attack!,Disapproving / Worried,DLC03MQ05_0800_PreAcadiaAttack
+Scene,SceneDialogue,Custom,,Player Default: Too late for that.,Shouldn't have let things get this far to begin with.,AllenLee: Everyone! Attack!,Regretful / Worried,DLC03MQ05_0800_PreAcadiaAttack
+Scene,SceneDialogue,Custom,,Player Default: Damned straight.,I didn't sign on to butcher synths. I'm startin' to wonder if I should have signed on at all.,AllenLee: For your part in this: here.,Grave doubts / Stern,DLC03MQ05_0900_PostAcadiaWipeOut
+Scene,SceneDialogue,Custom,,"Player Default: Innocents, my ass. They had it coming.",Can't see how they had this comin'. They were no wiser to DiMA's crimes than DiMA himself.,AllenLee: For your part in this: here.,"Disapproving, disagreement / Stern",DLC03MQ05_0900_PostAcadiaWipeOut
+Scene,SceneDialogue,Custom,,Player Default: Do you not believe we have tried?,"They damn well better make peace. These lunatics so much as lift a finger against Far Harbor, there'll be consequences for all of 'em.","HighConfessorTektus: For years, my predecessor begged for peace while Far Harbor fortified their bastion of heresy.","Defiant, challenging / Defiant",DLC03CoA_DialogueNucleus_HighConfessorGreetScene
+Scene,SceneDialogue,Custom,,Player Default: Precisely. The only way to deal with an infection - cleanse the wound and cauterize the flesh.,You better just be tellin' these lunatics what they want to hear.,"HighConfessorTektus: For years, my predecessor begged for peace while Far Harbor fortified their bastion of heresy.",Warning / Stern,DLC03CoA_DialogueNucleus_HighConfessorGreetScene
+Topic,PlayerDialogue,Custom,,,"Sure you need that, cap'n?",,"Asking ""are you really sure""? You have misgivings, chems are addictive and you stay away from them.",
+Topic,PlayerDialogue,Custom,,,Chems'll bring you nothin' but trouble.,,Disapproving,
+Topic,PlayerDialogue,Custom,,,Don't care for chems. Need to stay sharp.,,Disapproving,
+Topic,PlayerDialogue,Custom,,,You can keep those chems far away from me.,,Disapproving,
+Topic,PlayerDialogue,Custom,,,My arm! Argh!,,"Crying out in pain, just got wounded in the arm.",
+Topic,PlayerDialogue,Custom,,,Damn! Got me in the arm!,,"Crying out in pain, arm just got wounded",
+Topic,PlayerDialogue,Custom,,,Arm's been hit!,,"Crying out in pain, arm just got wounded",
+Topic,PlayerDialogue,Custom,,,My head! Everythin's spinnin'.,,"Crying out in pain, you've just been wounded in the head",
+Topic,PlayerDialogue,Custom,,,Argh! Got my head!,,"Crying out in pain, you've just been wounded in the head",
+Topic,PlayerDialogue,Custom,,,Shit! Can't see!,,"Crying out in pain, you've just been wounded in the head",
+Topic,PlayerDialogue,Custom,,,Right in the damn leg!,,"A cry of pain, you've been wounded in the leg",
+Topic,PlayerDialogue,Custom,,,Blast it! My leg!,,"A cry of pain, you've been wounded in the leg",
+Topic,PlayerDialogue,Custom,,,My leg's hurt bad!,,"A cry of pain, you've been wounded in the leg",
+Topic,PlayerDialogue,Custom,,,Mind where you point that thing!,,"Annoyed at the player, who is firing a weapon for no reason",
+Topic,PlayerDialogue,Custom,,,Are you tryin' to get yourself shot?,,"Annoyed at the player, who is firing a weapon for no reason",
+Topic,PlayerDialogue,Custom,,,"The hell are you thinkin', firin' that off here?",,"Annoyed at the player, who is firing a weapon for no reason",
+Topic,PlayerDialogue,Custom,,,Might want to see to your dog.,,Calling attention to the fact the player's dog is wounded. Not particularly troubled about it.,
+Topic,PlayerDialogue,Custom,,,You pup's taken a lickin'.,,Calling attention to the fact the player's dog is wounded. Not particularly troubled about it.,
+Topic,PlayerDialogue,Custom,,,Looks like your dog's down for the count.,,Calling attention to the fact the player's dog is wounded. Not particularly troubled about it.,
+Topic,PlayerDialogue,Custom,,,"Take a swig for me, while you're at it.",,"Enthusiastic, the player is drinking alcohol, which you like",
+Topic,PlayerDialogue,Custom,,,Could do with a drink myself.,,"Enthusiastic, the player is drinking alcohol, which you like",
+Topic,PlayerDialogue,Custom,,,That'll keep you warm on a cold night.,,"Enthusiastic, the player is drinking alcohol, which you like",
+Topic,PlayerDialogue,Custom,,,"How's about a toast with that drink? Here's to wives an' sweethearts, may they never meet!",,"Enthusiastic, the player is drinking alcohol, which you like. End with a laugh.",
+Topic,PlayerDialogue,Custom,,,A proper drink calls for a proper toast. May the warm wind at your back not be your own!,,"Enthusiastic, the player is drinking alcohol, which you like. End with a laugh.",
+Topic,PlayerDialogue,Custom,,,Here's to full glasses an' fulsome lasses! Bottoms up!,,"Enthusiastic, the player is drinking alcohol, which you like. End with a laugh.",
+Topic,PlayerDialogue,Custom,,,Sure you want to just toss that?,,"Perplexed, why is the player throwing away something valuable?",
+Topic,PlayerDialogue,Custom,,,Well that's a damn waste.,,"Annoyed, perplexed, why is the player throwing away something valuable?",
+Topic,PlayerDialogue,Custom,,,That was worth somethin'. You're just goin' to leave it?,,"Annoyed, perplexed, why is the player throwing away something valuable?",
+Topic,PlayerDialogue,Custom,,,Think I'll just stay behind you while you've got that thing on.,,"The player just donned power armor, and is now a walking tank. It's not really your style, but it's useful.",
+Topic,PlayerDialogue,Custom,,,Better hope you don't get stuck in that thing.,,"The player just donned power armor, and is now a walking tank. You're a little leery of the technology",
+Topic,PlayerDialogue,Custom,,,Never had much use for power armor. Too damn noisy to go huntin' in.,,"The player just donned power armor, and is now a walking tank. You're a little leery of the technology",
+Topic,PlayerDialogue,Custom,,,"Should get a good view, if we don't all die in a fiery crash.",,"Nervous humor, mutter the second half",
+Topic,PlayerDialogue,Custom,,,"All things bein' equal, I'd rather keep my feet on solid ground.",,"A little nervous about flying, you don't trust that it's safe",
+Topic,PlayerDialogue,Custom,,,I hope this bucket's safer than it looks.,,"A little nervous about flying, you don't trust that it's safe",
+Topic,PlayerDialogue,Custom,,,"Got a way with machines, have ya?",,"Mildly impressed, but you really don't care much about machines",
+Topic,PlayerDialogue,Custom,,,Looks like you know your way around a terminal.,,"Mildly impressed, but you really don't care much about machines",
+Topic,PlayerDialogue,Custom,,,Never much cared to learn that trick myself.,,"Player hacked a computer. Mildly impressed, but you really don't care much about machines",
+Topic,PlayerDialogue,Custom,,,Thanks for that.,,Grateful for the player just healing you,
+Topic,PlayerDialogue,Custom,,,Feels better already.,,Grateful for the player just healing you,
+Topic,PlayerDialogue,Custom,,,Good as new.,,Grateful for the player just healing you,
+Topic,PlayerDialogue,Custom,,,"There you go, boy. Up on your feet, now.",,"The player healed his dog, you approve.",
+Topic,PlayerDialogue,Custom,,,That's one brave pup.,,"The player healed his dog, you approve.",
+Topic,PlayerDialogue,Custom,,,He's loyal as can be.,,"The player healed his dog, you approve.",
+Topic,PlayerDialogue,Custom,,,Are you mad? You'll break somethin' doin' that.,,"The player jumped from an unsafe height, you think they've lost it",
+Topic,PlayerDialogue,Custom,,,"Took a bad step, did ya?",,"The player jumped from an unsafe height, you think they've lost it",
+Topic,PlayerDialogue,Custom,,,"Careful now! What were you thinkin', jumpin' off that?",,"The player jumped from an unsafe height, you think they've lost it",
+Topic,PlayerDialogue,Custom,,,Why not? Ain't doin' them any good.,,"Player looted a corpse, and you're pragmatic about it.",
+Topic,PlayerDialogue,Custom,,,Anythin' good?,,"Player looted a corpse, and you're pragmatic about it.",
+Topic,PlayerDialogue,Custom,,,"It's ours now, eh cap'n?",,"Player looted a corpse, and you're pragmatic about it.",
+Topic,PlayerDialogue,Custom,,,Can always sell what we can't use ourselves.,,"Player looted a corpse, and you're pragmatic about it.",
+Topic,PlayerDialogue,Custom,,,First rule of survivin' is to put everythin' to use.,,"Player looted a corpse, and you're pragmatic about it.",
+Topic,PlayerDialogue,Custom,,,Better us get it than someone else.,,"Player looted a corpse, and you're pragmatic about it.",
+Topic,PlayerDialogue,Custom,,,Looks like you hit the jackpot.,,"Enthusiastic because the player found an epic item, a rare and expertly crafted weapon or piece of armor",
+Topic,PlayerDialogue,Custom,,,Now that's a hell of a find.,,"Enthusiastic because the player found an epic item, a rare and expertly crafted weapon or piece of armor",
+Topic,PlayerDialogue,Custom,,,Must be your lucky day.,,"Enthusiastic because the player found an epic item, a rare and expertly crafted weapon or piece of armor",
+Topic,PlayerDialogue,Custom,,,"No such thing as junk, far as I'm concerned. Everythin's got a use.",,"Approving. Player is picking up junk/trash items, but you're a scavenger and survivor who can put anything to use.",
+Topic,PlayerDialogue,Custom,,,No sense turnin' your nose up at somethin' that might be useful.,,"Approving. Player is picking up junk/trash items, but you're a scavenger and survivor who can put anything to use.",
+Topic,PlayerDialogue,Custom,,,That could come in handy.,,"Approving. Player is picking up junk/trash items, but you're a scavenger and survivor who can put anything to use.",
+Topic,PlayerDialogue,Custom,,,"Best to grab it now, while you can.",,"Approving. Player is picking up junk/trash items, but you're a scavenger and survivor who can put anything to use.",
+Topic,PlayerDialogue,Custom,,,"Somethin' from before the war, looks like.",,"Curious, the player picked up an item from the pre-war era. For you it's a relic of a lost time.",
+Topic,PlayerDialogue,Custom,,,Lots o' those old pre-war relics still layin' about.,,"Curious, the player picked up an item from the pre-war era. For you it's a relic of a lost time.",
+Topic,PlayerDialogue,Custom,,,"Collectin' antiques, are ya?",,"Curious, the player picked up an item from the pre-war era. For you it's a relic of a lost time.",
+Topic,PlayerDialogue,Custom,,,"That thing's three times as old as I am, and that's sayin' somethin'.",,"Curious, the player picked up an item from the pre-war era. For you it's a relic of a lost time.",
+Topic,PlayerDialogue,Custom,,,You're pretty handy with armor. That's a solid piece of work.,,,
+Topic,PlayerDialogue,Custom,,,It's good an' sturdy now.,,"Impressed, the player just improved some armor and made it even stronger",
+Topic,PlayerDialogue,Custom,,,"That's pretty good work. I should know, I've stitched up my share of armor.",,"Impressed, the player just improved some armor and made it even stronger",
+Topic,PlayerDialogue,Custom,,,"Made it even nastier, eh?",,Impressed that hte player improved a weapon,
+Topic,PlayerDialogue,Custom,,,Now it'll really pack a wallop.,,"End with a laugh, sort of an evil cackle. You're impressed that the player improved a weapon and you look forward to seeing it in action.",
+Topic,PlayerDialogue,Custom,,,Well that'll do some harm.,,You're impressed that the player improved a weapon and you look forward to seeing it in action.,
+Topic,PlayerDialogue,Custom,,,Did you really need to do that?,,"Player just murdered someone, this line can come from a dark place, you're suspicious and concerned",
+Topic,PlayerDialogue,Custom,,,That wasn't self-defense. That was cold-blooded murder.,,"Player just murdered someone, so this line can come from a dark place, you're suspicious and concerned",
+Topic,PlayerDialogue,Custom,,,Damn! You murdered 'em!,,Shock and fear. Player just murdered someone.,
+Topic,PlayerDialogue,Custom,,,Done some thievin' in your time?,,"Player is picking a lock, you're a little skeptical where that skill came from",
+Topic,PlayerDialogue,Custom,,,You've got a steady hand there.,,"Player is picking a lock, you're impressed with his skill",
+Topic,PlayerDialogue,Custom,,,You did that with a bobby pin? Well I'll be damned.,,"Player is picking a lock, you're impressed with his skill",
+Topic,PlayerDialogue,Custom,,,Ain't a lock made that'll keep you out.,,"Player is picking a lock, you're impressed with his skill",
+Topic,PlayerDialogue,Custom,,,Wouldn't mind learnin' that trick myself.,,"Player is picking a lock, you're impressed with his skill",
+Topic,PlayerDialogue,Custom,,,Better hope everyone's out.,,"A bit nervous, the player is breaking into someone's house.",
+Topic,PlayerDialogue,Custom,,,"If anyone's in there, they ain't goin' to like this.",,"A bit nervous, the player is breaking into someone's house.",
+Topic,PlayerDialogue,Custom,,,Pretty sure that's private property.,,"A bit nervous, the player is breaking into someone's house.",
+Miscellaneous,Miscellaneous,SharedInfo,,,Hold on now!,,"Shouted in battle, player got hit in the arm",
+Miscellaneous,Miscellaneous,SharedInfo,,,You alright?,,"Shouted in battle, player got hit in the arm",
+Miscellaneous,Miscellaneous,SharedInfo,,,Your arm!,,"Shouted in battle, player got hit in the arm",
+Miscellaneous,Miscellaneous,SharedInfo,,,Hang in there!,,"Shouted in battle, player got wounded in the head",
+Miscellaneous,Miscellaneous,SharedInfo,,,That looks bad.,,"Shouted in battle, player got wounded in the head",
+Miscellaneous,Miscellaneous,SharedInfo,,,"Damn, right in the head.",,"Shouted in battle, player got wounded in the head",
+Miscellaneous,Miscellaneous,SharedInfo,,,Hang on!,,"Shouted in battle, player just got wounded in the leg",
+Miscellaneous,Miscellaneous,SharedInfo,,,"Shake it off, now!",,"Shouted in battle, player just got wounded in the leg",
+Miscellaneous,Miscellaneous,SharedInfo,,,Your leg! Damnit!,,"Shouted in battle, player just got wounded in the leg",
+Topic,PlayerDialogue,Custom,,,Haulin' all that gear around is just goin' to slow you down.,,"The player is carrying way too much stuff. You're trying to encourage them to get rid of it, in a friendly way",
+Topic,PlayerDialogue,Custom,,,Let me lighten your load.,,"The player is carrying way too much stuff. You're trying to encourage them to get rid of it, in a friendly way",
+Topic,PlayerDialogue,Custom,,,You want to hand me some of that stuff you're luggin' around?,,"The player is carrying way too much stuff. You're trying to encourage them to get rid of it, in a friendly way",
+Topic,PlayerDialogue,Custom,,,Better get a move on. Radiation here.,,"Growing concern, the player's Geiger counter is buzzing, dangerous radiation in the area",
+Topic,PlayerDialogue,Custom,,,Let's get outta here. Don't fancy my hair fallin' out faster than it already is.,,"Growing concern, the player's Geiger counter is buzzing, dangerous radiation in the area",
+Topic,PlayerDialogue,Custom,,,"Radiation, damn. That's trouble we don't need.",,"Growing concern, the player's Geiger counter is buzzing, dangerous radiation in the area",
+Topic,PlayerDialogue,Custom,,,Geiger counter's singin' loud.,,"Growing concern, the player's Geiger counter is buzzing, dangerous radiation in the area",
+Topic,PlayerDialogue,Custom,,,Better take somethin' for that rad sickness.,,"Concerned, the player has been exposed to radiation and doesn't look good.",
+Topic,PlayerDialogue,Custom,,,"You don't look good. That's rad sickness, no doubt about it.",,"Concerned, the player has been exposed to radiation and doesn't look good.",
+Topic,PlayerDialogue,Custom,,,Rads are eatin' you up. Better do somethin' about that.,,"Concerned, the player has been exposed to radiation and doesn't look good.",
+Topic,PlayerDialogue,Custom,,,Real learnin' ain't found in books.,,"Condescending. Looking down your nose at books. Emphasis on ""real"".",
+Topic,PlayerDialogue,Custom,,,Never had much use for books myself.,,Condescending. Looking down your nose at books.,
+Topic,PlayerDialogue,Custom,,,Hope you learned somethin' interestin'.,,Condescending. Looking down your nose at books.,
+Topic,PlayerDialogue,Custom,,,Better not get caught doin' that.,,"The player is stealing. You don't approve, but you're willing to overlook it.",
+Topic,PlayerDialogue,Custom,,,"That's low, an' I don't care for it.",,"The player is stealing. You don't approve, but you're willing to overlook it.",
+Topic,PlayerDialogue,Custom,,,Takin' somethin' that don't belong to you is just askin' for trouble.,,"The player is stealing. You don't approve, but you're willing to overlook it.",
+Topic,PlayerDialogue,Custom,,,Thought you were better than that. Maybe I was wrong.,,"The player is stealing. You don't approve, but you're willing to overlook it.",
+Topic,PlayerDialogue,Custom,,,Hope you ain't tried that on me.,,"Wary, the player is picking peoples' pockets, you don't approve",
+Topic,PlayerDialogue,Custom,,,Folks got little enough as it is. Ain't right to steal from 'em.,,"Wary, the player is picking peoples' pockets, you don't approve",
+Topic,PlayerDialogue,Custom,,,"You think that's fair, takin' what don't belong to you?",,"Wary, the player is picking peoples' pockets, you don't approve",
+Topic,PlayerDialogue,Custom,,,That water don't exactly look clean.,,"Hint of disgust/disapproval. The player is swimming, and you think it's a bad idea.",
+Topic,PlayerDialogue,Custom,,,Careful now. Who knows what's in that water?,,"Hint of disgust/disapproval. The player is swimming, and you think it's a bad idea.",
+Topic,PlayerDialogue,Custom,,,There's easier ways to go fishin'.,,"Making a joke, end with a laugh. Player is swimming in foul water.",
+Topic,PlayerDialogue,Custom,,,Whoa! Watch it there!,,"Surprise, the player stepped on an unseen mine that just blew up",
+Topic,PlayerDialogue,Custom,,,Damn! Still breathin' there?,,"Surprise, the player stepped on an unseen mine that just blew up",
+Topic,PlayerDialogue,Custom,,,Sweet Jesus! Damn near scared me out o' my skin!,,"Surprise, the player stepped on an unseen mine that just blew up",
+Topic,PlayerDialogue,Custom,,,"Handy 'round a workbench, are ya?",,Impressed that the player is using a workbench and building something,
+Topic,PlayerDialogue,Custom,,,Better to build what you need than pay someone else for it.,,Impressed that the player is using a workbench and building something,
+Topic,PlayerDialogue,Custom,,,"Careful with them tools, now. Damn near lost a finger last time I tried that.",,"Impressed that the player is using a workbench and building something, but with a note of caution",
+Topic,PlayerDialogue,Custom,,,Sellin' what you build ain't a half bad way to make a livin'.,,Impressed that the player is using a workbench and building something,
+Topic,PlayerDialogue,Custom,,,"I think you forgot somethin', cap'n. Your clothes, maybe.",,Sarcasm. The player is walking around in underwear.,
+Topic,PlayerDialogue,Custom,,,"Fine way to dress when you're on your own. Not sure about now, though.",,Sarcasm. The player is walking around in underwear.,
+Topic,PlayerDialogue,Custom,,,"Folks'll think you're off your rocker, runnin' around in your skivvies like that.",,"The player is walking around in underwear. You really don't think it's a good idea,",
+Topic,PlayerDialogue,Custom,,,You might want to put on some clothes there.,,Sarcasm. The player is walking around in underwear.,
+Topic,PlayerDialogue,Custom,,,Cleaner than what I'm used to.,,Surprised by how clean this place is,
+Topic,PlayerDialogue,Custom,,,"Spick an' span, ain't it?",,Surprised by how clean this place is,
+Topic,PlayerDialogue,Custom,,,Well ain't this neat an' tidy?,,Surprised by how clean this place is,
+Topic,PlayerDialogue,Custom,,,Somethin' ain't right here. Feel it in my bones.,,"Cautious, afraid",
+Topic,PlayerDialogue,Custom,,,Hairs on my neck are standin' up.,,"Cautious, afraid",
+Topic,PlayerDialogue,Custom,,,"Don't much care for this place, cap'n. How's about we move on?",,"Cautious, afraid",
+Topic,PlayerDialogue,Custom,,,Dark as the nighttime sea.,,"Rhetorical, commenting on a very dark place you're in (physically, not emotionally)",
+Topic,PlayerDialogue,Custom,,,Ain't much light to go by.,,"Rhetorical, commenting on a very dark place you're in (physically, not emotionally)",
+Topic,PlayerDialogue,Custom,,,Can't see much past my boots in this.,,Commenting on an area without much light.,
+Topic,PlayerDialogue,Custom,,,"Dark enough for you, cap'n?",,"Commenting on an area without much light. Add a chuckle at the end, almost like this is a taunt.",
+Topic,PlayerDialogue,Custom,,,Dust's as thick as sand here.,,"Rhetorical, griping about a lot of dust",
+Topic,PlayerDialogue,Custom,,,"Should cover our mouths, or we're like to choke on this dust.",,"Rhetorical, griping about a lot of dust. (""Like to"" is slang shorthand for ""likely to"")",
+Topic,PlayerDialogue,Custom,,,Don't think anyone's set foot here in a long time.,,"Observing an area thick with dust, looks abandoned",
+Topic,PlayerDialogue,Custom,,,Ain't smart standin' out in the open for long.,,"Nervous, feeling exposed and vulnerable",
+Topic,PlayerDialogue,Custom,,,We'll make fine targets standin' out in the open like this.,,"Grousing, grumbling, feeling exposed and vulnerable",
+Topic,PlayerDialogue,Custom,,,"Ought to get some cover at our backs, an' the sooner the better.",,"Nervous, feeling exposed and vulnerable",
+Topic,PlayerDialogue,Custom,,,Can't abide bein' out in the open like this.,,"Griping, feeling exposed and vulnerable",
+Topic,PlayerDialogue,Custom,,,Fine place to hunker down.,,"Approving, impressed with the defenses here, feels secure",
+Topic,PlayerDialogue,Custom,,,"Solid walls here, cap'n.",,"Approving, impressed with the defenses here, feels secure",
+Topic,PlayerDialogue,Custom,,,I'll wager this place was built to protect somethin' valuable.,,"Approving, impressed with the defenses here, feels secure",
+Topic,PlayerDialogue,Custom,,,This place was built to last.,,"Approving, impressed with the defenses here, feels secure",
+Topic,PlayerDialogue,Custom,,,Ain't the worst mess I've seen.,,"Unimpressed by a lot of blood and gore, you're a tough SOB",
+Topic,PlayerDialogue,Custom,,,Don't feel ashamed if you lose your lunch. Most folks would.,,Condescending. You're surrounded by blood and gore but you're a tough guy and you're ribbing the player,
+Topic,PlayerDialogue,Custom,,,"Whoever that used to be, I hope the end came quick.",,"Rhetorical, muttered to yourself in a low voice. Observing a bloody, gory scene. A note of sympathy",
+Topic,PlayerDialogue,Custom,,,I'll wager somethin' unpleasant happened here.,,"A joke, intentional understatement, should end with a laugh. You're surrounded by blood and gore, it's obvious something awful happened here.",
+Topic,PlayerDialogue,Custom,,,"Ain't a pleasant sight, that.",,Mildly disturbed by a disgusting sight,
+Topic,PlayerDialogue,Custom,,,That's just bloody disgustin'.,,Mildly disturbed by a disgusting sight,
+Topic,PlayerDialogue,Custom,,,Think I'm gonna need a strong drink so I can forget I ever saw that.,,Disturbed by a disgusting sight,
+Topic,PlayerDialogue,Custom,,,The sight of that'll turn your stomach.,,Mildly disturbed by a disgusting sight,
+Topic,PlayerDialogue,Custom,,,"Lots of fancy machines here, and none of 'em worth a lick.",,"Disdain, you don't care for technology",
+Topic,PlayerDialogue,Custom,,,"Best if we don't touch none of these machines, cap'n.",,"Disdain, you don't care for technology",
+Topic,PlayerDialogue,Custom,,,"Pre-war scrap, that's all these machines are.",,"Disdain, you don't care for technology",
+Topic,PlayerDialogue,Custom,,,"All these machines, an' what good did they amount to?",,"Disdain, you don't care for technology",
+Topic,PlayerDialogue,Custom,,,We'll go deaf if we stay here much longer.,,Complaining about loud noise,
+Topic,PlayerDialogue,Custom,,,My ears'll be ringin' for a week after this.,,Complaining about loud noise,
+Topic,PlayerDialogue,Custom,,,Should've stuffed my ears before comin' here.,,Complaining about loud noise,
+Topic,PlayerDialogue,Custom,,,"Loud enough for you, cap'n?",,Complaining about loud noise,
+Topic,PlayerDialogue,Custom,,,Look at this mess.,,Disdain at a messy scene,
+Topic,PlayerDialogue,Custom,,,What the hell happened here?,,Disdain at a messy scene,
+Topic,PlayerDialogue,Custom,,,This place is wrecked pretty good.,,Disdain at a messy scene,
+Topic,PlayerDialogue,Custom,,,Now that's a sight.,,Admiring a scenic view,
+Topic,PlayerDialogue,Custom,,,Ain't every day you see somethin' like that.,,Admiring a scenic view,
+Topic,PlayerDialogue,Custom,,,A sight like that'll put a smile on your face.,,Admiring a scenic view,
+Topic,PlayerDialogue,Custom,,,"If I'm dreamin', then don't wake me up.",,"Wistful, seeing a beautiful vista",
+Topic,PlayerDialogue,Custom,,,This silence ain't natural. I don't like it.,,"Said in a quiet, almost hushed voice. Nervous because you're not used to silence.",
+Topic,PlayerDialogue,Custom,,,It's gone awful quiet.,,"Suspicious, alert. Is something about to happen?",
+Topic,PlayerDialogue,Custom,,,Ain't used to this much quiet.,,"On edge, it's a little too quiet for comfort",
+Topic,PlayerDialogue,Custom,,,Ain't a sound to be heard.,,"Said in a quiet voice, almost a whisper",
+Topic,PlayerDialogue,Custom,,,"If you need a rest, this ain't a bad spot.",,"Observing a safe area. You're a tough guy, you don't need a rest.",
+Topic,PlayerDialogue,Custom,,,Looks like a safe place to hole up.,,Observing a safe place,
+Topic,PlayerDialogue,Custom,,,We should remember this place. Good spot for a camp.,,Observing a safe place,
+Topic,PlayerDialogue,Custom,,,Stinks to high heaven.,,"In a place with a strong, unpleasant odor",
+Topic,PlayerDialogue,Custom,,,Smell that? Somethin' must be rotten around here.,,Really bad smell in the air,
+Topic,PlayerDialogue,Custom,,,That smell... Wish I had one of them pre-war breath masks.,,Really bad smell in the air,
+Topic,PlayerDialogue,Custom,,,Reeks somethin' awful here.,,Really bad smell in the air,
+Topic,PlayerDialogue,Custom,,,Hope you've got some dry socks.,,"Said with a chuckle, a mild taunt... player is walking through water",
+Topic,PlayerDialogue,Custom,,,A little water won't kill ya.,,"Said with a chuckle, a mild taunt... player is walking through water",
+Topic,PlayerDialogue,Custom,,,Bit of splashin' about never bothered me.,,"Said with a chuckle, you don't mind walking in water",
+Topic,PlayerDialogue,Custom,,,I suppose if you've got it to spare.,,Expressing skepticism at the player giving things away,
+Topic,PlayerDialogue,Custom,,,You sure you can afford to be handin' things out?,,Expressing skepticism at the player giving things away,
+Topic,PlayerDialogue,Custom,,,"You ask me, folks should earn what they get.",,"Expressing skepticism at the player giving things away. Emphasis on ""earn"".",
+Topic,PlayerDialogue,Custom,,,Better hope that don't come back to bite ya.,,"Skeptical that the player didn't choose violence (letting an enemy live, for example)",
+Topic,PlayerDialogue,Custom,,,Ain't many would have done what you just did.,,"Skeptical that the player didn't choose violence (letting an enemy live, for example)",
+Topic,PlayerDialogue,Custom,,,"That'll save ammunition, if nothin' else.",,"Skeptical that the player didn't choose violence (letting an enemy live, for example)",
+Topic,PlayerDialogue,Custom,,,Could have told ya that wasn't goin' to work.,,I told you so,
+Topic,PlayerDialogue,Custom,,,"Some folks are just spoilin' for a fight, an' nothin' you say will change their minds.",,The player should have known better than to try talking down the enemy. You knew it would come to blows anyway,
+Topic,PlayerDialogue,Custom,,,"Well, no one can say you didn't try to take the high road.",,"The player failed to talk down an enemy, violence ensued",
+Topic,PlayerDialogue,Custom,,,"Bled 'em dry, eh?",,End with a short laugh. The player squeezed some extra reward money from an NPC and this amuses you.,
+Topic,PlayerDialogue,Custom,,,Got to look out for yourself first.,,The player squeezed some extra reward money from an NPC and you're impressed,
+Topic,PlayerDialogue,Custom,,,You made that look easy.,,The player squeezed some extra reward money from an NPC and this amuses you.,
+Topic,PlayerDialogue,Custom,,,S'pose that's one way to get things done.,,The player chose a violent solution to a problem. You're not sure that's the best course.,
+Topic,PlayerDialogue,Custom,,,Best be careful not to start somethin' you can't finish.,,The player chose a violent solution to a problem. You're not sure that's the best course.,
+Topic,PlayerDialogue,Custom,,,"Sometimes, you've got to send a message.",,The player chose a violent solution to a problem. You're not sure that's the best course.,
+Topic,PlayerDialogue,Custom,,,"Those chems have got a hold on you, cap'n.",,Disapproving,
+Topic,PlayerDialogue,Custom,,,You'll leave those chems alone if you know what's good for you.,,Disapproving,
+Topic,PlayerDialogue,Custom,,,"I don't mean to tell you your business, but you got too much of that poison in you.",,Disapproving,
+Topic,PlayerDialogue,Custom,,,Hmm... someone - or somethin' - was just here.,,"Growing concern... an enemy might be near. Said in a low, cautious voice.",
+Topic,PlayerDialogue,Custom,,,"Careful now, cap'n. This place ain't been empty long.",,"Growing concern... an enemy might be near. Said in a low, cautious voice.",
+Topic,PlayerDialogue,Custom,,,We should keep movin'. Don't think it's safe here.,,"Growing concern... an enemy might be near. Said in a low, cautious voice.",
+Topic,PlayerDialogue,Custom,,,This ain't no place to dawdle.,,"Growing concern... an enemy might be near. Said in a low, cautious voice.",
+Topic,PlayerDialogue,Custom,,,"You smell that? Somethin's just been here, ain't sure what.",,"Sniff the air, then say line. Growing concern... an enemy might be near. Said in a low, cautious voice.",
+Scene,SceneDialogue,Custom,,Player Default: I appreciate the compliment.,"Believe me, I don't give 'em unless they're earned.",OldLongfellow: You've got more spine than most of the folks livin' here. Maybe we can help each other out.,Stern,DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,Player Default: The trip wasn't that bad.,Is that so?,OldLongfellow: You've got more spine than most of the folks livin' here. Maybe we can help each other out.,"Measured, trying to see if the player is BSing you / Neutral",DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, well, I am pretty awesome.",Hah! I like it.,OldLongfellow: You've got more spine than most of the folks livin' here. Maybe we can help each other out.,Open with a laugh. Amused. / Amused,DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,Player Default: Who are you?,"Name's Longfellow. Everyone calls me Old Longfellow, like I need remindin'.",,"Grousing, but friendly / Neutral",DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,,"I've a mind to ask you the same question. We don't get many mainlanders nowadays, let alone those with the guts to walk in the Fog.",,"Curious, impressed / Neutral",DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,,"I'm a hunter by trade, an' sometimes a guide for those lookin' to head from Far Harbor up to Acadia.",Player Default: I appreciate the compliment.,Neutral,DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,Player Default: Who are you?,You're damn right it is. There's all manner of nastiness in the Fog. Most folks are content to cower behind the Hull in Far Harbor. But not you.,Player Default: I appreciate the compliment.,Impressed by the player's courage / Neutral,DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,"Player Default: Believe me, I don't give 'em unless they're earned.",You've got more spine than most of the folks livin' here. Maybe we can help each other out.,,Making a proposition,DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,,"I'm tired of waitin' around for somethin' interestin' to happen. Ain't getting' any younger, that's for damn sure.",,"Grousing a bit, but friendly / Irritated",DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,,"Thing is, I was born an' raised here. I know this island front to back. I know what's in the Fog and how to deal with it.",,Selling yourself,DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,,"Let me run with you. I could help you find your way around. Teach you what I know. Best of all, you won't have to drink alone.",Player Default: Sounds like a good offer. I accept.,Friendly / Friendly,DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,Player Default: Sounds like a good offer. I accept.,Alright then.,,"Agreeable, friendly / Friendly",DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,Player Default: No thanks.,"Well, you change your mind, I'll be ready.",,A little disappointed / Neutral,DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,"Player Default: I'm good for now, but I might take you up on that later.",Right then. I'll be here if you need me.,,Neutral,DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,Player Default: Are you sure? I don't exactly live the safest of lives.,Thank God for that. I was afraid I'd die of boredom.,Player Default: Sounds like a good offer. I accept.,Agreeable / Sarcastic,DLC03_COMOldLongfellow_00_FirstTimePickup
+Scene,SceneDialogue,Custom,,"Player Default: Save it for later, Longfellow.","We'll you'd better make it soon, or there won't be a talk at all.","OldLongfellow: Guess I didn't get through the first time we had this conversation, cause here we are, at it again.",Angry at being brushed off,DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: I'm going to guess that you're mad at me about something.,"Figured that out, did ya?","OldLongfellow: Guess I didn't get through the first time we had this conversation, cause here we are, at it again.",Annoyed sarcasm,DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: We'll you'd better make it soon, or there won't be a talk at all.","Guess I didn't get through the first time we had this conversation, cause here we are, at it again.",,"Angry, exasperated",DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,,I told you that I was willin' to stick with you because I thought you might be different from the usual Commonwealth rabble.,,"Exasperated, annoyed",DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,,"I've tried to make it clear when you do somethin' I don't approve of, but you've just ignored me, again an' again.",,"Exasperated, annoyed",DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,,"Truth is, I don't think you ever gave a damn what I think. Hell, maybe you never will. Maybe I'm just wastin' my time here.","Player Default: That's not true, Longfellow. Even when I don't share your opinion, I still value it.","Annoyed, exasperated",DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: That's not true, Longfellow. Even when I don't share your opinion, I still value it.",Well you sure as hell don't act like it.,,Frustrated,DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: If you want to quit every time things get tough, that's not my problem, it's yours.","Is that what you think? That I'm a quitter? Well let me tell you somethin' - a Far Harbor man doesn't quit, not ever.",,Defiant anger,DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: Maybe you're right, Longfellow. Maybe this is a waste of time for both of us.",,,,DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: Well, what do you think? You really think you're wasting your time with me?","I ain't made up my mind about that yet, but it ain't lookin' good.",,Angry complaining,DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: Wait. Let's just talk about things first.,Not this time. I'm done talkin'.,"OldLongfellow: This ain't workin' out, an' we both know it. I gave you every chance I could, but nothin's changed.","Resigned to your path, no more talking",DLC03_COMOldLongfellow_08_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,"Player Default: I've just about had it with your bitching and moaning, Longfellow.","Don't worry, you won't have to put up with me any more.","OldLongfellow: This ain't workin' out, an' we both know it. I gave you every chance I could, but nothin's changed.","Disappointed, resigned, walking away",DLC03_COMOldLongfellow_08_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,"Player Default: You're upset, I get it, but let's not do anything hasty here, okay?","Oh, it ain't hasty. It's been a long time comin', an' I've made no secret about bein' unhappy.","OldLongfellow: This ain't workin' out, an' we both know it. I gave you every chance I could, but nothin's changed.","Disappointed, resigned, saying goodbye",DLC03_COMOldLongfellow_08_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: What's that supposed to mean?,"You really don't know? Even now? Jesus H. Christ, to think they call me thick-headed an' stubborn.","OldLongfellow: This ain't workin' out, an' we both know it. I gave you every chance I could, but nothin's changed.","Emphasize ""ME""",DLC03_COMOldLongfellow_08_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: Not this time. I'm done talkin'.,"This ain't workin' out, an' we both know it. I gave you every chance I could, but nothin's changed.",,"Firm, disappointed, walking away",DLC03_COMOldLongfellow_08_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,,"No sense belaborin' the point, so I'll be sayin' goodbye.",,"Firm, angry",DLC03_COMOldLongfellow_08_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,,"Oh, an' one other thing... don't ever talk to me again.",,"Cold, angry, sense of finality",DLC03_COMOldLongfellow_08_RepeatDisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: Not right now.,"Sure thing, cap'n. We can talk later.","OldLongfellow: Look, cap'n... it takes a lot for a Far Harbor man to admit when he's been wrong, so it ain't easy for me to say what I got to say.",Friendly,DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: Sure thing, cap'n. We can talk later.","Look, cap'n... it takes a lot for a Far Harbor man to admit when he's been wrong, so it ain't easy for me to say what I got to say.",,"Struggling, stammering... proud, tough man trying to be humble",DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"What I mean is, I said some things about you that I regret.",,"Struggling, stammering... proud, tough man trying to be humble",DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"I said you were only thinkin' about yourself, an' you weren't respectin' me. Well, now I know that ain't true.",,"Struggling, stammering... proud, tough man trying to be humble",DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"So, uh... hopefully we can just put all that behind us an' get on with things.","Player Default: Hey, it's alright. No need for an apology.","Struggling, stammering... proud, tough man trying to be humble",DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: Hey, it's alright. No need for an apology.","Well in that case, forget I said it. Let's just get back to what we were doin'.","OldLongfellow: Yeah, well, now that we've poured our hearts out to each other, let's quit actin' like fools an' get back to work.","A little defensive and grumpy, but still a friend",DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: You really mean that, Longfellow?","Well I said it, didn't I? Do I strike you as the type who says somethin' he don't mean?",,"A little defensive and grumpy, but still a friend",DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"Now I've said my piece, so let's just get back to what we were doin'.","OldLongfellow: Yeah, well, now that we've poured our hearts out to each other, let's quit actin' like fools an' get back to work.",Ready to move on from the emotional conversation,DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: Well in that case, forget I said it. Let's just get back to what we were doin'.","Yeah, well, now that we've poured our hearts out to each other, let's quit actin' like fools an' get back to work.",,"Sincere emotional conversation over, time to be a tough guy curmudgeon again",DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: It'll have to wait, Longfellow.","Fine, but we are goin' to have this conversation.","OldLongfellow: I'm a hunter by trade, so I'm no stranger to takin' life. But I only kill what I need to eat, an' in self-defense.","Emphasis on ARE. Annoyed, feeling brushed off",DLC03_COMOldLongfellow_11_MurderScene
+Scene,SceneDialogue,Custom,,"Player Default: Fine, but we are goin' to have this conversation.","I'm a hunter by trade, so I'm no stranger to takin' life. But I only kill what I need to eat, an' in self-defense.",,"Firm, laying down the law, taking a stand",DLC03_COMOldLongfellow_11_MurderScene
+Scene,SceneDialogue,Custom,,,"One thing I'll never do is take the life of an innocent, no matter how much I might think they deserve it.",,"Firm, taking a stand",DLC03_COMOldLongfellow_11_MurderScene
+Scene,SceneDialogue,Custom,,,"That's the code I live by, an' that's why I can't sit by an' watch you murderin' people without sayin' somethin'.",,"Firm, taking a stand",DLC03_COMOldLongfellow_11_MurderScene
+Scene,SceneDialogue,Custom,,,"Now I'm as thick-skinned a son-of-a-bitch as Far Harbor's ever known, so I can take all the shit you want to throw at me.",,"Firm, taking a stand",DLC03_COMOldLongfellow_11_MurderScene
+Scene,SceneDialogue,Custom,,,But murder? That's somethin' I won't stand for.,Player Default: I understand. It won't happen again.,"Firm, taking a stand",DLC03_COMOldLongfellow_11_MurderScene
+Scene,SceneDialogue,Custom,,Player Default: I understand. It won't happen again.,That's good enough for me. Thanks for respectin' my feelin's on the matter.,,Pleased,DLC03_COMOldLongfellow_11_MurderScene
+Scene,SceneDialogue,Custom,,"Player Default: I'll do what I have to do, Longfellow. How you feel about it is your problem.",That's how you want to play it? Fine. You've been warned. Now let's see what you do about it.,,"Cold, hostile",DLC03_COMOldLongfellow_11_MurderScene
+Scene,SceneDialogue,Custom,,"Player Default: Duly noted, Longfellow. I'll keep that in mind.","I was hopin' for a little more than that, but have it your way. I'll judge you by your actions, an' not your words.",,"Dissatisfied, not what you wanted to hear",DLC03_COMOldLongfellow_11_MurderScene
+Scene,SceneDialogue,Custom,,"Player Default: Wait, you have a code?","It ain't much of one, but yeah, I do. You can make light of it all you want, just don't say I didn't warn you.",,"Serious, not amused",DLC03_COMOldLongfellow_11_MurderScene
+Scene,SceneDialogue,Custom,,Player Default: That's right. Let's get going.,"After you, then.",Companion: You sure you two are gonna be all right out there?,"Eager, ready for adventure",DLC03_COMOldLongfellow_10_PickupScene
+Scene,SceneDialogue,Custom,,Player Default: Not yet. Just stay put for now.,Right.,Companion: You sure you two are gonna be all right out there?,"Agreement, following order",DLC03_COMOldLongfellow_10_PickupScene
+Scene,SceneDialogue,Custom,,Player Default: I just need to trade some things with you.,Sure thing.,Companion: You sure you two are gonna be all right out there?,"Friendly, ready to help",DLC03_COMOldLongfellow_10_PickupScene
+Scene,SceneDialogue,Custom,,,"Well, I've got my gun, my drink an' my wits. That's all I've ever needed.",,Making a joke,DLC03_COMOldLongfellow_10_PickupScene
+Scene,SceneDialogue,Custom,,,"Time to get movin', then?",Player Default: That's right. Let's get going.,"Eager, ready for adventure",DLC03_COMOldLongfellow_10_PickupScene
+Scene,SceneDialogue,Custom,,"Player Default: After you, then.","Quit your worryin', metal man. We'll be fine.",,Feeling nagged,DLC03_COMOldLongfellow_10_PickupScene
+Scene,SceneDialogue,Custom,,Player Default: Not right now.,"Fine, wasn't anything urgent.","OldLongfellow: Look, I know I ain't the easiest man in Far Harbor to get along with. Social graces... well, that's never been my strong suit.",A little deflated but otherwise fine,DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,"Player Default: If it's that important, I guess we can talk.",Right then.,"OldLongfellow: Look, I know I ain't the easiest man in Far Harbor to get along with. Social graces... well, that's never been my strong suit.","Ready to dive in and talk about an emotional issue, your growing friendship with the player. Does not come easily to you.",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,"Player Default: Fine, wasn't anything urgent.","Look, I know I ain't the easiest man in Far Harbor to get along with. Social graces... well, that's never been my strong suit.",,"Fumbling with an emotional issue, admitting your admiration for the player. Does not come easy.",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,"Thing is, most folk in Far Harbor ain't worth a damn anyway. All of 'em cowerin' behind their wall, too scared to fight for their home.",,"Disdain for the people of Far Harbor, who seem helpless to you",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,"Can't like someone I can't even respect, and, uh... well, that brings me to you.","Player Default: If you're trying to say that you respect me, then I'm glad you feel that way.","Fumbling with an emotional issue, admitting your admiration for the player. Does not come easy.",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,"Player Default: Quit beating around the bush, Longfellow. If you have something to tell me, then say it.",I'm getting' to it!,"OldLongfellow: I ain't goin' soft on you now, don't be thinkin' that. All I'm sayin' is, it's good to meet someone who can take care of themselves for a change.","Snapping, a moment of annoyance, ""hold your horses!""",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: You lack social graces? What makes you think that?,"Yeah, yeah.","OldLongfellow: I ain't goin' soft on you now, don't be thinkin' that. All I'm sayin' is, it's good to meet someone who can take care of themselves for a change.","Dismissive, the player is giving you a hard time, being sarcastic. You're moving past it.",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: I'm getting' to it!,"I ain't goin' soft on you now, don't be thinkin' that. All I'm sayin' is, it's good to meet someone who can take care of themselves for a change.",,"Fumbling with an emotional issue, admitting your admiration for the player. Does not come easy.",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,"Hell I ain't been close to a lot of folks in my life, an' there's even fewer I'd call a friend, but who knows?",,,DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,,"We stick together long enough, cap'n, then it might just be that you're my next one.",Player Default: That sounds good to me!,,DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,"Player Default: Don't get ahead of yourself, Longfellow. I'm a little more picky than you about who I call a friend.",Then I guess it's up to me to prove I'm worth it. I think I can handle that.,"OldLongfellow: Alright, enough of this blubberin'. You lead an' I'll follow. Seems to be workin' out so far.",Confident,DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: Does this mean I have to give you a hug or something?,Hell no.,"OldLongfellow: Alright, enough of this blubberin'. You lead an' I'll follow. Seems to be workin' out so far.","Said with a chuckle, laughing off a silly idea",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: You sure about that? My friends tend to get into a lot of dangerous situations.,That's every day of my life.,"OldLongfellow: Alright, enough of this blubberin'. You lead an' I'll follow. Seems to be workin' out so far.","Confident, brash, you can handle anything",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,Player Default: Then I guess it's up to me to prove I'm worth it. I think I can handle that.,"Alright, enough of this blubberin'. You lead an' I'll follow. Seems to be workin' out so far.",,"Tough guy, but please. You had a good talk with the player, so there's a smile on your face.",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Scene,SceneDialogue,Custom,,"Player Default: Alright, let's talk.","I appreciate it, cap'n.","OldLongfellow: At my age, any chance to make a new friend is... well, it ain't somethin' I'd expect to happen much, but I'm glad it did.",,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: Another time, Longfellow.","Sure, cap'n. Whatever you say.","OldLongfellow: At my age, any chance to make a new friend is... well, it ain't somethin' I'd expect to happen much, but I'm glad it did.",Trying not to be an inconvenience,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,Player Default: I guess we can talk now.,"Thanks, cap'n.","OldLongfellow: At my age, any chance to make a new friend is... well, it ain't somethin' I'd expect to happen much, but I'm glad it did.",Grateful,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: I appreciate it, cap'n.","At my age, any chance to make a new friend is... well, it ain't somethin' I'd expect to happen much, but I'm glad it did.",,"Expressing admiration, but this isn't easy, you're not used to being emotional",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"There're more to it than that, though.","OldLongfellow: Long time ago, when I was a young man, I had a sweetheart. Hannah was her name, and we planned to get married, raise a family an' all that.","Expressing admiration, but this isn't easy, you're not used to being emotional",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"OldLongfellow: There're more to it than that, though.","Long time ago, when I was a young man, I had a sweetheart. Hannah was her name, and we planned to get married, raise a family an' all that.",,"Wistful, the start of a memory",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"Well, we had a place out in the Fog we used to meet, so we could be alone. Damn Children of Atom jumped us. They took her an' left me for dead.",,"A painful memory, rising anger",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"Took two months to recover from my injuries. By then it was too late. They'd warped her mind, an' turned her to their ways.",,"Bitter, angry with yourself",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"Was only later I learned she was carryin' our child. Of course, the baby didn't stand a chance with all that radiation. Atom's will, she called it.",,Sad and bitter,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"Anyway, she died a few years later. Trappers got her, or so them lunatics said. I guess that was Atom's will, too.","Player Default: I didn't know. I'm so sorry, Longfellow.",Sad and bitter,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: I didn't know. I'm so sorry, Longfellow.","Yeah, well, we all got our scars, right?","OldLongfellow: Truth is, what happened to Hannah was her choice, an' so be it. But I never got to be a father, an' that's what I regret.",Sad,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: So basically, you failed to protect the woman you love, as well as your baby.","I don't let myself forget it, cap'n. Not for a single day.","OldLongfellow: Truth is, what happened to Hannah was her choice, an' so be it. But I never got to be a father, an' that's what I regret.","Sad, bitter, punishing yourself",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,Player Default: Can you wrap this up sometime soon?,I'm gettin' to it.,"OldLongfellow: Truth is, what happened to Hannah was her choice, an' so be it. But I never got to be a father, an' that's what I regret.",A little annoyed,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: This is very personal information, Longfellow. Why tell me now?",Cause I need you to know where I'm comin' from.,"OldLongfellow: Truth is, what happened to Hannah was her choice, an' so be it. But I never got to be a father, an' that's what I regret.",Trying to get the player to understand something that's important to you,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: Yeah, well, we all got our scars, right?","Truth is, what happened to Hannah was her choice, an' so be it. But I never got to be a father, an' that's what I regret.",,Sad,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"If I had a son or daughter, well, I'd have someone to pass on all my learnin' to.",,"Regret, you never had the chance to be a father",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"But you, you're the first person I've met that's worth teachin' what I've got to teach.",,Rising hope and optimism,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,"I ain't good with tellin' people that I'm grateful, but you've given this old hunter a sense of purpose, an' a reason for livin'.",,"Warm, grateful",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,,That's somethin' I ain't had for a long time.,"Player Default: Thanks, Longfellow. It means a lot to me that you think so.","Warm, grateful",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: I didn't come to Far Harbor to restore your sense of purpose, Longfellow.","I know that, cap'n, but all the same, I'm grateful to know you.","OldLongfellow: Well, that was all I had to say. I appreciate you hearin' me out.",,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,Player Default: You really mean that?,"Every word of it, cap'n.","OldLongfellow: Well, that was all I had to say. I appreciate you hearin' me out.","Happy, made a new friend",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,"Player Default: I know that, cap'n, but all the same, I'm grateful to know you.","Well, that was all I had to say. I appreciate you hearin' me out.",,Sincere gratitude,DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Scene,SceneDialogue,Custom,,Player Default: I'm listening.,Well that's a first.,OldLongfellow: Let me make somethin' clear right now. We Far Harbor folk don't much care for outsiders.,Annoyed sarcasm,DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: Not right now, Longfellow.","Have it your way, but sooner or later, you're goin' to hear me out, or you're goin' to find someone else to watch your back.",OldLongfellow: Let me make somethin' clear right now. We Far Harbor folk don't much care for outsiders.,Angry at being brushed off,DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: Hm, let me guess, you're about to complain about something.",You're damn right I am.,OldLongfellow: Let me make somethin' clear right now. We Far Harbor folk don't much care for outsiders.,Annoyed,DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: Well that's a first.,Let me make somethin' clear right now. We Far Harbor folk don't much care for outsiders.,,"Annoyed at the player, feeling taken for granted",DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,,"Most who come to the island are just lookin' out for themselves, an' they don't give a damn about what's good for us.",,"Annoyed at the player, feeling taken for granted",DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,,"I agreed to this little partnership 'cause I thought you might be different. Well, I'm wonderin' if I was wrong.",,"Annoyed at the player, feeling taken for granted",DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,,"Feels like lately you've been takin' me for granted, thinkin' I'll stick around no matter what you do.",,"Annoyed at the player, feeling taken for granted",DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,,"Let this be a warnin' to you. If you keep on actin' the way you've been, I'll head straight back to Far Harbor.","Player Default: Whatever I did to upset you, Longfellow, I'm sorry.","Annoyed at the player, feeling taken for granted",DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: Whatever I did to upset you, Longfellow, I'm sorry.",You'd better not just be sayin' that to shut me up.,OldLongfellow: Now I've said my piece. I hope at least some of it got through.,"Wary, not entirely believing the player, but willing to give him a chance",DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: You do whatever you think you have to, Longfellow.","Keep on like that, an' I will.",OldLongfellow: Now I've said my piece. I hope at least some of it got through.,"Angry, threatening to walk away",DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: Duly noted, Longfellow.",It better be.,OldLongfellow: Now I've said my piece. I hope at least some of it got through.,Annoyed,DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: What, you think I need your help? I can make it on my own just fine, pal.","You want to go it alone, you just say the word. The way things are goin' right now, I might just be happier back home.",OldLongfellow: Now I've said my piece. I hope at least some of it got through.,Annoyed,DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,Player Default: You'd better not just be sayin' that to shut me up.,Now I've said my piece. I hope at least some of it got through.,,"Annoyed for now, but hoping things will improve",DLC03_COMOldLongfellow_03_NeutralToDisdain
+Scene,SceneDialogue,Custom,,"Player Default: Whoa, hold on. Let's talk about this.",Forget it.,OldLongfellow: I made my feelin's clear on the matter of you killin' innocent people. I wont' stand for it any longer.,"Fed up, angry, you're done with this guy",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,"Player Default: You know, I've had about enough of your bullshit, Longfellow.","Well, then you know just how I feel.",OldLongfellow: I made my feelin's clear on the matter of you killin' innocent people. I wont' stand for it any longer.,"Angry, expressing frustration",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,"Player Default: Whoa, hold on, just calm down.",Hell no. I'm goin' to say what I've got to say.,OldLongfellow: I made my feelin's clear on the matter of you killin' innocent people. I wont' stand for it any longer.,"Angry, defiant",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: What is it this time?,You know exactly what it is.,OldLongfellow: I made my feelin's clear on the matter of you killin' innocent people. I wont' stand for it any longer.,Smoldering anger,DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: Forget it.,"I told you I wasn't goin' to stick around if you didn't change your ways. Well, you ain't changed yet, an' I don't think you ever will.",,Angry,DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,,"Truth is, you're an ignorant fool who doesn't give a damn about anyone but yourself.","Player Default: You're right, Longfellow, I didn't listen to you when I should have. From now on, things wil be different, I promise.","Angry, accusing",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: Forget it.,I made my feelin's clear on the matter of you killin' innocent people. I wont' stand for it any longer.,,"Angry, taking a stand",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,,"It's one thing to kill trappers an' raiders and the like, but what you're doin' is murder, plain an' simple.",,"Angry, taking a stand",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,,"If you think I'm just goin' to stand by and watch while you butcher people who've done you no wrong, you're dead wrong.","OldLongfellow: Have a nice life, then. I'm sure we're both better off now that I ain't a part of it.","Angry, taking a stand",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,"Player Default: You're right, Longfellow, I didn't listen to you when I should have. From now on, things wil be different, I promise.","*Sigh* I should know better, but maybe I'm just getting' soft in my old age.",,"Annoyed, but willing to give the player another chance",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,,"Alright, I'll give you one more chance. One! You'd better make sure you don't waste it, cause there won't be another one.","OldLongfellow: Have a nice life, then. I'm sure we're both better off now that I ain't a part of it.","Annoyed, but willing to give the player another chance",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,"Player Default: You're right, Longfellow, I didn't listen to you when I should have. From now on, things wil be different, I promise.","You're still not listenin' to me, are you? You're never goin' to change, and I'm a fool for thinkin' you would.","OldLongfellow: Have a nice life, then. I'm sure we're both better off now that I ain't a part of it.","Angry, bitter, resigned",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,"Player Default: You want to walk away, fine. We'll see how long you last on your own.","Oh I'll be just fine on my own. Been doin' it all my life, and what's more, I been doin' it without pissin' off everyone else.",,"Confident, sarcastic",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,,Guess that's a lesson you still ain't learned.,"OldLongfellow: Have a nice life, then. I'm sure we're both better off now that I ain't a part of it.","Cold, a parting shot",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: Maybe we're better off going our separate ways.,"If that's how you feel, there ain't anythin' more to say.","OldLongfellow: Have a nice life, then. I'm sure we're both better off now that I ain't a part of it.","Fed up, walking away, done",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: You really think you're better off alone?,"Right now, just about anythin's preferable to puttin' up with you for another minute.","OldLongfellow: Have a nice life, then. I'm sure we're both better off now that I ain't a part of it.","Fed up, had enough, walking away",DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,"Player Default: Alright, I'll give you one more chance. One! You'd better make sure you don't waste it, cause there won't be another one.","Have a nice life, then. I'm sure we're both better off now that I ain't a part of it.",,A bitter farewell.,DLC03_COMOldLongfellow_04_DisdainToHatred
+Scene,SceneDialogue,Custom,,Player Default: Another time.,"Righto. Another time, then.","OldLongfellow: You've been different lately, an' I'm just wonderin' what's goin' on with you.","Friendly, basically saying ""Sure, okay, we can talk later.""",DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Scene,SceneDialogue,Custom,,"Player Default: Righto. Another time, then.","You've been different lately, an' I'm just wonderin' what's goin' on with you.",,Concern for a friend,DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Scene,SceneDialogue,Custom,,,"What I mean is, we've had a good run, you an' I, an' I thought I knew what kind of person you were.",,Concern for a friend,DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Scene,SceneDialogue,Custom,,,"You've done some things lately, though, that make me wonder if I might have been wrong.",,Concern for a friend,DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Scene,SceneDialogue,Custom,,,Guess I just want to make sure you ain't had a change of heart about our friendship.,"Player Default: Nothing's changed, Longfellow. You're still a good friend, and I'm sorry if I've done anything to make you think otherwise.","Concern for a friend, hoping your friendship isn't in jeopardy",DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Scene,SceneDialogue,Custom,,"Player Default: Nothing's changed, Longfellow. You're still a good friend, and I'm sorry if I've done anything to make you think otherwise.","No need for an apology, cap'n.","OldLongfellow: Thanks for lettin' me speak my mind, in any case. That's all I had to say.",,DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Scene,SceneDialogue,Custom,,Player Default: It's nothing. Just quit worrying about it.,"I ain't so sure, but I'm willin' to let it go for now.","OldLongfellow: Thanks for lettin' me speak my mind, in any case. That's all I had to say.","Friendly, but uncertain. The player might not be all that he seems",DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Scene,SceneDialogue,Custom,,"Player Default: It's all in your head, Longfellow. You should stop worrying yourself over it.","Well, maybe you're right.","OldLongfellow: Thanks for lettin' me speak my mind, in any case. That's all I had to say.","Sheepish, feeling a bit of a fool",DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Scene,SceneDialogue,Custom,,"Player Default: You sure you're not just being a little paranoid, Longfellow?","At my age, anythin's possible, cap'n.","OldLongfellow: Thanks for lettin' me speak my mind, in any case. That's all I had to say.","Open with a chuckle, you  think the player is joking with you and pulling your leg a bit",DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Scene,SceneDialogue,Custom,,"Player Default: No need for an apology, cap'n.","Thanks for lettin' me speak my mind, in any case. That's all I had to say.",,Friendly,DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Scene,SceneDialogue,Custom,,Player Default: I'm listening.,,"OldLongfellow: I don't get you, cap'n. At first, I thought you were different from them self-centered types we usually get from the Commonwealth.",,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,Player Default: It'll have to wait.,,"OldLongfellow: I don't get you, cap'n. At first, I thought you were different from them self-centered types we usually get from the Commonwealth.",,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,"Player Default: If it's a short conversation, sure.",,"OldLongfellow: I don't get you, cap'n. At first, I thought you were different from them self-centered types we usually get from the Commonwealth.",,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,"Player Default: What do you need, Longfellow?",,"OldLongfellow: I don't get you, cap'n. At first, I thought you were different from them self-centered types we usually get from the Commonwealth.",,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,Player Default:,"I don't get you, cap'n. At first, I thought you were different from them self-centered types we usually get from the Commonwealth.",,Puzzle and disappointed,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,,"I thought we had a lot in common, you an' me. Lately you been... I don't know, actin' different.",,Puzzled and disappointed,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,,"Now I'm no saint, but I ain't selfish either. I try to look out for others when I can, an' I respect that we all got it hard out here.",,Trying to explain why the player is upsetting you,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,,"I thought you were ths same, but now I don't know what to think. Maybe you've changed, or I just read you wrong.",,,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,,"We were getting' along pretty good before, an' I guess what I'm sayin' is, I was hopin' we could get back to that.","Player Default: I understand, and I'll try to be more considerate of your feelings.",Trying to explain why you've been disappointed in the player lately.,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,"Player Default: I understand, and I'll try to be more considerate of your feelings.","That's all I need to hear, cap'n. Thank you.","OldLongfellow: That's all I had to say, so how about we get back to what we were doin'?",Reassured,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,"Player Default: If you were really a friend, you'd accept me for who I am, instead of questioning everything I do.","Real friends are supposed to be honest with each other, an' that's all I'm tryin' to be here.","OldLongfellow: That's all I had to say, so how about we get back to what we were doin'?",Defensive and growing annoyed,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,"Player Default: Look, I'm not perfect, Longfellow. Being my friend means taking the bad with the good.","I ain't askin' you to be perfect, cap'n. I'm just askin' you to be better than you've been lately.","OldLongfellow: That's all I had to say, so how about we get back to what we were doin'?",,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,"Player Default: Well, what do you want me to do, Longfellow? Hm?",You could start by actin' like you give a damn about my thoughts an' feelin's.,"OldLongfellow: That's all I had to say, so how about we get back to what we were doin'?",,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Scene,SceneDialogue,Custom,,"Player Default: That's all I need to hear, cap'n. Thank you.","That's all I had to say, so how about we get back to what we were doin'?",,Exasperated. You tried to express your frustrations but it didn't go well.,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Combat,Combat,Attack,,,Take this!,,,
+Combat,Combat,Attack,,,Got somethin' for ya!,,,
+Combat,Combat,Attack,,,You're done for!,,,
+Combat,Combat,Attack,,,Should have run when you had the chance.,,,
+Combat,Combat,Attack,,,You're givin' me no choice.,,,
+Combat,Combat,AvoidThreat,,,Watch out!,,,
+Combat,Combat,AvoidThreat,,,Incomin'!,,,
+Combat,Combat,AvoidThreat,,,Look out!,,,
+Combat,Combat,BleedOut,,,I'm done.,,,
+Combat,Combat,BleedOut,,,"Shit, I'm down!",,,
+Combat,Combat,BleedOut,,,Need a stim here!,,,
+Combat,Combat,BleedOut,,,Can't... get up...,,,
+Combat,Combat,CrippledLimb,,,Argh! My arm!,,,
+Combat,Combat,CrippledLimb,,,Got my arm!,,,
+Combat,Combat,CrippledLimb,,,Shit! Can't feel my arm! How am I goin' to pour myself a drink?,,,
+Combat,Combat,CrippledLimb,,,Got me in the leg!,,,
+Combat,Combat,CrippledLimb,,,My damn leg! Argh!,,,
+Combat,Combat,CrippledLimb,,,"Argh, my leg! Won't be walkin' this one off.",,,
+Combat,Combat,CrippledLimb,,,Argh! Can't see a damn thing!,,,
+Combat,Combat,CrippledLimb,,,Right in the head!,,,
+Combat,Combat,CrippledLimb,,,My head... can't see...,,,
+Combat,Combat,CrippledLimb,,,Damn! Got me good.,,,
+Combat,Combat,CrippledLimb,,,"I'm barely standin' here, cap'n!",,,
+Combat,Combat,CrippledLimb,,,Argh! Can't take much more of this!,,,
+Combat,Combat,Death,,,Bury me... with a bottle...,,,
+Combat,Combat,Hit,,,Argh!,,,
+Combat,Combat,Hit,,,Son of a bitch!,,,
+Combat,Combat,Hit,,,That all you got?,,,
+Combat,Combat,Hit,,,Oof!,,,
+Combat,Combat,Hit,,,Now you got my attention!,,,
+Combat,Combat,Hit,,,Urrggh!,,,
+Combat,Combat,Hit,,,Nyaarrgh!,,,
+Combat,Combat,PowerAttack,,,Aaaayyyaarrrrgghh!,,,
+Combat,Combat,PowerAttack,,,Nnyyaarrghh!,,,
+Combat,Combat,PowerAttack,,,Yyyarrghh!,,,
+Combat,Combat,Taunt,,,"Thought this would be easy, did ya?",,,
+Combat,Combat,Taunt,,,You ain't got a hope in hell.,,,
+Combat,Combat,Taunt,,,"Hope you choke on your own blood, you bastard.",,,
+Combat,Combat,Taunt,,,"What, ain't you had enough yet?",,,
+Combat,Combat,Taunt,,,Now you're realizin' what a mistake you made.,,,
+Combat,Combat,Taunt,,,We're just gettin' warmed up here!,,,
+Combat,Combat,Taunt,,,I'll be drinkin' a toast to your corpse!,,,
+Combat,Combat,Taunt,,,An' here I was thinkin' this might be a challenge.,,,
+Combat,Combat,ThrowGrenade,,,Throwin' a grenade!,,,
+Combat,Combat,ThrowGrenade,,,Here's a little somethin' for ya!,,,
+Combat,Combat,ThrowGrenade,,,"Heads up, you little shit!",,,
+Combat,Combat,ThrowGrenade,,,Stick this where the sun don't shine!,,,
+Favors,Favor,Agree,,,"After you, then.",,"Player is leading the way, you're ready to go",
+Favors,Favor,Agree,,,Lead the way.,,"Player is leading the way, you're ready to go",
+Favors,Favor,Agree,,,"If you think you've got keener eyes than me, by all means, lead the way.",,"Player is leading the way, you're making a small, friendly jab here",
+Favors,Favor,Agree,,,These old bones could use a rest.,,"Relieved. Player asked you to wait there, you're happy to oblige.",
+Favors,Favor,Agree,,,"Stay put, then? You won't hear me complain.",,"Relieved. Player asked you to wait there, you're happy to oblige.",
+Favors,Favor,Agree,,,"I'll be here, then. Just don't go forgettin' about me.",,"Relieved. Player asked you to wait there, you're happy to oblige. Ends with a friendly jab",
+Favors,Favor,Agree,,,I can do that.,,"Player asked you to do something, and you're confident that you can do it",
+Favors,Favor,Agree,,,Right.,,"Player asked you to do something, and you're confident that you can do it",
+Favors,Favor,Agree,,,As good as done.,,"Player asked you to do something, and you're confident that you can do it",
+Favors,Favor,Agree,,,Yep.,,"Player asked you to do something, and you're confident that you can do it",
+Favors,Favor,Agree,,,Right.,,"Player asked you to do something, and you're confident that you can do it",
+Favors,Favor,ExitFavorState,,,That's it then?,,"Done talking to the player, basically saying ""okay, let's get back to work""",
+Favors,Favor,ExitFavorState,,,Works for me.,,"Done talking to the player, basically saying ""okay, let's get back to work""",
+Favors,Favor,ExitFavorState,,,Right then.,,"Done talking to the player, basically saying ""okay, let's get back to work""",
+Favors,Favor,ExitFavorState,,,We're done then?,,"Done talking to the player, basically saying ""okay, let's get back to work""",
+Favors,Favor,ExitFavorState,,,"Back to it, then.",,"Done talking to the player, basically saying ""okay, let's get back to work""",
+Favors,Favor,MoralRefusal,,,To hell with that!,,"Flatly refusing to do something the player has asked of you, a moral objection",
+Favors,Favor,MoralRefusal,,,Not bloody likely.,,"Flatly refusing to do something the player has asked of you, a moral objection",
+Favors,Favor,MoralRefusal,,,Not happenin'.,,"Flatly refusing to do something the player has asked of you, a moral objection",
+Favors,Favor,MoralRefusal,,,Forget it. I ain't doin' it.,,"Flatly refusing to do something the player has asked of you, a moral objection",
+Favors,Favor,MoralRefusal,,,No damn way that's happenin'.,,"Flatly refusing to do something the player has asked of you, a moral objection",
+Favors,Favor,PathingRefusal,,,Can't reach that.,,"Grumbling, complaining, annoyed. Player asked you to go somewhere you can't physically go.",
+Favors,Favor,PathingRefusal,,,No way to get there.,,"Grumbling, complaining, annoyed. Player asked you to go somewhere you can't physically go.",
+Favors,Favor,PathingRefusal,,,An' just how am I supposed to get there?,,"Grumbling, complaining, annoyed. Player asked you to go somewhere you can't physically go.",
+Favors,Favor,PathingRefusal,,,"Can't do it, cap'n. No way to get there.",,"Grumbling, complaining, annoyed. Player asked you to go somewhere you can't physically go.",
+Favors,Favor,PathingRefusal,,,No way to get to that. Goin' to have to try somethin' else.,,"Grumbling, complaining, annoyed. Player asked you to go somewhere you can't physically go.",
+Favors,Favor,Refuse,,,Would if I could.,,"Helpless, annoyed. Player has asked you to do something you're unable to do.",
+Favors,Favor,Refuse,,,Can't do it.,,"Helpless, annoyed. Player has asked you to do something you're unable to do.",
+Favors,Favor,Refuse,,,I can't do that.,,"Helpless, annoyed. Player has asked you to do something you're unable to do.",
+Favors,Favor,Refuse,,,Not gonna happen.,,"Helpless, annoyed. Player has asked you to do something you're unable to do.",
+Favors,Favor,Show,,,Hm?,,"Curious, ready to talk. Player has just got your attention, and wants to talk. ""Hey, Longfellow...""",
+Favors,Favor,Show,,,Go on.,,"Curious, ready to talk. Player has just got your attention, and wants to talk. ""Hey, Longfellow...""",
+Favors,Favor,Show,,,I'm listenin'.,,"Curious, ready to talk. Player has just got your attention, and wants to talk. ""Hey, Longfellow...""",
+Favors,Favor,Show,,,Yeah?,,"Curious, ready to talk. Player has just got your attention, and wants to talk. ""Hey, Longfellow...""",
+Favors,Favor,Show,,,What?,,"Irascible, impatient. Player has just got your attention, and wants to talk. ""Hey, Longfellow...""",
+Favors,Favor,Show,,,Go on.,,"Curious, ready to talk. Player has just got your attention, and wants to talk. ""Hey, Longfellow...""",
+Favors,Favor,Show,,,Make it quick. will ya?,,"Irascible, impatient. Player has just got your attention, and wants to talk. ""Hey, Longfellow...""",
+Favors,Favor,Show,,,What's eatin' ya?,,"Irascible, impatient. Player has just got your attention, and wants to talk. ""Hey, Longfellow...""",
+Favors,Favor,Trade,,,Here's my kit.,,Player wants to trade gear with you,
+Favors,Favor,Trade,,,"Have a look, then.",,Player wants to trade gear with you,
+Favors,Favor,Trade,,,Givin' or takin'?,,Player wants to trade gear with you,
+Favors,Favor,Trade,,,"Sure, here's what I got.",,Player wants to trade gear with you,
+Favors,Favor,Trade,,,"Swappin' supplies, then?",,Player wants to trade gear with you,
+Favors,Favor,Trade,,,"If we're takin' a break, how's about a strong drink?",,Player wants to trade gear with you. You want a drink.,
+Favors,Favor,Trade,,,"I'll be happy to carry any spirits you got. Course, I can't promise you'll get 'em back.",,Player wants to trade gear with you. End with a laugh.,
+Detection,Detection,AlertToCombat,,,Got ya!,,Spotted an enemy,
+Detection,Detection,AlertToCombat,,,Found ya!,,Spotted an enemy,
+Detection,Detection,AlertToCombat,,,Right here!,,Spotted an enemy,
+Detection,Detection,AlertToCombat,,,You're dead!,,Spotted an enemy,
+Detection,Detection,AlertToCombat,,,Look sharp!,,Spotted an enemy,
+Detection,Detection,AlertToNormal,,,Getting jumpy in my old age.,,"Nervous, thought you saw an enemy but maybe it's nothing",
+Detection,Detection,AlertToNormal,,,Guess it was nothin'.,,"Nervous, thought you saw an enemy but maybe it's nothing",
+Detection,Detection,AlertToNormal,,,Eyes must be playin' tricks.,,"Thought you saw an enemy, but now you don't",
+Detection,Detection,AlertToNormal,,,"Need to lay off the bottle... Hah, who am I kiddin'.",,"Thought you saw an enemy, but now you don't",
+Detection,Detection,AlertToNormal,,,Damn... was sure somethin' was there...,,"Thought you saw an enemy, but now you don't",
+Detection,Detection,CombatToLost,,,What... where the hell?,,You were fighting an enemy and then they vanished,
+Detection,Detection,CombatToLost,,,What the hell happened?,,You were fighting an enemy and then they vanished,
+Detection,Detection,CombatToLost,,,"Damnit, lost 'em.",,You were fighting an enemy and then they vanished,
+Detection,Detection,CombatToLost,,,Disappeared? Shit.,,You were fighting an enemy and then they vanished,
+Detection,Detection,CombatToNormal,,,I'd say it's time for a drink.,,You and the player just won a fight,
+Detection,Detection,CombatToNormal,,,"I still got it, hah.",,You and the player just won a fight,
+Detection,Detection,CombatToNormal,,,That'll teach 'em.,,You and the player just won a fight,
+Detection,Detection,CombatToNormal,,,"Well then, what's next?",,You and the player just won a fight,
+Detection,Detection,CombatToNormal,,,That was refreshin'.,,You and the player just won a fight,
+Detection,Detection,CombatToNormal,,,"Good time to stop for a drink, yeah?",,You and the player just won a fight,
+Detection,Detection,CombatToNormal,,,Fog take 'em all!,,You and the player just won a fight,
+Detection,Detection,CombatToNormal,,,"Fine bit of exercise, that.",,You and the player just won a fight,
+Detection,Detection,CombatToNormal,,,Best count the ammo an' see what's left.,,You and the player just won a fight,
+Detection,Detection,LostToCombat,,,Aha!,,An enemy was sneaking around and you just found them,
+Detection,Detection,LostToCombat,,,Nice try!,,An enemy was sneaking around and you just found them,
+Detection,Detection,LostToCombat,,,Got 'em right here!,,An enemy was sneaking around and you just found them,
+Detection,Detection,LostToCombat,,,Hah! Ain't as clever as you thought.,,An enemy was sneaking around and you just found them,
+Detection,Detection,LostToCombat,,,You're as good as dead!,,An enemy was sneaking around and you just found them,
+Detection,Detection,LostToNormal,,,Damn... got away.,,Annoyed that your quarry escaped,
+Detection,Detection,LostToNormal,,,"Slipped away, did ya?",,Annoyed that your quarry escaped,
+Detection,Detection,LostToNormal,,,Escaped... damn.,,Annoyed that your quarry escaped,
+Detection,Detection,LostToNormal,,,Guess that's the last we'll see of 'em.,,Annoyed that your quarry escaped,
+Detection,Detection,LostToNormal,,,"That's right, run off an' don't come back.",,Annoyed that your quarry escaped,
+Detection,Detection,NormalToAlert,,,Eyes open. Somethin's stalkin' us.,,You heard a sound or caught a glimpse of a possible enemy creeping around nearby,
+Detection,Detection,NormalToAlert,,,We ain't alone here.,,You heard a sound or caught a glimpse of a possible enemy creeping around nearby,
+Detection,Detection,NormalToAlert,,,"There's someone, or somethin' else, here.",,You heard a sound or caught a glimpse of a possible enemy creeping around nearby,
+Detection,Detection,NormalToAlert,,,What was that?,,You heard a sound or caught a glimpse of a possible enemy creeping around nearby,
+Detection,Detection,NormalToAlert,,,Think we've got company.,,You heard a sound or caught a glimpse of a possible enemy creeping around nearby,
+Detection,Detection,NormalToCombat,,,Here we go.,,"Rising energy, anxious, starting a fight",
+Detection,Detection,NormalToCombat,,,I'm too damn sober for this.,,"Rising energy, anxious, starting a fight",
+Detection,Detection,NormalToCombat,,,You're goin' down!,,"Rising energy, anxious, starting a fight",
+Detection,Detection,NormalToCombat,,,"Sharp eyes an' steady hands, cap'n!",,"Rising energy, anxious, starting a fight",
+Detection,Detection,NormalToCombat,,,Aim straight an' true!,,"Rising energy, anxious, starting a fight",
+Detection,Detection,NormalToCombat,,,Guess we got no choice.,,"Rising energy, anxious, starting a fight",
+Detection,Detection,NormalToCombat,,,"It's you or me, an' it ain't goin' to be me.",,"Rising energy, anxious, starting a fight",
+Detection,Detection,NormalToCombat,,,I got your back!,,"Rising energy, anxious, starting a fight",
+Detection,Detection,NormalToCombat,,,Time to earn that next drink!,,"Rising energy, anxious, starting a fight",
+Detection,Detection,NormalToCombat,,,Into the breach we go!,,"Rising energy, anxious, starting a fight",
+Detection,Detection,NormalToCombat,,,"What, what've you... you're done for!",,Someone essentially just signed your town's death warrant. / Angry,
+Detection,Detection,NormalToLost,,,"Alright, quit your hidin'.",,Something's creeping around and you lost sight of it,
+Detection,Detection,NormalToLost,,,"Come on, show yourself.",,Something's creeping around and you lost sight of it,
+Detection,Detection,NormalToLost,,,Come out an' let's get this over with.,,Something's creeping around and you lost sight of it,
+Detection,Detection,NormalToLost,,,"Somethin's there, I know it. Just not sure where.",,Something's creeping around and you lost sight of it,
+Detection,Detection,NormalToLost,,,"Somethin's messin' with us, cap'n.",,Something's creeping around and you lost sight of it,
+Miscellaneous,Miscellaneous,Hello,,,"Get away from me, you butcher!",,Yelling angrily at someone you hate that's trying to talk to you / Angry,
+Miscellaneous,Miscellaneous,Hello,,,The blood of all Far Harbor's on your hands. Can't see how you live with it.,,"Icy, hostile toward someone you hate that's trying to talk to you / Angry",
+Miscellaneous,Miscellaneous,Hello,,,I ain't helpin you do the Children of Atom's dirty work. Now get out of my sight!,,Snapping at someone you hate that's trying to talk to you / Angry,
+Miscellaneous,Miscellaneous,Hello,,,That massacre in Far Harbor was your doin'. You can burn in the pits of hell.,,Snapping at someone you hate that's trying to talk to you / Angry,
+Miscellaneous,Miscellaneous,Hello,,,"Well, if it ain't the Butcher of Far Harbor.",,Snapping at someone you hate that's trying to talk to you / Angry,
+Miscellaneous,Miscellaneous,Hello,,,Here to destroy my life like you did all them folks in Far Harbor?,,Snapping at someone you hate that's trying to talk to you / Angry,
+Miscellaneous,Miscellaneous,SharedInfo,,,Get the hell out of here.,,Very angry at the player,
+Miscellaneous,Miscellaneous,SharedInfo,,,You've bothered me enough. Get lost.,,Very angry at the player,
+Miscellaneous,Miscellaneous,SharedInfo,,,Still alive? That's a miracle.,,Very angry at the player,
+Miscellaneous,Miscellaneous,SharedInfo,,,"If you know what's good for you, you'll turn around and start walkin'.",,Very angry at the player,
+Miscellaneous,Miscellaneous,SharedInfo,,,"You can go straight to hell, an' the sooner, the better.",,Very angry at the player,
+Miscellaneous,Miscellaneous,SharedInfo,,,Got nothin' to say to you.,,Very angry at the player,
+Miscellaneous,Miscellaneous,SharedInfo,,,I've made my feelin's about you clear. Got nothin' else to say.,,Very angry at the player,
+Miscellaneous,Miscellaneous,Hello,,,Island's a hell of a lot better off without those lunatic rad-worshippers.,,"Satisfied, vindictive",
+Miscellaneous,Miscellaneous,Hello,,,"The Nucleus, destroyed by an atom bomb. It's almost too good to be true.",,"Satisfied, vindictive",
+Miscellaneous,Miscellaneous,Hello,,,The Children of Atom got what they deserved.,,"Satisfied, vindictive",
+Miscellaneous,Miscellaneous,Hello,,,You did everyone in Far Harbor a favor when you blew up the Nucleus.,,"Satisfied, vindictive",
+Miscellaneous,Miscellaneous,Hello,,,Shame about those synths in Acadia. Most of 'em weren't too bad.,,"A little sad, but not overly much. More a shrug of the shoulders.",
+Miscellaneous,Miscellaneous,Hello,,,"You ask me, I think Allen Lee was wantin' to clear out Acadia for a long time. Guess he got his wish.",,"A little sad, but not overly much. More a shrug of the shoulders.",
+Miscellaneous,Miscellaneous,Hello,,,"Used to be I trusted the synths up at Acadia. After what DiMA did, I think we're better off without 'em.",,"A little sad, but not overly much. More a shrug of the shoulders.",
+Miscellaneous,Miscellaneous,Hello,,,"With the synths gone, Acadia's wide open. Maybe I'll move in someday. Be nice to live above the Fog.",,Musing to yourself.,
+Miscellaneous,Miscellaneous,Hello,,,"All this time, we thought we were livin' in peace with the synths. Guess DiMA had us fooled pretty good.",,Resentment,
+Miscellaneous,Miscellaneous,Hello,,,"Don't know if hell would take a synth, but DiMA deserves nothin' less after what he did.",,Anger,
+Miscellaneous,Miscellaneous,Hello,,,Guess I shouldn't be surprised DiMA was willin' to murder Captain Avery. Why would a bloody machine care about human life?,,Anger,
+Miscellaneous,Miscellaneous,Hello,,,"What happened to DiMA, that was justice, plain an' simple.",,"Satisfied, vindictive",
+Miscellaneous,Miscellaneous,Hello,,,You really think replacin' the High Confessor is goin' to be enough? Not sure I do.,,"Doubtful, skeptical of the player's choices",
+Miscellaneous,Miscellaneous,Hello,,,Should have wiped out the Children of Atom when we had the chance.,,Grumbling to yourself,
+Miscellaneous,Miscellaneous,Hello,,,"If you knew half what them Atom fanatics have done, you'd have set off that bomb an' we'd all be better for it.",,"Doubtful, skeptical of the player's choices",
+Miscellaneous,Miscellaneous,Hello,,,"Sure, there's peace with the Children of Atom now, but how long will it last?",,"Doubtful, skeptical of the player's choices",
+Miscellaneous,Miscellaneous,Hello,,,Make it quick.,,Annoyed with the player,
+Miscellaneous,Miscellaneous,Hello,,,Now what?,,Annoyed with the player,
+Miscellaneous,Miscellaneous,Hello,,,Well? Get on with it.,,Annoyed with the player,
+Miscellaneous,Miscellaneous,Hello,,,Talk fast.,,Annoyed with the player,
+Miscellaneous,Miscellaneous,Hello,,,Out with it. What do you want?,,Annoyed with the player,
+Miscellaneous,Miscellaneous,Hello,,,What is it?,,"Neutral toward the player, curious to hear what he wants",
+Miscellaneous,Miscellaneous,Hello,,,Hm?,,"Neutral toward the player, curious to hear what he wants",
+Miscellaneous,Miscellaneous,Hello,,,Need somethin'?,,"Neutral toward the player, curious to hear what he wants",
+Miscellaneous,Miscellaneous,Hello,,,"Go on then, I'm listenin'.",,"Neutral toward the player, curious to hear what he wants",
+Miscellaneous,Miscellaneous,Hello,,,What's on your mind?,,"Neutral toward the player, curious to hear what he wants",
+Miscellaneous,Miscellaneous,Hello,,,"What's on your mind, cap'n?",,"Player seeks your attention, and you admire him so you respond positively",
+Miscellaneous,Miscellaneous,Hello,,,"What do you need, cap'n?",,"Player seeks your attention, and you admire him so you respond positively",
+Miscellaneous,Miscellaneous,Hello,,,"Hey there, cap'n. What's up?",,"Player seeks your attention, and you admire him so you respond positively",
+Miscellaneous,Miscellaneous,Hello,,,Go ahead.,,"Player seeks your attention, and you admire him so you respond positively",
+Miscellaneous,Miscellaneous,Hello,,,You've got my attention.,,"Player seeks your attention, and you admire him so you respond positively",
+Miscellaneous,Miscellaneous,Hello,,,"Hey there, cap'n!",,"You greatly admire the player, who is seeking your attention to talk",
+Miscellaneous,Miscellaneous,Hello,,,I'm always up for a chat.,,"You greatly admire the player, who is seeking your attention to talk",
+Miscellaneous,Miscellaneous,Hello,,,"Whatever you need, cap'n.",,"You greatly admire the player, who is seeking your attention to talk",
+Miscellaneous,Miscellaneous,Hello,,,"Anythin' for you, cap'n.",,"You greatly admire the player, who is seeking your attention to talk",
+Miscellaneous,Miscellaneous,Hello,,,"Always got time for you, cap'n.",,"You greatly admire the player, who is seeking your attention to talk",
+Miscellaneous,Miscellaneous,Greeting,,,Can I have a word?,"Player Default: Okay, we can talk.","Positive, upbeat, seeking to talk to the player, who you are growing to like",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Miscellaneous,Miscellaneous,Greeting,,,Was hoping to talk for a minute.,"Player Default: Okay, we can talk.","Upbeat, still waiting to talk to the player, but it's a positive conversation",DLC03_COMOldLongfellow_01_NeutralToAdmiration
+Miscellaneous,Miscellaneous,Greeting,,,"Say, cap'n, can we talk for a minute?","Player Default: Alright, let's talk.","Positive, upbeat, about to praise the player\",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Miscellaneous,Miscellaneous,Greeting,,,"I'd still like to talk, cap'n. It's important, at least to me.","Player Default: Alright, let's talk.","Positive, upbeat, about to praise the player.",DLC03_COMOldLongfellow_02_AdmirationToInfatuation
+Miscellaneous,Miscellaneous,Greeting,,,"Hold up. Got somethin' I need to say, and it ain't gonna wait.",Player Default: I'm listening.,"Urgent and annoyed, about to complain",DLC03_COMOldLongfellow_03_NeutralToDisdain
+Miscellaneous,Miscellaneous,Greeting,,,"Hey, stop a minute, will ya? I need to talk to you.",Player Default: I'm listening.,"Annoyed, about to complain",DLC03_COMOldLongfellow_03_NeutralToDisdain
+Miscellaneous,Miscellaneous,Greeting,,,"Alright, that's it. I'm done.","Player Default: Whoa, hold on. Let's talk about this.","Very angry at the player, fed up.",DLC03_COMOldLongfellow_04_DisdainToHatred
+Miscellaneous,Miscellaneous,Greeting,,,"Can you spare a minute, cap'n?","Player Default: Sure, Longfellow. What did you want to talk about?",Looking to talk about a sensitive issue,DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Miscellaneous,Miscellaneous,Greeting,,,"I'd still like a word, when you have a moment.","Player Default: Sure, Longfellow. What did you want to talk about?",Looking to talk about a sensitive issue,DLC03_COMOldLongfellow_05_RepeatInfatuationToAdmiratio
+Miscellaneous,Miscellaneous,Greeting,,,Look... we need to talk.,Player Default: I'm listening.,About to give bad news to a friend,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Miscellaneous,Miscellaneous,Greeting,,,I'm still waitin' to have that talk.,Player Default: I'm listening.,About to give bad news to a friend,DLC03_COMOldLongfellow_06_RepeatAdmirationToNeutral
+Miscellaneous,Miscellaneous,Greeting,,,"Hold on. I need a word with you, right now.","Player Default: Okay, let's talk.",Highly annoyed,DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Miscellaneous,Miscellaneous,Greeting,,,"Look, you ain't brushin' me off. We're goin' to talk, or I'm done.","Player Default: Okay, let's talk.","Highly annoyed, growing anger",DLC03_COMOldLongfellow_07_RepeatNeutralToDisdain
+Miscellaneous,Miscellaneous,Greeting,,,"That's the last straw. You lied to my face an' I fell for it then, but now I see who you really are.",Player Default: Wait. Let's just talk about things first.,"Angry, about to storm off",DLC03_COMOldLongfellow_08_RepeatDisdainToHatred
+Miscellaneous,Miscellaneous,Greeting,,,"Listen, cap'n. It ain't for me to say this, but uh... well, I owe you an apology.","Player Default: Alright, let's talk. What did you want to apologize about?","Struggling to say sorry, which is difficult for you",DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Miscellaneous,Miscellaneous,Greeting,,,"Cap'n, I'd still like to give you a proper apology.","Player Default: Alright, let's talk. What did you want to apologize about?","Trying to make amends, but proud, so it's difficult",DLC03_COMOldLongfellow_09_RepeatAdmirationToInfatuation
+Miscellaneous,Miscellaneous,Greeting,,,"You an' I need to talk, an' I mean right this minute.",Player Default: You've got my attention.,"Angry, about to yell at the player for killing an innocent person",DLC03_COMOldLongfellow_11_MurderScene
+Miscellaneous,Miscellaneous,Greeting,,,You can't ignore me forever. I got somethin' I need to say to you.,Player Default: You've got my attention.,"Agitated, angry, feeling ignored",DLC03_COMOldLongfellow_11_MurderScene
+Miscellaneous,Miscellaneous,Greeting,,,We headin' out?,Player Default: That's right. Let's get going.,"Eager, ready for more adventures",DLC03_COMOldLongfellow_10_PickupScene
+Miscellaneous,Miscellaneous,Greeting,,,I heard you made it to Acadia by yourself. That takes some stones.,Player Default: I appreciate the compliment.,Impressed / Impressed,DLC03_COMOldLongfellow_00_FirstTimePickup
+Miscellaneous,Miscellaneous,SharedInfo,,,"That's pretty good, cap'n.",,Pleased,
+Miscellaneous,Miscellaneous,SharedInfo,,,Hah! I like that.,,Pleased,
+Miscellaneous,Miscellaneous,SharedInfo,,,Hm.,,"Uncertain, not sure how you feel about something.",
+Miscellaneous,Miscellaneous,SharedInfo,,,Huh.,,"Uncertain, not sure how you feel about something.",
+Miscellaneous,Miscellaneous,SharedInfo,,,Don't like that at all.,,Displeased,
+Miscellaneous,Miscellaneous,SharedInfo,,,Not good.,,Displeased,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Way to go, cap'n!",,"Enthusiastic, cheering for the player",
+Miscellaneous,Miscellaneous,SharedInfo,,,Don't think you should've done that.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Glad you did that.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,"Do that one more time, an' bad things are goin' to happen.",,A warning,
+Miscellaneous,Miscellaneous,SharedInfo,,,Yep.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Yes.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Alright.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,I'm on it.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,No.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Not happenin'.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,Here.,,Giving the player an item,
+Miscellaneous,Miscellaneous,SharedInfo,,,Here you go.,,,
+Miscellaneous,Miscellaneous,SharedInfo,,,That'll do nicely.,,Receiving an item from the player,
+Miscellaneous,Miscellaneous,SharedInfo,,,Thanks.,,,
+Miscellaneous,Miscellaneous,Idle,,,This is my kind of place.,,"You've found a brewery, and you like your drink",
+Miscellaneous,Miscellaneous,Idle,,,Should refill my canteen while we're here.,,"You've found a brewery, and you like your drink",
+Miscellaneous,Miscellaneous,Idle,,,Wouldn't mind seein' this place get up an' runnin' again.,,"You've found a brewery, and you like your drink",
+Miscellaneous,Miscellaneous,Idle,,,I'm feelin' right at home here.,,"You've found a brewery, and you like your drink",
+Miscellaneous,Miscellaneous,Idle,,,Only thing you'll find in a place like this is trouble.,,"Wary, cautious, in a cave with danger near",
+Miscellaneous,Miscellaneous,Idle,,,Can't say I'm fond of bein' closed in like this.,,"Wary, cautious, in a cave with danger near",
+Miscellaneous,Miscellaneous,Idle,,,"*Sniff* Foul down here, ain't it?",,"Wary, cautious, in a cave with danger near",
+Miscellaneous,Miscellaneous,Idle,,,A good hunter knows not to get cornered. That's why I stay out of places like this.,,"Wary, cautious, in a cave with danger near",
+Miscellaneous,Miscellaneous,Idle,,,"All these fancy machines, and none of 'em worth a lick now.",,Disdain for technology,
+Miscellaneous,Miscellaneous,Idle,,,Ain't exactly the safest-lookin' place is it?,,Disdain for technology,
+Miscellaneous,Miscellaneous,Idle,,,"Worthless, rusted scrap. That's all this is.",,Disdain for technology,
+Miscellaneous,Miscellaneous,Idle,,,Too many places for somethin' to hide.,,Disdain for technology,
+Miscellaneous,Miscellaneous,Idle,,,Keep an eye out for stims.,,Scavenging in a ruined hospital,
+Miscellaneous,Miscellaneous,Idle,,,These days we don't need places like this. Folks can take care of themselves.,,"Pride, mixed with resentment for technology",
+Miscellaneous,Miscellaneous,Idle,,,Never did trust doctors much. I think they're guessin' half the time.,,"Self-reliant, confident, don't need doctors",
+Miscellaneous,Miscellaneous,Idle,,,"If I'd have been around before the war, I wouldn't have set foot in this place. I can take care of myself just fine.",,"Pride, mixed with resentment for technology",
+Miscellaneous,Miscellaneous,Idle,,,Good spot to scavenge for stims.,,"Pride, mixed with resentment for technology",
+Miscellaneous,Miscellaneous,Idle,,,"Way I hear it, the bomb was invented in a place like this.",,"Resentment. You're in a ruined lab, you don't like technology. You think that's what ended the world.",
+Miscellaneous,Miscellaneous,Idle,,,"Smart men and their shiny machines. Don't look so smart now, do they?",,"Resentment. You're in a ruined lab, you don't like technology. You think that's what ended the world.",
+Miscellaneous,Miscellaneous,Idle,,,World's a lot better off without places like this.,,"Resentment. You're in a ruined lab, you don't like technology. You think that's what ended the world.",
+Miscellaneous,Miscellaneous,Idle,,,Nothin' but worthless relics here. I say we keep movin'.,,"Resentment. You're in a ruined lab, you don't like technology. You think that's what ended the world.",
+Miscellaneous,Miscellaneous,Idle,,,Think I'd go crazy if I had to be cooped up in a place like this all day.,,Observing a ruined pre-war office,
+Miscellaneous,Miscellaneous,Idle,,,Sittin' at a desk all day must have made everyone fat an' lazy.,,Observing a ruined pre-war office,
+Miscellaneous,Miscellaneous,Idle,,,"It's funny, the things that seemed to be important to the world before. So much of it just doesn't make any sense.",,Observing a ruined pre-war office,
+Miscellaneous,Miscellaneous,Idle,,,Can't imagine anyone actually enjoyed workin' here.,,Observing a ruined pre-war office,
+Miscellaneous,Miscellaneous,Idle,,,What's the point of diggin' this big hole? Lots of perfectly good rocks on the surface.,,"Observing a quarry, not really understanding it",
+Miscellaneous,Miscellaneous,Idle,,,Wonder how long it took to dig this out.,,"Observing a quarry, not really understanding it",
+Miscellaneous,Miscellaneous,Idle,,,Nasty place to lose your footing.,,"Observing a quarry, not really understanding it",
+Miscellaneous,Miscellaneous,Idle,,,Now that's a lot of diggin'. Must've been after somethin' important.,,"Observing a quarry, not really understanding it",
+Miscellaneous,Miscellaneous,Idle,,,These ruins are too damn tall.,,"Spooked, nervous, in a ruined city",
+Miscellaneous,Miscellaneous,Idle,,,"You don't think one of these towers is gonna fall on us, do ya? That ain't how I want to go out.",,"Spooked, nervous, in a ruined city",
+Miscellaneous,Miscellaneous,Idle,,,Why build a buildin' so damn big? What's wrong with the short ones?,,"Spooked, nervous, in a ruined city",
+Miscellaneous,Miscellaneous,Idle,,,Damn sniper's paradise is what this is.,,"Spooked, nervous, in a ruined city",
+Miscellaneous,Miscellaneous,Idle,,,That creakin' metal sound don't exactly make me feel safe.,,"Spooked, nervous, in a ruined city",
+Miscellaneous,Miscellaneous,Idle,,,Hmph. Real learnin' don't come outta books.,,You think school is worthless,
+Miscellaneous,Miscellaneous,Idle,,,School ain't nothin' but a place for kids to hide from doin' real work.,,You think school is worthless,
+Miscellaneous,Miscellaneous,Idle,,,"Someone tried to start a school in Far Harbor, long time ago. Didn't last a week.",,You think school is worthless. End with a chuckle to yourself,
+Miscellaneous,Miscellaneous,Idle,,,Shame to see a proud vessel come to this.,,"Looking at the ruins of a ship, hint of sadness. You like ships.",
+Miscellaneous,Miscellaneous,Idle,,,"Had a book of ships once, when I was a lad. Ah, that was a treasure. Used to look at those boats for hours on end.",,"Wistful, nostalgic",
+Miscellaneous,Miscellaneous,Idle,,,"O captain, my captain, our fearful trip is done. The ship has weather'd every rack, the prize we sought is won.",,"Rhetorical, wistful, sad. You love ships and are looking at a wrecked one",
+Miscellaneous,Miscellaneous,Idle,,,"I must go down to the seas again, to the lonely sea and the sky, and all I ask is a tall ship and a star to steer her by.",,"Rhetorical, wistful, sad. You love ships and are looking at a wrecked one",
+Miscellaneous,Miscellaneous,Idle,,,"Now there's a sad sight, cap'n. That boat will sail no more.",,"Rhetorical, wistful, sad. You love ships and are looking at a wrecked one",
+Miscellaneous,Miscellaneous,Idle,,,"Everythin' you want, right there on a shelf. If that ain't bein' spoiled, I don't know what is.",,"Disdain for the pre-war world, you think those people had it too easy",
+Miscellaneous,Miscellaneous,Idle,,,"Probably been picked clean, but I suppose it's worth a look.",,Scavenging in a grocery store,
+Miscellaneous,Miscellaneous,Idle,,,"Wasn't much need for huntin' and scavengin' when there were places like this, I guess.",,Scavenging in a grocery store,
+Miscellaneous,Miscellaneous,Idle,,,Little fancier than the stores in Far Harbor.,,Scavenging in a grocery store,
+Miscellaneous,Miscellaneous,Idle,,,Sealin' yourself up in a steel hole to escape the bombs... sounds like tradin' one kinda hell for another one.,,"Commenting on a vault, not liking it, too claustrophobic",
+Miscellaneous,Miscellaneous,Idle,,,How'd anyone stay sane livin' in a place like this?,,"Commenting on a vault, not liking it, too claustrophobic",
+Miscellaneous,Miscellaneous,Idle,,,Heard about the experiments they did in places like this. Human decency must've been in short supply back then.,,"Commenting on a vault, not liking it, too claustrophobic",
+Miscellaneous,Miscellaneous,Idle,,,I'd rather die than be stuck in one of these rat-holes.,,"Commenting on a vault, not liking it, too claustrophobic",
+Miscellaneous,Miscellaneous,Idle,,,Might be somethin' useful was stored in here.,,"In a warehouse, curious to see what's around",
+Miscellaneous,Miscellaneous,Idle,,,Let's have a closer look.,,"In a warehouse, curious to see what's around",
+Miscellaneous,Miscellaneous,Idle,,,Now this looks promisin'.,,"In a warehouse, curious to see what's around",
+Miscellaneous,Miscellaneous,Idle,,,Good salvage spot here.,,"In a warehouse, curious to see what's around",
+Miscellaneous,Miscellaneous,Idle,,,Looks like an old storehouse.,,"In a warehouse, curious to see what's around",
+Miscellaneous,Miscellaneous,Idle,,,"Ah, the smell o' the briny deep.",,Happy to be near the sea,
+Miscellaneous,Miscellaneous,Idle,,,You can practically taste the salt water in the air.,,Happy to be near the sea,
+Miscellaneous,Miscellaneous,Idle,,,Always felt right at home by the water's edge.,,Happy to be near the sea,
+Miscellaneous,Miscellaneous,Idle,,,The waterfront's mirelurk territory.,,"Cautious, wary of possible enemies coming out of the water",
+Miscellaneous,Miscellaneous,Idle,,,Keep an eye on that water. Might be somethin in that water's keepin' an eye on us.,,"Cautious, wary of possible enemies coming out of the water",
+Miscellaneous,Miscellaneous,Idle,,,"Runnin' with you's been a hell of a ride, cap'n.",,The player has earned your sincere admiration,
+Miscellaneous,Miscellaneous,Idle,,,"Got to hand it to you cap'n, you can take of yourself.",,The player has earned your sincere admiration,
+Miscellaneous,Miscellaneous,Idle,,,"Good to have a friend who's worth a damn, cap'n.",,The player has earned your sincere admiration,
+Miscellaneous,Miscellaneous,Idle,,,"I ain't had many friends in my time, cap'n, but I'm glad to count you among 'em.",,The player has earned your sincere admiration,
+Miscellaneous,Miscellaneous,Idle,,,"I'd share a bottle with you any day, cap'n. Hell, I'd like to share one right now.",,The player has earned your sincere admiration,
+Miscellaneous,Miscellaneous,Idle,,,"I can count on two fingers the number of people I'd trust to watch my back. One of them fingers is you, cap'n.",,The player has earned your sincere admiration,
+Miscellaneous,Miscellaneous,Idle,,,"Cap'n, you're the best drinkin' buddy a man could ask for.",,The player has earned your sincere admiration,
+Miscellaneous,Miscellaneous,Idle,,,"When they finally put me in the ground, I'll have a smile on my face. That's thanks to you, cap'n.",,The player has earned your sincere admiration,
+Miscellaneous,Miscellaneous,Idle,,,Might just make a Far Harbor woman out of you yet cap'n.,,You have a growing sense of admiration for the player,
+Miscellaneous,Miscellaneous,Idle,,,"I'll admit it, you can take care of yourself.",,You have a growing sense of admiration for the player,
+Miscellaneous,Miscellaneous,Idle,,,"Alright, so you ain't completely useless.",,You have a growing sense of admiration for the player,
+Miscellaneous,Miscellaneous,Idle,,,You ain't as green as I thought.,,You have a growing sense of admiration for the player,
+Miscellaneous,Miscellaneous,Idle,,,"You've got some grit, cap'n, no denyin' that.",,You have a growing sense of admiration for the player,
+Miscellaneous,Miscellaneous,Idle,,,"Didn't think you'd last this long, cap'n. Maybe I was wrong about you.",,You have a growing sense of admiration for the player,
+Miscellaneous,Miscellaneous,Idle,,,"I ain't an easy man to impress, cap'n, but you've done it.",,You have a growing sense of admiration for the player,
+Miscellaneous,Miscellaneous,Idle,,,This place makes Far Harbor look downright pleasant.,,"Commenting on a blasted, lifeless wasteland. Nervous, on edge",
+Miscellaneous,Miscellaneous,Idle,,,It's nothin' short of a miracle anything survives out here.,,"Commenting on a blasted, lifeless wasteland. Nervous, on edge",
+Miscellaneous,Miscellaneous,Idle,,,"Every minute we're here, we're soakin' up more rads.",,"Commenting on a blasted, lifeless wasteland. Nervous, on edge",
+Miscellaneous,Miscellaneous,Idle,,,Sundown. We should hunker down for the night.,,Cautious. Sunset in a dangerous place.,
+Miscellaneous,Miscellaneous,Idle,,,Night's windin' down. I'll be glad to have the sun back.,,Relief,
+Miscellaneous,Miscellaneous,Idle,,,Almost mornin'. Good.,,Relief,
+Miscellaneous,Miscellaneous,Idle,,,"I'm so used to huntin' in the fog back home, sometimes I forget what a clear night looks like.",,"Appreciating a nice, clear night with a view of stars. Content.",
+Miscellaneous,Miscellaneous,Idle,,,"Sure you want to be out an' about in the dark, cap'n?",,"Apprehensive, it's dangerous at night",
+Miscellaneous,Miscellaneous,Idle,,,Weather's clear. That's somethin' at least.,,Pleased to have clear weather,
+Miscellaneous,Miscellaneous,Idle,,,A little rain's good for you. Washes off the grime.,,"Walking in the rain, trying to keep spirits up",
+Miscellaneous,Miscellaneous,Idle,,,Relyin' too much on guns an' fancy armor just makes you a coward.,,Deriding soldiers,
+Miscellaneous,Miscellaneous,Idle,,,Brotherhood of Steel. Hmph. Am I supposed to be impressed?,,Making a point of not being impressed by heavily-armed soldiers,
+Miscellaneous,Miscellaneous,Idle,,,Wouldn't complain if all these soldiers took their guns and went somewhere else.,,Making a point of not being impressed by heavily-armed soldiers,
+Miscellaneous,Miscellaneous,Idle,,,"Get a bunch of fanatics together, hand 'em all guns, and you can tell everyone else how to live.",,Resentful of the Brotherhood of Steel,
+Miscellaneous,Miscellaneous,Idle,,,You can get some good meat off these bugs.,,"Remarking on a giant insect, not disgusted, you see it as a food source",
+Miscellaneous,Miscellaneous,Idle,,,I've run afoul of more big bugs than I can count. What's a few more?,,"Remarking on giant bugs, but you've fought many of them",
+Miscellaneous,Miscellaneous,Idle,,,"Bah, these bugs ain't a threat so much as a nuisance. Swat 'em an' move on.",,Not impressed or scared by giant bugs.,
+Miscellaneous,Miscellaneous,Idle,,,"Bunch of nut jobs, worshippin' radiation like that.",,"Disdain, you think the Children of Atom are crazy",
+Miscellaneous,Miscellaneous,Idle,,,"I've seen some crazy folk in my years, but there ain't none crazier than the Children of Atom.",,"Disdain, you think the children of atom are crazy",
+Miscellaneous,Miscellaneous,Idle,,,There's no talkin' sense to this lot. They've gone off the deep end.,,"Disdain, you think the children of atom are crazy",
+Miscellaneous,Miscellaneous,Idle,,,Can't fathom it... why would someone pretend to believe in somethin' that ain't real?,,"Disdain, you think the children of atom are crazy",
+Miscellaneous,Miscellaneous,Idle,,,"Hunted deathclaws a time or two. One thing's for sure, it's never boring.",,"Deathclaws are huge, terrifying monsters. You have a healthy respect for them but aren't afraid.",
+Miscellaneous,Miscellaneous,Idle,,,"Best way to take down a Deathclaw is to aim for the head. From a long way away, of course.",,"Deathclaws are huge, terrifying monsters. You have a healthy respect for them but aren't afraid.",
+Miscellaneous,Miscellaneous,Idle,,,Everythin' you need to know 'bout a Deathclaw is right there in its name.,,"Deathclaws are huge, terrifying monsters. You have a healthy respect for them but aren't afraid.",
+Miscellaneous,Miscellaneous,Idle,,,"Not all Deathclaws are the same. They're all nasty, but some of 'em are real devils.",,"Deathclaws are huge, terrifying monsters. You have a healthy respect for them but aren't afraid.",
+Miscellaneous,Miscellaneous,Idle,,,"Deathclaws are twice as nasty when they're guardin' a nest. You see one doin' that, it's best to leave it be.",,"Deathclaws are huge, terrifying monsters. You have a healthy respect for them but aren't afraid.",
+Miscellaneous,Miscellaneous,Idle,,,"Don't you worry, if I see you turnin' into a ghoul, I'll put a bullet in you quick.",,You're disgusted by ghouls and a little afraid of the idea of becoming one,
+Miscellaneous,Miscellaneous,Idle,,,Damn... can't think of a worse fate than turnin' into a ghoul.,,You're disgusted by ghouls and a little afraid of the idea of becoming one,
+Miscellaneous,Miscellaneous,Idle,,,"Way I see it, killin' a ghoul's an act o' mercy.",,You're disgusted by ghouls and a little afraid of the idea of becoming one,
+Miscellaneous,Miscellaneous,Idle,,,A ghoul's lost every shred of what once made 'em human. I'd rather be dead than one of them.,,You're disgusted by ghouls and a little afraid of the idea of becoming one,
+Miscellaneous,Miscellaneous,Idle,,,"They might look like shamblin' corpses, but ghouls are lightnin' quick. Don't let 'em flank ya.",,You're disgusted by ghouls and a little afraid of the idea of becoming one,
+Miscellaneous,Miscellaneous,Idle,,,Only difference between trappers an' gunners is that gunners ain't realized they're crazy yet.,,"Derisive, you have no respect for bullies with guns",
+Miscellaneous,Miscellaneous,Idle,,,Think all them weapons an' tattoos make these gunners feel safe?,,"Derisive, you have no respect for bullies with guns",
+Miscellaneous,Miscellaneous,Idle,,,"Gunners like to think they're tough, but they die just as easy as everythin' else.",,"Derisive, you have no respect for bullies with guns",
+Miscellaneous,Miscellaneous,Idle,,,Best thing about killin' gunners is all that ammo they kindly donate.,,Sarcasm and derision,
+Miscellaneous,Miscellaneous,Idle,,,"Guns an' armor can't hide cowardice, and that's just what gunners are. Cowards.",,Sarcasm and derision,
+Miscellaneous,Miscellaneous,Idle,,,"Fightin' mirelurks always makes me hungry. Smell like seafood, all of 'em.",,"Sarcasm, punctuate with a laugh",
+Miscellaneous,Miscellaneous,Idle,,,Seen a mirelurk's claw snap a man in half once.,,Grim,
+Miscellaneous,Miscellaneous,Idle,,,Mirelurks are damn quick for their size. Wouldn't recommend tryin' to outrun one.,,Safe old hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,"Fightin' mirelurks ain't complicated. Just like most critters, you aim for the soft bits.",,Safe old hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,"Molerats are damn tricky, poppin' up out of nowhere like they do.",,Sage old hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,"If you think there's molerats about, you get up on somethin' tall and you watch the ground.",,Sage old hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,"One molerat ain't a threat, but when the other six show up, that's when you start runnin'.",,Sage old hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,"Molerats are nasty little buggers, I'll give 'em that.",,Begruding respect for a small but aggressive creature,
+Miscellaneous,Miscellaneous,Idle,,,Easy pickin's.,,"Confident, this enemy is not a real threat",
+Miscellaneous,Miscellaneous,Idle,,,Raiders are too crazy to fight smart.,,"Confident, this enemy is not a real threat",
+Miscellaneous,Miscellaneous,Idle,,,Suppose it's worth takin' these raiders down to see if they got anythin' useful.,,"Confident, this enemy is not a real threat",
+Miscellaneous,Miscellaneous,Idle,,,"Need some snipin' practice, cap'n? Raiders are easy targets.",,"Confident, this enemy is not a real threat",
+Miscellaneous,Miscellaneous,Idle,,,Ain't much point in fightin' robots. Can't feed yourself on metal an' circuits.,,Pragmatic hunter,
+Miscellaneous,Miscellaneous,Idle,,,"Some robots pack a nasty punch, what with those pre-war lasers and cannons on 'em.",,Pragmatic hunter,
+Miscellaneous,Miscellaneous,Idle,,,"In my experience, most robots won't come after you unless you get too close to 'em.",,Sage hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,Don't know too much about fightin' robots. Never really saw the point.,,Sage hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,Need some serious firepower to punch through that metal skin.,,Sage hunter giving advice about fighting robots,
+Miscellaneous,Miscellaneous,Idle,,,Careful. These brutes aren't as dumb as they sound.,,"Wary, cautious",
+Miscellaneous,Miscellaneous,Idle,,,"The Super Mutants with the bombs are the worst. One of them comes at you, start runnin'.",,Sage hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,Thinkin' of Super Mutants as mindless brutes is a quick way to get dead.,,Sage hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,You'll chew through a lot of ammo fightin' these brutes.,,Sage hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,Best way of dealin' with Super Mutants is to slip past 'em.,,Sage hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,Robots lookin' like people... that don't sit right with me.,,"Wary, uneasy",
+Miscellaneous,Miscellaneous,Idle,,,"I ain't fond of fightin' any kind of robot, but that goes double for synths.",,"Wary, uneasy",
+Miscellaneous,Miscellaneous,Idle,,,"You can pull some good salvage off these bots, if you can stomach lookin' at 'em.",,"Wary, uneasy",
+Miscellaneous,Miscellaneous,Idle,,,Synths are downright disturbin'. No other way to say it.,,"Wary, uneasy",
+Miscellaneous,Miscellaneous,Idle,,,"Makin' a machine that looks like a man... if that ain't madness, I don't know what is.",,"Wary, uneasy",
+Miscellaneous,Miscellaneous,Idle,,,Wonder if we'll ever have airplanes an' airports again someday?,,How many people you think came through here in a day? A hundred? A thousand?,
+Miscellaneous,Miscellaneous,Idle,,,This place must've been impressive in its day.,,Looking around at a the ruins of a large airport. Mildly impressed,
+Miscellaneous,Miscellaneous,Idle,,,A great big graveyard for airplanes.,,How many people you think came through here in a day? A hundred? A thousand?,
+Miscellaneous,Miscellaneous,Idle,,,I've seen worse folk than you come through Far Harbor... but not many.,,"Disapproval, disdain for the player",
+Miscellaneous,Miscellaneous,Idle,,,"Better straighten yourself out soon, or you can find someone else to watch your back.",,"Disapproval, disdain for the player",
+Miscellaneous,Miscellaneous,Idle,,,Let's just get where we're goin'.,,"Disapproval, disdain for the player",
+Miscellaneous,Miscellaneous,Idle,,,"No sense in hidin' it, you've been disappointin' me lately.",,"Disapproval, disdain for the player",
+Miscellaneous,Miscellaneous,Idle,,,Just about had my fill of your nonsense.,,"Disapproval, disdain for the player",
+Miscellaneous,Miscellaneous,Idle,,,I ain't in the mood for a conversation. Least not with you.,,"Disapproval, disdain for the player",
+Miscellaneous,Miscellaneous,Idle,,,Seems clear to me you don't care what I think.,,"Disapproval, disdain for the player",
+Miscellaneous,Miscellaneous,Idle,,,I ain't in a chattin' mood.,,"Disapproval, disdain for the player",
+Miscellaneous,Miscellaneous,Idle,,,"You ain't a great listener, that much is pretty damn clear.",,"Disapproval, disdain for the player",
+Miscellaneous,Miscellaneous,Idle,,,You should try thinkin' about someone other than yourself for a change.,,"Disapproval, disdain for the player",
+Miscellaneous,Miscellaneous,SharedInfo,,,"You an' me, we're done for good.",,Very angry at the player,
+Miscellaneous,Miscellaneous,Idle,,,"Whiskey's runnin' low. Better find some more, an' soon.",,Concerned,
+Miscellaneous,Miscellaneous,Idle,,,A good hunter always knows how many bullets he's got.,,Sage hunter giving advice,
+Miscellaneous,Miscellaneous,Idle,,,"Don't know what's more sore, my back or my feet.",,"Grousing to yourself, grumbling under breath",
+Miscellaneous,Miscellaneous,Idle,,,Gettin' too damn old for all this runnin' around.,,"Grousing to yourself, grumbling under breath",
+Miscellaneous,Miscellaneous,Idle,,,Damn... can't remember if I had my bath this week or not.,,"Grousing to yourself, grumbling under breath",
+Miscellaneous,Miscellaneous,Idle,,,"Just once, let me find a pair of socks that don't have holes in 'em.",,Griping,
+Miscellaneous,Miscellaneous,Idle,,,*Coughing*,,"Coughing a few times, lightly",
+Miscellaneous,Miscellaneous,Idle,,,*Heavy coughing* Damn fog's got in my lungs again.,,A few heavy coughs,
+Miscellaneous,Miscellaneous,Idle,,,This a good time for a drink?,,"Half-joking, end with a chuckle.",
+Miscellaneous,Miscellaneous,Idle,,,Got a chill in my bones that won't come out. Too many nights out sleepin' in the Fog.,,Griping,
+Miscellaneous,Miscellaneous,Idle,,,"In Dublin's fair city, where the girls are so pretty, I first set my eyes on sweet Molly Malone.",,Singing softly to yourself the first verse of the traditional Irish song Molly Malone (also called Cockles and Mussels),
+Miscellaneous,Miscellaneous,Idle,,,"And when I'm dead and in my grave, no costly tombstone will I have. Just lay me down in my native peat with a jug of punch at my head and my feet.",,"Singing softly to yourself the final verse of the traditional Irish song ""Jug of Punch""",
+Miscellaneous,Miscellaneous,Idle,,,Keep sayin' to myself I should settle down someday... think I missed the boat on that one.,,"A joke at your own expense, end with a hearty laugh",
+Miscellaneous,Miscellaneous,Idle,,,"And it's no, nay never, no nay never, no more, will I play the Wild Rover, no never no more.",,"Singing softly to yourself the chorus of the traditional Irish song ""Wild Rover""",
+Scene,SceneDialogue,Custom,,"Player Default: Huh? *chuckle* You running for office? If that's the truth, we don't deserve you.",Just mind you don't let 'em take advantage of you.,"TeddyWright: Most folk here are set in their ways, yes? Makes no difference how hard you try to get in good with them.",Neutral,DLC03FarHarborM01_100_Intto
+Scene,SceneDialogue,Custom,,"Player Default: Well, hold on now. There's reasons for people's... color.",Sounds like you just need to charge 'em more for your services.,"TeddyWright: Most folk here are set in their ways, yes? Makes no difference how hard you try to get in good with them.",Greedy / Amused,DLC03FarHarborM01_100_Intto
+Scene,SceneDialogue,Custom,,"Player Default: Huh? What? Caps, eh? Make some money and help at the same time. Respectable.",That's all the reason you need.,"TeddyWright: Most folk here are set in their ways, yes? Makes no difference how hard you try to get in good with them.","Agreement, friendly / Friendly",DLC03FarHarborM01_100_Intto
+Scene,SceneDialogue,Custom,,Player Default: Then it will be so.,You gone off your rocker?! You can't seriously be thinkin' of joinin' these crazies.,GrandZealot: Head inside and present the icon to the High Confessor once his sermon is done. He'll be interested to see that.,Aghast / Angry,DLC03AtomM01_GrandZealotTurnIn_Scene
+Scene,SceneDialogue,Custom,,"Player Default: Shame. Well, should you decide to heed Atom's call, return.",Can't believe you'd even consider signin' up with these fanatics.,GrandZealot: Head inside and present the icon to the High Confessor once his sermon is done. He'll be interested to see that.,"Grousing, but in agreement that the player chose not to join the Children of Atom / Stern",DLC03AtomM01_GrandZealotTurnIn_Scene
+Scene,SceneDialogue,Custom,,Player Default: Good.,"What's there to learn, besides lettin' madmen tell you how to live and pretendin' to worship somethin' that don't exist?",GrandZealot: Head inside and present the icon to the High Confessor once his sermon is done. He'll be interested to see that.,"Bitter, hostile / Angry",DLC03AtomM01_GrandZealotTurnIn_Scene
+Scene,SceneDialogue,Custom,,,Let's get the hell out of here!,,"Nuclear bomb countdown underway, run! / Afraid",DLC03MQ06_NukeHandling_CompanionReact_Stage_100
+Scene,SceneDialogue,Custom,,,"There, you bunch of rot-brained lunatics. Have all the radiation you like!",,Triumphant. Shouting at the nuclear blast that wiped the fanatics you don't like. / Defiant,DLC03MQ06_NukeHandling_CompanionReact_Stage_150
+Scene,SceneDialogue,Custom,,Player Default: I need you to get out of your Power Armor.,Will do.,,,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,Whatever you say.,,,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,Suit yourself.,,,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,"Back to it, then.",,,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,Right then.,,,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: That's all for now.,Fine.,,,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,"Whatever you say, cap'n. Just make sure you stop in for a drink sometime an' tell me what I've missed.",,A friendly parting,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,"Good luck, then, cap'n.",,A friendly parting,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,"Come find me if you need me again, an' I'll be ready. Might even be sober, too.",,A friendly parting,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,"Well, if that's what you want, I won't complain. First time for everythin' I suppose.",,A friendly parting,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,Suits me just fine. You were getting' on my nerves anyway.,,"Annoyed with the player, happy to be rid of him",DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,Player Default: It's time for us to part ways.,"I think that's best for us both. If I'd stuck around much longer, I'd have ended up shootin' you in the back.",,"Annoyed with the player, happy to be rid of him",DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,,,,,DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,,"I'd take a bullet for you, cap'n. Ain't much more I can say than that.","OldLongfellow: When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.",Sincere admiration,DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,,"I think of you as a good friend, an' I ain't had many of those.","OldLongfellow: When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.",Sincere admiration,DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,,"I've had a hell of a time runnin' with you, cap'n. Got no regrets.","OldLongfellow: When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.",Sincere admiration,DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,,You're the best drinkin' buddy this old cuss has ever had.,"OldLongfellow: When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.",Sincere admiration,DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,,"You an' I, we're a hell of a team.","OldLongfellow: When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.",Sincere admiration,DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: I'd take a bullet for you, cap'n. Ain't much more I can say than that.","When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.","OldLongfellow: You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.","Approval, but measured. You don't give praise lightly.",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: I'd take a bullet for you, cap'n. Ain't much more I can say than that.","Well, I'm still here, ain't I? You must be doin' somethin' right.","OldLongfellow: You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.","Approval, but measured. You don't give praise lightly.",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: I'd take a bullet for you, cap'n. Ain't much more I can say than that.","Don't know that we've got much of a relationship yet, but you seem alright to me.","OldLongfellow: You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.","Approval, but measured. You don't give praise lightly.",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: I'd take a bullet for you, cap'n. Ain't much more I can say than that.","You're handy in a fight, I'll give you that.","OldLongfellow: You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.","Approval, but measured. You don't give praise lightly.",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: I'd take a bullet for you, cap'n. Ain't much more I can say than that.","You've got some grit, I'll give you that. Can't say that about most folks I know.","OldLongfellow: You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.","Approval, but measured. You don't give praise lightly.",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.","You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.","OldLongfellow: Pretty damn bad, I'd say.","Wary, sizing up the player, still not sure how you feel about him.",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.","Ain't figured you out yet, so I can't rightly say.","OldLongfellow: Pretty damn bad, I'd say.","Wary, sizing up the player, still not sure how you feel about him.",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.","Long as you don't run from a fight or nag me about my drinkin', we'll get along just fine.","OldLongfellow: Pretty damn bad, I'd say.","Wary, sizing up the player, still not sure how you feel about him.",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.","If it's love an' admiration you're after, then you picked the wrong man to run with.","OldLongfellow: Pretty damn bad, I'd say.","Wary, sizing up the player, still not sure how you feel about him.",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: When we first met, I figured you were just another Commonwealth scavver. Maybe I was wrong. Guess we'll see.",Don't know yet. I'm still tryin' to figure out if you're worth a damn.,"OldLongfellow: Pretty damn bad, I'd say.","Wary, sizing up the player, still not sure how you feel about him.",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.","Pretty damn bad, I'd say.",OldLongfellow: Well that's a damn foolish question.,"Angry at the player, who just asked how your relationship is",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.","You've been actin' like a worthless Commonwealth scavver. Don't know why I'm still here, to be honest.",OldLongfellow: Well that's a damn foolish question.,"Angry at the player, who just asked how your relationship is",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.","If you've been tryin' to piss me off, it's workin'.",OldLongfellow: Well that's a damn foolish question.,"Angry at the player, who just asked how your relationship is",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.","You keep on like you have been, an' we'll be partin' on real bad terms.",OldLongfellow: Well that's a damn foolish question.,"Angry at the player, who just asked how your relationship is",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: You ain't the worst Commonwealth scavver I've met, if that's what you're askin'.",Seems clear you don't give a damn what I think.,OldLongfellow: Well that's a damn foolish question.,"Angry at the player, who just asked how your relationship is",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: Pretty damn bad, I'd say.",Well that's a damn foolish question.,,"Snapping, very angry at the player",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: Pretty damn bad, I'd say.","You tryin' to piss me off even more, askin' somethin' like that?",,"Snapping, very angry at the player",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: Pretty damn bad, I'd say.",Why bother answerin' when you've already shown you don't give a damn what I say?,,"Snapping, very angry at the player",DLC03_COMOldLongfellowTalk_RelationshipScene
+Scene,SceneDialogue,Custom,,"OldLongfellow: Pretty damn bad, I'd say.",Don't know why I'm still watchin' your back. Must be too damn stubborn for my own good.,,"Snapping, very angry at the player",DLC03_COMOldLongfellowTalk_RelationshipScene
+Miscellaneous,Miscellaneous,Greeting,,,What now?,Player Default: I need you to get out of your Power Armor.,"Irritated, unhappy with the player",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,What the hell do you want?,Player Default: I need you to get out of your Power Armor.,"Irritated, unhappy with the player",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Make it quick.,Player Default: I need you to get out of your Power Armor.,"Irritated, unhappy with the player",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"Just say what you want, an' let's get on with it.",Player Default: I need you to get out of your Power Armor.,"Irritated, unhappy with the player",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"Well, spit it out.",Player Default: I need you to get out of your Power Armor.,"Irritated, unhappy with the player",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Talk fast.,Player Default: I need you to get out of your Power Armor.,"Annoyed with the player, not really wanting to chat with him",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,What is it?,Player Default: I need you to get out of your Power Armor.,"Annoyed with the player, not really wanting to chat with him",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Yeah? What?,Player Default: I need you to get out of your Power Armor.,"Annoyed with the player, not really wanting to chat with him",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Got somethin' to say?,Player Default: I need you to get out of your Power Armor.,"Annoyed with the player, not really wanting to chat with him",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"Let me guess, you're goin' to tell me to do somethin'.",Player Default: I need you to get out of your Power Armor.,"Annoyed with the player, not really wanting to chat with him",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,I'm listenin'.,Player Default: I need you to get out of your Power Armor.,"Neutral, ambivalent, player wants to talk to you",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Go ahead.,Player Default: I need you to get out of your Power Armor.,"Neutral, ambivalent, player wants to talk to you",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,What's on your mind?,Player Default: I need you to get out of your Power Armor.,"Neutral, ambivalent, player wants to talk to you",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,You need somethin'?,Player Default: I need you to get out of your Power Armor.,"Neutral, ambivalent, player wants to talk to you",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,What's the plan?,Player Default: I need you to get out of your Power Armor.,"Neutral, ambivalent, player wants to talk to you",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"Hey cap'n, what's up?",Player Default: I need you to get out of your Power Armor.,"Friendly, you admire the player and are happy to talk to him",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"Go ahead, cap'n.",Player Default: I need you to get out of your Power Armor.,"Friendly, you admire the player and are happy to talk to him",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"Whatcha got for me, cap'n?",Player Default: I need you to get out of your Power Armor.,"Friendly, you admire the player and are happy to talk to him",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Somethin' you need from me?,Player Default: I need you to get out of your Power Armor.,"Friendly, you admire the player and are happy to talk to him",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Got somethin' you need done?,Player Default: I need you to get out of your Power Armor.,"Friendly, you admire the player and are happy to talk to him",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"Anythin' you need, cap'n?",Player Default: I need you to get out of your Power Armor.,"You have great respect and fondness fo rthe player, who is like a best friend.",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"What can I do for you, cap'n?",Player Default: I need you to get out of your Power Armor.,"You have great respect and fondness fo rthe player, who is like a best friend.",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,Always happy to help you out.,Player Default: I need you to get out of your Power Armor.,"You have great respect and fondness fo rthe player, who is like a best friend.",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"Just say what you need, an' it's as good as done.",Player Default: I need you to get out of your Power Armor.,"You have great respect and fondness fo rthe player, who is like a best friend.",DLC03_COMOldLongfellowTalk_TalkScene
+Miscellaneous,Miscellaneous,Greeting,,,"New orders, cap'n?",Player Default: I need you to get out of your Power Armor.,"You have great respect and fondness fo rthe player, who is like a best friend.",DLC03_COMOldLongfellowTalk_TalkScene
+Scene,SceneDialogue,Custom,,,Ain't this the place that manages the town's power? Better you not touch anythin'.,,A warning / Stern,DLC03MQ06_WindFarmHandling_LongfellowScene
+Scene,SceneDialogue,Custom,,"Player Default: You did... hmm. Perhaps not an ideal resolution, but I suppose the end result is the same.","Still think we should have just wiped out the lot of those fanatics, but I guess this'll do.",DiMA: Peace can finally come to the island...,A little disappointed / Irritated,DLC03MQ06a_DiMAScene
+Scene,SceneDialogue,Custom,,Player Default: Good luck.,"Can't say I know much about robots an' computers, but I'm up for anythin', long as there's a strong drink at the end of it.",,"A little confused, but otherwise cheerful and ready for an adventure / Friendly",DLC03DialogueKasumi_01_MQ03Scene
+Scene,SceneDialogue,Custom,,"Erikson: Wait a minute, I know that voice...",Erikson? That you out there?,Erikson: Longfellow? You're still alive eh? Tell your friend to come on out here.,,DLC03_ADV017_LongfellowIntro
+Scene,SceneDialogue,Custom,,Erikson: Mind telling your friend to ease off the weapon?,I've had dealings with him before. Not a bad sort.,,sotto voce,DLC03_ADV017_LongfellowIntro
+Scene,SceneDialogue,Custom,,Erikson: Did you do this? Did you kill my dogs?,"Take it easy now, Erikson...","Player Default: Sorry, I thought this was just another trapper camp and that they would attack me if given the chance.",Trying to diffuse the situation,DLC03_ADV017_IntroPlayerKilledDogs
+Scene,SceneDialogue,Custom,,Erikson: Longfellow. Good to see you're still kicking.,"Yeah, you too.",Erikson: You vouching for him?,,DLC03_ADV017_LongfellowIntro2
+Scene,SceneDialogue,Custom,,Erikson: You vouching for him?,No. Not from what I've seen.,,,DLC03_ADV017_LongfellowIntro2
+Scene,SceneDialogue,Custom,,Erikson: You vouching for him?,I'm not sure about this one yet.,,,DLC03_ADV017_LongfellowIntro2
+Scene,SceneDialogue,Custom,,Erikson: You vouching for him?,"Yeah, he's alright.",,,DLC03_ADV017_LongfellowIntro2
+Scene,SceneDialogue,Custom,,Erikson: You vouching for him?,"Yeah, she's alright.",,,DLC03_ADV017_LongfellowIntro2
+Scene,SceneDialogue,Custom,,Erikson: You vouching for him?,Absolutely. No one I'd trust more.,,,DLC03_ADV017_LongfellowIntro2
+Scene,SceneDialogue,Custom,,"SettlementSpokesman: He calls her ""Shipbreaker"". Been tracking her for years, but so far she's been too wily to catch.","She's back, eh? Good. Maybe this time I can finally take her down.","Player Default: Just tell me how to find this ""Shipbreaker"", and I'll take care of her.",Stern,DLC03WorkshopRadiantOwned05StarterFirstIntro
+Scene,SceneDialogue,Custom,,,"Don't know about restin' easy, but it's one less thing to worry about.","OldLongfellow: Funny thing is, happy as I am that she's gone, I think I'm goin' to miss her in a way.",Grateful,DLC03WorkshopRadiantOwned05LongfellowOutroCompanion
+Scene,SceneDialogue,Custom,,OldLongfellow: I'm glad about that. Just wish I could have been in on the kill.,"Funny thing is, happy as I am that she's gone, I think I'm goin' to miss her in a way.",,Thinking,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Scene,SceneDialogue,Custom,,,Walkin' in the Fog willl be a bit less... interestin' now that I don't have to wonder if she might be lurkin' behind the next rock.,,Thinking,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Scene,SceneDialogue,Custom,,,"Kept me on my toes, she did. For that, I'm grateful, in spite of the sorrow she visited on the island.","OldLongfellow: Here, you may as well have my trusty old harpoon gun. I was savin' it for deliverin' the killin' blow to Shipbreaker, but now you should have it.",Somber,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Scene,SceneDialogue,Custom,,Player Default: No need to worry about Shipbreaker any more. She's dead.,I'm glad about that. Just wish I could have been in on the kill.,"OldLongfellow: Funny thing is, happy as I am that she's gone, I think I'm goin' to miss her in a way.",Concerned,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Scene,SceneDialogue,Custom,,Player Default: No need to worry about Shipbreaker any more. She's dead.,About damn time that monster met her end.,"OldLongfellow: Funny thing is, happy as I am that she's gone, I think I'm goin' to miss her in a way.",Impressed,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Scene,SceneDialogue,Custom,,"Player Default: I just killed Shipbreaker on my first try. You're not much of a hunter, are you?","Ever heard of beginner's luck? Haha. Aw, hell, I don't begrudge you your pride. If you took down that monster, you've earned it.","OldLongfellow: Funny thing is, happy as I am that she's gone, I think I'm goin' to miss her in a way.",Irritated,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Scene,SceneDialogue,Custom,,Player Default: I took care of Shipbreaker for you.,"Did you now? That's damned impressive, especially for a mainlander.","OldLongfellow: Funny thing is, happy as I am that she's gone, I think I'm goin' to miss her in a way.",Impressed,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: Why is tracking down this Fog Crawler so important to you?,"She's not like an ordinary beast. She's vicious, and kills for no good reason.",,Somber,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Miscellaneous,Miscellaneous,SharedInfo,,,"Don't know if it's the Fog that did it, or just somethin' twisted in her nature, but she ain't like anythin' I've ever faced before.",,Afraid,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Miscellaneous,Miscellaneous,SharedInfo,,,"By now, it's personal. She's hurt a lot of people on this island. I intend to be there when she finally goes down.","OldLongfellow: Funny thing is, happy as I am that she's gone, I think I'm goin' to miss her in a way.",Angry,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Scene,SceneDialogue,Custom,,"OldLongfellow: Kept me on my toes, she did. For that, I'm grateful, in spite of the sorrow she visited on the island.","Here, you may as well have my trusty old harpoon gun. I was savin' it for deliverin' the killin' blow to Shipbreaker, but now you should have it.",,Grateful,DLC03WorkshopRadiantOwned05LongfellowOutroSolo
+Scene,SceneDialogue,Custom,,,"That's right. Shipbreaker, I call her. A wily old beast. I've put all the Harbormen on the lookout for her.",OldLongfellow: I expect they've told you about how to use the radio to tell when she's nearby?,Somber,DLC03WorkshopRadiantOwned05LongfellowIntro
+Scene,SceneDialogue,Custom,,,I wish you better luck than I've had.,"OldLongfellow: If you do spot her, I'd be grateful if you'd come an' fetch me.",Friendly,DLC03WorkshopRadiantOwned05LongfellowIntro
+Scene,SceneDialogue,Custom,,Player Default: I can't believe you've spent years tracking down a Fog Crawler.,I wouldn't expect a mainlander to understand.,"OldLongfellow: If you do spot her, I'd be grateful if you'd come an' fetch me.",Disgust,DLC03WorkshopRadiantOwned05LongfellowIntro
+Scene,SceneDialogue,Custom,,"Player Default: It's the Fog Crawler! The great white Fog... nope, just a plain, ordinary old Fog Crawler.",Have your fun. You'll be laughin' out the other side of your face if you meet Shipbreaker in the Fog.,"OldLongfellow: If you do spot her, I'd be grateful if you'd come an' fetch me.",Stern,DLC03WorkshopRadiantOwned05LongfellowIntro
+Miscellaneous,Miscellaneous,SharedInfo,,Player Default: I didn't really understand how you can track this Fog Crawler with a radio.,"Well, it started when I noticed people's radios weren't workin' right when I was checkin' out a sightin' of her.",,Thinking,DLC03WorkshopRadiantOwned05LongfellowIntro
+Miscellaneous,Miscellaneous,SharedInfo,,,"Figured out quick it was more than a coincidence. Couldn't say what the radios are pickin' up from her, but it's somethin'.",,Puzzled,DLC03WorkshopRadiantOwned05LongfellowIntro
+Miscellaneous,Miscellaneous,SharedInfo,,,Maybe all them years she's spent in the Fog are causin' her to give off a signal that interferes with radio waves.,,Thinking,DLC03WorkshopRadiantOwned05LongfellowIntro
+Miscellaneous,Miscellaneous,SharedInfo,,,The why of it don't much matter to me. What does matter is that it works.,,Confident,DLC03WorkshopRadiantOwned05LongfellowIntro
+Scene,SceneDialogue,Custom,,Player Default: I wish you better luck than I've had.,"If you do spot her, I'd be grateful if you'd come an' fetch me.",,Friendly,DLC03WorkshopRadiantOwned05LongfellowIntro
+Scene,SceneDialogue,Custom,,,She's taken more than a few friends of mine over the years.,,Somber,DLC03WorkshopRadiantOwned05LongfellowIntro
+Scene,SceneDialogue,Custom,,,"Or, if it's my time, I'd just as soon meet my end at her claws as any other way.",,Stern,DLC03WorkshopRadiantOwned05LongfellowIntro
+Scene,SceneDialogue,Custom,,,What do you want to know?,,Question,DLC03WorkshopRadiantOwned05LongfellowScene
+Scene,SceneDialogue,Custom,,,What is it? Has she turned up again?,,Question,DLC03WorkshopRadiantOwned05LongfellowScene
+Scene,SceneDialogue,Custom,,,I'd appreciate that. I'd like to be there to finally put her down.,,Stern,DLC03WorkshopRadiantOwned05LongfellowScene
+Scene,SceneDialogue,Custom,,"Player Default: No, not yet.",Alright. I can wait as long as it takes.,,Somber,DLC03WorkshopRadiantOwned05LongfellowScene
+Scene,SceneDialogue,Custom,,"Player Default: I was wondering how she got the name ""Shipbreaker""?","Well, that goes back a few years. I started hearin' reports of people's boats being attacked by a Fog Crawler.",,Thinking,DLC03WorkshopRadiantOwned05LongfellowScene
+Scene,SceneDialogue,Custom,,,Sometimes they managed to get away. Usually they didn't.,,Somber,DLC03WorkshopRadiantOwned05LongfellowScene
+Scene,SceneDialogue,Custom,,,"Then, all that was left was their wrecked boat, with claw marks and bite marks on it that left no doubt what had happened.",,Somber,DLC03WorkshopRadiantOwned05LongfellowScene
+Scene,SceneDialogue,Custom,,,"Pretty soon, we realized this must be the same beast, and people started calling her Shipbreaker.",,Somber,DLC03WorkshopRadiantOwned05LongfellowScene
+Scene,SceneDialogue,Custom,,,I'd love to come help you track her. She's taken more than a few friends of mine over the years.,Player Default: Let's track her together.,Friendly,DLC03WorkshopRadiantOwned05LongfellowSighting
+Scene,SceneDialogue,Custom,,Player Default: Let's track her together.,I'll follow your lead.,,Confident,DLC03WorkshopRadiantOwned05LongfellowSighting
+Scene,SceneDialogue,Custom,,Player Default: I don't need your help.,Good luck. You'll need it.,,Disgust,DLC03WorkshopRadiantOwned05LongfellowSighting
+Scene,SceneDialogue,Custom,,Player Default: Maybe next time.,"You go up against Shipbreaker by yourself, an' there might not be a next time.",,Defiant,DLC03WorkshopRadiantOwned05LongfellowSighting
+Scene,SceneDialogue,Custom,,"OldLongfellow: That's right. Shipbreaker, I call her. A wily old beast. I've put all the Harbormen on the lookout for her.",I expect they've told you about how to use the radio to tell when she's nearby?,,Question,DLC03WorkshopRadiantOwned05LongfellowIntro
+Scene,SceneDialogue,Custom,,,I figure that fancy portable radio you've got strapped to your wrist should do the trick.,,Impressed,DLC03WorkshopRadiantOwned05LongfellowIntro
+Scene,SceneDialogue,Custom,,"OldLongfellow: That's right. Shipbreaker, I call her. A wily old beast. I've put all the Harbormen on the lookout for her.","Like they said, you can use a radio to tell when she's nearby.",,Conspiratorial,DLC03WorkshopRadiantOwned05LongfellowIntro
+Scene,SceneDialogue,Custom,,,Lead the way. She won't slip away this time.,,Confident,DLC03WorkshopRadiantOwned05LongfellowSightingCompanion
+Combat,Combat,Taunt,,,You're not getting away from me this time!,,Angry,
+Combat,Combat,Taunt,,,"Come on, this is our chance to finally put an end to her!",,Angry,
+Combat,Combat,Taunt,,,"Time to end this, Shipbreaker!",,Angry,
+Detection,Detection,AlertToCombat,,,Here she is. I knew it.,,Defiant,
+Detection,Detection,NormalToCombat,,,It's her! Shipbreaker!,,Worried,
+Detection,Detection,CombatToNormal,,,Hard to believe Shipbreaker is finally dead.,,Awed,
+Topic,PlayerDialogue,Custom,,,"They say rich folks ate their fancy dinners here, with people waitin' on 'em hand an' foot.",,Commenting on a ruined restaurant / Neutral,
+Topic,PlayerDialogue,Custom,,,Lots of books. Good for burnin' when you need to keep warm.,,Not impressed by books / Neutral,
+Topic,PlayerDialogue,Custom,,,"A lot of good drink ended up in the drink. Damn shame, that.",,Sad that someone pushed a wine truck into the sea,
+Topic,PlayerDialogue,Custom,,,Shootin' up a truck full of good wine... I hope someone hanged for this.,,"Sardonic humor, seeing as you love alcohol",
+Topic,PlayerDialogue,Custom,,,Well now... An' here I thought I knew all the island's secrets.,,Impressed and curious as the player finds a door to a hidden room,
+Topic,PlayerDialogue,Custom,,,Not sure what the point of buildin' this was. Got beaches all over the island.,,Perplexed by a fake beach built in a cave on an island,
+Topic,PlayerDialogue,Custom,,,"Guess someone else felt the same way about brains in machines as I do. That is to say, I ain't fond of the idea.",,Observing a robobrain with a head case that's been smashed in (crime scene),
+Topic,PlayerDialogue,Custom,,,"*Low whistle* Well now, how'd you like to eat your kibble in here?",,"Impressed by a fancy dining room. The ""low whistle"" is a whistle of being impressed.",
+Topic,PlayerDialogue,Custom,,,This place is a nest of shamblers. Seem to like that big screen. God knows why.,,Observing a location with Feral Ghouls,
+Topic,PlayerDialogue,Custom,,,Buried my first dog here. Good old Jax. Best friend a young boy ever had.,,A rare moment of genuine pathos as you remember a beloved pet with a mix of fondness and sadness,
+Topic,PlayerDialogue,Custom,,,Looks excitin'. Wish I could have seen it.,,"Looking at a movie poster for ""Last Stand at Fort McGee"", a pre-war western film.",
+Topic,PlayerDialogue,Custom,,,"Leather's good for makin' all kinds of stuff. Just not undergarments. Tried that once, bad idea.",,"Amused, making fun of yourself",
+Topic,PlayerDialogue,Custom,,,"This'll be Ken's residence. Lived here all his life, even after the Fog swallowed up the park.",,,
+Topic,PlayerDialogue,Custom,,,Sight like that'll make most men sick to the stomach.,,Observing a disgusting gory mess,
+Topic,PlayerDialogue,Custom,,,Up for a swim? Haha.,,"Sarcasm, observing a disgusting swimming pool filled with slime and viscera",
+Topic,PlayerDialogue,Custom,,,"Seen that big bottle in my dreams more times than I can count. Good dreams, those.",,Observing a huge decorative bottle of wine on the roof of a building,
+Topic,PlayerDialogue,Custom,,,"Ahh... this is where the magic is made. At least it was, before those brutes fouled it up.",,"Observing a vat where wine is made, and you like alcohol",
+Topic,PlayerDialogue,Custom,,,"*Sniff* Smell that? Lobster. Caught my share of 'em, but I was always more keen on huntin' than fishin'.",,In a room that smells like lobster,
+Topic,PlayerDialogue,Custom,,,"Well, there's a right mess. Don't think either side won this one.",,Observing bodies of humans and ghouls who were engaged in a fight. Everyone is dead.,
+Topic,PlayerDialogue,Custom,,,Only one way forward from here.,,Looking at a hole/tunnel entrance in the round that represents the only path forward. Maybe a little ominous. is it dangerous?,
+Topic,PlayerDialogue,Custom,,,Careful now. Super Mutants have settled in.,,"Wary, cautious, approaching a dangerous place",
+Topic,PlayerDialogue,Custom,,,Hairs on my neck are standin' up. Somethin' ain't right here.,,"Nervous, sensing a threat",
+Topic,PlayerDialogue,Custom,,,"Mind yourself 'round this big hole. Step on the wrong loose rock, and in you go.",,Warning the player as you both approach a big quarry,
+Topic,PlayerDialogue,Custom,,,Wonder what that wire connects to.,,Curious as you observe a button with a wire leading down into the quarry,
+Topic,PlayerDialogue,Custom,,,Looks like whoever was diggin' here must have found somethin'.,,Curious about a tunnel that leads to a cave at the bottom of a quarry,
+Topic,PlayerDialogue,Custom,,,The Harbor Grand. Finest accomodations a bunch of Super Mutants ever had.,,"Sarcasm. Approaching the Harbor Grand Hotel, a former luxury resort now taken over by Super Mutants.",
+Topic,PlayerDialogue,Custom,,,Those bastard brutes must have had their victims walkin' the plank.,,"Disgust, anger",
+Topic,PlayerDialogue,Custom,,,Now that's a disgustin' bit of muck.,,"Disgusted as you look at a swimming pool filled with slime, viscera, mud, etc.",
+Topic,PlayerDialogue,Custom,,,Wonder what these two were arguin' over. I'd put my caps on either money or a woman.,,"Observing two dead bodies, they obviously killed each other",
+Topic,PlayerDialogue,Custom,,,"Feelin' a little closed in, here. Don't like it one bit.",,"Walking through a tunnel, getting a little claustrophobic",
+Topic,PlayerDialogue,Custom,,,"To hear my grandpa tell it, loggers would come here to show off their strength by hurlin' tree trunks around. Doesn't sound dangerous at all.",,The second sentence is ironic humor,
+Topic,PlayerDialogue,Custom,,,Ain't much left in these stalls that's worth anything.,,Observing concession stands at an abandoned fair ground,
+Topic,PlayerDialogue,Custom,,,"Pretty clever, how this place was built.",,Observing a complex of salvaged cargo containers and shacks that make up a settlement,
+Topic,PlayerDialogue,Custom,,,Trapper territory is no place for a picnic lunch.,,"Wary, a warning, on the edge of enemy territory",
+Topic,PlayerDialogue,Custom,,,"You live by the water, then the Mirelurks find you sooner or later.",,,
+Topic,PlayerDialogue,Custom,,,Always thought this was an interestin' place to make a home. Least there's good steel walls.,,Observing a home made from a wrecked airplane,
+Topic,PlayerDialogue,Custom,,,These pups seem friendly enough.,,Friendly toward some dogs,
+Topic,PlayerDialogue,Custom,,,What the hell kind of contraption is that?,,Examining a strange weapon that launches bowling balls,
+Topic,PlayerDialogue,Custom,,,"Sure, we could try to steer a way through that flashin' maze of death. Or, we could head back to Far Harbor and have a drink.",,Half-joking as you peer into a tunnel filled with moving laser tripwires and automated machine gun turrets,
+Topic,PlayerDialogue,Custom,,,Won't pretend to have any idea what I'm lookin' at in there.,,Baffled by complex technology,
+Topic,PlayerDialogue,Custom,,,"I think it wants you to stick your noggin' in there. If I were you, I'd decline the invitation.",,Watching as a cyber helmet lowers down from the ceiling... more confusion and apprehension of technology.,
